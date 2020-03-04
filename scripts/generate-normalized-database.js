@@ -4,6 +4,7 @@ const NC = require('./fetch-notebookcheck-specs.js');
 const { findMatch } = require('../umd/utils.js');
 const fs = require('fs');
 const path = require('path');
+const _ = require('lodash')
 
 console.log('Normalizing videocard benchmark data...');
 VB.data = VB.normalizeData(require('../data/videocard-benchmark-gpus.json'));
@@ -38,25 +39,25 @@ function getBaseObject (name) {
 		name,
 		names: [name],
 
-		codeName: null,
-		architecture: null,
-		openGL: null,
-		directX: null,
+		// codeName: null,
+		// architecture: null,
+		// openGL: null,
+		// directX: null,
 
 		vendor: null,
 		released: null,
-		memory: null,
-		memoryType: null,
+		// memory: null,
+		// memoryType: null,
 
-		clock: null,
-		memoryClock: null,
-		shaderUnits: null,
-		renderUnits: null,
-		textureUnits: null,
+		// clock: null,
+		// memoryClock: null,
+		// shaderUnits: null,
+		// renderUnits: null,
+		// textureUnits: null,
 
 		benchmarks: {},
-		type: null,
-		tdp: null,
+		// type: null,
+		// tdp: null,
 	};
 
 }
@@ -67,15 +68,15 @@ function joinTPData(data, target) {
 
 	target.vendor = target.vendor || data.vendor;
 	target.released = target.released || data.released;
-	target.memory = target.memory || data.memory;
-	target.memoryType = target.memoryType || data.memoryType;
+	// target.memory = target.memory || data.memory;
+	// target.memoryType = target.memoryType || data.memoryType;
 
-	target.clock = target.clock || data.clock;
-	target.memoryClock = target.memoryClock || data.memoryClock;
+	// target.clock = target.clock || data.clock;
+	// target.memoryClock = target.memoryClock || data.memoryClock;
 
-	target.shaderUnits = target.shaderUnits || data.shaderUnits;
-	target.renderUnits = target.renderUnits || data.renderUnits;
-	target.textureUnits = target.textureUnits || data.textureUnits;
+	// target.shaderUnits = target.shaderUnits || data.shaderUnits;
+	// target.renderUnits = target.renderUnits || data.renderUnits;
+	// target.textureUnits = target.textureUnits || data.textureUnits;
 
 }
 
@@ -83,12 +84,12 @@ function joinVBData(data, target) {
 
 	if (!target.names.includes(data.name)) target.names.push(data.name);
 
-	target.memory = target.memory || data.memory;
-	target.clock = target.clock || data.clock;
-	target.memoryClock = target.memoryClock || data.memoryClock;
+	// target.memory = target.memory || data.memory;
+	// target.clock = target.clock || data.clock;
+	// target.memoryClock = target.memoryClock || data.memoryClock;
 
-	target.type = target.type || data.type;
-	target.tdp = target.tdp || data.tdp;
+	// target.type = target.type || data.type;
+	// target.tdp = target.tdp || data.tdp;
 
 	target.benchmarks.passmark = data.passmark;
 	target.benchmarks.passmark2d = data.passmark2d;
@@ -99,13 +100,13 @@ function joinNCData(data, target) {
 
 	if (!target.names.includes(data.name)) target.names.push(data.name);
 
-	target.codeName = target.codeName || data.codeName;
-	target.architecture = target.architecture || data.architecture;
-	target.clockSpeed = target.clockSpeed || data.clockSpeed;
-	target.memoryType = target.memoryType || data.memoryType;
-	target.openGL = target.openGL || data.openGL;
-	target.directX = target.directX || data.directX;
-	target.shaderUnits = target.shaderUnits || data.shaderUnits;
+	// target.codeName = target.codeName || data.codeName;
+	// target.architecture = target.architecture || data.architecture;
+	// target.clock = target.clock || data.clockSpeed;
+	// target.memoryType = target.memoryType || data.memoryType;
+	// target.openGL = target.openGL || data.openGL;
+	// target.directX = target.directX || data.directX;
+	// target.shaderUnits = target.shaderUnits || data.shaderUnits;
 	target.released = target.released || data.released;
 
 	// TODO: merge all merformance data here
@@ -136,10 +137,60 @@ function joinNCData(data, target) {
 
 }
 
+function generatePerformanceScales(database) {
+	const benchmarks = _.map(_.values(database), 'benchmarks')
+	const keys = _.uniq(
+		_.flatMap(
+			benchmarks, 
+			benchmark => _.filter(
+				_.keys(benchmark), 
+				key => benchmark[key]
+			)
+		)
+	)
+
+	const maxValues = {}
+
+	_.each(keys, key => {
+		maxValues[key] = _.max(
+			_.map(
+				database, 
+				gpu => _.get(gpu, ['benchmarks', key])
+			)
+		)
+	})
+
+	const conversionMap = {}
+
+	_.each(keys, key => {
+		conversionMap[key] = {}
+
+		_.each(keys, otherKey => {
+			conversionMap[key][otherKey] = []
+
+
+			_.each(database, gpu => {
+				const benchmark1 = _.get(gpu, ['benchmarks', key])
+				const benchmark2 = _.get(gpu, ['benchmarks', otherKey])
+	
+				if (benchmark1 && benchmark2) {
+					conversionMap[key][otherKey].push(benchmark1 / benchmark2)
+				}
+			})
+
+			conversionMap[key][otherKey] = _.mean(conversionMap[key][otherKey]) || null
+		})
+	})
+
+	return conversionMap
+}
+
 // generate a 'performance' field based on all the benchmark data.
 // If a passmark benchmark is not available then we interpolate values
 // from gpus with similar benchmarks from other vendors
 function generatePerformanceScore(database) {
+	const referenceBenchmark = 'passmark'
+	const performanceMap = generatePerformanceScales(database)
 
 	// find all benchmark information with
 	// passmark results
@@ -147,29 +198,6 @@ function generatePerformanceScore(database) {
 		.values(database)
 		.map(gpu => gpu.benchmarks)
 		.filter(bm => bm.passmark);
-
-	// find the best alternate benchmark data to try to use
-	const benchCount = {};
-	for(const name in database) {
-
-		const gpu = database[name];
-		const benchmarks = gpu.benchmarks;
-
-		for(const b in benchmarks) {
-
-			if (b === 'passmark' || b === 'passmark2d') continue;
-
-			if(!(b in benchCount)) benchCount[b] = 0;
-			if (benchmarks[b] && benchmarks['passmark']) benchCount[b] ++;
-
-		}
-
-	}
-
-	const benchPref = Object
-		.entries(benchCount)
-		.sort((a, b) => b[1] - a[1])
-		.map(el => el[0]);
 
 	for(const name in database) {
 
@@ -180,61 +208,17 @@ function generatePerformanceScore(database) {
 			score = gpu.benchmarks.passmark;
 
 		} else {
+			const scores = []
 
-			const benchType = benchPref.filter(b => !!gpu.benchmarks[b])[0];
-			if (benchType) {
-
-				// get an array to interpolate across
-				const interpolationArray = benchmarks
-					.filter(b => !!b[benchType])
-					.sort((a, b) => a[benchType] - b[benchType]);
-
-
-				// TODO: It might be best to gather many scores and weight
-				// the associated passmark scores when generating a new one
-				const thisRank = gpu.benchmarks[benchType];
-				for (let i = 0; i < interpolationArray.length - 1; i++) {
-
-					const curr = interpolationArray[i];
-					const next = interpolationArray[i + 1];
-
-					const currbt = curr[benchType];
-					const nextbt = next[benchType];
-
-					if (thisRank < currbt) continue;
-
-					const currp = curr.passmark;
-					const nextp = next.passmark;
-
-					const ratio = (thisRank - currbt) / (nextbt - currbt);
-
-					if (currp < nextp) {
-						score = currp + (nextp - currp) * ratio;
-					} else {
-						score = nextp + (currp - nextp) * (1 - ratio);
-					}
-
+			_.each(gpu.benchmarks, (value, key) => {
+				if (value) {
+					scores.push(value * performanceMap.passmark[key])
 				}
-
-				// if we can't generate a score then see if we're
-				// larger or smaller than all elements in the array
-				// and use a score from the extreme values
-				if (score === null) {
-
-					if (thisRank < interpolationArray[0][benchType]) {
-						score = interpolationArray[0].passmark;
-					} else {
-						score = interpolationArray[interpolationArray.length - 1].passmark;
-					}
-
-				}
-
-			}
-
+			})
+			score = _.mean(scores)
 		}
 
-		gpu.performance = score;
-
+		gpu.performance = Math.round(score);
 	}
 
 
@@ -297,8 +281,29 @@ console.log('Generating normalized performance score...');
 generatePerformanceScore(result);
 Object.values(result).forEach(gpu => delete gpu.benchmarks);
 
+const filteredResults = _.filter(_.values(result), gpu => {
+	if (!gpu.released) {
+		return null
+	}
+
+	const date = new Date(gpu.released)
+	const year = date.getFullYear()
+
+	return gpu.performance && year > 2010
+})
+
+_.each(filteredResults, gpu => {
+	delete gpu.name
+	if (!gpu.vendor) {
+		delete gpu.vendor
+	}
+
+	const date = new Date(gpu.released)
+
+	gpu.released = `${date.getFullYear()}-${date.getMonth()}-${date.getDay()}`
+})
 console.log('Writing file...');
-const jsonStr = JSON.stringify(result, null, 4);
+const jsonStr = JSON.stringify(filteredResults);
 
 let filePath;
 filePath = path.join(__dirname, '../data/database.json');
