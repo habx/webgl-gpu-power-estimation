@@ -1,4 +1,5 @@
 import { findMatch } from './utils.js';
+import { database } from './database'
 
 function extractValue(reg, str) {
     const matches = str.match(reg);
@@ -68,10 +69,9 @@ function getBasicInfo(glOrRenderer = null, vendor = null) {
 
 function rendererToGpu(database, renderer) {
 
-    const gpuNames = Object.keys(database);
-    const { matches, score } = findMatch(renderer, gpuNames);
+    const { matches, score } = findMatch(renderer, database);
 
-    return score > 0.5 ? database[matches[0]] : null;
+    return score > 0.5 ? matches[0] : null;
 
 }
 
@@ -97,4 +97,4 @@ function getDetailedInfo(database, glOrRenderer = null) {
 
 }
 
-export { getDetailedInfo, getBasicInfo };
+export { getDetailedInfo, getBasicInfo, database };

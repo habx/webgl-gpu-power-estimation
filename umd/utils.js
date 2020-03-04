@@ -1,8 +1,11 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
-    typeof define === 'function' && define.amd ? define(['exports'], factory) :
-    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}));
-}(this, function (exports) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('similarity'), require('leven'), require('string-similarity')) :
+    typeof define === 'function' && define.amd ? define(['exports', 'similarity', 'leven', 'string-similarity'], factory) :
+    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.similarity, null, global.stringSimilarity));
+}(this, function (exports, similarity, leven, stringSimilarity) { 'use strict';
+
+    similarity = similarity && similarity.hasOwnProperty('default') ? similarity['default'] : similarity;
+    stringSimilarity = stringSimilarity && stringSimilarity.hasOwnProperty('default') ? stringSimilarity['default'] : stringSimilarity;
 
     function strToCompareArray(str) {
       return str.split(/\W+/g).map(function (c) {
@@ -24,7 +27,7 @@
       return score;
     }
 
-    function findMatch(name, list) {
+    function findMatch_old(name, list) {
       var matches = null;
       var score = -Infinity;
       var versionMatches = /\w*\d\d\d+\w*/.exec(name);
@@ -40,12 +43,13 @@
         var _name = list[i];
         if (versionRegexp && !versionRegexp.test(_name)) continue;
         if (!versionRegexp && /\d\d\d+/.test(_name)) continue;
-        var similarity = compareStr(_name, gpuArr);
 
-        if (similarity > score) {
-          score = similarity;
+        var _similarity = compareStr(_name, gpuArr);
+
+        if (_similarity > score) {
+          score = _similarity;
           matches = [_name];
-        } else if (similarity === score) {
+        } else if (_similarity === score) {
           matches.push(_name);
         }
       }
@@ -56,7 +60,48 @@
       };
     }
 
+    function findMatch(name, database) {
+      var matches = null;
+      var score = -Infinity;
+      var versionMatches = /\w*\d\d\d+\w*/.exec(name);
+      var versionRegexp = null;
+
+      if (versionMatches) {
+        versionRegexp = new RegExp("(^|\\W)".concat(versionMatches[0], "(\\W|$)"), 'i');
+      }
+
+      var strippedName = name.replace(/ANGLE( +)?/gi, '').replace(/Direct3d({0-9}+)?( +)?/gi, '').replace(/^\(/gi, '').replace(/\)$/gi, '');
+
+      var _loop = function _loop(i, l) {
+        var gpu = database[i];
+        var names = gpu.names;
+        names.forEach(function (gpuName) {
+          if (versionRegexp && !versionRegexp.test(gpuName)) return;
+          if (!versionRegexp && /\d\d\d+/.test(gpuName)) return;
+          var newScore = stringSimilarity.compareTwoStrings(gpuName, strippedName);
+
+          if (newScore > score) {
+            console.log(gpuName, name, newScore);
+            score = newScore;
+            matches = [gpu];
+          } else if (newScore === score) {
+            matches.push(gpu);
+          }
+        });
+      };
+
+      for (var i = 0, l = database.length; i < l; i++) {
+        _loop(i, l);
+      }
+
+      return {
+        matches: matches,
+        score: score
+      };
+    }
+
     exports.findMatch = findMatch;
+    exports.findMatch_old = findMatch_old;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 

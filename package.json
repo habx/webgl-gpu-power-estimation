@@ -1,5 +1,5 @@
 {
-  "name": "webgl-gpu-power-estimation",
+  "name": "@habx/webgl-gpu-power-estimation",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -9,6 +9,7 @@
   },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
   "license": "MIT",
+  "main": "./umd/index.js",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
@@ -18,5 +19,10 @@
     "node-fetch": "^2.3.0",
     "rollup": "^1.0.1",
     "rollup-plugin-babel": "^4.3.2"
+  },
+  "dependencies": {
+    "leven": "^3.1.0",
+    "similarity": "^1.2.1",
+    "string-similarity": "^4.0.1"
   }
 }

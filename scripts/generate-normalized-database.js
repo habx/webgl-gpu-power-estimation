@@ -1,7 +1,7 @@
 const VB = require('./fetch-videocard-benchmark.js');
 const TP = require('./fetch-techpowerup-specs.js');
 const NC = require('./fetch-notebookcheck-specs.js');
-const { findMatch } = require('../umd/utils.js');
+const { findMatch_old } = require('../umd/utils.js');
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash')
@@ -19,7 +19,7 @@ const result = {};
 
 function getMatch(name, database) {
 
-	const { score, matches } = findMatch(name, Object.keys(database));
+	const { score, matches } = findMatch_old(name, Object.keys(database));
 	if (score > 0.75) {
 
 		const matchName = matches[0];
@@ -298,10 +298,24 @@ _.each(filteredResults, gpu => {
 		delete gpu.vendor
 	}
 
-	const date = new Date(gpu.released)
+	let names = []
 
-	gpu.released = `${date.getFullYear()}-${date.getMonth()}-${date.getDay()}`
+	_.each(gpu.names, name => {
+		const newNames = name.split('/')
+
+		names.push(...newNames)
+	})
+
+	names = _.compact(names)
+
+	gpu.names = _.map(names, name => name.replace(/^ +/gi, '').replace(/ +$/gi, ''))
+
+	// const date = new Date(gpu.released)
+	// gpu.released = `${date.getFullYear()}-${date.getMonth()}-${date.getDay()}`
+
+	delete gpu.released
 })
+
 console.log('Writing file...');
 const jsonStr = JSON.stringify(filteredResults);
 
