@@ -3028,6 +3028,335 @@
       "performance": 35
     }];
 
+    var devices = [{
+      name: 'iPhone 2G (2007)',
+      width: 480,
+      height: 320,
+      pixelRatio: 1.0,
+      gpu: ''
+    }, {
+      name: 'iPhone 3G (2008)',
+      width: 480,
+      height: 320,
+      pixelRatio: 1.0,
+      gpu: 'S5L8900'
+    }, {
+      name: 'iPhone 3GS (2009)',
+      width: 480,
+      height: 320,
+      pixelRatio: 1.0,
+      gpu: 'ALP0298C05'
+    }, {
+      name: 'iPhone 4 (2010)',
+      width: 480,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'PowerVR SGX 543'
+    }, {
+      name: 'iPhone 4S (2011)',
+      width: 480,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'PowerVR SGX 535'
+    }, {
+      name: 'iPhone 5 (2012)',
+      width: 568,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'PowerVR SGX543MP3'
+    }, {
+      name: 'iPhone 5C (2013)',
+      width: 568,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'PowerVR SGX543MP3'
+    }, {
+      name: 'iPhone 5S (2013)',
+      width: 568,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'Apple A7 GPU'
+    }, {
+      name: 'iPhone 6 (2014)',
+      width: 667,
+      height: 375,
+      pixelRatio: 2.0,
+      gpu: 'Apple A8 GPU'
+    }, {
+      name: 'iPhone 6+ (2014)',
+      width: 667,
+      height: 375,
+      pixelRatio: 2.0,
+      gpu: 'Apple A8 GPU'
+    }, {
+      name: 'iPhone 6S (2015)',
+      width: 667,
+      height: 375,
+      pixelRatio: 2.0,
+      gpu: 'Apple A9 GPU'
+    }, {
+      name: 'iPhone 6S+ (2015)',
+      width: 736,
+      height: 414,
+      pixelRatio: 3.0,
+      gpu: 'Apple A9 GPU'
+    }, {
+      name: 'iPhone SE (2016)',
+      width: 568,
+      height: 320,
+      pixelRatio: 2.0,
+      gpu: 'Apple A9 GPU'
+    }, {
+      name: 'iPhone 7 (2016)',
+      width: 667,
+      height: 375,
+      pixelRatio: 2.0,
+      gpu: 'Apple A10 GPU'
+    }, {
+      name: 'iPhone 7+ (2016)',
+      width: 736,
+      height: 414,
+      pixelRatio: 3.0,
+      gpu: 'Apple A10 GPU'
+    }, {
+      name: 'iPhone 8 (2017)',
+      width: 667,
+      height: 375,
+      pixelRatio: 2.0,
+      gpu: 'Apple A11 GPU'
+    }, {
+      name: 'iPhone 8+ (2017)',
+      width: 736,
+      height: 414,
+      pixelRatio: 3.0,
+      gpu: 'Apple A11 GPU'
+    }, {
+      name: 'iPhone X (2017)',
+      width: 812,
+      height: 375,
+      pixelRatio: 3,
+      gpu: 'Apple A11 GPU'
+    }, {
+      name: 'iPhone XS (2018)',
+      width: 812,
+      height: 375,
+      pixelRatio: 3,
+      gpu: 'Apple A12 GPU'
+    }, {
+      name: 'iPhone XS Max (2018)',
+      width: 896,
+      height: 414,
+      pixelRatio: 3,
+      gpu: 'Apple A12 GPU'
+    }, {
+      name: 'iPhone XR (2018)',
+      width: 896,
+      height: 414,
+      pixelRatio: 2,
+      gpu: 'Apple A12 GPU'
+    }, {
+      name: 'iPhone 11 (2019)',
+      width: 812,
+      height: 375,
+      pixelRatio: 3,
+      gpu: 'Apple A13 GPU'
+    }, {
+      name: 'iPhone 11 Pro (2019)',
+      width: 812,
+      height: 375,
+      pixelRatio: 3,
+      gpu: 'Apple A13 GPU'
+    }, {
+      name: 'iPhone 11 Pro Max (2019)',
+      width: 896,
+      height: 414,
+      pixelRatio: 3,
+      gpu: 'Apple A13 GPU'
+    }, {
+      name: 'iPad (2010)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 1,
+      gpu: 'PowerVR SGX535'
+    }, {
+      name: 'iPad 2 (2011)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 1,
+      gpu: 'PowerVR SGX543MP2'
+    }, {
+      name: 'iPad 3 (2012)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR SGX543MP4'
+    }, {
+      name: 'iPad 4 (2012)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR SGX554MP4'
+    }, {
+      name: 'iPad Air (2013)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR G6430'
+    }, {
+      name: 'iPad Air 2 (2014)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR GXA6850'
+    }, {
+      name: 'iPad Air 3 (2019)',
+      width: 1112,
+      height: 834,
+      pixelRatio: 2,
+      gpu: 'Apple A12 GPU'
+    }, {
+      name: 'iPad 5 (2017)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'Apple A9 GPU'
+    }, {
+      name: 'iPad 6 (2018)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'Apple A10 GPU'
+    }, {
+      name: 'iPad 7 (2019)',
+      width: 1080,
+      height: 810,
+      pixelRatio: 2,
+      gpu: 'Apple A10 GPU'
+    }, {
+      name: 'iPad Mini (2012)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR SGX543MP2'
+    }, {
+      name: 'iPad Mini 2 (2013)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR G6430'
+    }, {
+      name: 'iPad Mini 3 (2014)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'PowerVR G6430'
+    }, {
+      name: 'iPad Mini 4 (2015)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'Apple A8 GPU'
+    }, {
+      name: 'iPad Mini 5 (2019)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'Apple A12 GPU'
+    }, {
+      name: 'iPad Pro 12.9" (2015)',
+      width: 1366,
+      height: 1024,
+      pixelRatio: 2,
+      gpu: 'Apple A9X GPU'
+    }, {
+      name: 'iPad Pro 9.7" (2016)',
+      width: 1024,
+      height: 768,
+      pixelRatio: 2,
+      gpu: 'Apple A9X GPU'
+    }, {
+      name: 'iPad Pro 10.5" (2017)',
+      width: 1112,
+      height: 834,
+      pixelRatio: 2,
+      gpu: 'Apple A10X GPU'
+    }, {
+      name: 'iPad Pro 12.9" (2017)',
+      width: 1366,
+      height: 1024,
+      pixelRatio: 2,
+      gpu: 'Apple A10X GPU'
+    }, {
+      name: 'iPad Pro 11" (2018)',
+      width: 1194,
+      height: 834,
+      pixelRatio: 2,
+      gpu: 'Apple A12X GPU'
+    }, {
+      name: 'iPad Pro 12.9" (2018)',
+      width: 1366,
+      height: 1024,
+      pixelRatio: 2,
+      gpu: 'Apple A12X GPU'
+    }];
+
+    function getGPU() {
+      var canvas = document.createElement('canvas');
+
+      if (!canvas) {
+        return null;
+      }
+
+      var gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+
+      if (!gl) {
+        return null;
+      }
+
+      var info = gl.getExtension('WEBGL_debug_renderer_info');
+
+      if (info) {
+        var renderer = gl.getParameter(info.UNMASKED_RENDERER_WEBGL);
+
+        if (renderer !== 'Apple GPU') {
+          return renderer;
+        }
+      }
+
+      return null;
+    }
+
+    function detectAppleDevice(gpu) {
+      var width = Math.max(window.screen.width, window.screen.height);
+      var height = Math.min(window.screen.width, window.screen.height);
+      var pixelRatio = window.devicePixelRatio;
+      var results = [];
+
+      if (!gpu) {
+        gpu = getGPU();
+      }
+
+      devices.forEach(function (device) {
+        if (device.width !== width || device.height !== height || device.pixelRatio !== pixelRatio) {
+          return;
+        }
+
+        results.unshift(device);
+      });
+
+      if (results.length && gpu) {
+        var filteredResults = results.filter(function (device) {
+          return device.gpu === gpu;
+        });
+
+        if (filteredResults.length) {
+          return filteredResults;
+        }
+      }
+
+      return results;
+    }
+
     function extractValue(reg, str) {
       var matches = str.match(reg);
       return matches && matches[0];
@@ -3081,15 +3410,16 @@
       return parseGpuInfo(vendor, renderer);
     }
 
-    function rendererToGpu(database$$1, renderer) {
-      var _findMatch = findMatch(renderer, database$$1),
+    function rendererToGpu(data, renderer) {
+      var _findMatch = findMatch(renderer, data),
           matches = _findMatch.matches,
           score = _findMatch.score;
 
       return score > 0.4 ? matches[0] : null;
     }
 
-    function getDetailedInfo(database$$1) {
+    function getDetailedInfo() {
+      var data = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : database;
       var glOrRenderer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
       glOrRenderer = glOrRenderer || document.createElement('canvas').getContext('webgl');
       var renderer = null;
@@ -3102,7 +3432,30 @@
         renderer = vr.renderer;
       }
 
-      return rendererToGpu(database$$1, renderer);
+      if (renderer === 'Apple GPU') {
+        var appleDevices = detectAppleDevice();
+
+        if (appleDevices) {
+          var lastDevice = appleDevices[appleDevices];
+          var gpus = appleDevices.map(function (appleDevice) {
+            return rendererToGpu(data, appleDevice.gpu);
+          });
+          var result = {
+            names: [],
+            vendor: 'Apple',
+            performance: 0
+          };
+          gpus.forEach(function (gpu, index) {
+            result.names = result.names.concat(gpu.names);
+            result.performance = (index * result.performance + gpu.performance) / (index + 1);
+          });
+          return result;
+        } else {
+          return null;
+        }
+      }
+
+      return rendererToGpu(data, renderer);
     }
 
     exports.getDetailedInfo = getDetailedInfo;
