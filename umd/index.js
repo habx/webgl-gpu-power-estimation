@@ -1,10 +1,9 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('similarity'), require('leven'), require('string-similarity')) :
-    typeof define === 'function' && define.amd ? define(['exports', 'similarity', 'leven', 'string-similarity'], factory) :
-    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.similarity, null, global.stringSimilarity));
-}(this, function (exports, similarity, leven, stringSimilarity) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('string-similarity')) :
+    typeof define === 'function' && define.amd ? define(['exports', 'string-similarity'], factory) :
+    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.stringSimilarity));
+}(this, function (exports, stringSimilarity) { 'use strict';
 
-    similarity = similarity && similarity.hasOwnProperty('default') ? similarity['default'] : similarity;
     stringSimilarity = stringSimilarity && stringSimilarity.hasOwnProperty('default') ? stringSimilarity['default'] : stringSimilarity;
 
     function findMatch(name, database) {
@@ -28,7 +27,6 @@
           var newScore = stringSimilarity.compareTwoStrings(gpuName, strippedName);
 
           if (newScore > score) {
-            console.log(gpuName, name, newScore);
             score = newScore;
             matches = [gpu];
           } else if (newScore === score) {

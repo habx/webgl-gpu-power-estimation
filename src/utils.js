@@ -84,6 +84,7 @@ function findMatch(name, database) {
             if (!versionRegexp && /\d\d\d+/.test(gpuName)) return;
 
             const newScore = stringSimilarity.compareTwoStrings(gpuName, strippedName);
+
             if (newScore > score) {    
                 score = newScore;
                 matches = [gpu];

@@ -71,7 +71,7 @@ function rendererToGpu(database, renderer) {
 
     const { matches, score } = findMatch(renderer, database);
 
-    return score > 0.5 ? matches[0] : null;
+    return score > 0.4 ? matches[0] : null;
 
 }
 

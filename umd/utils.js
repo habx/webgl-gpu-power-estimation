@@ -1,10 +1,9 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('similarity'), require('leven'), require('string-similarity')) :
-    typeof define === 'function' && define.amd ? define(['exports', 'similarity', 'leven', 'string-similarity'], factory) :
-    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.similarity, null, global.stringSimilarity));
-}(this, function (exports, similarity, leven, stringSimilarity) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('string-similarity')) :
+    typeof define === 'function' && define.amd ? define(['exports', 'string-similarity'], factory) :
+    (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.stringSimilarity));
+}(this, function (exports, stringSimilarity) { 'use strict';
 
-    similarity = similarity && similarity.hasOwnProperty('default') ? similarity['default'] : similarity;
     stringSimilarity = stringSimilarity && stringSimilarity.hasOwnProperty('default') ? stringSimilarity['default'] : stringSimilarity;
 
     function strToCompareArray(str) {
@@ -43,13 +42,12 @@
         var _name = list[i];
         if (versionRegexp && !versionRegexp.test(_name)) continue;
         if (!versionRegexp && /\d\d\d+/.test(_name)) continue;
+        var similarity = compareStr(_name, gpuArr);
 
-        var _similarity = compareStr(_name, gpuArr);
-
-        if (_similarity > score) {
-          score = _similarity;
+        if (similarity > score) {
+          score = similarity;
           matches = [_name];
-        } else if (_similarity === score) {
+        } else if (similarity === score) {
           matches.push(_name);
         }
       }
@@ -81,7 +79,6 @@
           var newScore = stringSimilarity.compareTwoStrings(gpuName, strippedName);
 
           if (newScore > score) {
-            console.log(gpuName, name, newScore);
             score = newScore;
             matches = [gpu];
           } else if (newScore === score) {
