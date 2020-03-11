@@ -1,6 +1,6 @@
 {
   "name": "@habx/webgl-gpu-power-estimation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "rollup -c",
     "regenerate-database": "node scripts/generate-normalized-database.js",
