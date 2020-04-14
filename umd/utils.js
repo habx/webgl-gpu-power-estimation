@@ -2,9 +2,9 @@
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('string-similarity')) :
     typeof define === 'function' && define.amd ? define(['exports', 'string-similarity'], factory) :
     (global = global || self, factory(global.GpuPowerEstimate = global.GpuPowerEstimate || {}, global.stringSimilarity));
-}(this, function (exports, stringSimilarity) { 'use strict';
+}(this, (function (exports, stringSimilarity) { 'use strict';
 
-    stringSimilarity = stringSimilarity && stringSimilarity.hasOwnProperty('default') ? stringSimilarity['default'] : stringSimilarity;
+    stringSimilarity = stringSimilarity && Object.prototype.hasOwnProperty.call(stringSimilarity, 'default') ? stringSimilarity['default'] : stringSimilarity;
 
     function strToCompareArray(str) {
       return str.split(/\W+/g).map(function (c) {
@@ -88,7 +88,7 @@
       };
 
       for (var i = 0, l = database.length; i < l; i++) {
-        _loop(i, l);
+        _loop(i);
       }
 
       return {
@@ -102,5 +102,5 @@
 
     Object.defineProperty(exports, '__esModule', { value: true });
 
-}));
+})));
 //# sourceMappingURL=utils.js.map
