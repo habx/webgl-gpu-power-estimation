@@ -96,15 +96,19 @@ function getDetailedInfo(data = database, glOrRenderer = null) {
 
     if (renderer === 'Apple GPU') {
         const appleDevices = detectAppleDevice()
-        if (appleDevices) {
-            const lastDevice = appleDevices[appleDevices]
 
+        if (appleDevices) {
             const gpus = appleDevices.map(function(appleDevice) {
                 return rendererToGpu(data, appleDevice.gpu)
             })
+
             const result = { names: [], vendor: 'Apple', performance: 0 }
             gpus.forEach(function(gpu, index) {
-                result.names = result.names.concat(gpu.names)
+                if (!gpu) {
+                    return
+                }
+
+                result.names.push(gpu.name)
                 result.performance = ((index * result.performance) + gpu.performance) / (index + 1)
             })
             return result
