@@ -21,6 +21,28 @@ const database = {
         "tdp": null,
         "performance": 44
     },
+    "128 DDR Radeon 9800 Pro": {
+        "name": "128 DDR Radeon 9800 Pro",
+        "names": [
+            "128 DDR Radeon 9800 Pro"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 62
+    },
     "128MB DDR Radeon 9800 Pro": {
         "name": "128MB DDR Radeon 9800 Pro",
         "names": [
@@ -65,10 +87,10 @@ const database = {
         "tdp": null,
         "performance": 49
     },
-    "15DD": {
-        "name": "15DD",
+    "15FF": {
+        "name": "15FF",
         "names": [
-            "15DD"
+            "15FF"
         ],
         "codeName": null,
         "architecture": null,
@@ -85,7 +107,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1633
+        "performance": 8
+    },
+    "256MB DDR Radeon 9800 XT": {
+        "name": "256MB DDR Radeon 9800 XT",
+        "names": [
+            "256MB DDR Radeon 9800 XT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 38
     },
     "256MB RADEON X600": {
         "name": "256MB RADEON X600",
@@ -109,6 +153,73 @@ const database = {
         "tdp": null,
         "performance": 67
     },
+    "3DP Edition": {
+        "name": "3DP Edition",
+        "names": [
+            "3DP Edition"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 827
+    },
+    "64MB DDR GeForce3 Ti 200": {
+        "name": "64MB DDR GeForce3 Ti 200",
+        "names": [
+            "64MB DDR GeForce3 Ti 200"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
+    },
+    "64MB GeForce2 MX with TV Out": {
+        "name": "64MB GeForce2 MX with TV Out",
+        "names": [
+            "64MB GeForce2 MX with TV Out",
+            "GeForce2 MX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jun 28, 2000",
+        "memory": 32,
+        "memoryType": "SDR",
+        "clock": 175,
+        "memoryClock": 166,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
     "7900 MOD - Radeon HD 6520G": {
         "name": "7900 MOD - Radeon HD 6520G",
         "names": [
@@ -130,6 +241,72 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 610
+    },
+    "7900 MOD - Radeon HD 6550D": {
+        "name": "7900 MOD - Radeon HD 6550D",
+        "names": [
+            "7900 MOD - Radeon HD 6550D"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 893
+    },
+    "9xx Soldiers sans frontiers Sigma 2": {
+        "name": "9xx Soldiers sans frontiers Sigma 2",
+        "names": [
+            "9xx Soldiers sans frontiers Sigma 2"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 22
+    },
+    "A10-8700P": {
+        "name": "A10-8700P",
+        "names": [
+            "A10-8700P"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 514
     },
     "A6 Micro-6500T Quad-Core APU with RadeonR4": {
         "name": "A6 Micro-6500T Quad-Core APU with RadeonR4",
@@ -173,7 +350,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "ALL-IN-WONDER 9000": {
         "name": "ALL-IN-WONDER 9000",
@@ -196,7 +373,30 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 5
+    },
+    "ALL-IN-WONDER 9800": {
+        "name": "ALL-IN-WONDER 9800",
+        "names": [
+            "ALL-IN-WONDER 9800",
+            "All-In-Wonder 9800 PRO"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Jun 16, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 378,
+        "memoryClock": 338,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 4,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 23
     },
     "ALL-IN-WONDER RADEON 8500DV": {
         "name": "ALL-IN-WONDER RADEON 8500DV",
@@ -219,7 +419,29 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
+    },
+    "All-in-Wonder X1800XL": {
+        "name": "All-in-Wonder X1800XL",
+        "names": [
+            "All-in-Wonder X1800XL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 30
     },
     "All-in-Wonder X1900": {
         "name": "All-in-Wonder X1900",
@@ -267,6 +489,72 @@ const database = {
         "tdp": null,
         "performance": 84
     },
+    "AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI": {
+        "name": "AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI",
+        "names": [
+            "AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "ASUS A7000": {
+        "name": "ASUS A7000",
+        "names": [
+            "ASUS A7000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 9
+    },
+    "ASUS AGP-V3800PRO v31.40H": {
+        "name": "ASUS AGP-V3800PRO v31.40H",
+        "names": [
+            "ASUS AGP-V3800PRO v31.40H"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
     "ASUS EAH4870x2": {
         "name": "ASUS EAH4870x2",
         "names": [
@@ -289,6 +577,116 @@ const database = {
         "tdp": null,
         "performance": 496
     },
+    "Asus GTX 650 FML II EC-EGPU": {
+        "name": "Asus GTX 650 FML II EC-EGPU",
+        "names": [
+            "Asus GTX 650 FML II EC-EGPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 721
+    },
+    "ASUS V9520-X V62.11": {
+        "name": "ASUS V9520-X V62.11",
+        "names": [
+            "ASUS V9520-X V62.11"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
+    },
+    "B8DKMDAP": {
+        "name": "B8DKMDAP",
+        "names": [
+            "B8DKMDAP"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "Barco MXRT 1450": {
+        "name": "Barco MXRT 1450",
+        "names": [
+            "Barco MXRT 1450"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 206
+    },
+    "Barco MXRT 2600": {
+        "name": "Barco MXRT 2600",
+        "names": [
+            "Barco MXRT 2600"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 900
+    },
     "Barco MXRT 5400": {
         "name": "Barco MXRT 5400",
         "names": [
@@ -309,7 +707,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1161
+        "performance": 1
     },
     "Barco MXRT 5450": {
         "name": "Barco MXRT 5450",
@@ -331,7 +729,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 992
+        "performance": 1
+    },
+    "Barco MXRT 5500": {
+        "name": "Barco MXRT 5500",
+        "names": [
+            "Barco MXRT 5500"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Barco MXRT 7100": {
+        "name": "Barco MXRT 7100",
+        "names": [
+            "Barco MXRT 7100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 180
+    },
+    "Barco MXRT 7400": {
+        "name": "Barco MXRT 7400",
+        "names": [
+            "Barco MXRT 7400"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 901
     },
     "Barco MXRT 7500": {
         "name": "Barco MXRT 7500",
@@ -353,12 +817,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4319
+        "performance": 4
     },
-    "Chell 1.7b for Intel 945G": {
-        "name": "Chell 1.7b for Intel 945G",
+    "Barco MXRT 7600": {
+        "name": "Barco MXRT 7600",
         "names": [
-            "Chell 1.7b for Intel 945G"
+            "Barco MXRT 7600"
         ],
         "codeName": null,
         "architecture": null,
@@ -373,59 +837,14 @@ const database = {
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 9
-    },
-    "Chell 1.7b for Intel G33/G31": {
-        "name": "Chell 1.7b for Intel G33/G31",
-        "names": [
-            "Chell 1.7b for Intel G33/G31"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 16
-    },
-    "Chell 1.7b for Intel GMA 3150": {
-        "name": "Chell 1.7b for Intel GMA 3150",
-        "names": [
-            "Chell 1.7b for Intel GMA 3150",
-            "GMA 3150"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "Intel",
-        "released": "May 9, 2007",
-        "memory": null,
-        "memoryType": null,
-        "clock": 400,
-        "memoryClock": null,
-        "shaderUnits": 16,
-        "renderUnits": 1,
-        "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
         "performance": 4
     },
-    "Chell 1.7b for Mobile Intel 945": {
-        "name": "Chell 1.7b for Mobile Intel 945",
+    "BASICDISPLAY": {
+        "name": "BASICDISPLAY",
         "names": [
-            "Chell 1.7b for Mobile Intel 945"
+            "BASICDISPLAY"
         ],
         "codeName": null,
         "architecture": null,
@@ -442,12 +861,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 6
+        "performance": 70
     },
-    "Chell 1.8a for Mobile Intel 965": {
-        "name": "Chell 1.8a for Mobile Intel 965",
+    "Citrix Indirect Display Adapter": {
+        "name": "Citrix Indirect Display Adapter",
         "names": [
-            "Chell 1.8a for Mobile Intel 965"
+            "Citrix Indirect Display Adapter"
         ],
         "codeName": null,
         "architecture": null,
@@ -464,56 +883,35 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 22
+        "performance": 4
     },
-    "Chell 1.8b for Intel 945G": {
-        "name": "Chell 1.8b for Intel 945G",
+    "CONNECT 3D RADEON X300": {
+        "name": "CONNECT 3D RADEON X300",
         "names": [
-            "Chell 1.8b for Intel 945G"
+            "CONNECT 3D RADEON X300",
+            "Radeon X300"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
+        "vendor": "ATI",
+        "released": "Sep 1, 2004",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 375,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1
+        "performance": 36
     },
-    "Chell 1.8b for Intel G33/G31": {
-        "name": "Chell 1.8b for Intel G33/G31",
+    "Dell 8100": {
+        "name": "Dell 8100",
         "names": [
-            "Chell 1.8b for Intel G33/G31"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 7
-    },
-    "Chell 1.8b for Mobile Intel 945": {
-        "name": "Chell 1.8b for Mobile Intel 945",
-        "names": [
-            "Chell 1.8b for Mobile Intel 945"
+            "Dell 8100"
         ],
         "codeName": null,
         "architecture": null,
@@ -532,10 +930,10 @@ const database = {
         "tdp": null,
         "performance": 2
     },
-    "Chell 1.8b for Mobile Intel 965": {
-        "name": "Chell 1.8b for Mobile Intel 965",
+    "Dell 8200": {
+        "name": "Dell 8200",
         "names": [
-            "Chell 1.8b for Mobile Intel 965"
+            "Dell 8200"
         ],
         "codeName": null,
         "architecture": null,
@@ -552,12 +950,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 14
+        "performance": 4
     },
-    "Chipset Intel G41 Express": {
-        "name": "Chipset Intel G41 Express",
+    "Diamond X1300-PCIE 256MB": {
+        "name": "Diamond X1300-PCIE 256MB",
         "names": [
-            "Chipset Intel G41 Express"
+            "Diamond X1300-PCIE 256MB"
         ],
         "codeName": null,
         "architecture": null,
@@ -574,12 +972,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 57
+        "performance": 70
     },
-    "DameWare Development Mirror Driver 64-bit": {
-        "name": "DameWare Development Mirror Driver 64-bit",
+    "EAH5450": {
+        "name": "EAH5450",
         "names": [
-            "DameWare Development Mirror Driver 64-bit"
+            "EAH5450"
         ],
         "codeName": null,
         "architecture": null,
@@ -596,51 +994,30 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1653
+        "performance": 134
     },
-    "Device": {
-        "name": "Device",
+    "EIZO Quadro MED-XN51LP": {
+        "name": "EIZO Quadro MED-XN51LP",
         "names": [
-            "Device"
+            "EIZO Quadro MED-XN51LP",
+            "Quadro"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
+        "vendor": "NVIDIA",
+        "released": "1999",
+        "memory": 32,
+        "memoryType": "SDR",
+        "clock": 135,
+        "memoryClock": 166,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3545
-    },
-    "EAH6450": {
-        "name": "EAH6450",
-        "names": [
-            "EAH6450"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 264
+        "performance": 4
     },
     "Embedded Radeon E9173": {
         "name": "Embedded Radeon E9173",
@@ -662,7 +1039,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1996
+        "performance": 1
+    },
+    "Extreme AX850 PRO": {
+        "name": "Extreme AX850 PRO",
+        "names": [
+            "Extreme AX850 PRO"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 120
+    },
+    "Familia Intel Q33 Express Chipset": {
+        "name": "Familia Intel Q33 Express Chipset",
+        "names": [
+            "Familia Intel Q33 Express Chipset"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
     },
     "Famille de jeu de puces Express Intel 946GZ": {
         "name": "Famille de jeu de puces Express Intel 946GZ",
@@ -706,7 +1127,7 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 30
+        "performance": 31
     },
     "FireGL V3100": {
         "name": "FireGL V3100",
@@ -730,7 +1151,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 52
+        "performance": 53
     },
     "FireGL V3200": {
         "name": "FireGL V3200",
@@ -754,7 +1175,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 84
+        "performance": 85
     },
     "FireGL V3300": {
         "name": "FireGL V3300",
@@ -776,7 +1197,7 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 70
+        "performance": 71
     },
     "FireGL V3350": {
         "name": "FireGL V3350",
@@ -798,7 +1219,7 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 66
+        "performance": 69
     },
     "FireGL V3400": {
         "name": "FireGL V3400",
@@ -842,7 +1263,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": null,
-        "performance": 179
+        "performance": 180
     },
     "FireGL V5100": {
         "name": "FireGL V5100",
@@ -864,7 +1285,7 @@ const database = {
         "textureUnits": 6,
         "type": "Workstation",
         "tdp": null,
-        "performance": 92
+        "performance": 93
     },
     "FireGL V5200": {
         "name": "FireGL V5200",
@@ -888,7 +1309,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "425",
-        "performance": 114
+        "performance": 115
     },
     "FireGL V5600": {
         "name": "FireGL V5600",
@@ -912,6 +1333,28 @@ const database = {
         "tdp": null,
         "performance": 341
     },
+    "FireGL V7100": {
+        "name": "FireGL V7100",
+        "names": [
+            "FireGL V7100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Dec 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 507,
+        "memoryClock": 520,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 6,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 72
+    },
     "FireGL V7200": {
         "name": "FireGL V7200",
         "names": [
@@ -932,7 +1375,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": null,
-        "performance": 113
+        "performance": 116
     },
     "FireGL V7300": {
         "name": "FireGL V7300",
@@ -976,7 +1419,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": null,
-        "performance": 110
+        "performance": 111
     },
     "FireGL V7600": {
         "name": "FireGL V7600",
@@ -998,7 +1441,7 @@ const database = {
         "textureUnits": 12,
         "type": "Workstation",
         "tdp": null,
-        "performance": 615
+        "performance": 616
     },
     "FireGL V7700": {
         "name": "FireGL V7700",
@@ -1021,6 +1464,28 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "performance": 660
+    },
+    "FireGL V8600": {
+        "name": "FireGL V8600",
+        "names": [
+            "FireGL V8600"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "May 14, 2007",
+        "memory": 1024,
+        "memoryType": "GDDR4",
+        "clock": 688,
+        "memoryClock": 868,
+        "shaderUnits": 320,
+        "renderUnits": 16,
+        "textureUnits": 16,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 839
     },
     "FireGL V8650": {
         "name": "FireGL V8650",
@@ -1066,6 +1531,28 @@ const database = {
         "tdp": null,
         "performance": 59
     },
+    "FireMV 2200 PCI": {
+        "name": "FireMV 2200 PCI",
+        "names": [
+            "FireMV 2200 PCI"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "2006",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 240,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 1,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 1
+    },
     "FireMV 2200 PCIe": {
         "name": "FireMV 2200 PCIe",
         "names": [
@@ -1109,7 +1596,7 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 45
+        "performance": 46
     },
     "FireMV 2260": {
         "name": "FireMV 2260",
@@ -1154,7 +1641,29 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 13
+        "performance": 11
+    },
+    "FireMV 2450": {
+        "name": "FireMV 2450",
+        "names": [
+            "FireMV 2450"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 74
     },
     "FirePro 2260": {
         "name": "FirePro 2260",
@@ -1198,7 +1707,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 17,
-        "performance": 226
+        "performance": 178
     },
     "FirePro 2450": {
         "name": "FirePro 2450",
@@ -1242,7 +1751,7 @@ const database = {
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 17,
-        "performance": 215
+        "performance": 216
     },
     "FirePro 3D V3700": {
         "name": "FirePro 3D V3700",
@@ -1258,13 +1767,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 800,
-        "memoryClock": 950,
+        "memoryClock": 800,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 32,
-        "performance": 178
+        "performance": 179
     },
     "FirePro 3D V3750": {
         "name": "FirePro 3D V3750",
@@ -1280,13 +1789,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 550,
-        "memoryClock": 750,
+        "memoryClock": 550,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 48,
-        "performance": 343
+        "performance": 341
     },
     "FirePro 3D V3800": {
         "name": "FirePro 3D V3800",
@@ -1302,13 +1811,13 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 650,
-        "memoryClock": 900,
+        "memoryClock": 650,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 43,
-        "performance": 475
+        "performance": 472
     },
     "FirePro 3D V4800": {
         "name": "FirePro 3D V4800",
@@ -1324,13 +1833,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 775,
-        "memoryClock": 9002,
+        "memoryClock": 775,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 69,
-        "performance": 1164
+        "performance": 854
     },
     "FirePro 3D V5700": {
         "name": "FirePro 3D V5700",
@@ -1346,13 +1855,13 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 700,
-        "memoryClock": 900,
+        "memoryClock": 700,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 58,
-        "performance": 546
+        "performance": 547
     },
     "FirePro 3D V5800": {
         "name": "FirePro 3D V5800",
@@ -1368,13 +1877,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 700,
-        "memoryClock": 10002,
+        "memoryClock": 700,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 74,
-        "performance": 1467
+        "performance": 1
     },
     "FirePro 3D V7750": {
         "name": "FirePro 3D V7750",
@@ -1390,13 +1899,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 800,
-        "memoryClock": 900,
+        "memoryClock": 800,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 76,
-        "performance": 540
+        "performance": 545
     },
     "FirePro 3D V7800": {
         "name": "FirePro 3D V7800",
@@ -1412,13 +1921,13 @@ const database = {
         "memory": 2048,
         "memoryType": null,
         "clock": 700,
-        "memoryClock": 10002,
+        "memoryClock": 700,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 138,
-        "performance": 1809
+        "performance": 1
     },
     "FirePro 3D V8700": {
         "name": "FirePro 3D V8700",
@@ -1434,13 +1943,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 750,
-        "memoryClock": 8502,
+        "memoryClock": 750,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 151,
-        "performance": 1198
+        "performance": 1
     },
     "FirePro 3D V8750": {
         "name": "FirePro 3D V8750",
@@ -1456,13 +1965,13 @@ const database = {
         "memory": 2048,
         "memoryType": null,
         "clock": 750,
-        "memoryClock": 9002,
+        "memoryClock": 750,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 154,
-        "performance": 1271
+        "performance": 1
     },
     "FirePro 3D V8800": {
         "name": "FirePro 3D V8800",
@@ -1478,13 +1987,13 @@ const database = {
         "memory": 2048,
         "memoryType": null,
         "clock": 825,
-        "memoryClock": 11502,
+        "memoryClock": 825,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 208,
-        "performance": 2473
+        "performance": 2
     },
     "FirePro 3D V9800": {
         "name": "FirePro 3D V9800",
@@ -1500,13 +2009,13 @@ const database = {
         "memory": 4096,
         "memoryType": null,
         "clock": 850,
-        "memoryClock": 11502,
+        "memoryClock": 850,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 225,
-        "performance": 2811
+        "performance": 2
     },
     "FirePro M2000": {
         "name": "FirePro M2000",
@@ -1530,7 +2039,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 615
+        "performance": 375
     },
     "FirePro M4000": {
         "name": "FirePro M4000",
@@ -1554,7 +2063,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 1611
+        "performance": 1
     },
     "FirePro M4000 Mobility Pro": {
         "name": "FirePro M4000 Mobility Pro",
@@ -1576,7 +2085,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1702
+        "performance": 1
     },
     "FirePro M40003": {
         "name": "FirePro M40003",
@@ -1598,7 +2107,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1364
+        "performance": 1
     },
     "Firepro M4100": {
         "name": "Firepro M4100",
@@ -1623,7 +2132,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "670",
-        "performance": 1059
+        "performance": 1
     },
     "FirePro M4150": {
         "name": "FirePro M4150",
@@ -1645,7 +2154,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1113
+        "performance": 1
     },
     "FirePro M4170": {
         "name": "FirePro M4170",
@@ -1667,7 +2176,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1086
+        "performance": 1
     },
     "FirePro M5100": {
         "name": "FirePro M5100",
@@ -1691,7 +2200,29 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "725",
-        "performance": 2102
+        "performance": 2
+    },
+    "FirePro M5100 FireGL V": {
+        "name": "FirePro M5100 FireGL V",
+        "names": [
+            "FirePro M5100 FireGL V"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "FirePro M5950": {
         "name": "FirePro M5950",
@@ -1715,18 +2246,18 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "725",
-        "performance": 1314
+        "performance": 1
     },
-    "FirePro M6000 Mobility Pro": {
-        "name": "FirePro M6000 Mobility Pro",
+    "FirePro M6000": {
+        "name": "FirePro M6000",
         "names": [
-            "FirePro M6000 Mobility Pro",
-            "FirePro M6000"
+            "FirePro M6000",
+            "AMD FirePro M6000"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "GCN",
+        "openGL": "4.1",
+        "directX": "11.1",
         "vendor": "AMD",
         "released": "Jul 1, 2012",
         "memory": 2048,
@@ -1736,9 +2267,32 @@ const database = {
         "shaderUnits": 640,
         "renderUnits": 16,
         "textureUnits": 40,
+        "type": "Workstation",
+        "tdp": null,
+        "clockSpeed": "750",
+        "performance": 1
+    },
+    "FirePro M6000 Mobility Pro": {
+        "name": "FirePro M6000 Mobility Pro",
+        "names": [
+            "FirePro M6000 Mobility Pro"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1711
+        "performance": 1
     },
     "FirePro M6100": {
         "name": "FirePro M6100",
@@ -1762,7 +2316,29 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "1100",
-        "performance": 2982
+        "performance": 2
+    },
+    "FirePro M6100 FireGL V": {
+        "name": "FirePro M6100 FireGL V",
+        "names": [
+            "FirePro M6100 FireGL V"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "FirePro M7740": {
         "name": "FirePro M7740",
@@ -1788,6 +2364,72 @@ const database = {
         "clockSpeed": "650",
         "performance": 665
     },
+    "FirePro R5000": {
+        "name": "FirePro R5000",
+        "names": [
+            "FirePro R5000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Feb 25, 2013",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 825,
+        "memoryClock": 800,
+        "shaderUnits": 768,
+        "renderUnits": 32,
+        "textureUnits": 48,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "FirePro RG220": {
+        "name": "FirePro RG220",
+        "names": [
+            "FirePro RG220"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "May 1, 2008",
+        "memory": 512,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 800,
+        "shaderUnits": 80,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Workstation",
+        "tdp": 35,
+        "performance": 335
+    },
+    "FirePro S10000": {
+        "name": "FirePro S10000",
+        "names": [
+            "FirePro S10000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Nov 12, 2012",
+        "memory": 3072,
+        "memoryType": "GDDR5",
+        "clock": 825,
+        "memoryClock": 1250,
+        "shaderUnits": 1792,
+        "renderUnits": 32,
+        "textureUnits": 112,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
     "FirePro S7000": {
         "name": "FirePro S7000",
         "names": [
@@ -1808,7 +2450,29 @@ const database = {
         "textureUnits": 80,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 4166
+        "performance": 4
+    },
+    "FirePro S7150": {
+        "name": "FirePro S7150",
+        "names": [
+            "FirePro S7150"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Feb 1, 2016",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 1050,
+        "memoryClock": 1250,
+        "shaderUnits": 1792,
+        "renderUnits": 32,
+        "textureUnits": 112,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
     },
     "FirePro S9000": {
         "name": "FirePro S9000",
@@ -1830,7 +2494,29 @@ const database = {
         "textureUnits": 112,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5022
+        "performance": 5
+    },
+    "FirePro V3800": {
+        "name": "FirePro V3800",
+        "names": [
+            "FirePro V3800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 334
     },
     "FirePro V3900": {
         "name": "FirePro V3900",
@@ -1852,7 +2538,7 @@ const database = {
         "textureUnits": 24,
         "type": "Workstation",
         "tdp": 50,
-        "performance": 871
+        "performance": 698
     },
     "FirePro V4900": {
         "name": "FirePro V4900",
@@ -1874,7 +2560,7 @@ const database = {
         "textureUnits": 24,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 1300
+        "performance": 1
     },
     "FirePro V5700": {
         "name": "FirePro V5700",
@@ -1896,7 +2582,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 464
+        "performance": 465
+    },
+    "FirePro V5800": {
+        "name": "FirePro V5800",
+        "names": [
+            "FirePro V5800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "FirePro V5900": {
         "name": "FirePro V5900",
@@ -1918,12 +2626,12 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 1526
+        "performance": 1
     },
-    "FirePro V7000 Adapter": {
-        "name": "FirePro V7000 Adapter",
+    "FirePro V7000": {
+        "name": "FirePro V7000",
         "names": [
-            "FirePro V7000 Adapter"
+            "FirePro V7000"
         ],
         "codeName": null,
         "architecture": null,
@@ -1940,7 +2648,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3161
+        "performance": 3
+    },
+    "FirePro V7800": {
+        "name": "FirePro V7800",
+        "names": [
+            "FirePro V7800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "FirePro V7900": {
         "name": "FirePro V7900",
@@ -1962,12 +2692,12 @@ const database = {
         "textureUnits": 80,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 2717
+        "performance": 2
     },
-    "FirePro V9800 Adapter": {
-        "name": "FirePro V9800 Adapter",
+    "FirePro V8700": {
+        "name": "FirePro V8700",
         "names": [
-            "FirePro V9800 Adapter"
+            "FirePro V8700"
         ],
         "codeName": null,
         "architecture": null,
@@ -1984,7 +2714,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2761
+        "performance": 1
+    },
+    "FirePro V8800": {
+        "name": "FirePro V8800",
+        "names": [
+            "FirePro V8800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "FirePro V9800": {
+        "name": "FirePro V9800",
+        "names": [
+            "FirePro V9800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "FirePro W2100": {
         "name": "FirePro W2100",
@@ -2008,7 +2782,7 @@ const database = {
         "type": "Workstation",
         "tdp": 26,
         "clockSpeed": "680",
-        "performance": 900
+        "performance": 898
     },
     "FirePro W4100": {
         "name": "FirePro W4100",
@@ -2032,29 +2806,7 @@ const database = {
         "type": "Workstation",
         "tdp": 50,
         "clockSpeed": "630",
-        "performance": 1593
-    },
-    "FirePro W4100 Adapter": {
-        "name": "FirePro W4100 Adapter",
-        "names": [
-            "FirePro W4100 Adapter"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 1698
+        "performance": 1
     },
     "FirePro W4170M": {
         "name": "FirePro W4170M",
@@ -2078,7 +2830,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 1367
+        "performance": 988
     },
     "Firepro W4190M": {
         "name": "Firepro W4190M",
@@ -2103,7 +2855,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "825",
-        "performance": 1280
+        "performance": 1
     },
     "FirePro W4300": {
         "name": "FirePro W4300",
@@ -2125,7 +2877,7 @@ const database = {
         "textureUnits": 48,
         "type": "Workstation",
         "tdp": 50,
-        "performance": 2921
+        "performance": 2
     },
     "FirePro W5000": {
         "name": "FirePro W5000",
@@ -2147,7 +2899,7 @@ const database = {
         "textureUnits": 48,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 3084
+        "performance": 2
     },
     "FirePro W5100": {
         "name": "FirePro W5100",
@@ -2169,7 +2921,7 @@ const database = {
         "textureUnits": 48,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 3008
+        "performance": 2
     },
     "FirePro W5130M": {
         "name": "FirePro W5130M",
@@ -2193,7 +2945,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1628
+        "performance": 1
     },
     "Firepro W5170M": {
         "name": "Firepro W5170M",
@@ -2218,7 +2970,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2217
+        "performance": 1
     },
     "FirePro W600": {
         "name": "FirePro W600",
@@ -2240,7 +2992,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 1734
+        "performance": 1
     },
     "FirePro W7000": {
         "name": "FirePro W7000",
@@ -2262,7 +3014,7 @@ const database = {
         "textureUnits": 80,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 4285
+        "performance": 4
     },
     "FirePro W7000 Adapter": {
         "name": "FirePro W7000 Adapter",
@@ -2284,7 +3036,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4084
+        "performance": 4
     },
     "FirePro W7100": {
         "name": "FirePro W7100",
@@ -2306,29 +3058,7 @@ const database = {
         "textureUnits": 112,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 5400
-    },
-    "FirePro W7100 Adapter": {
-        "name": "FirePro W7100 Adapter",
-        "names": [
-            "FirePro W7100 Adapter"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 5661
+        "performance": 4
     },
     "FirePro W7170M": {
         "name": "FirePro W7170M",
@@ -2352,7 +3082,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "723",
-        "performance": 4643
+        "performance": 3
     },
     "FirePro W8000": {
         "name": "FirePro W8000",
@@ -2374,29 +3104,7 @@ const database = {
         "textureUnits": 112,
         "type": "Workstation",
         "tdp": 189,
-        "performance": 4592
-    },
-    "FirePro W8000 Adapter": {
-        "name": "FirePro W8000 Adapter",
-        "names": [
-            "FirePro W8000 Adapter"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4751
+        "performance": 3
     },
     "FirePro W8100": {
         "name": "FirePro W8100",
@@ -2418,7 +3126,7 @@ const database = {
         "textureUnits": 160,
         "type": "Workstation",
         "tdp": 220,
-        "performance": 6066
+        "performance": 6
     },
     "FirePro W9000": {
         "name": "FirePro W9000",
@@ -2440,7 +3148,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": 274,
-        "performance": 5304
+        "performance": 5
     },
     "FirePro W9100": {
         "name": "FirePro W9100",
@@ -2462,7 +3170,29 @@ const database = {
         "textureUnits": 176,
         "type": "Workstation",
         "tdp": 275,
-        "performance": 7189
+        "performance": 7
+    },
+    "FireStream 9170": {
+        "name": "FireStream 9170",
+        "names": [
+            "FireStream 9170"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Nov 8, 2007",
+        "memory": 2048,
+        "memoryType": "GDDR3",
+        "clock": 800,
+        "memoryClock": 800,
+        "shaderUnits": 320,
+        "renderUnits": 16,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 647
     },
     "FireStream 9250": {
         "name": "FireStream 9250",
@@ -2484,7 +3214,7 @@ const database = {
         "textureUnits": 40,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 1164
+        "performance": 1
     },
     "FireStream 9270": {
         "name": "FireStream 9270",
@@ -2506,7 +3236,52 @@ const database = {
         "textureUnits": 40,
         "type": "Workstation",
         "tdp": 160,
-        "performance": 1341
+        "performance": 1
+    },
+    "FireStream 9370": {
+        "name": "FireStream 9370",
+        "names": [
+            "FireStream 9370"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jun 23, 2010",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 825,
+        "memoryClock": 1150,
+        "shaderUnits": 1600,
+        "renderUnits": 32,
+        "textureUnits": 80,
+        "type": "Workstation",
+        "tdp": 225,
+        "performance": 2
+    },
+    "GeCube RADEON 7000": {
+        "name": "GeCube RADEON 7000",
+        "names": [
+            "GeCube RADEON 7000",
+            "Radeon 7000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Feb 19, 2001",
+        "memory": 32,
+        "memoryType": "DDR",
+        "clock": 183,
+        "memoryClock": 183,
+        "shaderUnits": 1,
+        "renderUnits": 3,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 9
     },
     "GeForce 205": {
         "name": "GeForce 205",
@@ -2551,7 +3326,32 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 30.5,
-        "performance": 172
+        "performance": 97
+    },
+    "GeForce 240M GT": {
+        "name": "GeForce 240M GT",
+        "names": [
+            "GeForce 240M GT",
+            "GeForce GT 240M",
+            "NVIDIA GeForce GT 240M"
+        ],
+        "codeName": null,
+        "architecture": "GT2xx",
+        "openGL": null,
+        "directX": "10.1",
+        "vendor": "NVIDIA",
+        "released": "Jun 15, 2009",
+        "memory": 1024,
+        "memoryType": "GDDR3",
+        "clock": 550,
+        "memoryClock": 800,
+        "shaderUnits": 48,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "550",
+        "performance": 320
     },
     "GeForce 256": {
         "name": "GeForce 256",
@@ -2598,7 +3398,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "525",
-        "performance": 190
+        "performance": 191
     },
     "GeForce 310": {
         "name": "GeForce 310",
@@ -2621,7 +3421,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 30.5,
-        "performance": 202
+        "performance": 126
     },
     "GeForce 310M": {
         "name": "GeForce 310M",
@@ -2645,7 +3445,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "606 / 625",
-        "performance": 210
+        "performance": 112
     },
     "GeForce 315": {
         "name": "GeForce 315",
@@ -2668,7 +3468,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 33,
-        "performance": 249
+        "performance": 164
     },
     "GeForce 315M": {
         "name": "GeForce 315M",
@@ -2692,7 +3492,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "606",
-        "performance": 208
+        "performance": 123
     },
     "GeForce 320M": {
         "name": "GeForce 320M",
@@ -2709,14 +3509,14 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 450,
-        "memoryClock": 1066,
+        "memoryClock": 450,
         "shaderUnits": 48,
         "renderUnits": 8,
         "textureUnits": 16,
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "450",
-        "performance": 271
+        "performance": 272
     },
     "GeForce 405": {
         "name": "GeForce 405",
@@ -2739,7 +3539,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 212
+        "performance": 130
     },
     "GeForce 410M": {
         "name": "GeForce 410M",
@@ -2763,7 +3563,7 @@ const database = {
         "type": "Mobile",
         "tdp": 12,
         "clockSpeed": "575",
-        "performance": 350
+        "performance": 246
     },
     "GeForce 505": {
         "name": "GeForce 505",
@@ -2786,7 +3586,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 191
+        "performance": 187
     },
     "GeForce 510": {
         "name": "GeForce 510",
@@ -2809,7 +3609,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 25,
-        "performance": 310
+        "performance": 238
     },
     "GeForce 605": {
         "name": "GeForce 605",
@@ -2832,7 +3632,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 320
+        "performance": 310
     },
     "GeForce 6100": {
         "name": "GeForce 6100",
@@ -2972,7 +3772,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "672",
-        "performance": 404
+        "performance": 282
     },
     "GeForce 615": {
         "name": "GeForce 615",
@@ -2994,7 +3794,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 548
+        "performance": 549
     },
     "GeForce 6150": {
         "name": "GeForce 6150",
@@ -3018,7 +3818,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "425",
-        "performance": 21
+        "performance": 22
     },
     "GeForce 6150 LE": {
         "name": "GeForce 6150 LE",
@@ -3040,7 +3840,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 21
+        "performance": 33
     },
     "GeForce 6150SE": {
         "name": "GeForce 6150SE",
@@ -3062,7 +3862,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 24
+        "performance": 25
     },
     "GeForce 6150SE nForce 430": {
         "name": "GeForce 6150SE nForce 430",
@@ -3084,7 +3884,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 22
+        "performance": 28
     },
     "GeForce 6200": {
         "name": "GeForce 6200",
@@ -3108,7 +3908,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 44
+        "performance": 28
     },
     "GeForce 6200 A-LE": {
         "name": "GeForce 6200 A-LE",
@@ -3154,7 +3954,7 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
-        "performance": 26
+        "performance": 31
     },
     "GeForce 6200 TurboCache": {
         "name": "GeForce 6200 TurboCache",
@@ -3176,7 +3976,29 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 39
+        "performance": 43
+    },
+    "GeForce 6200A": {
+        "name": "GeForce 6200A",
+        "names": [
+            "GeForce 6200A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 128,
+        "memoryType": null,
+        "clock": 350,
+        "memoryClock": 350,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 4
     },
     "GeForce 6200SE TurboCache": {
         "name": "GeForce 6200SE TurboCache",
@@ -3220,7 +4042,7 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
-        "performance": 37
+        "performance": 38
     },
     "GeForce 6600": {
         "name": "GeForce 6600",
@@ -3244,7 +4066,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "375",
-        "performance": 62
+        "performance": 91
     },
     "GeForce 6600 GT": {
         "name": "GeForce 6600 GT",
@@ -3310,7 +4132,7 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 88
+        "performance": 89
     },
     "GeForce 6700 XL": {
         "name": "GeForce 6700 XL",
@@ -3332,7 +4154,7 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 98
+        "performance": 95
     },
     "GeForce 6800": {
         "name": "GeForce 6800",
@@ -3356,7 +4178,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 112
+        "performance": 113
     },
     "GeForce 6800 GS": {
         "name": "GeForce 6800 GS",
@@ -3378,7 +4200,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": null,
-        "performance": 136
+        "performance": 195
     },
     "GeForce 6800 GS/XT": {
         "name": "GeForce 6800 GS/XT",
@@ -3401,7 +4223,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
-        "performance": 102
+        "performance": 103
     },
     "GeForce 6800 GT": {
         "name": "GeForce 6800 GT",
@@ -3445,7 +4267,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
-        "performance": 109
+        "performance": 110
     },
     "GeForce 6800 Ultra": {
         "name": "GeForce 6800 Ultra",
@@ -3469,7 +4291,29 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 138
+        "performance": 139
+    },
+    "GeForce 6800 XE": {
+        "name": "GeForce 6800 XE",
+        "names": [
+            "GeForce 6800 XE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Sep 30, 2005",
+        "memory": 256,
+        "memoryType": "DDR2",
+        "clock": 275,
+        "memoryClock": 266,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 3,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 59
     },
     "GeForce 6800 XT": {
         "name": "GeForce 6800 XT",
@@ -3485,13 +4329,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 325,
-        "memoryClock": 700,
+        "memoryClock": 325,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 101
+        "performance": 135
     },
     "GeForce 7000M": {
         "name": "GeForce 7000M",
@@ -3538,7 +4382,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 12
+        "performance": 13
     },
     "GeForce 7025 / nForce 630a": {
         "name": "GeForce 7025 / nForce 630a",
@@ -3561,7 +4405,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 25
+        "performance": 36
     },
     "GeForce 7050 / nForce 610i": {
         "name": "GeForce 7050 / nForce 610i",
@@ -3584,7 +4428,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 27
+        "performance": 28
     },
     "GeForce 7050 / nForce 620i": {
         "name": "GeForce 7050 / nForce 620i",
@@ -3653,7 +4497,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 22
+        "performance": 32
     },
     "GeForce 705M": {
         "name": "GeForce 705M",
@@ -3677,7 +4521,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "775",
-        "performance": 454
+        "performance": 456
+    },
+    "GeForce 7100 / nForce 620i": {
+        "name": "GeForce 7100 / nForce 620i",
+        "names": [
+            "GeForce 7100 / nForce 620i"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 26
     },
     "GeForce 7100 / nForce 630i": {
         "name": "GeForce 7100 / nForce 630i",
@@ -3722,7 +4588,7 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
-        "performance": 43
+        "performance": 41
     },
     "GeForce 710A": {
         "name": "GeForce 710A",
@@ -3744,7 +4610,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 33,
-        "performance": 517
+        "performance": 538
     },
     "GeForce 710M": {
         "name": "GeForce 710M",
@@ -3768,7 +4634,7 @@ const database = {
         "type": "Mobile",
         "tdp": 12,
         "clockSpeed": "775",
-        "performance": 569
+        "performance": 435
     },
     "GeForce 7150 / nForce 630i": {
         "name": "GeForce 7150 / nForce 630i",
@@ -3816,6 +4682,50 @@ const database = {
         "tdp": null,
         "performance": 18
     },
+    "GeForce 7200 GS": {
+        "name": "GeForce 7200 GS",
+        "names": [
+            "GeForce 7200 GS"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jan 18, 2006",
+        "memory": 128,
+        "memoryType": "DDR2",
+        "clock": 450,
+        "memoryClock": 334,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 23
+    },
+    "GeForce 720A": {
+        "name": "GeForce 720A",
+        "names": [
+            "GeForce 720A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jul 1, 2014",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 938,
+        "memoryClock": 1000,
+        "shaderUnits": 96,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 725
+    },
     "GeForce 7300 GS": {
         "name": "GeForce 7300 GS",
         "names": [
@@ -3836,7 +4746,7 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
-        "performance": 66
+        "performance": 64
     },
     "GeForce 7300 GT": {
         "name": "GeForce 7300 GT",
@@ -3858,7 +4768,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": null,
-        "performance": 108
+        "performance": 117
     },
     "GeForce 7300 LE": {
         "name": "GeForce 7300 LE",
@@ -3880,7 +4790,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": null,
-        "performance": 55
+        "performance": 56
     },
     "GeForce 7300 SE": {
         "name": "GeForce 7300 SE",
@@ -3918,13 +4828,13 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 450,
-        "memoryClock": 400,
+        "memoryClock": 450,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": null,
-        "performance": 41
+        "performance": 46
     },
     "GeForce 730A": {
         "name": "GeForce 730A",
@@ -3947,7 +4857,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 804
+        "performance": 774
     },
     "GeForce 7350 LE": {
         "name": "GeForce 7350 LE",
@@ -3991,7 +4901,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": null,
-        "performance": 69
+        "performance": 61
     },
     "GeForce 7600 GS": {
         "name": "GeForce 7600 GS",
@@ -4013,7 +4923,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": null,
-        "performance": 134
+        "performance": 201
     },
     "GeForce 7600 GT": {
         "name": "GeForce 7600 GT",
@@ -4037,7 +4947,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 182
+        "performance": 164
     },
     "GeForce 7650 GS": {
         "name": "GeForce 7650 GS",
@@ -4060,6 +4970,31 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 134
+    },
+    "GeForce 770M": {
+        "name": "GeForce 770M",
+        "names": [
+            "GeForce 770M",
+            "GeForce GTX 770M",
+            "NVIDIA GeForce GTX 770M"
+        ],
+        "codeName": null,
+        "architecture": "Kepler",
+        "openGL": "4.3",
+        "directX": "11",
+        "vendor": "NVIDIA",
+        "released": "May 30, 2013",
+        "memory": 3072,
+        "memoryType": "GDDR5",
+        "clock": 706,
+        "memoryClock": 1002,
+        "shaderUnits": 960,
+        "renderUnits": 24,
+        "textureUnits": 80,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "811",
+        "performance": 3
     },
     "GeForce 7800 GS": {
         "name": "GeForce 7800 GS",
@@ -4104,7 +5039,7 @@ const database = {
         "textureUnits": 7,
         "type": "Desktop",
         "tdp": null,
-        "performance": 195
+        "performance": 244
     },
     "GeForce 7800 GTX": {
         "name": "GeForce 7800 GTX",
@@ -4128,7 +5063,7 @@ const database = {
         "type": "Desktop",
         "tdp": 86,
         "clockSpeed": "440",
-        "performance": 223
+        "performance": 222
     },
     "GeForce 7900 GS": {
         "name": "GeForce 7900 GS",
@@ -4152,7 +5087,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "375",
-        "performance": 218
+        "performance": 219
     },
     "GeForce 7900 GT": {
         "name": "GeForce 7900 GT",
@@ -4197,7 +5132,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": null,
-        "performance": 246
+        "performance": 247
     },
     "GeForce 7900 GTX": {
         "name": "GeForce 7900 GTX",
@@ -4221,7 +5156,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 305
+        "performance": 384
     },
     "GeForce 7950 GT": {
         "name": "GeForce 7950 GT",
@@ -4243,7 +5178,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": null,
-        "performance": 264
+        "performance": 317
     },
     "GeForce 7950 GX2": {
         "name": "GeForce 7950 GX2",
@@ -4265,7 +5200,29 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": null,
-        "performance": 197
+        "performance": 202
+    },
+    "GeForce 7950 Xtreme": {
+        "name": "GeForce 7950 Xtreme",
+        "names": [
+            "GeForce 7950 Xtreme"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 288
     },
     "GeForce 800A": {
         "name": "GeForce 800A",
@@ -4287,7 +5244,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 440
+        "performance": 428
     },
     "GeForce 800M": {
         "name": "GeForce 800M",
@@ -4309,7 +5266,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 559
+        "performance": 556
     },
     "GeForce 8100 / nForce 720a": {
         "name": "GeForce 8100 / nForce 720a",
@@ -4332,7 +5289,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 82
+        "performance": 79
     },
     "GeForce 810A": {
         "name": "GeForce 810A",
@@ -4354,7 +5311,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 638
+        "performance": 627
     },
     "GeForce 810M": {
         "name": "GeForce 810M",
@@ -4376,7 +5333,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 483
+        "performance": 405
     },
     "GeForce 8200": {
         "name": "GeForce 8200",
@@ -4416,14 +5373,14 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 400,
-        "memoryClock": 8001066,
+        "memoryClock": 400,
         "shaderUnits": 8,
         "renderUnits": 4,
         "textureUnits": 4,
         "type": "Mobile",
         "tdp": 19.2,
         "clockSpeed": "400",
-        "performance": 56
+        "performance": 57
     },
     "GeForce 820A": {
         "name": "GeForce 820A",
@@ -4445,7 +5402,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 700
+        "performance": 706
     },
     "GeForce 820M": {
         "name": "GeForce 820M",
@@ -4469,7 +5426,7 @@ const database = {
         "type": "Mobile",
         "tdp": 15,
         "clockSpeed": "775",
-        "performance": 618
+        "performance": 499
     },
     "GeForce 825M": {
         "name": "GeForce 825M",
@@ -4493,7 +5450,7 @@ const database = {
         "type": "Mobile",
         "tdp": 33,
         "clockSpeed": "850",
-        "performance": 759
+        "performance": 769
     },
     "GeForce 8300": {
         "name": "GeForce 8300",
@@ -4515,7 +5472,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 91
+        "performance": 92
     },
     "GeForce 8300 GS": {
         "name": "GeForce 8300 GS",
@@ -4537,7 +5494,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 40,
-        "performance": 66
+        "performance": 67
     },
     "GeForce 830A": {
         "name": "GeForce 830A",
@@ -4559,7 +5516,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1004
+        "performance": 1
     },
     "GeForce 830M": {
         "name": "GeForce 830M",
@@ -4583,7 +5540,7 @@ const database = {
         "type": "Mobile",
         "tdp": 25,
         "clockSpeed": "1029",
-        "performance": 893
+        "performance": 986
     },
     "GeForce 8400": {
         "name": "GeForce 8400",
@@ -4605,7 +5562,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 100
+        "performance": 81
     },
     "GeForce 8400 GS": {
         "name": "GeForce 8400 GS",
@@ -4627,7 +5584,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 40,
-        "performance": 112
+        "performance": 127
     },
     "GeForce 8400 SE": {
         "name": "GeForce 8400 SE",
@@ -4673,7 +5630,7 @@ const database = {
         "type": "Mobile",
         "tdp": 10,
         "clockSpeed": "400",
-        "performance": 58
+        "performance": 59
     },
     "GeForce 8400M GS": {
         "name": "GeForce 8400M GS",
@@ -4697,7 +5654,7 @@ const database = {
         "type": "Mobile",
         "tdp": 11,
         "clockSpeed": "400",
-        "performance": 81
+        "performance": 82
     },
     "GeForce 8400M GT": {
         "name": "GeForce 8400M GT",
@@ -4743,7 +5700,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 869
+        "performance": 1
     },
     "GeForce 840M": {
         "name": "GeForce 840M",
@@ -4767,7 +5724,7 @@ const database = {
         "type": "Mobile",
         "tdp": 30,
         "clockSpeed": "1029",
-        "performance": 916
+        "performance": 1
     },
     "GeForce 845M": {
         "name": "GeForce 845M",
@@ -4791,7 +5748,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1071",
-        "performance": 1128
+        "performance": 1
     },
     "GeForce 8500 GT": {
         "name": "GeForce 8500 GT",
@@ -4813,7 +5770,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 45,
-        "performance": 136
+        "performance": 109
     },
     "GeForce 8600 GS": {
         "name": "GeForce 8600 GS",
@@ -4835,7 +5792,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 47,
-        "performance": 141
+        "performance": 107
     },
     "GeForce 8600 GT": {
         "name": "GeForce 8600 GT",
@@ -4857,7 +5814,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 47,
-        "performance": 241
+        "performance": 116
     },
     "GeForce 8600 GTS": {
         "name": "GeForce 8600 GTS",
@@ -4879,7 +5836,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 75,
-        "performance": 285
+        "performance": 164
     },
     "GeForce 8600M GS": {
         "name": "GeForce 8600M GS",
@@ -4903,7 +5860,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "600",
-        "performance": 123
+        "performance": 82
     },
     "GeForce 8600M GT": {
         "name": "GeForce 8600M GT",
@@ -4927,7 +5884,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "475",
-        "performance": 168
+        "performance": 86
     },
     "GeForce 8700M GT": {
         "name": "GeForce 8700M GT",
@@ -4951,7 +5908,7 @@ const database = {
         "type": "Mobile",
         "tdp": 29,
         "clockSpeed": "625",
-        "performance": 206
+        "performance": 125
     },
     "GeForce 8800 GS": {
         "name": "GeForce 8800 GS",
@@ -4973,7 +5930,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 105,
-        "performance": 545
+        "performance": 394
     },
     "GeForce 8800 GT": {
         "name": "GeForce 8800 GT",
@@ -4995,7 +5952,7 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 125,
-        "performance": 748
+        "performance": 507
     },
     "GeForce 8800 GTS": {
         "name": "GeForce 8800 GTS",
@@ -5018,7 +5975,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 146,
-        "performance": 605
+        "performance": 473
     },
     "GeForce 8800 GTS 512": {
         "name": "GeForce 8800 GTS 512",
@@ -5040,7 +5997,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 135,
-        "performance": 833
+        "performance": 606
     },
     "GeForce 8800 GTX": {
         "name": "GeForce 8800 GTX",
@@ -5062,7 +6019,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 155,
-        "performance": 763
+        "performance": 612
     },
     "GeForce 8800 Ultra": {
         "name": "GeForce 8800 Ultra",
@@ -5084,7 +6041,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 171,
-        "performance": 769
+        "performance": 639
     },
     "GeForce 8800M GTS": {
         "name": "GeForce 8800M GTS",
@@ -5132,7 +6089,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "500",
-        "performance": 542
+        "performance": 540
     },
     "GeForce 9100": {
         "name": "GeForce 9100",
@@ -5179,7 +6136,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 74
+        "performance": 85
     },
     "GeForce 910M": {
         "name": "GeForce 910M",
@@ -5203,7 +6160,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "641",
-        "performance": 475
+        "performance": 609
     },
     "GeForce 9200": {
         "name": "GeForce 9200",
@@ -5225,7 +6182,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 80
+        "performance": 115
     },
     "GeForce 9200M GE": {
         "name": "GeForce 9200M GE",
@@ -5248,7 +6205,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 81
+        "performance": 130
     },
     "GeForce 9200M GS": {
         "name": "GeForce 9200M GS",
@@ -5272,7 +6229,7 @@ const database = {
         "type": "Mobile",
         "tdp": 13,
         "clockSpeed": "550",
-        "performance": 84
+        "performance": 61
     },
     "GeForce 920A": {
         "name": "GeForce 920A",
@@ -5318,7 +6275,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "954",
-        "performance": 733
+        "performance": 722
     },
     "GeForce 920MX": {
         "name": "GeForce 920MX",
@@ -5342,7 +6299,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "965",
-        "performance": 1070
+        "performance": 1
     },
     "GeForce 9300": {
         "name": "GeForce 9300",
@@ -5365,7 +6322,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 126
+        "performance": 127
     },
     "GeForce 9300 / nForce 730i": {
         "name": "GeForce 9300 / nForce 730i",
@@ -5388,7 +6345,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 130
+        "performance": 129
     },
     "GeForce 9300 GE": {
         "name": "GeForce 9300 GE",
@@ -5404,13 +6361,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 540,
-        "memoryClock": 1000,
+        "memoryClock": 540,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 101
+        "performance": 71
     },
     "GeForce 9300 GS": {
         "name": "GeForce 9300 GS",
@@ -5432,7 +6389,29 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": null,
-        "performance": 91
+        "performance": 80
+    },
+    "GeForce 9300 SE": {
+        "name": "GeForce 9300 SE",
+        "names": [
+            "GeForce 9300 SE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jun 1, 2008",
+        "memory": 256,
+        "memoryType": "DDR2",
+        "clock": 540,
+        "memoryClock": 400,
+        "shaderUnits": 8,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 82
     },
     "GeForce 9300GE": {
         "name": "GeForce 9300GE",
@@ -5454,7 +6433,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 97
+        "performance": 98
     },
     "GeForce 9300M G": {
         "name": "GeForce 9300M G",
@@ -5478,7 +6457,7 @@ const database = {
         "type": "Mobile",
         "tdp": 13,
         "clockSpeed": "400",
-        "performance": 84
+        "performance": 85
     },
     "GeForce 9300M GS": {
         "name": "GeForce 9300M GS",
@@ -5502,7 +6481,7 @@ const database = {
         "type": "Mobile",
         "tdp": 13,
         "clockSpeed": "550",
-        "performance": 94
+        "performance": 68
     },
     "GeForce 930A": {
         "name": "GeForce 930A",
@@ -5524,7 +6503,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1212
+        "performance": 1
     },
     "GeForce 930M": {
         "name": "GeForce 930M",
@@ -5548,7 +6527,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "928",
-        "performance": 944
+        "performance": 1
     },
     "GeForce 930MX": {
         "name": "GeForce 930MX",
@@ -5572,7 +6551,7 @@ const database = {
         "type": "Mobile",
         "tdp": 17,
         "clockSpeed": "952",
-        "performance": 1211
+        "performance": 1
     },
     "GeForce 9400": {
         "name": "GeForce 9400",
@@ -5594,7 +6573,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 139
+        "performance": 97
     },
     "GeForce 9400 GT": {
         "name": "GeForce 9400 GT",
@@ -5616,7 +6595,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 186
+        "performance": 93
     },
     "GeForce 9400M": {
         "name": "GeForce 9400M",
@@ -5657,14 +6636,14 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 450,
-        "memoryClock": 8001066,
+        "memoryClock": 450,
         "shaderUnits": 16,
         "renderUnits": 4,
         "textureUnits": 8,
         "type": "Mobile",
         "tdp": 12,
         "clockSpeed": "450",
-        "performance": 124
+        "performance": 90
     },
     "GeForce 940A": {
         "name": "GeForce 940A",
@@ -5686,7 +6665,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1031
+        "performance": 1
     },
     "GeForce 940M": {
         "name": "GeForce 940M",
@@ -5710,7 +6689,7 @@ const database = {
         "type": "Mobile",
         "tdp": 33,
         "clockSpeed": "1072",
-        "performance": 990
+        "performance": 1
     },
     "GeForce 940MX": {
         "name": "GeForce 940MX",
@@ -5734,7 +6713,51 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1122",
-        "performance": 1346
+        "performance": 1
+    },
+    "GeForce 9450": {
+        "name": "GeForce 9450",
+        "names": [
+            "GeForce 9450"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 105
+    },
+    "GeForce 945A": {
+        "name": "GeForce 945A",
+        "names": [
+            "GeForce 945A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Mar 13, 2015",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 1072,
+        "memoryClock": 900,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "GeForce 945M": {
         "name": "GeForce 945M",
@@ -5758,7 +6781,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "928",
-        "performance": 1434
+        "performance": 2
     },
     "GeForce 9500 GS": {
         "name": "GeForce 9500 GS",
@@ -5780,7 +6803,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 277
+        "performance": 171
     },
     "GeForce 9500 GT": {
         "name": "GeForce 9500 GT",
@@ -5802,7 +6825,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 273
+        "performance": 135
     },
     "GeForce 9500M": {
         "name": "GeForce 9500M",
@@ -5827,7 +6850,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "475",
-        "performance": 103
+        "performance": 104
     },
     "GeForce 9500M G": {
         "name": "GeForce 9500M G",
@@ -5840,18 +6863,18 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Jun 06 2008",
+        "released": "Wed Jun 18 2008",
         "memory": 512,
         "memoryType": "GDDR2, GDDR3",
         "clock": 500,
-        "memoryClock": 1600,
+        "memoryClock": 500,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "500",
-        "performance": 166
+        "performance": 167
     },
     "GeForce 9500M GS": {
         "name": "GeForce 9500M GS",
@@ -5873,7 +6896,7 @@ const database = {
         "textureUnits": 16,
         "type": "Mobile",
         "tdp": 20,
-        "performance": 180
+        "performance": 108
     },
     "GeForce 9600 GS": {
         "name": "GeForce 9600 GS",
@@ -5896,7 +6919,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": null,
-        "performance": 445
+        "performance": 330
     },
     "GeForce 9600 GSO": {
         "name": "GeForce 9600 GSO",
@@ -5918,7 +6941,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 84,
-        "performance": 516
+        "performance": 356
     },
     "GeForce 9600 GSO 512": {
         "name": "GeForce 9600 GSO 512",
@@ -5940,7 +6963,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 90,
-        "performance": 503
+        "performance": 486
     },
     "GeForce 9600 GT": {
         "name": "GeForce 9600 GT",
@@ -5962,7 +6985,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 729
+        "performance": 491
     },
     "GeForce 9600M GS": {
         "name": "GeForce 9600M GS",
@@ -5986,7 +7009,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "430",
-        "performance": 231
+        "performance": 128
     },
     "GeForce 9600M GT": {
         "name": "GeForce 9600M GT",
@@ -6010,7 +7033,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "500",
-        "performance": 259
+        "performance": 129
     },
     "GeForce 9600M GT / GeForce GT 220M": {
         "name": "GeForce 9600M GT / GeForce GT 220M",
@@ -6080,7 +7103,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "550",
-        "performance": 253
+        "performance": 169
     },
     "GeForce 9700M GT": {
         "name": "GeForce 9700M GT",
@@ -6104,7 +7127,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "625",
-        "performance": 318
+        "performance": 217
     },
     "GeForce 9700M GTS": {
         "name": "GeForce 9700M GTS",
@@ -6128,7 +7151,7 @@ const database = {
         "type": "Mobile",
         "tdp": 60,
         "clockSpeed": "530",
-        "performance": 478
+        "performance": 369
     },
     "GeForce 9800 GT": {
         "name": "GeForce 9800 GT",
@@ -6150,7 +7173,29 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 125,
-        "performance": 707
+        "performance": 483
+    },
+    "GeForce 9800 GT 1024MB": {
+        "name": "GeForce 9800 GT 1024MB",
+        "names": [
+            "GeForce 9800 GT 1024MB"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 134
     },
     "GeForce 9800 GTX": {
         "name": "GeForce 9800 GTX",
@@ -6194,7 +7239,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 141,
-        "performance": 897
+        "performance": 746
     },
     "GeForce 9800 GTX/9800 GTX+": {
         "name": "GeForce 9800 GTX/9800 GTX+",
@@ -6216,7 +7261,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 878
+        "performance": 642
     },
     "GeForce 9800 GX2": {
         "name": "GeForce 9800 GX2",
@@ -6238,7 +7283,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 197,
-        "performance": 802
+        "performance": 798
     },
     "GeForce 9800 S": {
         "name": "GeForce 9800 S",
@@ -6260,7 +7305,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 635
+        "performance": 636
     },
     "GeForce 9800M GS": {
         "name": "GeForce 9800M GS",
@@ -6308,7 +7353,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "500",
-        "performance": 475
+        "performance": 435
     },
     "GeForce 9800M GTS": {
         "name": "GeForce 9800M GTS",
@@ -6332,7 +7377,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "600",
-        "performance": 645
+        "performance": 366
     },
     "GeForce 9800M GTX": {
         "name": "GeForce 9800M GTX",
@@ -6356,7 +7401,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "500",
-        "performance": 517
+        "performance": 470
     },
     "GeForce 999 GTX": {
         "name": "GeForce 999 GTX",
@@ -6378,7 +7423,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 124
+        "performance": 84
+    },
+    "GeForce FX 5100": {
+        "name": "GeForce FX 5100",
+        "names": [
+            "GeForce FX 5100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Mar 6, 2003",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 200,
+        "memoryClock": 166,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
     "GeForce FX 5200": {
         "name": "GeForce FX 5200",
@@ -6402,7 +7469,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 7
+        "performance": 8
     },
     "GeForce FX 5200 Ultra": {
         "name": "GeForce FX 5200 Ultra",
@@ -6468,7 +7535,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 11
+        "performance": 12
     },
     "GeForce FX 5500": {
         "name": "GeForce FX 5500",
@@ -6514,7 +7581,7 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 12
+        "performance": 13
     },
     "GeForce FX 5600 Ultra": {
         "name": "GeForce FX 5600 Ultra",
@@ -6620,13 +7687,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 250,
-        "memoryClock": 400,
+        "memoryClock": 250,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 24
+        "performance": 25
     },
     "GeForce FX 5700VE": {
         "name": "GeForce FX 5700VE",
@@ -6642,7 +7709,7 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 235,
-        "memoryClock": 400,
+        "memoryClock": 235,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
@@ -6670,7 +7737,7 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
-        "performance": 34
+        "performance": 35
     },
     "GeForce FX 5900 Ultra": {
         "name": "GeForce FX 5900 Ultra",
@@ -6708,13 +7775,35 @@ const database = {
         "memory": 128,
         "memoryType": null,
         "clock": 390,
-        "memoryClock": 700,
+        "memoryClock": 390,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
         "performance": 40
+    },
+    "GeForce FX 5900ZT": {
+        "name": "GeForce FX 5900ZT",
+        "names": [
+            "GeForce FX 5900ZT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 128,
+        "memoryType": null,
+        "clock": 325,
+        "memoryClock": 325,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 33
     },
     "GeForce FX 5950 Ultra": {
         "name": "GeForce FX 5950 Ultra",
@@ -6752,7 +7841,7 @@ const database = {
         "memory": 32,
         "memoryType": null,
         "clock": 300,
-        "memoryClock": 600,
+        "memoryClock": 300,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
@@ -6774,13 +7863,13 @@ const database = {
         "memory": 32,
         "memoryType": null,
         "clock": 350,
-        "memoryClock": 600,
+        "memoryClock": 350,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": null,
-        "performance": 17
+        "performance": 18
     },
     "GeForce FX Go5300": {
         "name": "GeForce FX Go5300",
@@ -6802,7 +7891,7 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 12
+        "performance": 13
     },
     "GeForce FX Go5650": {
         "name": "GeForce FX Go5650",
@@ -6824,7 +7913,7 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 16
+        "performance": 17
     },
     "GeForce FX Go5700": {
         "name": "GeForce FX Go5700",
@@ -6859,18 +7948,18 @@ const database = {
         "openGL": null,
         "directX": "10.0",
         "vendor": null,
-        "released": "Fri Sep 04 2009",
+        "released": "Tue Sep 15 2009",
         "memory": 512,
         "memoryType": "DDR2",
         "clock": 640,
-        "memoryClock": 1600,
+        "memoryClock": 640,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "640",
-        "performance": 105
+        "performance": 65
     },
     "GeForce G 105M": {
         "name": "GeForce G 105M",
@@ -6883,18 +7972,18 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Sun Jan 11 2009",
+        "released": "Thu Jan 22 2009",
         "memory": 512,
         "memoryType": "GDDR2, GDDR3",
         "clock": 640,
-        "memoryClock": 1600,
+        "memoryClock": 640,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "640",
-        "performance": 112
+        "performance": 72
     },
     "GeForce G100": {
         "name": "GeForce G100",
@@ -6939,7 +8028,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 94
+        "performance": 93
     },
     "GeForce G105M": {
         "name": "GeForce G105M",
@@ -6961,7 +8050,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 179
+        "performance": 116
     },
     "GeForce G200": {
         "name": "GeForce G200",
@@ -6983,7 +8072,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 134
+        "performance": 132
     },
     "GeForce G205M": {
         "name": "GeForce G205M",
@@ -7005,7 +8094,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 91
+        "performance": 92
     },
     "GeForce G210": {
         "name": "GeForce G210",
@@ -7028,7 +8117,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 170
+        "performance": 113
     },
     "GeForce G210M": {
         "name": "GeForce G210M",
@@ -7052,7 +8141,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "625",
-        "performance": 199
+        "performance": 123
     },
     "GeForce Go 6100": {
         "name": "GeForce Go 6100",
@@ -7075,7 +8164,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 17
+        "performance": 18
     },
     "GeForce Go 6150": {
         "name": "GeForce Go 6150",
@@ -7098,7 +8187,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 17
+        "performance": 19
     },
     "GeForce Go 6200": {
         "name": "GeForce Go 6200",
@@ -7189,7 +8278,7 @@ const database = {
         "textureUnits": 3,
         "type": "Unknown",
         "tdp": null,
-        "performance": 44
+        "performance": 45
     },
     "GeForce Go 6800": {
         "name": "GeForce Go 6800",
@@ -7233,7 +8322,7 @@ const database = {
         "textureUnits": 5,
         "type": "Mobile",
         "tdp": null,
-        "performance": 137
+        "performance": 138
     },
     "GeForce Go 7200": {
         "name": "GeForce Go 7200",
@@ -7281,7 +8370,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 50
+        "performance": 52
     },
     "GeForce Go 7400": {
         "name": "GeForce Go 7400",
@@ -7305,7 +8394,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 62
+        "performance": 66
     },
     "GeForce Go 7600": {
         "name": "GeForce Go 7600",
@@ -7351,7 +8440,7 @@ const database = {
         "textureUnits": 5,
         "type": "Mobile",
         "tdp": null,
-        "performance": 163
+        "performance": 210
     },
     "GeForce Go 7700": {
         "name": "GeForce Go 7700",
@@ -7375,7 +8464,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 147
+        "performance": 148
     },
     "GeForce Go 7800": {
         "name": "GeForce Go 7800",
@@ -7399,7 +8488,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "400",
-        "performance": 116
+        "performance": 115
     },
     "GeForce Go 7800 GTX": {
         "name": "GeForce Go 7800 GTX",
@@ -7423,7 +8512,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "440",
-        "performance": 209
+        "performance": 210
     },
     "GeForce Go 7900 GS": {
         "name": "GeForce Go 7900 GS",
@@ -7449,6 +8538,30 @@ const database = {
         "clockSpeed": "375",
         "performance": 176
     },
+    "GeForce Go 7900 GTX": {
+        "name": "GeForce Go 7900 GTX",
+        "names": [
+            "GeForce Go 7900 GTX",
+            "NVIDIA GeForce Go 7900 GTX SLI"
+        ],
+        "codeName": null,
+        "architecture": "G7x",
+        "openGL": null,
+        "directX": "9c",
+        "vendor": "NVIDIA",
+        "released": "Apr 18, 2006",
+        "memory": 512,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 600,
+        "shaderUnits": 24,
+        "renderUnits": 24,
+        "textureUnits": 8,
+        "type": "Mobile",
+        "tdp": 45,
+        "clockSpeed": "500",
+        "performance": 270
+    },
     "GeForce Go 7950 GTX": {
         "name": "GeForce Go 7950 GTX",
         "names": [
@@ -7471,7 +8584,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "575",
-        "performance": 263
+        "performance": 264
     },
     "GeForce GPU": {
         "name": "GeForce GPU",
@@ -7487,13 +8600,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 954,
-        "memoryClock": 1253,
+        "memoryClock": 954,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": null,
-        "performance": 1165
+        "performance": 1
     },
     "GeForce GT 1030": {
         "name": "GeForce GT 1030",
@@ -7517,7 +8630,7 @@ const database = {
         "type": "Desktop",
         "tdp": 30,
         "clockSpeed": "1228",
-        "performance": 2207
+        "performance": 2
     },
     "GeForce GT 120": {
         "name": "GeForce GT 120",
@@ -7540,7 +8653,29 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 287
+        "performance": 206
+    },
+    "GeForce GT 120 / 9500 GT": {
+        "name": "GeForce GT 120 / 9500 GT",
+        "names": [
+            "GeForce GT 120 / 9500 GT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 325
     },
     "GeForce GT 120M": {
         "name": "GeForce GT 120M",
@@ -7564,7 +8699,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "500",
-        "performance": 267
+        "performance": 266
     },
     "GeForce GT 130": {
         "name": "GeForce GT 130",
@@ -7587,7 +8722,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 75,
-        "performance": 457
+        "performance": 376
     },
     "GeForce GT 130M": {
         "name": "GeForce GT 130M",
@@ -7611,7 +8746,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "600",
-        "performance": 297
+        "performance": 197
     },
     "GeForce GT 140": {
         "name": "GeForce GT 140",
@@ -7634,7 +8769,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 105,
-        "performance": 747
+        "performance": 658
     },
     "GeForce GT 220": {
         "name": "GeForce GT 220",
@@ -7658,7 +8793,7 @@ const database = {
         "type": "Desktop",
         "tdp": 58,
         "clockSpeed": "615",
-        "performance": 349
+        "performance": 215
     },
     "GeForce GT 220M": {
         "name": "GeForce GT 220M",
@@ -7682,7 +8817,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "500",
-        "performance": 258
+        "performance": 151
     },
     "GeForce GT 230": {
         "name": "GeForce GT 230",
@@ -7704,7 +8839,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 471
+        "performance": 316
     },
     "GeForce GT 230M": {
         "name": "GeForce GT 230M",
@@ -7728,7 +8863,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "500",
-        "performance": 332
+        "performance": 225
     },
     "GeForce GT 240": {
         "name": "GeForce GT 240",
@@ -7752,31 +8887,30 @@ const database = {
         "type": "Desktop",
         "tdp": 69,
         "clockSpeed": "550",
-        "performance": 649
+        "performance": 538
     },
     "GeForce GT 240M": {
         "name": "GeForce GT 240M",
         "names": [
             "GeForce GT 240M",
-            "NVIDIA GeForce GT 240M"
+            "GeForce GT 240M LE"
         ],
         "codeName": null,
-        "architecture": "GT2xx",
+        "architecture": null,
         "openGL": null,
-        "directX": "10.1",
+        "directX": null,
         "vendor": "NVIDIA",
-        "released": "Jun 15, 2009",
-        "memory": 1024,
-        "memoryType": "GDDR3",
-        "clock": 550,
-        "memoryClock": 800,
-        "shaderUnits": 48,
+        "released": "Jan 15, 2010",
+        "memory": 512,
+        "memoryType": "DDR2",
+        "clock": 600,
+        "memoryClock": 400,
+        "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
         "type": "Mobile",
         "tdp": 23,
-        "clockSpeed": "550",
-        "performance": 350
+        "performance": 212
     },
     "GeForce GT 320": {
         "name": "GeForce GT 320",
@@ -7799,7 +8933,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 43,
-        "performance": 553
+        "performance": 444
     },
     "GeForce GT 320M": {
         "name": "GeForce GT 320M",
@@ -7823,7 +8957,7 @@ const database = {
         "type": "Mobile",
         "tdp": 14,
         "clockSpeed": "500",
-        "performance": 205
+        "performance": 115
     },
     "GeForce GT 325M": {
         "name": "GeForce GT 325M",
@@ -7847,7 +8981,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "450",
-        "performance": 293
+        "performance": 169
     },
     "GeForce GT 330": {
         "name": "GeForce GT 330",
@@ -7870,7 +9004,7 @@ const database = {
         "textureUnits": 48,
         "type": "Unknown",
         "tdp": null,
-        "performance": 555
+        "performance": 480
     },
     "GeForce GT 330M": {
         "name": "GeForce GT 330M",
@@ -7894,7 +9028,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "575",
-        "performance": 362
+        "performance": 211
     },
     "GeForce GT 335M": {
         "name": "GeForce GT 335M",
@@ -7918,7 +9052,7 @@ const database = {
         "type": "Mobile",
         "tdp": 28,
         "clockSpeed": "450",
-        "performance": 502
+        "performance": 410
     },
     "GeForce GT 340": {
         "name": "GeForce GT 340",
@@ -7941,7 +9075,30 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 69,
-        "performance": 775
+        "performance": 774
+    },
+    "GeForce GT 415": {
+        "name": "GeForce GT 415",
+        "names": [
+            "GeForce GT 415",
+            "GeForce GT 415 OEM"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Sep 3, 2010",
+        "memory": 512,
+        "memoryType": "DDR3",
+        "clock": 625,
+        "memoryClock": 333,
+        "shaderUnits": 48,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 248
     },
     "GeForce GT 415M": {
         "name": "GeForce GT 415M",
@@ -7965,7 +9122,7 @@ const database = {
         "type": "Mobile",
         "tdp": 12,
         "clockSpeed": "500",
-        "performance": 319
+        "performance": 318
     },
     "GeForce GT 420": {
         "name": "GeForce GT 420",
@@ -7988,7 +9145,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 473
+        "performance": 405
     },
     "GeForce GT 420M": {
         "name": "GeForce GT 420M",
@@ -8012,7 +9169,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "500",
-        "performance": 544
+        "performance": 432
     },
     "GeForce GT 425M": {
         "name": "GeForce GT 425M",
@@ -8036,7 +9193,7 @@ const database = {
         "type": "Mobile",
         "tdp": 23,
         "clockSpeed": "560",
-        "performance": 625
+        "performance": 485
     },
     "GeForce GT 430": {
         "name": "GeForce GT 430",
@@ -8060,7 +9217,7 @@ const database = {
         "type": "Desktop",
         "tdp": 49,
         "clockSpeed": "700",
-        "performance": 661
+        "performance": 564
     },
     "GeForce GT 435M": {
         "name": "GeForce GT 435M",
@@ -8084,7 +9241,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "650",
-        "performance": 665
+        "performance": 558
     },
     "GeForce GT 440": {
         "name": "GeForce GT 440",
@@ -8106,7 +9263,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 842
+        "performance": 776
     },
     "GeForce GT 445M": {
         "name": "GeForce GT 445M",
@@ -8130,7 +9287,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "590",
-        "performance": 1054
+        "performance": 1
     },
     "GeForce GT 520": {
         "name": "GeForce GT 520",
@@ -8152,7 +9309,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 29,
-        "performance": 366
+        "performance": 293
     },
     "GeForce GT 520M": {
         "name": "GeForce GT 520M",
@@ -8176,7 +9333,7 @@ const database = {
         "type": "Mobile",
         "tdp": 12,
         "clockSpeed": "740 / 600",
-        "performance": 381
+        "performance": 275
     },
     "GeForce GT 520MX": {
         "name": "GeForce GT 520MX",
@@ -8200,7 +9357,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "900",
-        "performance": 406
+        "performance": 293
     },
     "GeForce GT 525M": {
         "name": "GeForce GT 525M",
@@ -8224,7 +9381,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "600",
-        "performance": 600
+        "performance": 437
     },
     "GeForce GT 530": {
         "name": "GeForce GT 530",
@@ -8247,7 +9404,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 744
+        "performance": 655
     },
     "GeForce GT 540M": {
         "name": "GeForce GT 540M",
@@ -8271,7 +9428,7 @@ const database = {
         "type": "Mobile",
         "tdp": 32,
         "clockSpeed": "672",
-        "performance": 649
+        "performance": 496
     },
     "GeForce GT 545": {
         "name": "GeForce GT 545",
@@ -8293,7 +9450,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1294
+        "performance": 1
     },
     "GeForce GT 550M": {
         "name": "GeForce GT 550M",
@@ -8317,7 +9474,7 @@ const database = {
         "type": "Mobile",
         "tdp": 32,
         "clockSpeed": "740",
-        "performance": 718
+        "performance": 600
     },
     "GeForce GT 555M": {
         "name": "GeForce GT 555M",
@@ -8341,7 +9498,7 @@ const database = {
         "type": "Mobile",
         "tdp": 30,
         "clockSpeed": "525",
-        "performance": 894
+        "performance": 683
     },
     "GeForce GT 610": {
         "name": "GeForce GT 610",
@@ -8363,7 +9520,29 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 29,
-        "performance": 351
+        "performance": 296
+    },
+    "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT": {
+        "name": "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT",
+        "names": [
+            "GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 369
     },
     "GeForce GT 620": {
         "name": "GeForce GT 620",
@@ -8385,7 +9564,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 30,
-        "performance": 430
+        "performance": 350
     },
     "GeForce GT 620M": {
         "name": "GeForce GT 620M",
@@ -8409,7 +9588,7 @@ const database = {
         "type": "Mobile",
         "tdp": 15,
         "clockSpeed": "625",
-        "performance": 571
+        "performance": 411
     },
     "GeForce GT 625": {
         "name": "GeForce GT 625",
@@ -8432,7 +9611,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 30,
-        "performance": 437
+        "performance": 315
     },
     "GeForce GT 625M": {
         "name": "GeForce GT 625M",
@@ -8456,7 +9635,7 @@ const database = {
         "type": "Mobile",
         "tdp": 15,
         "clockSpeed": "625",
-        "performance": 500
+        "performance": 435
     },
     "GeForce GT 630": {
         "name": "GeForce GT 630",
@@ -8478,7 +9657,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 746
+        "performance": 663
     },
     "GeForce GT 630M": {
         "name": "GeForce GT 630M",
@@ -8502,7 +9681,7 @@ const database = {
         "type": "Mobile",
         "tdp": 33,
         "clockSpeed": "672",
-        "performance": 688
+        "performance": 543
     },
     "GeForce GT 635": {
         "name": "GeForce GT 635",
@@ -8525,7 +9704,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 915
+        "performance": 819
     },
     "GeForce GT 635M": {
         "name": "GeForce GT 635M",
@@ -8549,7 +9728,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "660",
-        "performance": 696
+        "performance": 572
     },
     "GeForce GT 640": {
         "name": "GeForce GT 640",
@@ -8571,7 +9750,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 1280
+        "performance": 1
     },
     "GeForce GT 640M": {
         "name": "GeForce GT 640M",
@@ -8595,7 +9774,7 @@ const database = {
         "type": "Mobile",
         "tdp": 32,
         "clockSpeed": "625",
-        "performance": 962
+        "performance": 910
     },
     "GeForce GT 640M LE": {
         "name": "GeForce GT 640M LE",
@@ -8619,7 +9798,7 @@ const database = {
         "type": "Mobile",
         "tdp": 32,
         "clockSpeed": "500",
-        "performance": 784
+        "performance": 686
     },
     "GeForce GT 645": {
         "name": "GeForce GT 645",
@@ -8642,7 +9821,7 @@ const database = {
         "textureUnits": 48,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2250
+        "performance": 2
     },
     "GeForce GT 645M": {
         "name": "GeForce GT 645M",
@@ -8666,7 +9845,7 @@ const database = {
         "type": "Mobile",
         "tdp": 32,
         "clockSpeed": "710",
-        "performance": 889
+        "performance": 938
     },
     "GeForce GT 650M": {
         "name": "GeForce GT 650M",
@@ -8690,7 +9869,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "735",
-        "performance": 1230
+        "performance": 1
     },
     "GeForce GT 705": {
         "name": "GeForce GT 705",
@@ -8713,7 +9892,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 29,
-        "performance": 421
+        "performance": 369
     },
     "GeForce GT 710": {
         "name": "GeForce GT 710",
@@ -8735,7 +9914,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 25,
-        "performance": 680
+        "performance": 639
     },
     "GeForce GT 710M": {
         "name": "GeForce GT 710M",
@@ -8757,7 +9936,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 549
+        "performance": 425
     },
     "GeForce GT 720": {
         "name": "GeForce GT 720",
@@ -8779,7 +9958,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 19,
-        "performance": 715
+        "performance": 571
     },
     "GeForce GT 720A": {
         "name": "GeForce GT 720A",
@@ -8801,7 +9980,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 661
+        "performance": 555
     },
     "GeForce GT 720M": {
         "name": "GeForce GT 720M",
@@ -8825,7 +10004,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "625",
-        "performance": 561
+        "performance": 442
     },
     "GeForce GT 730": {
         "name": "GeForce GT 730",
@@ -8847,7 +10026,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 49,
-        "performance": 920
+        "performance": 794
     },
     "GeForce GT 730A": {
         "name": "GeForce GT 730A",
@@ -8869,7 +10048,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 742
+        "performance": 743
     },
     "GeForce GT 730M": {
         "name": "GeForce GT 730M",
@@ -8893,7 +10072,7 @@ const database = {
         "type": "Mobile",
         "tdp": 33,
         "clockSpeed": "725",
-        "performance": 834
+        "performance": 849
     },
     "GeForce GT 735M": {
         "name": "GeForce GT 735M",
@@ -8917,7 +10096,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "575",
-        "performance": 668
+        "performance": 662
     },
     "GeForce GT 740": {
         "name": "GeForce GT 740",
@@ -8939,7 +10118,29 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 64,
-        "performance": 1572
+        "performance": 1
+    },
+    "GeForce GT 740A": {
+        "name": "GeForce GT 740A",
+        "names": [
+            "GeForce GT 740A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Aug 26, 2013",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 980,
+        "memoryClock": 900,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 32,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 705
     },
     "GeForce GT 740M": {
         "name": "GeForce GT 740M",
@@ -8963,7 +10164,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "810",
-        "performance": 785
+        "performance": 769
     },
     "GeForce GT 745A": {
         "name": "GeForce GT 745A",
@@ -8985,7 +10186,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1179
+        "performance": 1
     },
     "GeForce GT 745M": {
         "name": "GeForce GT 745M",
@@ -9009,7 +10210,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "837",
-        "performance": 973
+        "performance": 974
     },
     "GeForce GT 750M": {
         "name": "GeForce GT 750M",
@@ -9033,7 +10234,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "967",
-        "performance": 1294
+        "performance": 1
     },
     "GeForce GT 755M": {
         "name": "GeForce GT 755M",
@@ -9057,7 +10258,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "980",
-        "performance": 1597
+        "performance": 1
     },
     "GeForce GT 820M": {
         "name": "GeForce GT 820M",
@@ -9079,7 +10280,7 @@ const database = {
         "textureUnits": 16,
         "type": "Unknown",
         "tdp": null,
-        "performance": 700
+        "performance": 673
     },
     "GeForce GT625M": {
         "name": "GeForce GT625M",
@@ -9101,7 +10302,31 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 528
+        "performance": 507
+    },
+    "GeForce GTS 150M": {
+        "name": "GeForce GTS 150M",
+        "names": [
+            "GeForce GTS 150M",
+            "NVIDIA GeForce GTS 150M"
+        ],
+        "codeName": null,
+        "architecture": "G9x",
+        "openGL": null,
+        "directX": "10.0",
+        "vendor": "NVIDIA",
+        "released": "Mar 3, 2009",
+        "memory": 1024,
+        "memoryType": "GDDR3",
+        "clock": 400,
+        "memoryClock": 800,
+        "shaderUnits": 64,
+        "renderUnits": 16,
+        "textureUnits": 32,
+        "type": "Mobile",
+        "tdp": null,
+        "clockSpeed": "400",
+        "performance": 504
     },
     "GeForce GTS 160M": {
         "name": "GeForce GTS 160M",
@@ -9125,7 +10350,7 @@ const database = {
         "type": "Mobile",
         "tdp": 60,
         "clockSpeed": "600",
-        "performance": 678
+        "performance": 679
     },
     "GeForce GTS 240": {
         "name": "GeForce GTS 240",
@@ -9148,7 +10373,7 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 120,
-        "performance": 817
+        "performance": 630
     },
     "GeForce GTS 250": {
         "name": "GeForce GTS 250",
@@ -9170,7 +10395,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 876
+        "performance": 612
     },
     "GeForce GTS 250M": {
         "name": "GeForce GTS 250M",
@@ -9194,7 +10419,7 @@ const database = {
         "type": "Mobile",
         "tdp": 28,
         "clockSpeed": "500",
-        "performance": 567
+        "performance": 542
     },
     "GeForce GTS 350M": {
         "name": "GeForce GTS 350M",
@@ -9218,7 +10443,7 @@ const database = {
         "type": "Mobile",
         "tdp": 28,
         "clockSpeed": "500",
-        "performance": 556
+        "performance": 442
     },
     "GeForce GTS 360M": {
         "name": "GeForce GTS 360M",
@@ -9242,7 +10467,7 @@ const database = {
         "type": "Mobile",
         "tdp": 38,
         "clockSpeed": "575",
-        "performance": 757
+        "performance": 640
     },
     "GeForce GTS 450": {
         "name": "GeForce GTS 450",
@@ -9266,13 +10491,13 @@ const database = {
         "type": "Desktop",
         "tdp": 106,
         "clockSpeed": "783",
-        "performance": 1556
+        "performance": 1
     },
     "GeForce GTX 1050": {
         "name": "GeForce GTX 1050",
         "names": [
             "GeForce GTX 1050",
-            "NVIDIA GeForce GTX 1050 (Desktop)"
+            "NVIDIA GeForce GTX 1050 Mobile"
         ],
         "codeName": null,
         "architecture": "Pascal",
@@ -9290,13 +10515,38 @@ const database = {
         "type": "Desktop",
         "tdp": 75,
         "clockSpeed": "1354",
-        "performance": 4666
+        "performance": 5
+    },
+    "GeForce GTX 1050 (Mobile)": {
+        "name": "GeForce GTX 1050 (Mobile)",
+        "names": [
+            "GeForce GTX 1050 (Mobile)",
+            "GeForce GTX 1050 Mobile",
+            "NVIDIA GeForce GTX 1050 Ti Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Feb 1, 2017",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1354,
+        "memoryClock": 1752,
+        "shaderUnits": 640,
+        "renderUnits": 32,
+        "textureUnits": 40,
+        "type": "Mobile",
+        "tdp": null,
+        "clockSpeed": "1493",
+        "performance": 4
     },
     "GeForce GTX 1050 Ti": {
         "name": "GeForce GTX 1050 Ti",
         "names": [
             "GeForce GTX 1050 Ti",
-            "NVIDIA GeForce GTX 1050 Ti (Laptop)"
+            "NVIDIA GeForce GTX 1050 Ti (Desktop)"
         ],
         "codeName": null,
         "architecture": "Pascal",
@@ -9313,8 +10563,31 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 75,
-        "clockSpeed": "1493",
-        "performance": 5997
+        "clockSpeed": "1290",
+        "performance": 6
+    },
+    "GeForce GTX 1050 Ti (Mobile)": {
+        "name": "GeForce GTX 1050 Ti (Mobile)",
+        "names": [
+            "GeForce GTX 1050 Ti (Mobile)",
+            "GeForce GTX 1050 Ti Mobile"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Feb 1, 2017",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1493,
+        "memoryClock": 1752,
+        "shaderUnits": 768,
+        "renderUnits": 32,
+        "textureUnits": 48,
+        "type": "Mobile",
+        "tdp": null,
+        "performance": 5
     },
     "GeForce GTX 1050 Ti with Max-Q Design": {
         "name": "GeForce GTX 1050 Ti with Max-Q Design",
@@ -9336,10 +10609,10 @@ const database = {
         "shaderUnits": 768,
         "renderUnits": 32,
         "textureUnits": 48,
-        "type": "Unknown",
+        "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1151 – 1290",
-        "performance": 5705
+        "performance": 5
     },
     "GeForce GTX 1050 with Max-Q Design": {
         "name": "GeForce GTX 1050 with Max-Q Design",
@@ -9361,17 +10634,17 @@ const database = {
         "shaderUnits": 640,
         "renderUnits": 16,
         "textureUnits": 40,
-        "type": "Unknown",
+        "type": "Mobile",
         "tdp": null,
         "clockSpeed": "999 - 1189",
-        "performance": 3999
+        "performance": 3
     },
     "GeForce GTX 1060": {
         "name": "GeForce GTX 1060",
         "names": [
             "GeForce GTX 1060",
             "GeForce GTX 1060 Mobile",
-            "NVIDIA GeForce GTX 1060 (Desktop)"
+            "NVIDIA GeForce GTX 1060 Mobile"
         ],
         "codeName": null,
         "architecture": "Pascal",
@@ -9388,8 +10661,32 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 120,
+        "clockSpeed": "1404",
+        "performance": 10
+    },
+    "GeForce GTX 1060 (Mobile)": {
+        "name": "GeForce GTX 1060 (Mobile)",
+        "names": [
+            "GeForce GTX 1060 (Mobile)",
+            "NVIDIA GeForce GTX 1060 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Aug 02 2016",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 1404,
+        "memoryClock": 1404,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": null,
         "clockSpeed": "1506",
-        "performance": 9079
+        "performance": 8
     },
     "GeForce GTX 1060 3GB": {
         "name": "GeForce GTX 1060 3GB",
@@ -9405,13 +10702,13 @@ const database = {
         "memory": 3072,
         "memoryType": null,
         "clock": 1708,
-        "memoryClock": 2000,
+        "memoryClock": 1708,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 120,
-        "performance": 8966
+        "performance": 9
     },
     "GeForce GTX 1060 5GB": {
         "name": "GeForce GTX 1060 5GB",
@@ -9427,13 +10724,13 @@ const database = {
         "memory": 5120,
         "memoryType": null,
         "clock": 1556,
-        "memoryClock": 2002,
+        "memoryClock": 1556,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 5856
+        "performance": 4
     },
     "GeForce GTX 1060 with Max-Q Design": {
         "name": "GeForce GTX 1060 with Max-Q Design",
@@ -9458,13 +10755,13 @@ const database = {
         "type": "Mobile",
         "tdp": 80,
         "clockSpeed": "1063 - 1265",
-        "performance": 7792
+        "performance": 7
     },
     "GeForce GTX 1070": {
         "name": "GeForce GTX 1070",
         "names": [
             "GeForce GTX 1070",
-            "NVIDIA GeForce GTX 1070 (Desktop)"
+            "NVIDIA GeForce GTX 1070 Mobile"
         ],
         "codeName": null,
         "architecture": "Pascal",
@@ -9481,8 +10778,33 @@ const database = {
         "textureUnits": 120,
         "type": "Desktop",
         "tdp": 150,
+        "clockSpeed": "1443",
+        "performance": 13
+    },
+    "GeForce GTX 1070 (Mobile)": {
+        "name": "GeForce GTX 1070 (Mobile)",
+        "names": [
+            "GeForce GTX 1070 (Mobile)",
+            "GeForce GTX 1070 Mobile",
+            "NVIDIA GeForce GTX 1070 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Aug 15, 2016",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 1442,
+        "memoryClock": 2002,
+        "shaderUnits": 2048,
+        "renderUnits": 64,
+        "textureUnits": 128,
+        "type": "Mobile",
+        "tdp": null,
         "clockSpeed": "1506",
-        "performance": 11317
+        "performance": 10
     },
     "GeForce GTX 1070 Ti": {
         "name": "GeForce GTX 1070 Ti",
@@ -9506,7 +10828,7 @@ const database = {
         "type": "Desktop",
         "tdp": 180,
         "clockSpeed": "1607",
-        "performance": 12328
+        "performance": 13
     },
     "GeForce GTX 1070 with Max-Q Design": {
         "name": "GeForce GTX 1070 with Max-Q Design",
@@ -9531,13 +10853,13 @@ const database = {
         "type": "Mobile",
         "tdp": 90,
         "clockSpeed": "1101 - 1215",
-        "performance": 9388
+        "performance": 10
     },
     "GeForce GTX 1080": {
         "name": "GeForce GTX 1080",
         "names": [
             "GeForce GTX 1080",
-            "NVIDIA GeForce GTX 1080 (Desktop)"
+            "NVIDIA GeForce GTX 1080 Mobile"
         ],
         "codeName": null,
         "architecture": "Pascal",
@@ -9554,8 +10876,8 @@ const database = {
         "textureUnits": 160,
         "type": "Desktop",
         "tdp": 180,
-        "clockSpeed": "1607",
-        "performance": 12404
+        "clockSpeed": "1566",
+        "performance": 14
     },
     "GeForce GTX 1080 Ti": {
         "name": "GeForce GTX 1080 Ti",
@@ -9579,7 +10901,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "1481",
-        "performance": 14214
+        "performance": 17
     },
     "GeForce GTX 1080 with Max-Q Design": {
         "name": "GeForce GTX 1080 with Max-Q Design",
@@ -9604,13 +10926,205 @@ const database = {
         "type": "Mobile",
         "tdp": 110,
         "clockSpeed": "1101 - 1290",
-        "performance": 10283
+        "performance": 11
+    },
+    "GeForce GTX 1650": {
+        "name": "GeForce GTX 1650",
+        "names": [
+            "GeForce GTX 1650",
+            "NVIDIA GeForce GTX 1650 Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Apr 30, 2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1485,
+        "memoryClock": 2000,
+        "shaderUnits": 896,
+        "renderUnits": 32,
+        "textureUnits": 56,
+        "type": "Desktop",
+        "tdp": 75,
+        "clockSpeed": "1395",
+        "performance": 7
+    },
+    "GeForce GTX 1650 (Mobile)": {
+        "name": "GeForce GTX 1650 (Mobile)",
+        "names": [
+            "GeForce GTX 1650 (Mobile)",
+            "GeForce GTX 1650 Mobile",
+            "NVIDIA GeForce GTX 1650 Ti Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1395,
+        "memoryClock": 2000,
+        "shaderUnits": 896,
+        "renderUnits": 32,
+        "textureUnits": 56,
+        "type": "Mobile",
+        "tdp": 50,
+        "clockSpeed": "1350",
+        "performance": 6
+    },
+    "GeForce GTX 1650 SUPER": {
+        "name": "GeForce GTX 1650 SUPER",
+        "names": [
+            "GeForce GTX 1650 SUPER"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 4096,
+        "memoryType": null,
+        "clock": 1530,
+        "memoryClock": 1530,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 100,
+        "performance": 9
+    },
+    "GeForce GTX 1650 Ti": {
+        "name": "GeForce GTX 1650 Ti",
+        "names": [
+            "GeForce GTX 1650 Ti",
+            "NVIDIA GeForce GTX 1650 Ti (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sat Jun 15 2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1350,
+        "memoryClock": 1350,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 55,
+        "clockSpeed": "1530",
+        "performance": 7
+    },
+    "GeForce GTX 1650 Ti with Max-Q Design": {
+        "name": "GeForce GTX 1650 Ti with Max-Q Design",
+        "names": [
+            "GeForce GTX 1650 Ti with Max-Q Design",
+            "GeForce GTX 1650 Max-Q",
+            "NVIDIA GeForce GTX 1650 Ti Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1020,
+        "memoryClock": 2000,
+        "shaderUnits": 896,
+        "renderUnits": 32,
+        "textureUnits": 56,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1035",
+        "performance": 5
+    },
+    "GeForce GTX 1650 with Max-Q Design": {
+        "name": "GeForce GTX 1650 with Max-Q Design",
+        "names": [
+            "GeForce GTX 1650 with Max-Q Design",
+            "NVIDIA GeForce GTX 1650 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue May 07 2019",
+        "memory": 4096,
+        "memoryType": "GDDR5, GDDR6",
+        "clock": 1020,
+        "memoryClock": 1020,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 35,
+        "clockSpeed": "1020",
+        "performance": 5
+    },
+    "GeForce GTX 1660": {
+        "name": "GeForce GTX 1660",
+        "names": [
+            "GeForce GTX 1660",
+            "NVIDIA GeForce GTX 1660 Ti Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Mar 15, 2019",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 1530,
+        "memoryClock": 2000,
+        "shaderUnits": 1280,
+        "renderUnits": 48,
+        "textureUnits": 80,
+        "type": "Desktop",
+        "tdp": 120,
+        "clockSpeed": "1455",
+        "performance": 11
+    },
+    "GeForce GTX 1660 SUPER": {
+        "name": "GeForce GTX 1660 SUPER",
+        "names": [
+            "GeForce GTX 1660 SUPER",
+            "NVIDIA GeForce GTX 1660 Super (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Nov 12 2019",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 1530,
+        "memoryClock": 1530,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 125,
+        "clockSpeed": "1530",
+        "performance": 12
     },
     "GeForce GTX 1660 Ti": {
         "name": "GeForce GTX 1660 Ti",
         "names": [
             "GeForce GTX 1660 Ti",
-            "NVIDIA GeForce GTX 1660 Ti (Laptop)"
+            "NVIDIA GeForce GTX 1660 Ti (Desktop)"
         ],
         "codeName": null,
         "architecture": "Turing",
@@ -9627,8 +11141,56 @@ const database = {
         "textureUnits": 96,
         "type": "Desktop",
         "tdp": 120,
-        "clockSpeed": null,
-        "performance": 11628
+        "clockSpeed": "1500",
+        "performance": 12
+    },
+    "GeForce GTX 1660 Ti (Mobile)": {
+        "name": "GeForce GTX 1660 Ti (Mobile)",
+        "names": [
+            "GeForce GTX 1660 Ti (Mobile)",
+            "GeForce GTX 1660 Mobile"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Unknown",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 1455,
+        "memoryClock": 2000,
+        "shaderUnits": 1280,
+        "renderUnits": 48,
+        "textureUnits": 80,
+        "type": "Mobile",
+        "tdp": 50,
+        "performance": 10
+    },
+    "GeForce GTX 1660 Ti with Max-Q Design": {
+        "name": "GeForce GTX 1660 Ti with Max-Q Design",
+        "names": [
+            "GeForce GTX 1660 Ti with Max-Q Design",
+            "GeForce GTX 1660 Max-Q",
+            "NVIDIA GeForce GTX 1660 Ti Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Unknown",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 1140,
+        "memoryClock": 2000,
+        "shaderUnits": 1280,
+        "renderUnits": 48,
+        "textureUnits": 80,
+        "type": "Mobile",
+        "tdp": 60,
+        "clockSpeed": "1140",
+        "performance": 8
     },
     "GeForce GTX 260": {
         "name": "GeForce GTX 260",
@@ -9650,7 +11212,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 202,
-        "performance": 1135
+        "performance": 1
     },
     "GeForce GTX 260M": {
         "name": "GeForce GTX 260M",
@@ -9674,7 +11236,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "550",
-        "performance": 588
+        "performance": 497
     },
     "GeForce GTX 275": {
         "name": "GeForce GTX 275",
@@ -9696,7 +11258,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 219,
-        "performance": 1243
+        "performance": 1
     },
     "GeForce GTX 280": {
         "name": "GeForce GTX 280",
@@ -9718,7 +11280,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 236,
-        "performance": 1203
+        "performance": 1
     },
     "GeForce GTX 280M": {
         "name": "GeForce GTX 280M",
@@ -9742,7 +11304,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "585",
-        "performance": 620
+        "performance": 621
     },
     "GeForce GTX 285": {
         "name": "GeForce GTX 285",
@@ -9764,7 +11326,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 204,
-        "performance": 1271
+        "performance": 1
     },
     "GeForce GTX 285M": {
         "name": "GeForce GTX 285M",
@@ -9788,7 +11350,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "576",
-        "performance": 734
+        "performance": 735
     },
     "GeForce GTX 295": {
         "name": "GeForce GTX 295",
@@ -9810,7 +11372,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 289,
-        "performance": 1054
+        "performance": 1
     },
     "GeForce GTX 460": {
         "name": "GeForce GTX 460",
@@ -9834,7 +11396,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "675",
-        "performance": 2654
+        "performance": 2
     },
     "GeForce GTX 460 SE": {
         "name": "GeForce GTX 460 SE",
@@ -9856,7 +11418,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 2257
+        "performance": 1
     },
     "GeForce GTX 460 v2": {
         "name": "GeForce GTX 460 v2",
@@ -9878,7 +11440,7 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 160,
-        "performance": 2491
+        "performance": 2
     },
     "GeForce GTX 460M": {
         "name": "GeForce GTX 460M",
@@ -9902,7 +11464,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "675",
-        "performance": 1393
+        "performance": 1
     },
     "GeForce GTX 465": {
         "name": "GeForce GTX 465",
@@ -9924,7 +11486,7 @@ const database = {
         "textureUnits": 44,
         "type": "Desktop",
         "tdp": 200,
-        "performance": 2947
+        "performance": 2
     },
     "GeForce GTX 470": {
         "name": "GeForce GTX 470",
@@ -9948,7 +11510,7 @@ const database = {
         "type": "Desktop",
         "tdp": 215,
         "clockSpeed": "607",
-        "performance": 3602
+        "performance": 3
     },
     "GeForce GTX 470M": {
         "name": "GeForce GTX 470M",
@@ -9972,7 +11534,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "535",
-        "performance": 1949
+        "performance": 1
     },
     "GeForce GTX 480": {
         "name": "GeForce GTX 480",
@@ -9996,7 +11558,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "700",
-        "performance": 4360
+        "performance": 3
     },
     "GeForce GTX 480M": {
         "name": "GeForce GTX 480M",
@@ -10020,7 +11582,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "425",
-        "performance": 2039
+        "performance": 2
     },
     "GeForce GTX 485M": {
         "name": "GeForce GTX 485M",
@@ -10044,7 +11606,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "575",
-        "performance": 2400
+        "performance": 2
     },
     "GeForce GTX 550 Ti": {
         "name": "GeForce GTX 550 Ti",
@@ -10068,7 +11630,7 @@ const database = {
         "type": "Desktop",
         "tdp": 116,
         "clockSpeed": "900",
-        "performance": 1923
+        "performance": 1
     },
     "GeForce GTX 555": {
         "name": "GeForce GTX 555",
@@ -10091,7 +11653,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 2158
+        "performance": 1
     },
     "GeForce GTX 560": {
         "name": "GeForce GTX 560",
@@ -10115,7 +11677,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "822",
-        "performance": 3118
+        "performance": 2
     },
     "GeForce GTX 560 SE": {
         "name": "GeForce GTX 560 SE",
@@ -10137,7 +11699,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 2192
+        "performance": 1
     },
     "GeForce GTX 560 Ti": {
         "name": "GeForce GTX 560 Ti",
@@ -10159,7 +11721,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 170,
-        "performance": 3529
+        "performance": 3
     },
     "GeForce GTX 560M": {
         "name": "GeForce GTX 560M",
@@ -10183,7 +11745,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "775",
-        "performance": 1545
+        "performance": 1
     },
     "GeForce GTX 570": {
         "name": "GeForce GTX 570",
@@ -10207,7 +11769,7 @@ const database = {
         "type": "Desktop",
         "tdp": 219,
         "clockSpeed": "732",
-        "performance": 4416
+        "performance": 3
     },
     "GeForce GTX 570M": {
         "name": "GeForce GTX 570M",
@@ -10231,7 +11793,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "575",
-        "performance": 2024
+        "performance": 1
     },
     "GeForce GTX 580": {
         "name": "GeForce GTX 580",
@@ -10255,7 +11817,7 @@ const database = {
         "type": "Desktop",
         "tdp": 244,
         "clockSpeed": "775",
-        "performance": 5020
+        "performance": 4
     },
     "GeForce GTX 580M": {
         "name": "GeForce GTX 580M",
@@ -10279,7 +11841,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "620",
-        "performance": 2274
+        "performance": 2
     },
     "GeForce GTX 590": {
         "name": "GeForce GTX 590",
@@ -10303,7 +11865,7 @@ const database = {
         "type": "Desktop",
         "tdp": 365,
         "clockSpeed": "607",
-        "performance": 4212
+        "performance": 3
     },
     "GeForce GTX 645": {
         "name": "GeForce GTX 645",
@@ -10326,7 +11888,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 64,
-        "performance": 1930
+        "performance": 1
     },
     "GeForce GTX 650": {
         "name": "GeForce GTX 650",
@@ -10348,7 +11910,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 64,
-        "performance": 1834
+        "performance": 1
     },
     "GeForce GTX 650 Ti": {
         "name": "GeForce GTX 650 Ti",
@@ -10370,7 +11932,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 110,
-        "performance": 2659
+        "performance": 2
     },
     "GeForce GTX 650 Ti BOOST": {
         "name": "GeForce GTX 650 Ti BOOST",
@@ -10393,7 +11955,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 134,
-        "performance": 3534
+        "performance": 3
     },
     "GeForce GTX 660": {
         "name": "GeForce GTX 660",
@@ -10417,7 +11979,7 @@ const database = {
         "type": "Desktop",
         "tdp": 140,
         "clockSpeed": "915",
-        "performance": 4128
+        "performance": 3
     },
     "GeForce GTX 660 Ti": {
         "name": "GeForce GTX 660 Ti",
@@ -10439,7 +12001,7 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 4663
+        "performance": 4
     },
     "GeForce GTX 660M": {
         "name": "GeForce GTX 660M",
@@ -10463,7 +12025,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "835",
-        "performance": 1439
+        "performance": 1
     },
     "GeForce GTX 670": {
         "name": "GeForce GTX 670",
@@ -10485,7 +12047,7 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 170,
-        "performance": 5367
+        "performance": 5
     },
     "GeForce GTX 670M": {
         "name": "GeForce GTX 670M",
@@ -10509,7 +12071,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "598",
-        "performance": 1941
+        "performance": 1
     },
     "GeForce GTX 670MX": {
         "name": "GeForce GTX 670MX",
@@ -10533,7 +12095,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "600",
-        "performance": 2076
+        "performance": 1
     },
     "GeForce GTX 675M": {
         "name": "GeForce GTX 675M",
@@ -10557,7 +12119,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "620",
-        "performance": 2147
+        "performance": 2
     },
     "GeForce GTX 675MX": {
         "name": "GeForce GTX 675MX",
@@ -10581,7 +12143,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "600",
-        "performance": 2417
+        "performance": 1
     },
     "GeForce GTX 680": {
         "name": "GeForce GTX 680",
@@ -10605,7 +12167,7 @@ const database = {
         "type": "Desktop",
         "tdp": 195,
         "clockSpeed": "1006",
-        "performance": 5671
+        "performance": 5
     },
     "GeForce GTX 680M": {
         "name": "GeForce GTX 680M",
@@ -10629,7 +12191,29 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "720",
-        "performance": 3344
+        "performance": 2
+    },
+    "GeForce GTX 680M KY_Bullet Edition": {
+        "name": "GeForce GTX 680M KY_Bullet Edition",
+        "names": [
+            "GeForce GTX 680M KY_Bullet Edition"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "GeForce GTX 680MX": {
         "name": "GeForce GTX 680MX",
@@ -10654,7 +12238,7 @@ const database = {
         "type": "Mobile",
         "tdp": 122,
         "clockSpeed": "720",
-        "performance": 4274
+        "performance": 4
     },
     "GeForce GTX 690": {
         "name": "GeForce GTX 690",
@@ -10676,7 +12260,7 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 300,
-        "performance": 5389
+        "performance": 5
     },
     "GeForce GTX 745": {
         "name": "GeForce GTX 745",
@@ -10699,7 +12283,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 55,
-        "performance": 2182
+        "performance": 2
     },
     "GeForce GTX 750": {
         "name": "GeForce GTX 750",
@@ -10723,7 +12307,7 @@ const database = {
         "type": "Desktop",
         "tdp": 55,
         "clockSpeed": "1020",
-        "performance": 3312
+        "performance": 3
     },
     "GeForce GTX 750 Ti": {
         "name": "GeForce GTX 750 Ti",
@@ -10745,7 +12329,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 60,
-        "performance": 3748
+        "performance": 3
     },
     "GeForce GTX 760": {
         "name": "GeForce GTX 760",
@@ -10769,7 +12353,7 @@ const database = {
         "type": "Desktop",
         "tdp": 170,
         "clockSpeed": "980",
-        "performance": 4937
+        "performance": 4
     },
     "GeForce GTX 760 Ti": {
         "name": "GeForce GTX 760 Ti",
@@ -10792,7 +12376,30 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 170,
-        "performance": 5119
+        "performance": 5
+    },
+    "GeForce GTX 760 Ti OEM": {
+        "name": "GeForce GTX 760 Ti OEM",
+        "names": [
+            "GeForce GTX 760 Ti OEM",
+            "GeForce GTX 760 OEM"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jun 27, 2013",
+        "memory": 1536,
+        "memoryType": "GDDR5",
+        "clock": 823,
+        "memoryClock": 1400,
+        "shaderUnits": 1152,
+        "renderUnits": 24,
+        "textureUnits": 96,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "GeForce GTX 760A": {
         "name": "GeForce GTX 760A",
@@ -10814,7 +12421,7 @@ const database = {
         "textureUnits": 64,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1281
+        "performance": 1
     },
     "GeForce GTX 760M": {
         "name": "GeForce GTX 760M",
@@ -10838,7 +12445,7 @@ const database = {
         "type": "Mobile",
         "tdp": 55,
         "clockSpeed": "657",
-        "performance": 1435
+        "performance": 1
     },
     "GeForce GTX 765M": {
         "name": "GeForce GTX 765M",
@@ -10862,7 +12469,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "850",
-        "performance": 1885
+        "performance": 1
     },
     "GeForce GTX 770": {
         "name": "GeForce GTX 770",
@@ -10884,31 +12491,31 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 230,
-        "performance": 6071
+        "performance": 5
     },
     "GeForce GTX 770M": {
         "name": "GeForce GTX 770M",
         "names": [
             "GeForce GTX 770M",
-            "NVIDIA GeForce GTX 770M"
+            "NVIDIA GeForce GTX 770M SLI"
         ],
         "codeName": null,
         "architecture": "Kepler",
         "openGL": "4.3",
         "directX": "11",
-        "vendor": "NVIDIA",
-        "released": "May 30, 2013",
+        "vendor": null,
+        "released": "Thu Jun 13 2013",
         "memory": 3072,
         "memoryType": "GDDR5",
-        "clock": 706,
-        "memoryClock": 1002,
-        "shaderUnits": 960,
-        "renderUnits": 24,
-        "textureUnits": 80,
+        "clock": 797,
+        "memoryClock": 797,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "811",
-        "performance": 2653
+        "performance": 2
     },
     "GeForce GTX 775M": {
         "name": "GeForce GTX 775M",
@@ -10933,7 +12540,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "719",
-        "performance": 4166
+        "performance": 4
     },
     "GeForce GTX 780": {
         "name": "GeForce GTX 780",
@@ -10957,7 +12564,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "875",
-        "performance": 7960
+        "performance": 7
     },
     "GeForce GTX 780 Ti": {
         "name": "GeForce GTX 780 Ti",
@@ -10979,7 +12586,7 @@ const database = {
         "textureUnits": 240,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 8890
+        "performance": 9
     },
     "GeForce GTX 780M": {
         "name": "GeForce GTX 780M",
@@ -11003,7 +12610,7 @@ const database = {
         "type": "Mobile",
         "tdp": 122,
         "clockSpeed": "823",
-        "performance": 4016
+        "performance": 3
     },
     "GeForce GTX 850A": {
         "name": "GeForce GTX 850A",
@@ -11025,7 +12632,7 @@ const database = {
         "textureUnits": 40,
         "type": "Unknown",
         "tdp": null,
-        "performance": 802
+        "performance": 1
     },
     "GeForce GTX 850M": {
         "name": "GeForce GTX 850M",
@@ -11049,7 +12656,29 @@ const database = {
         "type": "Mobile",
         "tdp": 40,
         "clockSpeed": "876",
-        "performance": 1608
+        "performance": 2
+    },
+    "GeForce GTX 850M - MODDED": {
+        "name": "GeForce GTX 850M - MODDED",
+        "names": [
+            "GeForce GTX 850M - MODDED"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "GeForce GTX 860M": {
         "name": "GeForce GTX 860M",
@@ -11073,7 +12702,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "1029",
-        "performance": 1917
+        "performance": 3
     },
     "GeForce GTX 870M": {
         "name": "GeForce GTX 870M",
@@ -11097,7 +12726,7 @@ const database = {
         "type": "Mobile",
         "tdp": 110,
         "clockSpeed": "941",
-        "performance": 2423
+        "performance": 3
     },
     "GeForce GTX 880M": {
         "name": "GeForce GTX 880M",
@@ -11121,7 +12750,7 @@ const database = {
         "type": "Mobile",
         "tdp": 130,
         "clockSpeed": "954",
-        "performance": 3697
+        "performance": 3
     },
     "GeForce GTX 950": {
         "name": "GeForce GTX 950",
@@ -11145,7 +12774,7 @@ const database = {
         "type": "Desktop",
         "tdp": 90,
         "clockSpeed": "1024",
-        "performance": 5226
+        "performance": 5
     },
     "GeForce GTX 950A": {
         "name": "GeForce GTX 950A",
@@ -11167,7 +12796,7 @@ const database = {
         "textureUnits": 40,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1654
+        "performance": 2
     },
     "GeForce GTX 950M": {
         "name": "GeForce GTX 950M",
@@ -11191,7 +12820,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "914 - 993",
-        "performance": 1877
+        "performance": 2
     },
     "GeForce GTX 960": {
         "name": "GeForce GTX 960",
@@ -11215,7 +12844,7 @@ const database = {
         "type": "Desktop",
         "tdp": 120,
         "clockSpeed": "1127",
-        "performance": 5814
+        "performance": 5
     },
     "GeForce GTX 960A": {
         "name": "GeForce GTX 960A",
@@ -11237,7 +12866,7 @@ const database = {
         "textureUnits": 40,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2358
+        "performance": 2
     },
     "GeForce GTX 960M": {
         "name": "GeForce GTX 960M",
@@ -11261,7 +12890,7 @@ const database = {
         "type": "Mobile",
         "tdp": 65,
         "clockSpeed": "1096",
-        "performance": 2307
+        "performance": 3
     },
     "GeForce GTX 965M": {
         "name": "GeForce GTX 965M",
@@ -11272,7 +12901,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Jan 9, 2015",
         "memory": 4096,
@@ -11285,7 +12914,7 @@ const database = {
         "type": "Mobile",
         "tdp": 60,
         "clockSpeed": "924 / 935",
-        "performance": 3201
+        "performance": 3
     },
     "GeForce GTX 970": {
         "name": "GeForce GTX 970",
@@ -11296,7 +12925,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Sep 19, 2014",
         "memory": 4096,
@@ -11309,7 +12938,7 @@ const database = {
         "type": "Desktop",
         "tdp": 145,
         "clockSpeed": "1050",
-        "performance": 8619
+        "performance": 9
     },
     "GeForce GTX 970M": {
         "name": "GeForce GTX 970M",
@@ -11320,7 +12949,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Oct 7, 2014",
         "memory": 6144,
@@ -11333,7 +12962,29 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "924",
-        "performance": 4162
+        "performance": 5
+    },
+    "GeForce GTX 970XM FORCE": {
+        "name": "GeForce GTX 970XM FORCE",
+        "names": [
+            "GeForce GTX 970XM FORCE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
     },
     "GeForce GTX 980": {
         "name": "GeForce GTX 980",
@@ -11344,7 +12995,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Sep 19, 2014",
         "memory": 4096,
@@ -11357,7 +13008,7 @@ const database = {
         "type": "Desktop",
         "tdp": 165,
         "clockSpeed": "1126",
-        "performance": 9629
+        "performance": 11
     },
     "GeForce GTX 980 Ti": {
         "name": "GeForce GTX 980 Ti",
@@ -11368,7 +13019,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Jun 2, 2015",
         "memory": 6144,
@@ -11381,7 +13032,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "1000",
-        "performance": 11378
+        "performance": 13
     },
     "GeForce GTX 980M": {
         "name": "GeForce GTX 980M",
@@ -11392,7 +13043,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Oct 7, 2014",
         "memory": 8192,
@@ -11405,7 +13056,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "1038",
-        "performance": 5931
+        "performance": 7
     },
     "GeForce GTX Titan": {
         "name": "GeForce GTX Titan",
@@ -11428,7 +13079,7 @@ const database = {
         "textureUnits": 224,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 7936
+        "performance": 8
     },
     "GeForce GTX TITAN Black": {
         "name": "GeForce GTX TITAN Black",
@@ -11451,7 +13102,7 @@ const database = {
         "textureUnits": 240,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 8617
+        "performance": 9
     },
     "GeForce GTX TITAN X": {
         "name": "GeForce GTX TITAN X",
@@ -11473,7 +13124,7 @@ const database = {
         "textureUnits": 192,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 10688
+        "performance": 12
     },
     "GeForce GTX TITAN Z": {
         "name": "GeForce GTX TITAN Z",
@@ -11495,7 +13146,7 @@ const database = {
         "textureUnits": 240,
         "type": "Desktop",
         "tdp": 375,
-        "performance": 7690
+        "performance": 8
     },
     "GeForce MX110": {
         "name": "GeForce MX110",
@@ -11519,7 +13170,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "965",
-        "performance": 1584
+        "performance": 1
     },
     "GeForce MX130": {
         "name": "GeForce MX130",
@@ -11543,7 +13194,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1122",
-        "performance": 1918
+        "performance": 1
     },
     "GeForce MX150": {
         "name": "GeForce MX150",
@@ -11567,7 +13218,127 @@ const database = {
         "type": "Mobile",
         "tdp": 25,
         "clockSpeed": "1468",
-        "performance": 2164
+        "performance": 2
+    },
+    "GeForce MX230": {
+        "name": "GeForce MX230",
+        "names": [
+            "GeForce MX230",
+            "NVIDIA GeForce MX230"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Feb 21, 2019",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 1519,
+        "memoryClock": 1502,
+        "shaderUnits": 256,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1519",
+        "performance": 1
+    },
+    "GeForce MX250": {
+        "name": "GeForce MX250",
+        "names": [
+            "GeForce MX250",
+            "NVIDIA GeForce MX250"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Unknown",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 937,
+        "memoryClock": 1502,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1518",
+        "performance": 2
+    },
+    "GeForce MX330": {
+        "name": "GeForce MX330",
+        "names": [
+            "GeForce MX330",
+            "NVIDIA GeForce MX330"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Mar 05 2020",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1531",
+        "performance": 2
+    },
+    "GeForce MX350": {
+        "name": "GeForce MX350",
+        "names": [
+            "GeForce MX350",
+            "NVIDIA GeForce MX350"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Mar 05 2020",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1354",
+        "performance": 3
+    },
+    "GeForce MX450": {
+        "name": "GeForce MX450",
+        "names": [
+            "GeForce MX450",
+            "NVIDIA GeForce MX450"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sat Aug 15 2020",
+        "memory": null,
+        "memoryType": "GDDR5,GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1395",
+        "performance": 1
     },
     "GeForce PCX 5300": {
         "name": "GeForce PCX 5300",
@@ -11611,13 +13382,35 @@ const database = {
         "textureUnits": 3,
         "type": "Desktop",
         "tdp": null,
+        "performance": 35
+    },
+    "GeForce PCX 5900": {
+        "name": "GeForce PCX 5900",
+        "names": [
+            "GeForce PCX 5900"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Mar 17, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 350,
+        "memoryClock": 275,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 3,
+        "type": "Desktop",
+        "tdp": null,
         "performance": 34
     },
     "GeForce RTX 2060": {
         "name": "GeForce RTX 2060",
         "names": [
             "GeForce RTX 2060",
-            "NVIDIA GeForce RTX 2060 (Desktop)"
+            "NVIDIA GeForce RTX 2060 Mobile"
         ],
         "codeName": null,
         "architecture": "Turing",
@@ -11632,16 +13425,89 @@ const database = {
         "shaderUnits": 1920,
         "renderUnits": 48,
         "textureUnits": 120,
-        "type": "Unknown",
-        "tdp": null,
+        "type": "Desktop",
+        "tdp": 160,
+        "clockSpeed": "960",
+        "performance": 14
+    },
+    "GeForce RTX 2060 (Mobile)": {
+        "name": "GeForce RTX 2060 (Mobile)",
+        "names": [
+            "GeForce RTX 2060 (Mobile)",
+            "GeForce RTX 2060 Mobile",
+            "NVIDIA GeForce RTX 2060 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Jan 29, 2019",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 960,
+        "memoryClock": 1750,
+        "shaderUnits": 1920,
+        "renderUnits": 48,
+        "textureUnits": 120,
+        "type": "Mobile",
+        "tdp": 80,
         "clockSpeed": "1320",
-        "performance": 13077
+        "performance": 11
+    },
+    "GeForce RTX 2060 SUPER": {
+        "name": "GeForce RTX 2060 SUPER",
+        "names": [
+            "GeForce RTX 2060 SUPER",
+            "NVIDIA GeForce RTX 2060 Super (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jul 16 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1407,
+        "memoryClock": 1407,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 175,
+        "clockSpeed": "1470",
+        "performance": 16
+    },
+    "GeForce RTX 2060 with Max-Q Design": {
+        "name": "GeForce RTX 2060 with Max-Q Design",
+        "names": [
+            "GeForce RTX 2060 with Max-Q Design",
+            "NVIDIA GeForce RTX 2060 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sun Jan 20 2019",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 975,
+        "memoryClock": 975,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 65,
+        "clockSpeed": "975",
+        "performance": 9
     },
     "GeForce RTX 2070": {
         "name": "GeForce RTX 2070",
         "names": [
             "GeForce RTX 2070",
-            "NVIDIA GeForce RTX 2070 (Desktop)"
+            "NVIDIA GeForce RTX 2070 Mobile"
         ],
         "codeName": null,
         "architecture": "Turing",
@@ -11658,15 +13524,64 @@ const database = {
         "textureUnits": 144,
         "type": "Desktop",
         "tdp": 175,
-        "clockSpeed": "1410",
-        "performance": 14490
+        "clockSpeed": "1215",
+        "performance": 16
     },
-    "GeForce RTX 2070 with Max-Q Design": {
-        "name": "GeForce RTX 2070 with Max-Q Design",
+    "GeForce RTX 2070 (Mobile)": {
+        "name": "GeForce RTX 2070 (Mobile)",
         "names": [
-            "GeForce RTX 2070 with Max-Q Design",
+            "GeForce RTX 2070 (Mobile)",
+            "GeForce RTX 2070 Mobile",
+            "NVIDIA GeForce RTX 2070 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Jan 29, 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1215,
+        "memoryClock": 1750,
+        "shaderUnits": 2304,
+        "renderUnits": 64,
+        "textureUnits": 144,
+        "type": "Mobile",
+        "tdp": 115,
+        "clockSpeed": "1410",
+        "performance": 12
+    },
+    "GeForce RTX 2070 SUPER": {
+        "name": "GeForce RTX 2070 SUPER",
+        "names": [
+            "GeForce RTX 2070 SUPER",
+            "NVIDIA GeForce RTX 2070 Super Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Apr 16 2020",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1605,
+        "memoryClock": 1605,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 215,
+        "clockSpeed": "1140",
+        "performance": 18
+    },
+    "GeForce RTX 2070 Super with Max-Q Design": {
+        "name": "GeForce RTX 2070 Super with Max-Q Design",
+        "names": [
+            "GeForce RTX 2070 Super with Max-Q Design",
             "GeForce RTX 2070 Max-Q",
-            "NVIDIA GeForce RTX 2070 Max-Q"
+            "NVIDIA GeForce RTX 2070 Super Max-Q"
         ],
         "codeName": null,
         "architecture": "Turing",
@@ -11681,16 +13596,40 @@ const database = {
         "shaderUnits": 2304,
         "renderUnits": 64,
         "textureUnits": 144,
-        "type": "Unknown",
-        "tdp": null,
+        "type": "Mobile",
+        "tdp": 80,
+        "clockSpeed": "930",
+        "performance": 14
+    },
+    "GeForce RTX 2070 with Max-Q Design": {
+        "name": "GeForce RTX 2070 with Max-Q Design",
+        "names": [
+            "GeForce RTX 2070 with Max-Q Design",
+            "NVIDIA GeForce RTX 2070 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sun Jan 20 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 885,
+        "memoryClock": 885,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 80,
         "clockSpeed": "885-1080",
-        "performance": 11149
+        "performance": 12
     },
     "GeForce RTX 2080": {
         "name": "GeForce RTX 2080",
         "names": [
             "GeForce RTX 2080",
-            "NVIDIA GeForce RTX 2080 (Desktop)"
+            "NVIDIA GeForce RTX 2080 Mobile"
         ],
         "codeName": null,
         "architecture": "Turing",
@@ -11707,8 +13646,82 @@ const database = {
         "textureUnits": 184,
         "type": "Desktop",
         "tdp": 250,
+        "clockSpeed": "1380",
+        "performance": 18
+    },
+    "GeForce RTX 2080 (Mobile)": {
+        "name": "GeForce RTX 2080 (Mobile)",
+        "names": [
+            "GeForce RTX 2080 (Mobile)",
+            "GeForce RTX 2080 Mobile",
+            "NVIDIA GeForce RTX 2080 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Jan 29, 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1380,
+        "memoryClock": 1500,
+        "shaderUnits": 2944,
+        "renderUnits": 64,
+        "textureUnits": 184,
+        "type": "Mobile",
+        "tdp": 150,
         "clockSpeed": "1515",
-        "performance": 15685
+        "performance": 15
+    },
+    "GeForce RTX 2080 SUPER": {
+        "name": "GeForce RTX 2080 SUPER",
+        "names": [
+            "GeForce RTX 2080 SUPER",
+            "NVIDIA GeForce RTX 2080 Super Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Apr 16 2020",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1650,
+        "memoryClock": 1650,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 250,
+        "clockSpeed": "1365",
+        "performance": 19
+    },
+    "GeForce RTX 2080 Super with Max-Q Design": {
+        "name": "GeForce RTX 2080 Super with Max-Q Design",
+        "names": [
+            "GeForce RTX 2080 Super with Max-Q Design",
+            "GeForce RTX 2080 Max-Q",
+            "NVIDIA GeForce RTX 2080 Super Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "NVIDIA",
+        "released": "Jan 29, 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 735,
+        "memoryClock": 1500,
+        "shaderUnits": 2944,
+        "renderUnits": 64,
+        "textureUnits": 184,
+        "type": "Mobile",
+        "tdp": 80,
+        "clockSpeed": "975",
+        "performance": 14
     },
     "GeForce RTX 2080 Ti": {
         "name": "GeForce RTX 2080 Ti",
@@ -11732,32 +13745,101 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "1350",
-        "performance": 17048
+        "performance": 21
     },
     "GeForce RTX 2080 with Max-Q Design": {
         "name": "GeForce RTX 2080 with Max-Q Design",
         "names": [
             "GeForce RTX 2080 with Max-Q Design",
-            "GeForce RTX 2080 Max-Q",
             "NVIDIA GeForce RTX 2080 Max-Q"
         ],
         "codeName": null,
         "architecture": "Turing",
         "openGL": "4.6",
         "directX": "12_1",
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
+        "vendor": null,
+        "released": "Sun Jan 20 2019",
         "memory": 8192,
         "memoryType": "GDDR6",
         "clock": 735,
-        "memoryClock": 1500,
-        "shaderUnits": 2944,
-        "renderUnits": 64,
-        "textureUnits": 184,
-        "type": "Unknown",
-        "tdp": null,
+        "memoryClock": 735,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 90,
         "clockSpeed": "735-990",
-        "performance": 13666
+        "performance": 14
+    },
+    "GeForce RTX 3080": {
+        "name": "GeForce RTX 3080",
+        "names": [
+            "GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3080"
+        ],
+        "codeName": null,
+        "architecture": "Ampere",
+        "openGL": "4.6",
+        "directX": "12_2",
+        "vendor": null,
+        "released": "Wed Sep 30 2020",
+        "memory": 10240,
+        "memoryType": "GDDR6X",
+        "clock": 1440,
+        "memoryClock": 1440,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 320,
+        "clockSpeed": "1450",
+        "performance": 23
+    },
+    "GeForce RTX 3090": {
+        "name": "GeForce RTX 3090",
+        "names": [
+            "GeForce RTX 3090",
+            "NVIDIA GeForce RTX 3090"
+        ],
+        "codeName": null,
+        "architecture": "Ampere",
+        "openGL": "4.6",
+        "directX": "12_2",
+        "vendor": null,
+        "released": "Thu Oct 08 2020",
+        "memory": 24576,
+        "memoryType": "GDDR6X",
+        "clock": 1400,
+        "memoryClock": 1400,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 350,
+        "clockSpeed": "1400",
+        "performance": 25
+    },
+    "GeForce2 Go": {
+        "name": "GeForce2 Go",
+        "names": [
+            "GeForce2 Go"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Nov 11, 2000",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 143,
+        "memoryClock": 166,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": "Mobile",
+        "tdp": null,
+        "performance": 4
     },
     "GeForce2 GTS/GeForce2 Pro": {
         "name": "GeForce2 GTS/GeForce2 Pro",
@@ -11780,7 +13862,7 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "GeForce2 Integrated GPU": {
         "name": "GeForce2 Integrated GPU",
@@ -11807,7 +13889,8 @@ const database = {
     "GeForce2 MX": {
         "name": "GeForce2 MX",
         "names": [
-            "GeForce2 MX"
+            "GeForce2 MX",
+            "GeForce2 MX PCI"
         ],
         "codeName": null,
         "architecture": null,
@@ -11824,7 +13907,7 @@ const database = {
         "textureUnits": 0,
         "type": "Desktop",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "GeForce2 MX 100/200": {
         "name": "GeForce2 MX 100/200",
@@ -11848,6 +13931,28 @@ const database = {
         "tdp": null,
         "performance": 3
     },
+    "GeForce2 MX with DVI-D and TV-out": {
+        "name": "GeForce2 MX with DVI-D and TV-out",
+        "names": [
+            "GeForce2 MX with DVI-D and TV-out"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
     "GeForce2 MX/MX 400": {
         "name": "GeForce2 MX/MX 400",
         "names": [
@@ -11869,7 +13974,7 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "GeForce2 Ti": {
         "name": "GeForce2 Ti",
@@ -11891,7 +13996,29 @@ const database = {
         "textureUnits": 0,
         "type": "Desktop",
         "tdp": null,
-        "performance": 4
+        "performance": 5
+    },
+    "GeForce2 Ultra": {
+        "name": "GeForce2 Ultra",
+        "names": [
+            "GeForce2 Ultra"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Aug 14, 2000",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 250,
+        "memoryClock": 230,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 0,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 6
     },
     "GeForce3": {
         "name": "GeForce3",
@@ -11913,7 +14040,7 @@ const database = {
         "textureUnits": 1,
         "type": "Desktop",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce3 Ti 200": {
         "name": "GeForce3 Ti 200",
@@ -11957,7 +14084,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "GeForce4 420 Go": {
         "name": "GeForce4 420 Go",
@@ -12026,7 +14153,30 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 3
+        "performance": 4
+    },
+    "GeForce4 440": {
+        "name": "GeForce4 440",
+        "names": [
+            "GeForce4 440",
+            "GeForce4 MX 440"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Feb 6, 2002",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 275,
+        "memoryClock": 200,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "GeForce4 440 Go": {
         "name": "GeForce4 440 Go",
@@ -12048,7 +14198,7 @@ const database = {
         "textureUnits": 0,
         "type": "Mobile",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "GeForce4 440 Go 64M": {
         "name": "GeForce4 440 Go 64M",
@@ -12070,7 +14220,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "GeForce4 448 Go": {
         "name": "GeForce4 448 Go",
@@ -12092,30 +14242,7 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
-    },
-    "GeForce4 460 Go --MobileForce M4 Stock--": {
-        "name": "GeForce4 460 Go --MobileForce M4 Stock--",
-        "names": [
-            "GeForce4 460 Go --MobileForce M4 Stock--",
-            "GeForce4 460 Go"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Oct 14, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 250,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "GeForce4 MX 4000": {
         "name": "GeForce4 MX 4000",
@@ -12137,7 +14264,7 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce4 MX 420": {
         "name": "GeForce4 MX 420",
@@ -12159,29 +14286,30 @@ const database = {
         "textureUnits": 0,
         "type": "Desktop",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce4 MX 440": {
         "name": "GeForce4 MX 440",
         "names": [
-            "GeForce4 MX 440"
+            "GeForce4 MX 440",
+            "GeForce4 MX 440-8x"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "NVIDIA",
-        "released": "Feb 6, 2002",
-        "memory": 64,
+        "released": "Sep 25, 2002",
+        "memory": 32,
         "memoryType": "DDR",
         "clock": 275,
-        "memoryClock": 200,
+        "memoryClock": 250,
         "shaderUnits": 2,
         "renderUnits": 4,
         "textureUnits": 0,
         "type": "Desktop",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce4 MX 440 with AGP8X": {
         "name": "GeForce4 MX 440 with AGP8X",
@@ -12197,13 +14325,13 @@ const database = {
         "memory": 128,
         "memoryType": null,
         "clock": 275,
-        "memoryClock": 250,
+        "memoryClock": 275,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce4 MX 440SE": {
         "name": "GeForce4 MX 440SE",
@@ -12225,7 +14353,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "GeForce4 MX 460": {
         "name": "GeForce4 MX 460",
@@ -12269,7 +14397,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 6
+        "performance": 7
     },
     "GeForce4 Ti 4200": {
         "name": "GeForce4 Ti 4200",
@@ -12291,7 +14419,7 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "GeForce4 Ti 4400": {
         "name": "GeForce4 Ti 4400",
@@ -12335,7 +14463,29 @@ const database = {
         "textureUnits": 2,
         "type": "Desktop",
         "tdp": null,
-        "performance": 5
+        "performance": 6
+    },
+    "GeForce4 Ti 4800": {
+        "name": "GeForce4 Ti 4800",
+        "names": [
+            "GeForce4 Ti 4800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Mar 15, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 325,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
     },
     "GeForce4 Ti 4800 SE": {
         "name": "GeForce4 Ti 4800 SE",
@@ -12379,7 +14529,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 105
+        "performance": 106
     },
     "GF117": {
         "name": "GF117",
@@ -12426,6 +14576,28 @@ const database = {
         "tdp": null,
         "performance": 39
     },
+    "Gigabyte RADEON X300": {
+        "name": "Gigabyte RADEON X300",
+        "names": [
+            "Gigabyte RADEON X300"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 41
+    },
     "GRID K1": {
         "name": "GRID K1",
         "names": [
@@ -12446,7 +14618,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": null,
-        "performance": 880
+        "performance": 811
     },
     "GRID K120Q": {
         "name": "GRID K120Q",
@@ -12468,7 +14640,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": null,
-        "performance": 298
+        "performance": 293
     },
     "GRID K140Q": {
         "name": "GRID K140Q",
@@ -12490,7 +14662,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": null,
-        "performance": 727
+        "performance": 728
     },
     "GRID K160Q": {
         "name": "GRID K160Q",
@@ -12512,7 +14684,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": null,
-        "performance": 701
+        "performance": 740
     },
     "GRID K180Q": {
         "name": "GRID K180Q",
@@ -12534,7 +14706,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": null,
-        "performance": 778
+        "performance": 783
     },
     "GRID K2": {
         "name": "GRID K2",
@@ -12556,7 +14728,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": null,
-        "performance": 3772
+        "performance": 3
     },
     "GRID K220Q": {
         "name": "GRID K220Q",
@@ -12600,7 +14772,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": null,
-        "performance": 2143
+        "performance": 2
     },
     "GRID K260Q": {
         "name": "GRID K260Q",
@@ -12622,7 +14794,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": null,
-        "performance": 2940
+        "performance": 2
     },
     "GRID K280Q": {
         "name": "GRID K280Q",
@@ -12644,7 +14816,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": null,
-        "performance": 2322
+        "performance": 2
     },
     "GRID K520": {
         "name": "GRID K520",
@@ -12666,7 +14838,293 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": null,
-        "performance": 4384
+        "performance": 3
+    },
+    "GRID M10-0Q": {
+        "name": "GRID M10-0Q",
+        "names": [
+            "GRID M10-0Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 914
+    },
+    "GRID M10-1B": {
+        "name": "GRID M10-1B",
+        "names": [
+            "GRID M10-1B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID M10-1Q": {
+        "name": "GRID M10-1Q",
+        "names": [
+            "GRID M10-1Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "GRID M10-2B": {
+        "name": "GRID M10-2B",
+        "names": [
+            "GRID M10-2B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID M10-2Q": {
+        "name": "GRID M10-2Q",
+        "names": [
+            "GRID M10-2Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID M10-4Q": {
+        "name": "GRID M10-4Q",
+        "names": [
+            "GRID M10-4Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "GRID M10-8Q": {
+        "name": "GRID M10-8Q",
+        "names": [
+            "GRID M10-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "May 18, 2016",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 1033,
+        "memoryClock": 1300,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID M6-0B": {
+        "name": "GRID M6-0B",
+        "names": [
+            "GRID M6-0B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 912
+    },
+    "GRID M6-1Q": {
+        "name": "GRID M6-1Q",
+        "names": [
+            "GRID M6-1Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID M6-8Q": {
+        "name": "GRID M6-8Q",
+        "names": [
+            "GRID M6-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Aug 30, 2015",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 722,
+        "memoryClock": 1253,
+        "shaderUnits": 1536,
+        "renderUnits": 64,
+        "textureUnits": 96,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "GRID M60-0B": {
+        "name": "GRID M60-0B",
+        "names": [
+            "GRID M60-0B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "GRID M60-0Q": {
+        "name": "GRID M60-0Q",
+        "names": [
+            "GRID M60-0Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 827
+    },
+    "GRID M60-1B": {
+        "name": "GRID M60-1B",
+        "names": [
+            "GRID M60-1B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 4
     },
     "GRID M60-1Q": {
         "name": "GRID M60-1Q",
@@ -12688,7 +15146,7 @@ const database = {
         "textureUnits": 128,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4680
+        "performance": 4
     },
     "GRID M60-2Q": {
         "name": "GRID M60-2Q",
@@ -12710,7 +15168,7 @@ const database = {
         "textureUnits": 128,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5904
+        "performance": 5
     },
     "GRID M60-4Q": {
         "name": "GRID M60-4Q",
@@ -12732,7 +15190,29 @@ const database = {
         "textureUnits": null,
         "type": "Workstation",
         "tdp": null,
-        "performance": 3498
+        "performance": 3
+    },
+    "GRID M60-8A": {
+        "name": "GRID M60-8A",
+        "names": [
+            "GRID M60-8A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "GRID M60-8Q": {
         "name": "GRID M60-8Q",
@@ -12754,7 +15234,205 @@ const database = {
         "textureUnits": 128,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3883
+        "performance": 3
+    },
+    "GRID P100-16Q": {
+        "name": "GRID P100-16Q",
+        "names": [
+            "GRID P100-16Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
+    "GRID P100-1B": {
+        "name": "GRID P100-1B",
+        "names": [
+            "GRID P100-1B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID P100-8Q": {
+        "name": "GRID P100-8Q",
+        "names": [
+            "GRID P100-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "GRID P40-24Q": {
+        "name": "GRID P40-24Q",
+        "names": [
+            "GRID P40-24Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "GRID P40-2B": {
+        "name": "GRID P40-2B",
+        "names": [
+            "GRID P40-2B"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "GRID P40-2Q": {
+        "name": "GRID P40-2Q",
+        "names": [
+            "GRID P40-2Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "GRID P40-3Q": {
+        "name": "GRID P40-3Q",
+        "names": [
+            "GRID P40-3Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 681
+    },
+    "GRID P40-4Q": {
+        "name": "GRID P40-4Q",
+        "names": [
+            "GRID P40-4Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 778
+    },
+    "GRID P6-2Q": {
+        "name": "GRID P6-2Q",
+        "names": [
+            "GRID P6-2Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
     },
     "GRID P6-4Q": {
         "name": "GRID P6-4Q",
@@ -12776,7 +15454,165 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4429
+        "performance": 4
+    },
+    "GRID RTX6000P-4Q": {
+        "name": "GRID RTX6000P-4Q",
+        "names": [
+            "GRID RTX6000P-4Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "GRID T4-1Q": {
+        "name": "GRID T4-1Q",
+        "names": [
+            "GRID T4-1Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "GRID T4-8Q": {
+        "name": "GRID T4-8Q",
+        "names": [
+            "GRID T4-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "GRID V100-8Q": {
+        "name": "GRID V100-8Q",
+        "names": [
+            "GRID V100-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 16
+    },
+    "GRID V100D-8Q": {
+        "name": "GRID V100D-8Q",
+        "names": [
+            "GRID V100D-8Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "GT 430": {
+        "name": "GT 430",
+        "names": [
+            "GT 430",
+            "GeForce GT 430 OEM"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Oct 11, 2010",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 700,
+        "memoryClock": 800,
+        "shaderUnits": 96,
+        "renderUnits": 4,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 223
+    },
+    "HD": {
+        "name": "HD",
+        "names": [
+            "HD",
+            "HD Graphics",
+            "Intel HD Graphics (Broadwell)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 8 Broadwell",
+        "openGL": "4.3",
+        "directX": "12 (FL 11_1)",
+        "vendor": "Intel",
+        "released": "Apr 29, 2013",
+        "memory": null,
+        "memoryType": null,
+        "clock": 200,
+        "memoryClock": null,
+        "shaderUnits": 80,
+        "renderUnits": 1,
+        "textureUnits": 10,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "100",
+        "performance": 143
     },
     "HD6450": {
         "name": "HD6450",
@@ -12798,7 +15634,120 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 227
+        "performance": 221
+    },
+    "HIS DIGITAL HD 4650 AGP": {
+        "name": "HIS DIGITAL HD 4650 AGP",
+        "names": [
+            "HIS DIGITAL HD 4650 AGP"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 452
+    },
+    "IGP 340M": {
+        "name": "IGP 340M",
+        "names": [
+            "IGP 340M",
+            "Radeon IGP 340M",
+            "ATI Radeon IGP 340M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "7",
+        "vendor": "ATI",
+        "released": "Oct 5, 2002",
+        "memory": null,
+        "memoryType": null,
+        "clock": 183,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": 2,
+        "textureUnits": 1,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "180",
+        "performance": 1
+    },
+    "IncrediblE HD": {
+        "name": "IncrediblE HD",
+        "names": [
+            "IncrediblE HD"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 389
+    },
+    "IncrediblE HD 4000": {
+        "name": "IncrediblE HD 4000",
+        "names": [
+            "IncrediblE HD 4000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 517
+    },
+    "IncrediblE HD 4600": {
+        "name": "IncrediblE HD 4600",
+        "names": [
+            "IncrediblE HD 4600"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 750
     },
     "Intel - Express Chipset G41": {
         "name": "Intel - Express Chipset G41",
@@ -12842,7 +15791,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 57
+        "performance": 58
+    },
+    "Intel 2nd Generation SandyBridge HD": {
+        "name": "Intel 2nd Generation SandyBridge HD",
+        "names": [
+            "Intel 2nd Generation SandyBridge HD"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 212
+    },
+    "Intel 2nd Generation SandyBridge HD 3000": {
+        "name": "Intel 2nd Generation SandyBridge HD 3000",
+        "names": [
+            "Intel 2nd Generation SandyBridge HD 3000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 205
     },
     "Intel 4th Generation Haswell HD": {
         "name": "Intel 4th Generation Haswell HD",
@@ -12864,7 +15857,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 419
+        "performance": 420
     },
     "Intel 82845G Controller": {
         "name": "Intel 82845G Controller",
@@ -12908,7 +15901,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "Intel 82845G/GL/GE/PE/GV Controller": {
         "name": "Intel 82845G/GL/GE/PE/GV Controller",
@@ -12930,7 +15923,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
+    },
+    "Intel 82852/82855 GM/GME Controller": {
+        "name": "Intel 82852/82855 GM/GME Controller",
+        "names": [
+            "Intel 82852/82855 GM/GME Controller"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Intel 82865G Controller": {
         "name": "Intel 82865G Controller",
@@ -12952,7 +15967,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 5
     },
     "Intel 82915G Express": {
         "name": "Intel 82915G Express",
@@ -12974,7 +15989,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
+    },
+    "Intel 82915G/915GV/910GL": {
+        "name": "Intel 82915G/915GV/910GL",
+        "names": [
+            "Intel 82915G/915GV/910GL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "Intel 82915G/GV/910GL Advanced v3.5": {
+        "name": "Intel 82915G/GV/910GL Advanced v3.5",
+        "names": [
+            "Intel 82915G/GV/910GL Advanced v3.5"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "Intel 82915G/GV/910GL Express": {
         "name": "Intel 82915G/GV/910GL Express",
@@ -13018,7 +16077,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 33
+    },
+    "Intel 82945G Express-Chipsatzfamilie": {
+        "name": "Intel 82945G Express-Chipsatzfamilie",
+        "names": [
+            "Intel 82945G Express-Chipsatzfamilie"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
     "Intel 865 Embedded Controller": {
         "name": "Intel 865 Embedded Controller",
@@ -13040,7 +16121,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
+    },
+    "Intel 915G,910G Express": {
+        "name": "Intel 915G,910G Express",
+        "names": [
+            "Intel 915G,910G Express"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "Intel 915G/915GV/910GL Embedded Controller Functio": {
+        "name": "Intel 915G/915GV/910GL Embedded Controller Functio",
+        "names": [
+            "Intel 915G/915GV/910GL Embedded Controller Functio"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
+    "Intel 945G Embedded Chipset Function 0": {
+        "name": "Intel 945G Embedded Chipset Function 0",
+        "names": [
+            "Intel 945G Embedded Chipset Function 0"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "Intel 946GZ Embedded Chipset Function 0": {
         "name": "Intel 946GZ Embedded Chipset Function 0",
@@ -13106,7 +16253,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 63
+        "performance": 68
     },
     "Intel Coffee Lake UHD": {
         "name": "Intel Coffee Lake UHD",
@@ -13128,7 +16275,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1158
+        "performance": 1
+    },
+    "Intel Extreme Controller": {
+        "name": "Intel Extreme Controller",
+        "names": [
+            "Intel Extreme Controller"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "Intel G33/G31 Express": {
         "name": "Intel G33/G31 Express",
@@ -13150,7 +16319,7 @@ const database = {
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 12
+        "performance": 116
     },
     "Intel G35 Express": {
         "name": "Intel G35 Express",
@@ -13172,7 +16341,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 30
+        "performance": 31
     },
     "Intel G41 Express Chipset": {
         "name": "Intel G41 Express Chipset",
@@ -13194,29 +16363,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 63
-    },
-    "Intel G41 Express Chipset v2": {
-        "name": "Intel G41 Express Chipset v2",
-        "names": [
-            "Intel G41 Express Chipset v2"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 71
+        "performance": 53
     },
     "Intel G41 Express-Chipsatz": {
         "name": "Intel G41 Express-Chipsatz",
@@ -13238,7 +16385,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 58
+        "performance": 57
     },
     "Intel G45/G43 Express Chipset": {
         "name": "Intel G45/G43 Express Chipset",
@@ -13254,13 +16401,35 @@ const database = {
         "memory": 0,
         "memoryType": null,
         "clock": 1333,
-        "memoryClock": 1066,
+        "memoryClock": 1333,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 24,
-        "performance": 69
+        "performance": 56
+    },
+    "Intel G45/G43/G41 Express Chipset": {
+        "name": "Intel G45/G43/G41 Express Chipset",
+        "names": [
+            "Intel G45/G43/G41 Express Chipset"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 68
     },
     "Intel G965 Express": {
         "name": "Intel G965 Express",
@@ -13282,7 +16451,30 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 18
+        "performance": 19
+    },
+    "Intel GMA 3150 Express": {
+        "name": "Intel GMA 3150 Express",
+        "names": [
+            "Intel GMA 3150 Express",
+            "GMA 3150"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "Intel",
+        "released": "May 9, 2007",
+        "memory": null,
+        "memoryType": null,
+        "clock": 400,
+        "memoryClock": null,
+        "shaderUnits": 16,
+        "renderUnits": 1,
+        "textureUnits": 2,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "Intel Haswell HD - GT1": {
         "name": "Intel Haswell HD - GT1",
@@ -13304,7 +16496,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 118
+        "performance": 123
     },
     "Intel Haswell HD - GT2": {
         "name": "Intel Haswell HD - GT2",
@@ -13326,7 +16518,31 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 160
+        "performance": 139
+    },
+    "Intel HD 2000": {
+        "name": "Intel HD 2000",
+        "names": [
+            "Intel HD 2000",
+            "Intel HD Graphics 2000"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 6 Sandy Bridge",
+        "openGL": null,
+        "directX": "10.1",
+        "vendor": null,
+        "released": "Tue Feb 15 2011",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "850/1100",
+        "performance": 213
     },
     "Intel HD 3000": {
         "name": "Intel HD 3000",
@@ -13335,11 +16551,11 @@ const database = {
             "Intel HD Graphics 3000"
         ],
         "codeName": null,
-        "architecture": "Sandy Bridge",
+        "architecture": "Gen. 6 Sandy Bridge",
         "openGL": "3.0",
         "directX": "10.1",
         "vendor": null,
-        "released": "Fri Feb 04 2011",
+        "released": "Tue Feb 15 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13350,7 +16566,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 313
+        "performance": 258
     },
     "Intel HD 4000": {
         "name": "Intel HD 4000",
@@ -13359,11 +16575,11 @@ const database = {
             "Intel HD Graphics 4000"
         ],
         "codeName": null,
-        "architecture": "Ivy Bridge",
+        "architecture": "Gen. 7 Ivy Bridge",
         "openGL": "3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Sat Mar 26 2011",
+        "released": "Wed Apr 06 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13374,7 +16590,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 456
+        "performance": 329
     },
     "Intel HD 4400": {
         "name": "Intel HD 4400",
@@ -13383,11 +16599,11 @@ const database = {
             "Intel HD Graphics 4400"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sat Jun 08 2013",
+        "released": "Wed Jun 19 2013",
         "memory": 1700,
         "memoryType": null,
         "clock": null,
@@ -13398,7 +16614,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 567
+        "performance": 529
     },
     "Intel HD 4600": {
         "name": "Intel HD 4600",
@@ -13407,11 +16623,11 @@ const database = {
             "Intel HD Graphics 4600"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": null,
-        "released": "Tue Jun 04 2013",
+        "released": "Sat Jun 15 2013",
         "memory": 0,
         "memoryType": null,
         "clock": 400,
@@ -13422,7 +16638,31 @@ const database = {
         "type": "Desktop",
         "tdp": 45,
         "clockSpeed": "200",
-        "performance": 711
+        "performance": 639
+    },
+    "Intel HD 500": {
+        "name": "Intel HD 500",
+        "names": [
+            "Intel HD 500",
+            "Intel HD Graphics 500"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9 Apollo Lake",
+        "openGL": "4.4",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Sep 15 2016",
+        "memory": null,
+        "memoryType": "(LP)DDR3(L) / LPDDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 309
     },
     "Intel HD 5000": {
         "name": "Intel HD 5000",
@@ -13431,11 +16671,11 @@ const database = {
             "Intel HD Graphics 5000"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sat Jun 08 2013",
+        "released": "Wed Jun 19 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13446,7 +16686,31 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 600
+        "performance": 562
+    },
+    "Intel HD 505": {
+        "name": "Intel HD 505",
+        "names": [
+            "Intel HD 505",
+            "Intel HD Graphics 505"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9 Apollo Lake",
+        "openGL": "4.4",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Sep 15 2016",
+        "memory": null,
+        "memoryType": "(LP)DDR3(L) / LPDDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 358
     },
     "Intel HD 510": {
         "name": "Intel HD 510",
@@ -13455,11 +16719,11 @@ const database = {
             "Intel HD Graphics 510"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "DDR3/DDR4",
         "clock": null,
@@ -13470,7 +16734,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 620
+        "performance": 619
     },
     "Intel HD 515": {
         "name": "Intel HD 515",
@@ -13479,11 +16743,11 @@ const database = {
             "Intel HD Graphics 515"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "DDR3L/LPDDR3",
         "clock": null,
@@ -13494,7 +16758,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 647
+        "performance": 612
     },
     "Intel HD 520": {
         "name": "Intel HD 520",
@@ -13503,11 +16767,11 @@ const database = {
             "Intel HD Graphics 520"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "DDR3/DDR4",
         "clock": null,
@@ -13518,7 +16782,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 834
+        "performance": 855
     },
     "Intel HD 5200": {
         "name": "Intel HD 5200",
@@ -13540,7 +16804,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 777
+        "performance": 830
     },
     "Intel HD 530": {
         "name": "Intel HD 530",
@@ -13549,11 +16813,11 @@ const database = {
             "Intel HD Graphics 530"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Sat Aug 08 2015",
+        "released": "Wed Aug 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": 350,
@@ -13564,7 +16828,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 998
+        "performance": 994
     },
     "Intel HD 5300": {
         "name": "Intel HD 5300",
@@ -13573,11 +16837,11 @@ const database = {
             "Intel HD Graphics 5300"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Mon Sep 08 2014",
+        "released": "Fri Sep 19 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13588,7 +16852,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "100",
-        "performance": 401
+        "performance": 406
     },
     "Intel HD 5500": {
         "name": "Intel HD 5500",
@@ -13597,11 +16861,11 @@ const database = {
             "Intel HD Graphics 5500"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Thu Jan 08 2015",
+        "released": "Mon Jan 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13612,7 +16876,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 589
+        "performance": 579
     },
     "Intel HD 5600": {
         "name": "Intel HD 5600",
@@ -13621,11 +16885,11 @@ const database = {
             "Intel HD Graphics 5600"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Fri Jun 05 2015",
+        "released": "Tue Jun 16 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13636,7 +16900,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 663
+        "performance": 712
     },
     "Intel HD 6000": {
         "name": "Intel HD 6000",
@@ -13645,11 +16909,11 @@ const database = {
             "Intel HD Graphics 6000"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Thu Jan 08 2015",
+        "released": "Mon Jan 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13660,7 +16924,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 828
+        "performance": 832
     },
     "Intel HD 610": {
         "name": "Intel HD 610",
@@ -13669,11 +16933,11 @@ const database = {
             "Intel HD Graphics 610"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Kaby-Lake)",
+        "architecture": "Gen. 9 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jan 04 2017",
+        "released": "Sun Jan 15 2017",
         "memory": null,
         "memoryType": "DDR3/DDR4",
         "clock": null,
@@ -13684,7 +16948,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 716
+        "performance": 674
     },
     "Intel HD 615": {
         "name": "Intel HD 615",
@@ -13693,11 +16957,11 @@ const database = {
             "Intel HD Graphics 615"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Kaby Lake)",
+        "architecture": "Gen. 9 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 02 2016",
+        "released": "Tue Sep 13 2016",
         "memory": null,
         "memoryType": "DDR3L/LPDDR3",
         "clock": null,
@@ -13708,7 +16972,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 730
+        "performance": 757
     },
     "Intel HD 630": {
         "name": "Intel HD 630",
@@ -13717,11 +16981,11 @@ const database = {
             "Intel HD Graphics 630"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
+        "architecture": "Gen. 9.5 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Sat Aug 08 2015",
+        "released": "Wed Aug 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13732,7 +16996,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1119
+        "performance": 1
     },
     "Intel HD Family": {
         "name": "Intel HD Family",
@@ -13754,7 +17018,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 436
+        "performance": 452
     },
     "Intel HD Graphics 620": {
         "name": "Intel HD Graphics 620",
@@ -13763,9 +17027,9 @@ const database = {
             "HD Graphics 620"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
+        "architecture": "Gen. 9.5 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "Intel",
         "released": "Aug 30, 2016",
         "memory": null,
@@ -13778,7 +17042,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 929
+        "performance": 925
+    },
+    "Intel HD manual-15.28-1861": {
+        "name": "Intel HD manual-15.28-1861",
+        "names": [
+            "Intel HD manual-15.28-1861"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 63
     },
     "Intel HD manual-gen9_2015-133271": {
         "name": "Intel HD manual-gen9_2015-133271",
@@ -13844,7 +17130,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 351
+        "performance": 276
     },
     "Intel HD P4000": {
         "name": "Intel HD P4000",
@@ -13888,7 +17174,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 604
+        "performance": 605
     },
     "Intel HD P4600/P4700": {
         "name": "Intel HD P4600/P4700",
@@ -13910,7 +17196,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 669
+        "performance": 645
     },
     "Intel HD P530": {
         "name": "Intel HD P530",
@@ -13919,11 +17205,11 @@ const database = {
             "Intel HD Graphics P530"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "DDR3/DDR4",
         "clock": null,
@@ -13934,7 +17220,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 1066
+        "performance": 1
     },
     "Intel HD P630": {
         "name": "Intel HD P630",
@@ -13943,11 +17229,11 @@ const database = {
             "Intel HD Graphics P630"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
+        "architecture": "Gen. 9.5 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Sat Aug 08 2015",
+        "released": "Wed Aug 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -13958,7 +17244,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1249
+        "performance": 1
     },
     "Intel Infoshock HD": {
         "name": "Intel Infoshock HD",
@@ -13980,7 +17266,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 193
+        "performance": 194
     },
     "Intel Iris 5100": {
         "name": "Intel Iris 5100",
@@ -13989,11 +17275,11 @@ const database = {
             "Intel Iris Graphics 5100"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sat Jun 08 2013",
+        "released": "Wed Jun 19 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14004,7 +17290,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 749
+        "performance": 740
     },
     "Intel Iris 540": {
         "name": "Intel Iris 540",
@@ -14013,11 +17299,11 @@ const database = {
             "Intel Iris Graphics 540"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "eDRAM",
         "clock": null,
@@ -14028,7 +17314,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1346
+        "performance": 1
     },
     "Intel Iris 550": {
         "name": "Intel Iris 550",
@@ -14037,11 +17323,11 @@ const database = {
             "Intel Iris Graphics 550"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "eDRAM",
         "clock": null,
@@ -14052,7 +17338,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1606
+        "performance": 1
     },
     "Intel Iris 6100": {
         "name": "Intel Iris 6100",
@@ -14061,11 +17347,11 @@ const database = {
             "Intel Iris Graphics 6100"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Thu Jan 08 2015",
+        "released": "Mon Jan 19 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14076,7 +17362,55 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 977
+        "performance": 896
+    },
+    "Intel Iris 650": {
+        "name": "Intel Iris 650",
+        "names": [
+            "Intel Iris 650",
+            "Intel Iris Plus Graphics 650"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9.5 Kaby Lake",
+        "openGL": "4.4",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jan 17 2017",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 1
+    },
+    "Intel Iris Plus": {
+        "name": "Intel Iris Plus",
+        "names": [
+            "Intel Iris Plus",
+            "Intel Iris Plus Graphics G7 (Ice Lake 64 EU)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jun 11 2019",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 1
     },
     "Intel Iris Plus 640": {
         "name": "Intel Iris Plus 640",
@@ -14085,11 +17419,11 @@ const database = {
             "Intel Iris Plus Graphics 640"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
+        "architecture": "Gen. 9.5 Kaby Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Jan 06 2017",
+        "released": "Tue Jan 17 2017",
         "memory": 32768,
         "memoryType": "DDR3/DDR4",
         "clock": 300,
@@ -14100,44 +17434,20 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1420
+        "performance": 1
     },
-    "Intel Iris Plus 650": {
-        "name": "Intel Iris Plus 650",
+    "Intel Iris Plus 645": {
+        "name": "Intel Iris Plus 645",
         "names": [
-            "Intel Iris Plus 650",
-            "Intel Iris Plus Graphics 650"
+            "Intel Iris Plus 645",
+            "Intel Iris Plus Graphics 645"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
-        "vendor": null,
-        "released": "Fri Jan 06 2017",
-        "memory": 32768,
-        "memoryType": "DDR3/DDR4",
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Mobile",
-        "tdp": null,
-        "clockSpeed": "300",
-        "performance": 1554
-    },
-    "Intel Iris Plus 655": {
-        "name": "Intel Iris Plus 655",
-        "names": [
-            "Intel Iris Plus 655",
-            "Intel Iris Plus Graphics 655"
-        ],
-        "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake)",
+        "architecture": "Gen. 9.5 Coffee Lake",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Mon Sep 04 2017",
+        "released": "Wed Jul 24 2019",
         "memory": null,
         "memoryType": "DDR3/DDR4",
         "clock": null,
@@ -14148,7 +17458,53 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1957
+        "performance": 1
+    },
+    "Intel Iris Plus 650": {
+        "name": "Intel Iris Plus 650",
+        "names": [
+            "Intel Iris Plus 650"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 32768,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": null,
+        "performance": 1
+    },
+    "Intel Iris Plus 655": {
+        "name": "Intel Iris Plus 655",
+        "names": [
+            "Intel Iris Plus 655",
+            "Intel Iris Plus Graphics 655"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9.5 Kaby Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Fri Sep 15 2017",
+        "memory": null,
+        "memoryType": "DDR3/DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 1
     },
     "Intel Iris Pro 5200": {
         "name": "Intel Iris Pro 5200",
@@ -14157,11 +17513,11 @@ const database = {
             "Intel Iris Pro Graphics 5200"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sat Jun 08 2013",
+        "released": "Wed Jun 19 2013",
         "memory": null,
         "memoryType": "eDRAM",
         "clock": null,
@@ -14172,7 +17528,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 1172
+        "performance": 1
     },
     "Intel Iris Pro 580": {
         "name": "Intel Iris Pro 580",
@@ -14181,11 +17537,11 @@ const database = {
             "Intel Iris Pro Graphics 580"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jan 27 2016",
+        "released": "Sun Feb 07 2016",
         "memory": null,
         "memoryType": "eDRAM",
         "clock": null,
@@ -14196,7 +17552,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 1867
+        "performance": 2
+    },
+    "Intel Iris Pro 6100": {
+        "name": "Intel Iris Pro 6100",
+        "names": [
+            "Intel Iris Pro 6100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 925
     },
     "Intel Iris Pro Graphics 6200": {
         "name": "Intel Iris Pro Graphics 6200",
@@ -14205,7 +17583,7 @@ const database = {
             "Iris Pro Graphics 6200"
         ],
         "codeName": null,
-        "architecture": "Broadwell",
+        "architecture": "Gen. 8 Broadwell",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": "Intel",
@@ -14220,7 +17598,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1532
+        "performance": 1
     },
     "Intel Iris Pro P580": {
         "name": "Intel Iris Pro P580",
@@ -14229,11 +17607,11 @@ const database = {
             "Intel Iris Pro Graphics P580"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jan 27 2016",
+        "released": "Sun Feb 07 2016",
         "memory": null,
         "memoryType": "eDRAM",
         "clock": null,
@@ -14244,7 +17622,53 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 2108
+        "performance": 2
+    },
+    "Intel Iris Pro P6300": {
+        "name": "Intel Iris Pro P6300",
+        "names": [
+            "Intel Iris Pro P6300"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Intel Iris Xe": {
+        "name": "Intel Iris Xe",
+        "names": [
+            "Intel Iris Xe",
+            "Intel Iris Xe Graphics G7 96EUs"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Wed Aug 19 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "400",
+        "performance": 3
     },
     "Intel Media Accelerator": {
         "name": "Intel Media Accelerator",
@@ -14253,11 +17677,11 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) HD Graphics"
         ],
         "codeName": null,
-        "architecture": "Arrandale",
+        "architecture": "Gen. 5 Arrandale",
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Wed Jan 13 2010",
+        "released": "Sun Jan 24 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14268,7 +17692,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 32
+        "performance": 33
     },
     "Intel Media Accelerator 3150": {
         "name": "Intel Media Accelerator 3150",
@@ -14277,11 +17701,11 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 3150"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 4",
         "openGL": null,
         "directX": "9c",
         "vendor": null,
-        "released": "Wed Jan 13 2010",
+        "released": "Sun Jan 24 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14305,7 +17729,7 @@ const database = {
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Tue Nov 04 2008",
+        "released": "Sat Nov 15 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14329,7 +17753,7 @@ const database = {
         "openGL": null,
         "directX": "9.0c",
         "vendor": null,
-        "released": "Tue May 04 2010",
+        "released": "Sat May 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14340,7 +17764,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 6
+        "performance": 7
     },
     "Intel Media Accelerator HD": {
         "name": "Intel Media Accelerator HD",
@@ -14362,7 +17786,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 116
+        "performance": 103
+    },
+    "Intel Poison Ivy": {
+        "name": "Intel Poison Ivy",
+        "names": [
+            "Intel Poison Ivy"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 739
     },
     "Intel Q33 Express": {
         "name": "Intel Q33 Express",
@@ -14384,7 +17830,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 11
+        "performance": 6
+    },
+    "Intel Q35 Embedded": {
+        "name": "Intel Q35 Embedded",
+        "names": [
+            "Intel Q35 Embedded"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
     "Intel Q35 Express": {
         "name": "Intel Q35 Express",
@@ -14406,7 +17874,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 10
+        "performance": 58
     },
     "Intel Q45/Q43 Express Chipset": {
         "name": "Intel Q45/Q43 Express Chipset",
@@ -14428,7 +17896,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 66
+        "performance": 110
     },
     "Intel Q45/Q43 Express-Chipsatz": {
         "name": "Intel Q45/Q43 Express-Chipsatz",
@@ -14450,7 +17918,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 59
+        "performance": 57
     },
     "Intel Q965/Q963 Express": {
         "name": "Intel Q965/Q963 Express",
@@ -14472,7 +17940,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 6
+        "performance": 88
     },
     "Intel Skylake HD DT GT2": {
         "name": "Intel Skylake HD DT GT2",
@@ -14494,19 +17962,20 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 576
+        "performance": 577
     },
     "Intel UHD": {
         "name": "Intel UHD",
         "names": [
-            "Intel UHD"
+            "Intel UHD",
+            "Intel UHD Graphics Xe G4 48EUs"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": null,
-        "released": null,
+        "released": "Sat Aug 29 2020",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14516,7 +17985,8 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1217
+        "clockSpeed": null,
+        "performance": 2
     },
     "Intel UHD 600": {
         "name": "Intel UHD 600",
@@ -14525,11 +17995,11 @@ const database = {
             "Intel UHD Graphics 600"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Gemini Lake)",
+        "architecture": "Gen. 9 Gemini Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Thu Dec 14 2017",
+        "released": "Mon Dec 25 2017",
         "memory": null,
         "memoryType": "DDR4 / LPDDR4",
         "clock": null,
@@ -14540,7 +18010,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 368
+        "performance": 336
     },
     "Intel UHD 605": {
         "name": "Intel UHD 605",
@@ -14549,11 +18019,11 @@ const database = {
             "Intel UHD Graphics 605"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Apollo Lake)",
+        "architecture": "Gen. 9 Apollo Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Thu Dec 14 2017",
+        "released": "Mon Dec 25 2017",
         "memory": null,
         "memoryType": "DDR4 / LPDDR4",
         "clock": null,
@@ -14564,21 +18034,22 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 405
+        "performance": 375
     },
     "Intel UHD 610": {
         "name": "Intel UHD 610",
         "names": [
-            "Intel UHD 610"
+            "Intel UHD 610",
+            "Intel UHD Graphics 610"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Gen. 9 Kaby Lake",
+        "openGL": "4.4",
+        "directX": "12_1",
         "vendor": null,
-        "released": null,
+        "released": "Tue Jan 15 2019",
         "memory": null,
-        "memoryType": null,
+        "memoryType": "DDR3/DDR4",
         "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
@@ -14586,7 +18057,8 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 778
+        "clockSpeed": "300",
+        "performance": 721
     },
     "Intel UHD 615": {
         "name": "Intel UHD 615",
@@ -14595,11 +18067,11 @@ const database = {
             "Intel UHD Graphics 615"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Amber Lake)",
+        "architecture": "Gen. 9 Amber Lake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Sun Sep 02 2018",
+        "released": "Thu Sep 13 2018",
         "memory": null,
         "memoryType": "DDR3L/LPDDR3",
         "clock": null,
@@ -14610,7 +18082,55 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 739
+        "performance": 774
+    },
+    "Intel UHD 617": {
+        "name": "Intel UHD 617",
+        "names": [
+            "Intel UHD 617",
+            "Intel UHD Graphics 617"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9 Amber Lake",
+        "openGL": "4.4",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Nov 13 2018",
+        "memory": null,
+        "memoryType": "DDR3L/LPDDR3",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 858
+    },
+    "Intel UHD 620": {
+        "name": "Intel UHD 620",
+        "names": [
+            "Intel UHD 620",
+            "Intel UHD Graphics 620"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 9.5",
+        "openGL": "4.4",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Fri Sep 15 2017",
+        "memory": null,
+        "memoryType": "DDR3/DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "300?",
+        "performance": 889
     },
     "Intel UHD 630": {
         "name": "Intel UHD 630",
@@ -14619,11 +18139,11 @@ const database = {
             "Intel UHD Graphics 630"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5",
+        "architecture": "Gen. 9.5",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Wed Oct 04 2017",
+        "released": "Sun Oct 15 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14634,7 +18154,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 1195
+        "performance": 1
     },
     "Intel UHD Graphics 620": {
         "name": "Intel UHD Graphics 620",
@@ -14643,13 +18163,13 @@ const database = {
             "UHD Graphics 620"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9.5 (Kaby Lake Refresh)",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
         "vendor": "Intel",
         "released": "Sep 1, 2017",
         "memory": 0,
-        "memoryType": "DDR3/DDR4",
+        "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 192,
@@ -14657,20 +18177,20 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": null,
-        "clockSpeed": "300?",
-        "performance": 1034
+        "performance": 1
     },
     "Intel UHD P630": {
         "name": "Intel UHD P630",
         "names": [
-            "Intel UHD P630"
+            "Intel UHD P630",
+            "Intel UHD Graphics P630"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Gen. 9.5",
+        "openGL": "4.4",
+        "directX": "12_1",
         "vendor": null,
-        "released": null,
+        "released": "Sun Oct 15 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -14680,7 +18200,8 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1195
+        "clockSpeed": "300",
+        "performance": 2
     },
     "Intel US15 Embedded Media and Controller": {
         "name": "Intel US15 Embedded Media and Controller",
@@ -14726,7 +18247,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "405 / 475 / 535",
-        "performance": 98
+        "performance": 121
     },
     "ION LE": {
         "name": "ION LE",
@@ -14748,12 +18269,12 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 97
+        "performance": 98
     },
-    "KB 2C": {
-        "name": "KB 2C",
+    "KV SPECTRE LITE MOBILE 25W": {
+        "name": "KV SPECTRE LITE MOBILE 25W",
         "names": [
-            "KB 2C"
+            "KV SPECTRE LITE MOBILE 25W"
         ],
         "codeName": null,
         "architecture": null,
@@ -14770,7 +18291,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 235
+        "performance": 538
+    },
+    "LMIMIRR": {
+        "name": "LMIMIRR",
+        "names": [
+            "LMIMIRR"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 875
+    },
+    "M71-M": {
+        "name": "M71-M",
+        "names": [
+            "M71-M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 64
+    },
+    "M76M": {
+        "name": "M76M",
+        "names": [
+            "M76M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 124
     },
     "M860G with Mobility Radeon 4100": {
         "name": "M860G with Mobility Radeon 4100",
@@ -14792,7 +18379,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 75
+        "performance": 76
     },
     "M880G with Mobility Radeon HD 4200": {
         "name": "M880G with Mobility Radeon HD 4200",
@@ -14814,7 +18401,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 92
+        "performance": 93
     },
     "M880G with Mobility Radeon HD 4225": {
         "name": "M880G with Mobility Radeon HD 4225",
@@ -14836,7 +18423,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 71
+        "performance": 72
     },
     "M880G with Mobility Radeon HD 4250": {
         "name": "M880G with Mobility Radeon HD 4250",
@@ -14859,6 +18446,28 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 104
+    },
+    "Master X3100 Driver": {
+        "name": "Master X3100 Driver",
+        "names": [
+            "Master X3100 Driver"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
     },
     "Matrox C420 LP PCIe x16": {
         "name": "Matrox C420 LP PCIe x16",
@@ -14902,7 +18511,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1951
+        "performance": 1
     },
     "Matrox C900 PCIe x16": {
         "name": "Matrox C900 PCIe x16",
@@ -14924,7 +18533,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1812
+        "performance": 1
     },
     "Matrox G200e WDDM 1.2": {
         "name": "Matrox G200e WDDM 1.2",
@@ -14948,6 +18557,28 @@ const database = {
         "tdp": null,
         "performance": 59
     },
+    "Matrox G200e WDDM 2.0": {
+        "name": "Matrox G200e WDDM 2.0",
+        "names": [
+            "Matrox G200e WDDM 2.0"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 123
+    },
     "Matrox G200eh": {
         "name": "Matrox G200eh",
         "names": [
@@ -14968,7 +18599,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 40
+        "performance": 41
     },
     "Matrox G200eh WDDM 1.2": {
         "name": "Matrox G200eh WDDM 1.2",
@@ -14992,6 +18623,28 @@ const database = {
         "tdp": null,
         "performance": 52
     },
+    "Matrox G200eh WDDM 2.0": {
+        "name": "Matrox G200eh WDDM 2.0",
+        "names": [
+            "Matrox G200eh WDDM 2.0"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 45
+    },
     "Matrox G200eR": {
         "name": "Matrox G200eR",
         "names": [
@@ -15012,7 +18665,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 36
+        "performance": 37
     },
     "Matrox G200eR WDDM 1.2": {
         "name": "Matrox G200eR WDDM 1.2",
@@ -15034,7 +18687,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 67
+        "performance": 51
+    },
+    "Matrox G200eR WDDM 2.0": {
+        "name": "Matrox G200eR WDDM 2.0",
+        "names": [
+            "Matrox G200eR WDDM 2.0"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 68
     },
     "Matrox G200eW": {
         "name": "Matrox G200eW",
@@ -15056,7 +18731,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 42
+        "performance": 40
     },
     "Matrox G200eW WDDM 1.2": {
         "name": "Matrox G200eW WDDM 1.2",
@@ -15080,6 +18755,116 @@ const database = {
         "tdp": null,
         "performance": 50
     },
+    "Matrox G200eW3 WDDM 2.0": {
+        "name": "Matrox G200eW3 WDDM 2.0",
+        "names": [
+            "Matrox G200eW3 WDDM 2.0"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 94
+    },
+    "Matrox M9120 PCIe x16": {
+        "name": "Matrox M9120 PCIe x16",
+        "names": [
+            "Matrox M9120 PCIe x16"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 20
+    },
+    "Matrox M9120 Plus LP PCIe x16": {
+        "name": "Matrox M9120 Plus LP PCIe x16",
+        "names": [
+            "Matrox M9120 Plus LP PCIe x16"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
+    },
+    "Matrox M9125 PCIe x16": {
+        "name": "Matrox M9125 PCIe x16",
+        "names": [
+            "Matrox M9125 PCIe x16"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 26
+    },
+    "Matrox M9128 LP PCIe x16": {
+        "name": "Matrox M9128 LP PCIe x16",
+        "names": [
+            "Matrox M9128 LP PCIe x16"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
     "Matrox M9138 LP PCIe x16": {
         "name": "Matrox M9138 LP PCIe x16",
         "names": [
@@ -15100,7 +18885,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 27
+        "performance": 32
     },
     "Matrox M9140 LP PCIe x16": {
         "name": "Matrox M9140 LP PCIe x16",
@@ -15122,7 +18907,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 21
+        "performance": 23
     },
     "Matrox M9148 LP PCIe x16": {
         "name": "Matrox M9148 LP PCIe x16",
@@ -15144,7 +18929,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 9
+        "performance": 10
     },
     "Matrox Millennium P650 PCIe 128": {
         "name": "Matrox Millennium P650 PCIe 128",
@@ -15210,7 +18995,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 6
+        "performance": 7
+    },
+    "Matrox Parhelia 128MB": {
+        "name": "Matrox Parhelia 128MB",
+        "names": [
+            "Matrox Parhelia 128MB"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "Matrox Parhelia 256MB": {
+        "name": "Matrox Parhelia 256MB",
+        "names": [
+            "Matrox Parhelia 256MB"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 9
     },
     "Matrox Parhelia APVe": {
         "name": "Matrox Parhelia APVe",
@@ -15232,7 +19061,52 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
+    },
+    "MCT USB3.0 External Device": {
+        "name": "MCT USB3.0 External Device",
+        "names": [
+            "MCT USB3.0 External Device"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 520
+    },
+    "MEDION RADEON 9800 XXL": {
+        "name": "MEDION RADEON 9800 XXL",
+        "names": [
+            "MEDION RADEON 9800 XXL",
+            "Radeon 9800 XXL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Oct 1, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 390,
+        "memoryClock": 338,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 4,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 72
     },
     "MEDION RADEON X740XL": {
         "name": "MEDION RADEON X740XL",
@@ -15254,7 +19128,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 94
+        "performance": 95
+    },
+    "MIRRORV3": {
+        "name": "MIRRORV3",
+        "names": [
+            "MIRRORV3"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Mobile Intel - famiglia Express Chipset 45": {
         "name": "Mobile Intel - famiglia Express Chipset 45",
@@ -15276,29 +19172,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 37
-    },
-    "Mobile Intel - famiglia Express Chipset serie 4": {
-        "name": "Mobile Intel - famiglia Express Chipset serie 4",
-        "names": [
-            "Mobile Intel - famiglia Express Chipset serie 4"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 47
+        "performance": 39
     },
     "Mobile Intel 4 Express-Chipsatzfamilie": {
         "name": "Mobile Intel 4 Express-Chipsatzfamilie",
@@ -15320,7 +19194,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 44
+        "performance": 45
     },
     "Mobile Intel 45 Express": {
         "name": "Mobile Intel 45 Express",
@@ -15342,7 +19216,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 43
+        "performance": 69
     },
     "Mobile Intel 45 Express-Chipsatzfamilie": {
         "name": "Mobile Intel 45 Express-Chipsatzfamilie",
@@ -15364,7 +19238,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 46
+        "performance": 117
     },
     "Mobile Intel 915GM/GMS/910GML Express": {
         "name": "Mobile Intel 915GM/GMS/910GML Express",
@@ -15386,7 +19260,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 3
     },
     "Mobile Intel 945 Express": {
         "name": "Mobile Intel 945 Express",
@@ -15408,7 +19282,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 2
     },
     "Mobile Intel 945GM Express": {
         "name": "Mobile Intel 945GM Express",
@@ -15430,7 +19304,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "Mobile Intel 945GM/GU Express": {
         "name": "Mobile Intel 945GM/GU Express",
@@ -15474,7 +19348,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 20
+        "performance": 36
+    },
+    "Mobile Intel 965 Express - BR-0907-0461 v1839": {
+        "name": "Mobile Intel 965 Express - BR-0907-0461 v1839",
+        "names": [
+            "Mobile Intel 965 Express - BR-0907-0461 v1839"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
     "Mobile Intel 965 Express-Chipsatzfamilie": {
         "name": "Mobile Intel 965 Express-Chipsatzfamilie",
@@ -15518,7 +19414,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 410
+        "performance": 326
     },
     "Mobile Intel serie 4 Express": {
         "name": "Mobile Intel serie 4 Express",
@@ -15540,7 +19436,54 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 44
+        "performance": 45
+    },
+    "Mobile Intel965 Express": {
+        "name": "Mobile Intel965 Express",
+        "names": [
+            "Mobile Intel965 Express"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 18
+    },
+    "MOBILITY FIREGL 7800": {
+        "name": "MOBILITY FIREGL 7800",
+        "names": [
+            "MOBILITY FIREGL 7800",
+            "Mobility FireGL 7800",
+            "ATI Mobility FireGL 7800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "7",
+        "vendor": "ATI",
+        "released": "Sep 29, 2001",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 280,
+        "memoryClock": 200,
+        "shaderUnits": 2,
+        "renderUnits": 2,
+        "textureUnits": 0,
+        "type": "Workstation",
+        "tdp": null,
+        "clockSpeed": "280",
+        "performance": 5
     },
     "MOBILITY FIREGL T2": {
         "name": "MOBILITY FIREGL T2",
@@ -15565,7 +19508,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 39
+        "performance": 41
     },
     "MOBILITY FIREGL T2/T2e": {
         "name": "MOBILITY FIREGL T2/T2e",
@@ -15588,7 +19531,7 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 33
+        "performance": 34
     },
     "MOBILITY FireGL V3200": {
         "name": "MOBILITY FireGL V3200",
@@ -15611,7 +19554,7 @@ const database = {
         "textureUnits": 2,
         "type": "Workstation",
         "tdp": null,
-        "performance": 61
+        "performance": 62
     },
     "MOBILITY FireGL V5000": {
         "name": "MOBILITY FireGL V5000",
@@ -15636,7 +19579,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 81
+        "performance": 82
     },
     "MOBILITY FireGL V5200": {
         "name": "MOBILITY FireGL V5200",
@@ -15659,7 +19602,7 @@ const database = {
         "textureUnits": 5,
         "type": "Workstation",
         "tdp": null,
-        "performance": 44
+        "performance": 45
     },
     "MOBILITY FireGL V5250": {
         "name": "MOBILITY FireGL V5250",
@@ -15709,6 +19652,28 @@ const database = {
         "tdp": null,
         "clockSpeed": "680",
         "performance": 219
+    },
+    "MOBILITY IGP 9000/9100": {
+        "name": "MOBILITY IGP 9000/9100",
+        "names": [
+            "MOBILITY IGP 9000/9100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
     },
     "Mobility Radeon 4100": {
         "name": "Mobility Radeon 4100",
@@ -15781,7 +19746,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "280",
-        "performance": 3
+        "performance": 4
     },
     "MOBILITY RADEON 9000": {
         "name": "MOBILITY RADEON 9000",
@@ -15831,7 +19796,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 7
+        "performance": 8
     },
     "MOBILITY RADEON 9000/9100 IGP": {
         "name": "MOBILITY RADEON 9000/9100 IGP",
@@ -15854,7 +19819,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "MOBILITY RADEON 9100 IGP": {
         "name": "MOBILITY RADEON 9100 IGP",
@@ -15879,7 +19844,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 2
+        "performance": 3
     },
     "MOBILITY RADEON 9200": {
         "name": "MOBILITY RADEON 9200",
@@ -15906,6 +19871,56 @@ const database = {
         "clockSpeed": "250",
         "performance": 3
     },
+    "MOBILITY RADEON 9550": {
+        "name": "MOBILITY RADEON 9550",
+        "names": [
+            "MOBILITY RADEON 9550",
+            "Mobility Radeon 9550",
+            "ATI Mobility Radeon 9550"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "9",
+        "vendor": "ATI",
+        "released": "Jun 1, 2004",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 250,
+        "memoryClock": 243,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "type": "Mobile",
+        "tdp": null,
+        "clockSpeed": "210",
+        "performance": 30
+    },
+    "MOBILITY RADEON 9600": {
+        "name": "MOBILITY RADEON 9600",
+        "names": [
+            "MOBILITY RADEON 9600",
+            "Mobility Radeon 9600",
+            "ATI Mobility Radeon 9600"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "9",
+        "vendor": "ATI",
+        "released": "Jun 1, 2004",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 2,
+        "type": "Mobile",
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 36
+    },
     "MOBILITY RADEON 9600 PRO TURBO": {
         "name": "MOBILITY RADEON 9600 PRO TURBO",
         "names": [
@@ -15927,24 +19942,24 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 24
+        "performance": 25
     },
     "MOBILITY RADEON 9600/9700": {
         "name": "MOBILITY RADEON 9600/9700",
         "names": [
             "MOBILITY RADEON 9600/9700",
-            "Mobility Radeon 9600"
+            "Radeon 9600"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 128,
+        "released": "Oct 1, 2003",
+        "memory": 64,
         "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 200,
+        "clock": 324,
+        "memoryClock": 189,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
@@ -15975,7 +19990,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 26
+        "performance": 27
     },
     "MOBILITY RADEON 9800": {
         "name": "MOBILITY RADEON 9800",
@@ -16024,7 +20039,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "480",
-        "performance": 50
+        "performance": 51
     },
     "Mobility Radeon HD 2400": {
         "name": "Mobility Radeon HD 2400",
@@ -16048,7 +20063,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 89
+        "performance": 90
     },
     "Mobility Radeon HD 2400 XT": {
         "name": "Mobility Radeon HD 2400 XT",
@@ -16072,7 +20087,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 101
+        "performance": 102
     },
     "Mobility Radeon HD 2600": {
         "name": "Mobility Radeon HD 2600",
@@ -16120,7 +20135,31 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 193
+        "performance": 192
+    },
+    "Mobility Radeon HD 3400 Serisi": {
+        "name": "Mobility Radeon HD 3400 Serisi",
+        "names": [
+            "Mobility Radeon HD 3400 Serisi",
+            "ATI Mobility Radeon HD 3400"
+        ],
+        "codeName": null,
+        "architecture": "RV6xx",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Sun Aug 15 2010",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 111
     },
     "Mobility Radeon HD 3410": {
         "name": "Mobility Radeon HD 3410",
@@ -16144,7 +20183,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 62
+        "performance": 63
     },
     "Mobility Radeon HD 3430": {
         "name": "Mobility Radeon HD 3430",
@@ -16168,7 +20207,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 97
+        "performance": 98
     },
     "Mobility Radeon HD 3450": {
         "name": "Mobility Radeon HD 3450",
@@ -16241,7 +20280,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 93
+        "performance": 94
     },
     "Mobility Radeon HD 3650": {
         "name": "Mobility Radeon HD 3650",
@@ -16265,7 +20304,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 211
+        "performance": 135
     },
     "Mobility Radeon HD 3670": {
         "name": "Mobility Radeon HD 3670",
@@ -16313,7 +20352,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "580",
-        "performance": 365
+        "performance": 366
     },
     "Mobility Radeon HD 3870": {
         "name": "Mobility Radeon HD 3870",
@@ -16337,7 +20376,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "660",
-        "performance": 547
+        "performance": 548
     },
     "Mobility Radeon HD 3870 X2": {
         "name": "Mobility Radeon HD 3870 X2",
@@ -16378,7 +20417,7 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 498,
-        "memoryClock": 800,
+        "memoryClock": 500,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
@@ -16401,7 +20440,7 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 380,
-        "memoryClock": 800,
+        "memoryClock": 380,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
@@ -16447,13 +20486,35 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 590,
-        "memoryClock": 800,
+        "memoryClock": 590,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
         "type": "Mobile",
         "tdp": null,
-        "performance": 92
+        "performance": 93
+    },
+    "Mobility Radeon HD 4300 Serisi": {
+        "name": "Mobility Radeon HD 4300 Serisi",
+        "names": [
+            "Mobility Radeon HD 4300 Serisi"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 73
     },
     "Mobility Radeon HD 4330": {
         "name": "Mobility Radeon HD 4330",
@@ -16549,7 +20610,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "680",
-        "performance": 196
+        "performance": 130
     },
     "Mobility Radeon HD 4650": {
         "name": "Mobility Radeon HD 4650",
@@ -16621,7 +20682,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "550",
-        "performance": 511
+        "performance": 512
     },
     "Mobility Radeon HD 4850": {
         "name": "Mobility Radeon HD 4850",
@@ -16669,7 +20730,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "550",
-        "performance": 719
+        "performance": 720
     },
     "Mobility Radeon HD 5000": {
         "name": "Mobility Radeon HD 5000",
@@ -16713,7 +20774,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 478
+        "performance": 479
     },
     "Mobility Radeon HD 5165": {
         "name": "Mobility Radeon HD 5165",
@@ -16761,7 +20822,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 174
+        "performance": 175
     },
     "Mobility Radeon HD 540v": {
         "name": "Mobility Radeon HD 540v",
@@ -16857,7 +20918,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 199
+        "performance": 200
     },
     "Mobility Radeon HD 5470": {
         "name": "Mobility Radeon HD 5470",
@@ -16927,7 +20988,7 @@ const database = {
         "textureUnits": 20,
         "type": "Unknown",
         "tdp": null,
-        "performance": 715
+        "performance": 559
     },
     "Mobility Radeon HD 560v": {
         "name": "Mobility Radeon HD 560v",
@@ -16975,7 +21036,7 @@ const database = {
         "type": "Mobile",
         "tdp": 15,
         "clockSpeed": "450",
-        "performance": 552
+        "performance": 462
     },
     "Mobility Radeon HD 565v": {
         "name": "Mobility Radeon HD 565v",
@@ -16999,7 +21060,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "675",
-        "performance": 325
+        "performance": 353
     },
     "Mobility Radeon HD 5730": {
         "name": "Mobility Radeon HD 5730",
@@ -17023,7 +21084,7 @@ const database = {
         "type": "Mobile",
         "tdp": 26,
         "clockSpeed": "650",
-        "performance": 675
+        "performance": 511
     },
     "Mobility Radeon HD 5850": {
         "name": "Mobility Radeon HD 5850",
@@ -17071,7 +21132,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "700",
-        "performance": 1243
+        "performance": 1
     },
     "Mobility Radeon HD serie 4200": {
         "name": "Mobility Radeon HD serie 4200",
@@ -17093,7 +21154,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 96
+        "performance": 97
     },
     "Mobility Radeon X1300": {
         "name": "Mobility Radeon X1300",
@@ -17117,7 +21178,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 39
+        "performance": 40
     },
     "Mobility Radeon X1350": {
         "name": "Mobility Radeon X1350",
@@ -17141,7 +21202,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "470",
-        "performance": 39
+        "performance": 40
     },
     "Mobility Radeon X1400": {
         "name": "Mobility Radeon X1400",
@@ -17237,7 +21298,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "475",
-        "performance": 104
+        "performance": 105
     },
     "MOBILITY RADEON X1800": {
         "name": "MOBILITY RADEON X1800",
@@ -17286,7 +21347,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 134
+        "performance": 135
     },
     "Mobility Radeon X2300": {
         "name": "Mobility Radeon X2300",
@@ -17332,7 +21393,7 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 48
+        "performance": 49
     },
     "Mobility Radeon X2500": {
         "name": "Mobility Radeon X2500",
@@ -17356,7 +21417,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "460",
-        "performance": 81
+        "performance": 82
     },
     "MOBILITY RADEON X300": {
         "name": "MOBILITY RADEON X300",
@@ -17381,7 +21442,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 33
+        "performance": 34
     },
     "MOBILITY RADEON X600": {
         "name": "MOBILITY RADEON X600",
@@ -17454,7 +21515,30 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 66
+        "performance": 67
+    },
+    "MOBILITY RADEON X700 XL": {
+        "name": "MOBILITY RADEON X700 XL",
+        "names": [
+            "MOBILITY RADEON X700 XL",
+            "Mobility Radeon X700 XL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Mar 1, 2005",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 350,
+        "memoryClock": 330,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 6,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 60
     },
     "MOBILITY RADEON XPRESS 200": {
         "name": "MOBILITY RADEON XPRESS 200",
@@ -17476,7 +21560,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 26
+        "performance": 27
     },
     "Mobility Radeon. HD 5470": {
         "name": "Mobility Radeon. HD 5470",
@@ -17523,6 +21607,28 @@ const database = {
         "tdp": null,
         "performance": 4
     },
+    "MONSTER GeForce GTX 675M": {
+        "name": "MONSTER GeForce GTX 675M",
+        "names": [
+            "MONSTER GeForce GTX 675M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
     "MxGPU": {
         "name": "MxGPU",
         "names": [
@@ -17544,7 +21650,51 @@ const database = {
         "textureUnits": 256,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1826
+        "performance": 1
+    },
+    "N16P-GX": {
+        "name": "N16P-GX",
+        "names": [
+            "N16P-GX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "N18E-Q1": {
+        "name": "N18E-Q1",
+        "names": [
+            "N18E-Q1"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "nForce 750a SLI": {
         "name": "nForce 750a SLI",
@@ -17632,7 +21782,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 81
+        "performance": 82
+    },
+    "NV44": {
+        "name": "NV44",
+        "names": [
+            "NV44"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 15
     },
     "NVIDIA TITAN X": {
         "name": "NVIDIA TITAN X",
@@ -17645,18 +21817,18 @@ const database = {
         "openGL": "4.5 / Vulkan",
         "directX": "12_1",
         "vendor": null,
-        "released": "Thu Jul 28 2016",
+        "released": "Mon Aug 08 2016",
         "memory": 12288,
         "memoryType": "GDDR5X",
         "clock": 1417,
-        "memoryClock": 2500,
+        "memoryClock": 1417,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "1418",
-        "performance": 13615
+        "performance": 13
     },
     "NVIDIA TITAN Xp": {
         "name": "NVIDIA TITAN Xp",
@@ -17679,7 +21851,7 @@ const database = {
         "textureUnits": 240,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 14293
+        "performance": 18
     },
     "NVS 2100M": {
         "name": "NVS 2100M",
@@ -17703,7 +21875,7 @@ const database = {
         "type": "Workstation",
         "tdp": 14,
         "clockSpeed": "535",
-        "performance": 184
+        "performance": 185
     },
     "NVS 300": {
         "name": "NVS 300",
@@ -17725,7 +21897,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 17.5,
-        "performance": 183
+        "performance": 121
     },
     "NVS 310": {
         "name": "NVS 310",
@@ -17747,7 +21919,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 19.5,
-        "performance": 292
+        "performance": 241
     },
     "NVS 3100M": {
         "name": "NVS 3100M",
@@ -17771,7 +21943,7 @@ const database = {
         "type": "Workstation",
         "tdp": 14,
         "clockSpeed": "600",
-        "performance": 203
+        "performance": 116
     },
     "NVS 315": {
         "name": "NVS 315",
@@ -17793,7 +21965,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 19.5,
-        "performance": 346
+        "performance": 295
     },
     "NVS 4200M": {
         "name": "NVS 4200M",
@@ -17817,7 +21989,7 @@ const database = {
         "type": "Workstation",
         "tdp": null,
         "clockSpeed": "810",
-        "performance": 364
+        "performance": 247
     },
     "NVS 510": {
         "name": "NVS 510",
@@ -17839,7 +22011,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 35,
-        "performance": 765
+        "performance": 763
     },
     "NVS 5100M": {
         "name": "NVS 5100M",
@@ -17863,7 +22035,7 @@ const database = {
         "type": "Workstation",
         "tdp": 35,
         "clockSpeed": "550",
-        "performance": 356
+        "performance": 211
     },
     "NVS 5200M": {
         "name": "NVS 5200M",
@@ -17887,7 +22059,7 @@ const database = {
         "type": "Workstation",
         "tdp": 35,
         "clockSpeed": "625",
-        "performance": 663
+        "performance": 556
     },
     "NVS 5400M": {
         "name": "NVS 5400M",
@@ -17911,7 +22083,7 @@ const database = {
         "type": "Workstation",
         "tdp": 35,
         "clockSpeed": "660",
-        "performance": 782
+        "performance": 641
     },
     "NVS 810": {
         "name": "NVS 810",
@@ -17933,7 +22105,29 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 975
+        "performance": 1
+    },
+    "OPAL XT/GL": {
+        "name": "OPAL XT/GL",
+        "names": [
+            "OPAL XT/GL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "OpenXT Display Driver": {
         "name": "OpenXT Display Driver",
@@ -17955,7 +22149,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 30
+        "performance": 31
+    },
+    "P104-100": {
+        "name": "P104-100",
+        "names": [
+            "P104-100"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Dec 12, 2017",
+        "memory": 4096,
+        "memoryType": "GDDR5X",
+        "clock": 1607,
+        "memoryClock": 1251,
+        "shaderUnits": 1920,
+        "renderUnits": 64,
+        "textureUnits": 120,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "P106-090": {
+        "name": "P106-090",
+        "names": [
+            "P106-090"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jul 31, 2017",
+        "memory": 3072,
+        "memoryType": "GDDR5",
+        "clock": 1354,
+        "memoryClock": 2002,
+        "shaderUnits": 768,
+        "renderUnits": 48,
+        "textureUnits": 48,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "P106-100": {
         "name": "P106-100",
@@ -17977,7 +22215,7 @@ const database = {
         "textureUnits": 80,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2060
+        "performance": 5
     },
     "PHDGD Ivy 4": {
         "name": "PHDGD Ivy 4",
@@ -17999,7 +22237,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 394
+        "performance": 374
+    },
+    "PHDGD Ivy 5": {
+        "name": "PHDGD Ivy 5",
+        "names": [
+            "PHDGD Ivy 5"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 445
     },
     "PHDGD Quantic C3": {
         "name": "PHDGD Quantic C3",
@@ -18021,29 +22281,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 113
-    },
-    "PHDGD Quebec 4.0 for Intel Q45/Q43 Express Chipset": {
-        "name": "PHDGD Quebec 4.0 for Intel Q45/Q43 Express Chipset",
-        "names": [
-            "PHDGD Quebec 4.0 for Intel Q45/Q43 Express Chipset"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 66
+        "performance": 117
     },
     "PHDGD Sapphire GR for Mobile Intel 965": {
         "name": "PHDGD Sapphire GR for Mobile Intel 965",
@@ -18065,7 +22303,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 25
+        "performance": 26
     },
     "PHDGD Solo 1.2.0 x86": {
         "name": "PHDGD Solo 1.2.0 x86",
@@ -18111,6 +22349,50 @@ const database = {
         "tdp": null,
         "performance": 20
     },
+    "Professional HD Driver": {
+        "name": "Professional HD Driver",
+        "names": [
+            "Professional HD Driver"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 654
+    },
+    "Q12U-1": {
+        "name": "Q12U-1",
+        "names": [
+            "Q12U-1"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
     "Quadro 1000M": {
         "name": "Quadro 1000M",
         "names": [
@@ -18133,7 +22415,7 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "700",
-        "performance": 751
+        "performance": 586
     },
     "Quadro 1100M": {
         "name": "Quadro 1100M",
@@ -18177,7 +22459,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 62,
-        "performance": 1316
+        "performance": 926
     },
     "Quadro 2000 D": {
         "name": "Quadro 2000 D",
@@ -18199,7 +22481,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1182
+        "performance": 1
     },
     "Quadro 2000D": {
         "name": "Quadro 2000D",
@@ -18221,7 +22503,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1282
+        "performance": 989
     },
     "Quadro 2000M": {
         "name": "Quadro 2000M",
@@ -18245,7 +22527,29 @@ const database = {
         "type": "Workstation",
         "tdp": 55,
         "clockSpeed": "550",
-        "performance": 1037
+        "performance": 824
+    },
+    "Quadro 2100M": {
+        "name": "Quadro 2100M",
+        "names": [
+            "Quadro 2100M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Quadro 280 NVS PCIe": {
         "name": "Quadro 280 NVS PCIe",
@@ -18268,7 +22572,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 5
+        "performance": 6
     },
     "Quadro 3000M": {
         "name": "Quadro 3000M",
@@ -18292,7 +22596,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "450",
-        "performance": 1460
+        "performance": 1
     },
     "Quadro 400": {
         "name": "Quadro 400",
@@ -18314,17 +22618,18 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 32,
-        "performance": 238
+        "performance": 163
     },
     "Quadro 4000": {
         "name": "Quadro 4000",
         "names": [
-            "Quadro 4000"
+            "Quadro 4000",
+            "NVIDIA Quadro RTX 4000 (Laptop)"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Nov 2, 2010",
         "memory": 2048,
@@ -18336,7 +22641,8 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 142,
-        "performance": 2047
+        "clockSpeed": "1110",
+        "performance": 1
     },
     "Quadro 4000M": {
         "name": "Quadro 4000M",
@@ -18360,7 +22666,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "475",
-        "performance": 1815
+        "performance": 1
     },
     "Quadro 410": {
         "name": "Quadro 410",
@@ -18382,17 +22688,18 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 38,
-        "performance": 402
+        "performance": 441
     },
     "Quadro 5000": {
         "name": "Quadro 5000",
         "names": [
-            "Quadro 5000"
+            "Quadro 5000",
+            "NVIDIA Quadro RTX 5000 (Laptop)"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Feb 23, 2011",
         "memory": 2560,
@@ -18404,7 +22711,8 @@ const database = {
         "textureUnits": 44,
         "type": "Workstation",
         "tdp": 152,
-        "performance": 2853
+        "clockSpeed": "1035 / 1350",
+        "performance": 1
     },
     "Quadro 5000M": {
         "name": "Quadro 5000M",
@@ -18428,7 +22736,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "405",
-        "performance": 2059
+        "performance": 2
     },
     "Quadro 500M": {
         "name": "Quadro 500M",
@@ -18450,7 +22758,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 35,
-        "performance": 672
+        "performance": 664
     },
     "Quadro 5010M": {
         "name": "Quadro 5010M",
@@ -18474,7 +22782,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "450",
-        "performance": 1824
+        "performance": 2
     },
     "Quadro 600": {
         "name": "Quadro 600",
@@ -18496,17 +22804,18 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 40,
-        "performance": 697
+        "performance": 546
     },
     "Quadro 6000": {
         "name": "Quadro 6000",
         "names": [
-            "Quadro 6000"
+            "Quadro 6000",
+            "NVIDIA Quadro RTX 6000 (Laptop)"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Dec 10, 2010",
         "memory": 6144,
@@ -18518,7 +22827,30 @@ const database = {
         "textureUnits": 56,
         "type": "Workstation",
         "tdp": 204,
-        "performance": 3521
+        "clockSpeed": null,
+        "performance": 2
+    },
+    "Quadro 7000": {
+        "name": "Quadro 7000",
+        "names": [
+            "Quadro 7000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "May 2, 2012",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 651,
+        "memoryClock": 851,
+        "shaderUnits": 512,
+        "renderUnits": 48,
+        "textureUnits": 64,
+        "type": "Workstation",
+        "tdp": 204,
+        "performance": 3
     },
     "Quadro CX": {
         "name": "Quadro CX",
@@ -18586,7 +22918,7 @@ const database = {
         "textureUnits": 3,
         "type": "Workstation",
         "tdp": null,
-        "performance": 35
+        "performance": 36
     },
     "Quadro FX 1300": {
         "name": "Quadro FX 1300",
@@ -18632,7 +22964,7 @@ const database = {
         "type": "Workstation",
         "tdp": 70,
         "clockSpeed": "330",
-        "performance": 103
+        "performance": 104
     },
     "Quadro FX 1500": {
         "name": "Quadro FX 1500",
@@ -18654,7 +22986,7 @@ const database = {
         "textureUnits": 6,
         "type": "Workstation",
         "tdp": 65,
-        "performance": 156
+        "performance": 175
     },
     "Quadro FX 1500M": {
         "name": "Quadro FX 1500M",
@@ -18702,7 +23034,7 @@ const database = {
         "type": "Workstation",
         "tdp": 50,
         "clockSpeed": "625",
-        "performance": 215
+        "performance": 186
     },
     "Quadro FX 1700": {
         "name": "Quadro FX 1700",
@@ -18724,7 +23056,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 42,
-        "performance": 193
+        "performance": 117
     },
     "Quadro FX 1700M": {
         "name": "Quadro FX 1700M",
@@ -18748,7 +23080,7 @@ const database = {
         "type": "Workstation",
         "tdp": 50,
         "clockSpeed": "625",
-        "performance": 300
+        "performance": 181
     },
     "Quadro FX 1800": {
         "name": "Quadro FX 1800",
@@ -18770,7 +23102,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 59,
-        "performance": 580
+        "performance": 418
     },
     "Quadro FX 1800M": {
         "name": "Quadro FX 1800M",
@@ -18794,7 +23126,29 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "560",
-        "performance": 478
+        "performance": 479
+    },
+    "Quadro FX 2000": {
+        "name": "Quadro FX 2000",
+        "names": [
+            "Quadro FX 2000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jan 21, 2003",
+        "memory": 128,
+        "memoryType": "DDR2",
+        "clock": 400,
+        "memoryClock": 400,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 18
     },
     "Quadro FX 2500M": {
         "name": "Quadro FX 2500M",
@@ -18818,7 +23172,29 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "500",
-        "performance": 214
+        "performance": 218
+    },
+    "Quadro FX 2700": {
+        "name": "Quadro FX 2700",
+        "names": [
+            "Quadro FX 2700"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 543
     },
     "Quadro FX 2700M": {
         "name": "Quadro FX 2700M",
@@ -18842,7 +23218,7 @@ const database = {
         "type": "Workstation",
         "tdp": 65,
         "clockSpeed": "530",
-        "performance": 529
+        "performance": 396
     },
     "Quadro FX 2800M": {
         "name": "Quadro FX 2800M",
@@ -18866,7 +23242,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "600",
-        "performance": 659
+        "performance": 394
     },
     "Quadro FX 3000": {
         "name": "Quadro FX 3000",
@@ -18933,7 +23309,7 @@ const database = {
         "textureUnits": 5,
         "type": "Workstation",
         "tdp": 83,
-        "performance": 148
+        "performance": 149
     },
     "Quadro FX 3450/4000 SDI": {
         "name": "Quadro FX 3450/4000 SDI",
@@ -18949,13 +23325,13 @@ const database = {
         "memory": 256,
         "memoryType": null,
         "clock": 375,
-        "memoryClock": 1000,
+        "memoryClock": 375,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": null,
-        "performance": 133
+        "performance": 135
     },
     "Quadro FX 350": {
         "name": "Quadro FX 350",
@@ -18977,7 +23353,7 @@ const database = {
         "textureUnits": 3,
         "type": "Workstation",
         "tdp": 21,
-        "performance": 85
+        "performance": 86
     },
     "Quadro FX 3500": {
         "name": "Quadro FX 3500",
@@ -18999,7 +23375,7 @@ const database = {
         "textureUnits": 7,
         "type": "Workstation",
         "tdp": 80,
-        "performance": 208
+        "performance": 319
     },
     "Quadro FX 3500M": {
         "name": "Quadro FX 3500M",
@@ -19117,7 +23493,29 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 35,
-        "performance": 83
+        "performance": 84
+    },
+    "Quadro FX 370 Low Profile": {
+        "name": "Quadro FX 370 Low Profile",
+        "names": [
+            "Quadro FX 370 Low Profile"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 103
     },
     "Quadro FX 370 LP": {
         "name": "Quadro FX 370 LP",
@@ -19161,7 +23559,7 @@ const database = {
         "textureUnits": 56,
         "type": "Workstation",
         "tdp": 78,
-        "performance": 631
+        "performance": 388
     },
     "Quadro FX 3700M": {
         "name": "Quadro FX 3700M",
@@ -19185,7 +23583,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "550",
-        "performance": 633
+        "performance": 506
     },
     "Quadro FX 370M": {
         "name": "Quadro FX 370M",
@@ -19231,7 +23629,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 34,
-        "performance": 149
+        "performance": 103
     },
     "Quadro FX 380 LP": {
         "name": "Quadro FX 380 LP",
@@ -19253,7 +23651,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 28,
-        "performance": 190
+        "performance": 143
     },
     "Quadro FX 3800": {
         "name": "Quadro FX 3800",
@@ -19275,7 +23673,7 @@ const database = {
         "textureUnits": 64,
         "type": "Workstation",
         "tdp": 108,
-        "performance": 839
+        "performance": 777
     },
     "Quadro FX 3800M": {
         "name": "Quadro FX 3800M",
@@ -19299,7 +23697,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "675",
-        "performance": 802
+        "performance": 725
     },
     "Quadro FX 380M": {
         "name": "Quadro FX 380M",
@@ -19323,7 +23721,29 @@ const database = {
         "type": "Workstation",
         "tdp": 25,
         "clockSpeed": "625",
-        "performance": 201
+        "performance": 129
+    },
+    "Quadro FX 4000": {
+        "name": "Quadro FX 4000",
+        "names": [
+            "Quadro FX 4000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Apr 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 375,
+        "memoryClock": 500,
+        "shaderUnits": 12,
+        "renderUnits": 12,
+        "textureUnits": 5,
+        "type": "Workstation",
+        "tdp": 142,
+        "performance": 101
     },
     "Quadro FX 4500": {
         "name": "Quadro FX 4500",
@@ -19345,7 +23765,29 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 109,
-        "performance": 207
+        "performance": 205
+    },
+    "Quadro FX 4500 X2": {
+        "name": "Quadro FX 4500 X2",
+        "names": [
+            "Quadro FX 4500 X2"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Apr 24, 2006",
+        "memory": 512,
+        "memoryType": "GDDR3",
+        "clock": 500,
+        "memoryClock": 605,
+        "shaderUnits": 24,
+        "renderUnits": 24,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 236
     },
     "Quadro FX 4600": {
         "name": "Quadro FX 4600",
@@ -19367,7 +23809,7 @@ const database = {
         "textureUnits": 24,
         "type": "Workstation",
         "tdp": 134,
-        "performance": 601
+        "performance": 442
     },
     "Quadro FX 4700 X2": {
         "name": "Quadro FX 4700 X2",
@@ -19389,7 +23831,7 @@ const database = {
         "textureUnits": 64,
         "type": "Unknown",
         "tdp": null,
-        "performance": 665
+        "performance": 676
     },
     "Quadro FX 4800": {
         "name": "Quadro FX 4800",
@@ -19411,7 +23853,7 @@ const database = {
         "textureUnits": 64,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 1002
+        "performance": 947
     },
     "Quadro FX 500/600 PCI": {
         "name": "Quadro FX 500/600 PCI",
@@ -19456,7 +23898,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 7
+        "performance": 8
     },
     "Quadro FX 540": {
         "name": "Quadro FX 540",
@@ -19478,7 +23920,7 @@ const database = {
         "textureUnits": 4,
         "type": "Workstation",
         "tdp": 35,
-        "performance": 80
+        "performance": 81
     },
     "Quadro FX 550": {
         "name": "Quadro FX 550",
@@ -19500,7 +23942,7 @@ const database = {
         "textureUnits": 4,
         "type": "Workstation",
         "tdp": 25,
-        "performance": 63
+        "performance": 64
     },
     "Quadro FX 5500": {
         "name": "Quadro FX 5500",
@@ -19522,7 +23964,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 96,
-        "performance": 240
+        "performance": 242
     },
     "Quadro FX 560": {
         "name": "Quadro FX 560",
@@ -19544,7 +23986,7 @@ const database = {
         "textureUnits": 5,
         "type": "Workstation",
         "tdp": 30,
-        "performance": 113
+        "performance": 114
     },
     "Quadro FX 5600": {
         "name": "Quadro FX 5600",
@@ -19566,7 +24008,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 681
+        "performance": 559
     },
     "Quadro FX 570": {
         "name": "Quadro FX 570",
@@ -19612,7 +24054,7 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "475",
-        "performance": 185
+        "performance": 122
     },
     "Quadro FX 580": {
         "name": "Quadro FX 580",
@@ -19634,7 +24076,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 40,
-        "performance": 269
+        "performance": 152
     },
     "Quadro FX 5800": {
         "name": "Quadro FX 5800",
@@ -19656,7 +24098,7 @@ const database = {
         "textureUnits": 80,
         "type": "Workstation",
         "tdp": 189,
-        "performance": 1108
+        "performance": 1
     },
     "Quadro FX 770M": {
         "name": "Quadro FX 770M",
@@ -19680,7 +24122,7 @@ const database = {
         "type": "Workstation",
         "tdp": 35,
         "clockSpeed": "500",
-        "performance": 298
+        "performance": 246
     },
     "Quadro FX 880M": {
         "name": "Quadro FX 880M",
@@ -19704,7 +24146,7 @@ const database = {
         "type": "Workstation",
         "tdp": 35,
         "clockSpeed": "550",
-        "performance": 354
+        "performance": 220
     },
     "Quadro FX Go1400": {
         "name": "Quadro FX Go1400",
@@ -19726,7 +24168,7 @@ const database = {
         "textureUnits": 5,
         "type": "Unknown",
         "tdp": null,
-        "performance": 101
+        "performance": 102
     },
     "Quadro GP100": {
         "name": "Quadro GP100",
@@ -19748,7 +24190,7 @@ const database = {
         "textureUnits": 224,
         "type": "Workstation",
         "tdp": 235,
-        "performance": 12843
+        "performance": 12
     },
     "Quadro GV100": {
         "name": "Quadro GV100",
@@ -19768,9 +24210,9 @@ const database = {
         "shaderUnits": 5120,
         "renderUnits": 128,
         "textureUnits": 320,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 12699
+        "type": "Workstation",
+        "tdp": 250,
+        "performance": 12
     },
     "Quadro K1000M": {
         "name": "Quadro K1000M",
@@ -19794,7 +24236,7 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "850",
-        "performance": 793
+        "performance": 780
     },
     "Quadro K1100M": {
         "name": "Quadro K1100M",
@@ -19818,7 +24260,7 @@ const database = {
         "type": "Workstation",
         "tdp": 45,
         "clockSpeed": "705",
-        "performance": 1024
+        "performance": 1
     },
     "Quadro K1200": {
         "name": "Quadro K1200",
@@ -19840,7 +24282,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 45,
-        "performance": 3026
+        "performance": 2
     },
     "Quadro K2000": {
         "name": "Quadro K2000",
@@ -19862,7 +24304,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 51,
-        "performance": 1722
+        "performance": 1
     },
     "Quadro K2000D": {
         "name": "Quadro K2000D",
@@ -19884,7 +24326,7 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 51,
-        "performance": 1674
+        "performance": 1
     },
     "Quadro K2000M": {
         "name": "Quadro K2000M",
@@ -19908,7 +24350,7 @@ const database = {
         "type": "Workstation",
         "tdp": 55,
         "clockSpeed": "745",
-        "performance": 1080
+        "performance": 1
     },
     "Quadro K2100M": {
         "name": "Quadro K2100M",
@@ -19932,7 +24374,7 @@ const database = {
         "type": "Workstation",
         "tdp": 55,
         "clockSpeed": "667",
-        "performance": 1327
+        "performance": 1
     },
     "Quadro K2200": {
         "name": "Quadro K2200",
@@ -19954,7 +24396,7 @@ const database = {
         "textureUnits": 40,
         "type": "Workstation",
         "tdp": 68,
-        "performance": 3576
+        "performance": 3
     },
     "Quadro K2200M": {
         "name": "Quadro K2200M",
@@ -19976,7 +24418,7 @@ const database = {
         "textureUnits": 40,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2620
+        "performance": 3
     },
     "Quadro K3000M": {
         "name": "Quadro K3000M",
@@ -20000,7 +24442,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "654",
-        "performance": 1754
+        "performance": 1
     },
     "Quadro K3100M": {
         "name": "Quadro K3100M",
@@ -20024,7 +24466,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "706",
-        "performance": 2050
+        "performance": 2
     },
     "Quadro K4000": {
         "name": "Quadro K4000",
@@ -20046,7 +24488,7 @@ const database = {
         "textureUnits": 64,
         "type": "Workstation",
         "tdp": 80,
-        "performance": 2881
+        "performance": 2
     },
     "Quadro K4000M": {
         "name": "Quadro K4000M",
@@ -20070,7 +24512,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "600",
-        "performance": 2228
+        "performance": 2
     },
     "Quadro K4100M": {
         "name": "Quadro K4100M",
@@ -20094,7 +24536,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "706",
-        "performance": 2567
+        "performance": 2
     },
     "Quadro K420": {
         "name": "Quadro K420",
@@ -20116,7 +24558,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 41,
-        "performance": 830
+        "performance": 767
     },
     "Quadro K4200": {
         "name": "Quadro K4200",
@@ -20138,7 +24580,7 @@ const database = {
         "textureUnits": 112,
         "type": "Workstation",
         "tdp": 105,
-        "performance": 4467
+        "performance": 4
     },
     "Quadro K5000": {
         "name": "Quadro K5000",
@@ -20160,7 +24602,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": 122,
-        "performance": 4012
+        "performance": 3
     },
     "Quadro K5000M": {
         "name": "Quadro K5000M",
@@ -20184,7 +24626,31 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "706",
-        "performance": 2602
+        "performance": 2
+    },
+    "Quadro K500M": {
+        "name": "Quadro K500M",
+        "names": [
+            "Quadro K500M",
+            "NVIDIA Quadro K500M"
+        ],
+        "codeName": null,
+        "architecture": "Kepler",
+        "openGL": "4.3",
+        "directX": "11",
+        "vendor": "NVIDIA",
+        "released": "Jun 1, 2012",
+        "memory": 1024,
+        "memoryType": "DDR3",
+        "clock": 850,
+        "memoryClock": 800,
+        "shaderUnits": 192,
+        "renderUnits": 8,
+        "textureUnits": 16,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "850",
+        "performance": 480
     },
     "Quadro K5100M": {
         "name": "Quadro K5100M",
@@ -20208,7 +24674,7 @@ const database = {
         "type": "Workstation",
         "tdp": 100,
         "clockSpeed": "771",
-        "performance": 3111
+        "performance": 2
     },
     "Quadro K510M": {
         "name": "Quadro K510M",
@@ -20254,7 +24720,7 @@ const database = {
         "textureUnits": 192,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 6094
+        "performance": 5
     },
     "Quadro K600": {
         "name": "Quadro K600",
@@ -20276,7 +24742,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 41,
-        "performance": 824
+        "performance": 778
     },
     "Quadro K6000": {
         "name": "Quadro K6000",
@@ -20298,7 +24764,7 @@ const database = {
         "textureUnits": 240,
         "type": "Workstation",
         "tdp": 225,
-        "performance": 7613
+        "performance": 8
     },
     "Quadro K610M": {
         "name": "Quadro K610M",
@@ -20322,7 +24788,7 @@ const database = {
         "type": "Workstation",
         "tdp": 30,
         "clockSpeed": "954",
-        "performance": 763
+        "performance": 725
     },
     "Quadro K620": {
         "name": "Quadro K620",
@@ -20344,7 +24810,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 45,
-        "performance": 2328
+        "performance": 2
     },
     "Quadro K620M": {
         "name": "Quadro K620M",
@@ -20368,7 +24834,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1029",
-        "performance": 891
+        "performance": 1
     },
     "Quadro M1000M": {
         "name": "Quadro M1000M",
@@ -20392,7 +24858,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 40,
         "clockSpeed": "993",
-        "performance": 2347
+        "performance": 3
     },
     "Quadro M1200": {
         "name": "Quadro M1200",
@@ -20417,7 +24883,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 45,
         "clockSpeed": "991",
-        "performance": 3019
+        "performance": 3
     },
     "Quadro M2000": {
         "name": "Quadro M2000",
@@ -20439,7 +24905,7 @@ const database = {
         "textureUnits": 48,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 4292
+        "performance": 4
     },
     "Quadro M2000M": {
         "name": "Quadro M2000M",
@@ -20463,7 +24929,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 55,
         "clockSpeed": "1038",
-        "performance": 2858
+        "performance": 3
     },
     "Quadro M2200": {
         "name": "Quadro M2200",
@@ -20475,7 +24941,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Jan 11, 2017",
         "memory": 4096,
@@ -20488,7 +24954,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 55,
         "clockSpeed": "694",
-        "performance": 3497
+        "performance": 4
     },
     "Quadro M3000M": {
         "name": "Quadro M3000M",
@@ -20512,7 +24978,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 75,
         "clockSpeed": "1050",
-        "performance": 4496
+        "performance": 5
     },
     "Quadro M4000": {
         "name": "Quadro M4000",
@@ -20534,7 +25000,7 @@ const database = {
         "textureUnits": 104,
         "type": "Workstation",
         "tdp": 120,
-        "performance": 6653
+        "performance": 6
     },
     "Quadro M4000M": {
         "name": "Quadro M4000M",
@@ -20558,7 +25024,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 100,
         "clockSpeed": "975",
-        "performance": 4603
+        "performance": 6
     },
     "Quadro M5000": {
         "name": "Quadro M5000",
@@ -20580,7 +25046,7 @@ const database = {
         "textureUnits": 128,
         "type": "Workstation",
         "tdp": 150,
-        "performance": 8459
+        "performance": 9
     },
     "Quadro M5000M": {
         "name": "Quadro M5000M",
@@ -20604,7 +25070,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 100,
         "clockSpeed": "962",
-        "performance": 5557
+        "performance": 6
     },
     "Quadro M500M": {
         "name": "Quadro M500M",
@@ -20628,7 +25094,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 30,
         "clockSpeed": "1029",
-        "performance": 1057
+        "performance": 1
     },
     "Quadro M520": {
         "name": "Quadro M520",
@@ -20653,7 +25119,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 25,
         "clockSpeed": "756",
-        "performance": 1559
+        "performance": 1
     },
     "Quadro M5500": {
         "name": "Quadro M5500",
@@ -20665,7 +25131,7 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Apr 8, 2016",
         "memory": 8192,
@@ -20678,7 +25144,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 150,
         "clockSpeed": "1139",
-        "performance": 9322
+        "performance": 7
     },
     "Quadro M6000": {
         "name": "Quadro M6000",
@@ -20700,7 +25166,7 @@ const database = {
         "textureUnits": 192,
         "type": "Workstation",
         "tdp": 250,
-        "performance": 9385
+        "performance": 12
     },
     "Quadro M6000 24GB": {
         "name": "Quadro M6000 24GB",
@@ -20716,13 +25182,13 @@ const database = {
         "memory": 24576,
         "memoryType": null,
         "clock": 988,
-        "memoryClock": 1653,
+        "memoryClock": 988,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 250,
-        "performance": 9931
+        "performance": 13
     },
     "Quadro M600M": {
         "name": "Quadro M600M",
@@ -20746,7 +25212,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 30,
         "clockSpeed": "837",
-        "performance": 1908
+        "performance": 1
     },
     "Quadro M620": {
         "name": "Quadro M620",
@@ -20771,7 +25237,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 30,
         "clockSpeed": "1018",
-        "performance": 2793
+        "performance": 2
     },
     "Quadro NVS 110M": {
         "name": "Quadro NVS 110M",
@@ -20795,7 +25261,7 @@ const database = {
         "type": "Workstation",
         "tdp": 10,
         "clockSpeed": "300",
-        "performance": 47
+        "performance": 48
     },
     "Quadro NVS 120M": {
         "name": "Quadro NVS 120M",
@@ -20819,7 +25285,7 @@ const database = {
         "type": "Workstation",
         "tdp": 10,
         "clockSpeed": "450",
-        "performance": 46
+        "performance": 47
     },
     "Quadro NVS 130M": {
         "name": "Quadro NVS 130M",
@@ -20843,7 +25309,7 @@ const database = {
         "type": "Workstation",
         "tdp": 10,
         "clockSpeed": null,
-        "performance": 59
+        "performance": 97
     },
     "Quadro NVS 135M": {
         "name": "Quadro NVS 135M",
@@ -20891,7 +25357,7 @@ const database = {
         "type": "Workstation",
         "tdp": 10,
         "clockSpeed": "400",
-        "performance": 90
+        "performance": 89
     },
     "Quadro NVS 150M": {
         "name": "Quadro NVS 150M",
@@ -20939,7 +25405,7 @@ const database = {
         "type": "Workstation",
         "tdp": 12,
         "clockSpeed": "580",
-        "performance": 92
+        "performance": 90
     },
     "Quadro NVS 210S": {
         "name": "Quadro NVS 210S",
@@ -20961,7 +25427,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 23
+        "performance": 24
     },
     "Quadro NVS 210S / GeForce 6150LE": {
         "name": "Quadro NVS 210S / GeForce 6150LE",
@@ -20983,7 +25449,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 20
+        "performance": 21
+    },
+    "Quadro NVS 280 PCI": {
+        "name": "Quadro NVS 280 PCI",
+        "names": [
+            "Quadro NVS 280 PCI"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Oct 28, 2003",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 275,
+        "memoryClock": 250,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
     "Quadro NVS 280 SD": {
         "name": "Quadro NVS 280 SD",
@@ -21071,7 +25559,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 91
+        "performance": 196
     },
     "Quadro NVS 295": {
         "name": "Quadro NVS 295",
@@ -21093,7 +25581,7 @@ const database = {
         "textureUnits": 8,
         "type": "Workstation",
         "tdp": 23,
-        "performance": 96
+        "performance": 79
     },
     "Quadro NVS 320M": {
         "name": "Quadro NVS 320M",
@@ -21117,7 +25605,7 @@ const database = {
         "type": "Workstation",
         "tdp": 20,
         "clockSpeed": "575",
-        "performance": 206
+        "performance": 204
     },
     "Quadro NVS 420": {
         "name": "Quadro NVS 420",
@@ -21161,7 +25649,7 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
-        "performance": 37
+        "performance": 38
     },
     "Quadro NVS 450": {
         "name": "Quadro NVS 450",
@@ -21183,27 +25671,48 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 91
+        "performance": 73
     },
-    "Quadro NVS 55/280 PCI": {
-        "name": "Quadro NVS 55/280 PCI",
+    "Quadro NVS 510M": {
+        "name": "Quadro NVS 510M",
         "names": [
-            "Quadro NVS 55/280 PCI",
-            "Quadro NVS 280 PCI"
+            "Quadro NVS 510M"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "NVIDIA",
-        "released": "Oct 28, 2003",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 250,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
+        "released": "Aug 21, 2006",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 450,
+        "memoryClock": 600,
+        "shaderUnits": 24,
+        "renderUnits": 24,
+        "textureUnits": 8,
+        "type": "Workstation",
+        "tdp": 45,
+        "performance": 254
+    },
+    "Quadro NVS 55/280 PCI": {
+        "name": "Quadro NVS 55/280 PCI",
+        "names": [
+            "Quadro NVS 55/280 PCI"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
         "performance": 6
@@ -21217,7 +25726,7 @@ const database = {
         "codeName": null,
         "architecture": "Pascal",
         "openGL": "4.6",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Feb 7, 2017",
         "memory": 4096,
@@ -21230,7 +25739,7 @@ const database = {
         "type": "Workstation",
         "tdp": 47,
         "clockSpeed": "1493",
-        "performance": 4414
+        "performance": 4
     },
     "Quadro P2000": {
         "name": "Quadro P2000",
@@ -21254,7 +25763,7 @@ const database = {
         "type": "Workstation",
         "tdp": 75,
         "clockSpeed": "1215",
-        "performance": 7405
+        "performance": 7
     },
     "Quadro P2000 with Max-Q Design": {
         "name": "Quadro P2000 with Max-Q Design",
@@ -21267,7 +25776,7 @@ const database = {
         "openGL": "4.5",
         "directX": "12_1",
         "vendor": null,
-        "released": "Sat Jul 08 2017",
+        "released": "Wed Jul 19 2017",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -21278,7 +25787,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1215",
-        "performance": 5059
+        "performance": 4
+    },
+    "Quadro P2200": {
+        "name": "Quadro P2200",
+        "names": [
+            "Quadro P2200"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 9
     },
     "Quadro P3000": {
         "name": "Quadro P3000",
@@ -21303,7 +25834,7 @@ const database = {
         "type": "Mobile, Workstation",
         "tdp": 75,
         "clockSpeed": "1088",
-        "performance": 5657
+        "performance": 6
     },
     "Quadro P3200": {
         "name": "Quadro P3200",
@@ -21328,7 +25859,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "708 - 1202",
-        "performance": 8138
+        "performance": 7
     },
     "Quadro P3200 with Max-Q Design": {
         "name": "Quadro P3200 with Max-Q Design",
@@ -21351,7 +25882,7 @@ const database = {
         "textureUnits": 112,
         "type": "Unknown",
         "tdp": null,
-        "performance": 8379
+        "performance": 8
     },
     "Quadro P400": {
         "name": "Quadro P400",
@@ -21373,7 +25904,7 @@ const database = {
         "textureUnits": 16,
         "type": "Workstation",
         "tdp": 30,
-        "performance": 1472
+        "performance": 1
     },
     "Quadro P4000": {
         "name": "Quadro P4000",
@@ -21397,7 +25928,7 @@ const database = {
         "type": "Workstation",
         "tdp": 105,
         "clockSpeed": "1202",
-        "performance": 10440
+        "performance": 11
     },
     "Quadro P4000 with Max-Q Design": {
         "name": "Quadro P4000 with Max-Q Design",
@@ -21422,7 +25953,7 @@ const database = {
         "type": "Mobile",
         "tdp": 80,
         "clockSpeed": "1113",
-        "performance": 9082
+        "performance": 9
     },
     "Quadro P4200": {
         "name": "Quadro P4200",
@@ -21444,10 +25975,10 @@ const database = {
         "shaderUnits": 2304,
         "renderUnits": 64,
         "textureUnits": 144,
-        "type": "Unknown",
-        "tdp": null,
-        "clockSpeed": null,
-        "performance": 10292
+        "type": "Workstation",
+        "tdp": 100,
+        "clockSpeed": "1215",
+        "performance": 12
     },
     "Quadro P4200 with Max-Q Design": {
         "name": "Quadro P4200 with Max-Q Design",
@@ -21467,9 +25998,9 @@ const database = {
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
-        "type": "Unknown",
+        "type": "Workstation",
         "tdp": null,
-        "performance": 10433
+        "performance": 11
     },
     "Quadro P500": {
         "name": "Quadro P500",
@@ -21494,7 +26025,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1455",
-        "performance": 1598
+        "performance": 1
     },
     "Quadro P5000": {
         "name": "Quadro P5000",
@@ -21518,7 +26049,31 @@ const database = {
         "type": "Workstation",
         "tdp": 180,
         "clockSpeed": "1164",
-        "performance": 10262
+        "performance": 11
+    },
+    "Quadro P520": {
+        "name": "Quadro P520",
+        "names": [
+            "Quadro P520",
+            "NVIDIA Quadro P520"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1303",
+        "performance": 2
     },
     "Quadro P5200": {
         "name": "Quadro P5200",
@@ -21543,7 +26098,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1316",
-        "performance": 9333
+        "performance": 11
     },
     "Quadro P5200 with Max-Q Design": {
         "name": "Quadro P5200 with Max-Q Design",
@@ -21566,7 +26121,7 @@ const database = {
         "textureUnits": 160,
         "type": "Unknown",
         "tdp": null,
-        "performance": 10489
+        "performance": 9
     },
     "Quadro P600": {
         "name": "Quadro P600",
@@ -21590,7 +26145,7 @@ const database = {
         "type": "Workstation",
         "tdp": 40,
         "clockSpeed": "1430",
-        "performance": 3110
+        "performance": 3
     },
     "Quadro P6000": {
         "name": "Quadro P6000",
@@ -21612,17 +26167,18 @@ const database = {
         "textureUnits": 240,
         "type": "Workstation",
         "tdp": 250,
-        "performance": 13441
+        "performance": 15
     },
     "Quadro P620": {
         "name": "Quadro P620",
         "names": [
-            "Quadro P620"
+            "Quadro P620",
+            "NVIDIA Quadro P620"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Feb 1, 2018",
         "memory": 2048,
@@ -21634,17 +26190,67 @@ const database = {
         "textureUnits": 32,
         "type": "Workstation",
         "tdp": 40,
-        "performance": 3565
+        "clockSpeed": "1177",
+        "performance": 3
+    },
+    "Quadro RTX 3000": {
+        "name": "Quadro RTX 3000",
+        "names": [
+            "Quadro RTX 3000",
+            "NVIDIA Quadro RTX 3000 (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 945,
+        "memoryClock": 945,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile, Workstation",
+        "tdp": 80,
+        "clockSpeed": "945",
+        "performance": 11
+    },
+    "Quadro RTX 3000 with Max-Q Design": {
+        "name": "Quadro RTX 3000 with Max-Q Design",
+        "names": [
+            "Quadro RTX 3000 with Max-Q Design",
+            "NVIDIA Quadro RTX 3000 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 600,
+        "memoryClock": 600,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 60,
+        "clockSpeed": "600 - 870",
+        "performance": 8
     },
     "Quadro RTX 4000": {
         "name": "Quadro RTX 4000",
         "names": [
-            "Quadro RTX 4000"
+            "Quadro RTX 4000",
+            "NVIDIA Quadro RTX 4000 Max-Q"
         ],
         "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Nov 13, 2018",
         "memory": 8192,
@@ -21654,19 +26260,43 @@ const database = {
         "shaderUnits": 2304,
         "renderUnits": 64,
         "textureUnits": 144,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 11690
+        "type": "Workstation",
+        "tdp": 160,
+        "clockSpeed": "780 - 960",
+        "performance": 15
     },
-    "Quadro RTX 5000": {
-        "name": "Quadro RTX 5000",
+    "Quadro RTX 4000 with Max-Q Design": {
+        "name": "Quadro RTX 4000 with Max-Q Design",
         "names": [
-            "Quadro RTX 5000"
+            "Quadro RTX 4000 with Max-Q Design"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 780,
+        "memoryClock": 780,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 80,
+        "performance": 11
+    },
+    "Quadro RTX 5000": {
+        "name": "Quadro RTX 5000",
+        "names": [
+            "Quadro RTX 5000",
+            "NVIDIA Quadro RTX 5000 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "NVIDIA",
         "released": "Aug 13, 2018",
         "memory": 16384,
@@ -21676,9 +26306,54 @@ const database = {
         "shaderUnits": 3072,
         "renderUnits": 64,
         "textureUnits": 192,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 13799
+        "type": "Workstation",
+        "tdp": 230,
+        "clockSpeed": "600 - 930",
+        "performance": 17
+    },
+    "Quadro RTX 5000 (Mobile)": {
+        "name": "Quadro RTX 5000 (Mobile)",
+        "names": [
+            "Quadro RTX 5000 (Mobile)"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 16384,
+        "memoryType": null,
+        "clock": 1035,
+        "memoryClock": 1035,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile, Workstation",
+        "tdp": 110,
+        "performance": 14
+    },
+    "Quadro RTX 5000 with Max-Q Design": {
+        "name": "Quadro RTX 5000 with Max-Q Design",
+        "names": [
+            "Quadro RTX 5000 with Max-Q Design"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 16384,
+        "memoryType": null,
+        "clock": 600,
+        "memoryClock": 600,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile, Workstation",
+        "tdp": 80,
+        "performance": 14
     },
     "Quadro RTX 6000": {
         "name": "Quadro RTX 6000",
@@ -21700,7 +26375,148 @@ const database = {
         "textureUnits": 288,
         "type": "Workstation",
         "tdp": 295,
-        "performance": 21366
+        "performance": 19
+    },
+    "Quadro RTX 8000": {
+        "name": "Quadro RTX 8000",
+        "names": [
+            "Quadro RTX 8000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Aug 13, 2018",
+        "memory": 49152,
+        "memoryType": "GDDR6",
+        "clock": 1395,
+        "memoryClock": 1750,
+        "shaderUnits": 4608,
+        "renderUnits": 96,
+        "textureUnits": 288,
+        "type": "Workstation",
+        "tdp": 260,
+        "performance": 19
+    },
+    "Quadro T1000": {
+        "name": "Quadro T1000",
+        "names": [
+            "Quadro T1000",
+            "NVIDIA Quadro T1000 (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1395",
+        "performance": 6
+    },
+    "Quadro T1000 with Max-Q Design": {
+        "name": "Quadro T1000 with Max-Q Design",
+        "names": [
+            "Quadro T1000 with Max-Q Design",
+            "NVIDIA Quadro T1000 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "795 / 1230",
+        "performance": 6
+    },
+    "Quadro T2000": {
+        "name": "Quadro T2000",
+        "names": [
+            "Quadro T2000",
+            "NVIDIA Quadro T2000 (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1575",
+        "performance": 6
+    },
+    "Quadro T2000 with Max-Q Design": {
+        "name": "Quadro T2000 with Max-Q Design",
+        "names": [
+            "Quadro T2000 with Max-Q Design",
+            "NVIDIA Quadro T2000 Max-Q"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jun 10 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "930 / 1200",
+        "performance": 6
+    },
+    "Quadro2 MXR/EX": {
+        "name": "Quadro2 MXR/EX",
+        "names": [
+            "Quadro2 MXR/EX",
+            "Quadro2 MXR"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jul 25, 2000",
+        "memory": 32,
+        "memoryType": "SDR",
+        "clock": 200,
+        "memoryClock": 183,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": "Workstation",
+        "tdp": null,
+        "performance": 5
     },
     "Quadro2 Pro": {
         "name": "Quadro2 Pro",
@@ -21744,7 +26560,29 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 6
+        "performance": 7
+    },
+    "Quadro4 900 XGL": {
+        "name": "Quadro4 900 XGL",
+        "names": [
+            "Quadro4 900 XGL"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Feb 19, 2002",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 300,
+        "memoryClock": 325,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "Quadro4 980 XGL": {
         "name": "Quadro4 980 XGL",
@@ -21768,20 +26606,92 @@ const database = {
         "tdp": null,
         "performance": 5
     },
-    "Radeon 2100": {
-        "name": "Radeon 2100",
+    "Qualcomm Adreno 630 GPU": {
+        "name": "Qualcomm Adreno 630 GPU",
         "names": [
-            "Radeon 2100",
-            "Radeon 2100 IGP"
+            "Qualcomm Adreno 630 GPU",
+            "Qualcomm Adreno 630"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": "ES 3.2",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Feb 26 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 249
+    },
+    "QXL KMDOD": {
+        "name": "QXL KMDOD",
+        "names": [
+            "QXL KMDOD"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 19
+    },
+    "Radeon": {
+        "name": "Radeon",
+        "names": [
+            "Radeon",
+            "Radeon DDR",
+            "AMD Radeon VII"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": "ATI",
+        "released": "Apr 1, 2000",
+        "memory": 32,
+        "memoryType": "DDR",
+        "clock": 166,
+        "memoryClock": 166,
+        "shaderUnits": 2,
+        "renderUnits": 6,
+        "textureUnits": 1,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1400",
+        "performance": 1
+    },
+    "Radeon 2100": {
+        "name": "Radeon 2100",
+        "names": [
+            "Radeon 2100",
+            "Radeon 2100 IGP",
+            "AMD Radeon Pro WX 2100"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
         "vendor": "ATI",
         "released": "Mar 4, 2008",
         "memory": null,
-        "memoryType": null,
+        "memoryType": "GDDR5",
         "clock": 400,
         "memoryClock": null,
         "shaderUnits": 4,
@@ -21789,18 +26699,20 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
+        "clockSpeed": null,
         "performance": 60
     },
     "Radeon 3000": {
         "name": "Radeon 3000",
         "names": [
             "Radeon 3000",
-            "Radeon 3000 IGP"
+            "Radeon 3000 IGP",
+            "AMD Radeon RX Vega 8 (Ryzen 2000/3000)"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Vega",
         "openGL": null,
-        "directX": null,
+        "directX": "12_1",
         "vendor": "ATI",
         "released": "2009",
         "memory": null,
@@ -21812,6 +26724,7 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
+        "clockSpeed": null,
         "performance": 98
     },
     "Radeon 3100": {
@@ -21837,7 +26750,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 73
+        "performance": 74
     },
     "Radeon 520": {
         "name": "Radeon 520",
@@ -21862,7 +26775,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1030",
-        "performance": 844
+        "performance": 866
     },
     "Radeon 530": {
         "name": "Radeon 530",
@@ -21887,7 +26800,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1024",
-        "performance": 1239
+        "performance": 938
     },
     "Radeon 535": {
         "name": "Radeon 535",
@@ -21910,7 +26823,29 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1296
+        "performance": 1
+    },
+    "Radeon 535DX": {
+        "name": "Radeon 535DX",
+        "names": [
+            "Radeon 535DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 867
     },
     "Radeon 540": {
         "name": "Radeon 540",
@@ -21935,7 +26870,105 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1618
+        "performance": 1
+    },
+    "Radeon 540X": {
+        "name": "Radeon 540X",
+        "names": [
+            "Radeon 540X",
+            "Radeon 540X Mobile",
+            "AMD Radeon 540X"
+        ],
+        "codeName": null,
+        "architecture": "GCN 4.0",
+        "openGL": "4.6",
+        "directX": "12_0",
+        "vendor": "AMD",
+        "released": "Apr 11, 2018",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1124,
+        "memoryClock": 1500,
+        "shaderUnits": 512,
+        "renderUnits": 16,
+        "textureUnits": 32,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1
+    },
+    "Radeon 550X": {
+        "name": "Radeon 550X",
+        "names": [
+            "Radeon 550X",
+            "Radeon 550X 640SP",
+            "AMD Radeon RX 550X (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "Apr 11, 2018",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1019,
+        "memoryClock": 1500,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1176",
+        "performance": 1
+    },
+    "Radeon 620": {
+        "name": "Radeon 620",
+        "names": [
+            "Radeon 620",
+            "AMD Radeon 620"
+        ],
+        "codeName": null,
+        "architecture": "GCN 1.0",
+        "openGL": "4.5",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Aug 26 2019",
+        "memory": null,
+        "memoryType": "DDR3, GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 859
+    },
+    "Radeon 630": {
+        "name": "Radeon 630",
+        "names": [
+            "Radeon 630",
+            "AMD Radeon 630"
+        ],
+        "codeName": null,
+        "architecture": "GCN 1.0",
+        "openGL": "4.5",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Aug 26 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1
     },
     "Radeon 6600M": {
         "name": "Radeon 6600M",
@@ -21957,27 +26990,96 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 739
+        "performance": 552
+    },
+    "Radeon 6750M": {
+        "name": "Radeon 6750M",
+        "names": [
+            "Radeon 6750M",
+            "Radeon HD 6750M",
+            "AMD Radeon HD 6750M"
+        ],
+        "codeName": null,
+        "architecture": "Terascale 2",
+        "openGL": null,
+        "directX": "11",
+        "vendor": "AMD",
+        "released": "Jan 4, 2011",
+        "memory": 1024,
+        "memoryType": "GDDR3",
+        "clock": 600,
+        "memoryClock": 800,
+        "shaderUnits": 480,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "600",
+        "performance": 911
+    },
+    "Radeon 7000 / Radeon VE": {
+        "name": "Radeon 7000 / Radeon VE",
+        "names": [
+            "Radeon 7000 / Radeon VE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "RADEON 7000 / RADEON VE Family": {
         "name": "RADEON 7000 / RADEON VE Family",
         "names": [
-            "RADEON 7000 / RADEON VE Family",
-            "Radeon 7000"
+            "RADEON 7000 / RADEON VE Family"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "RADEON 7200": {
+        "name": "RADEON 7200",
+        "names": [
+            "RADEON 7200",
+            "Radeon 7200"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "ATI",
-        "released": "Feb 19, 2001",
+        "released": "Apr 1, 2000",
         "memory": 32,
         "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
+        "clock": 166,
+        "memoryClock": 166,
+        "shaderUnits": 2,
+        "renderUnits": 6,
+        "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
         "performance": 3
@@ -22025,7 +27127,53 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 4
+        "performance": 5
+    },
+    "RADEON 8500 Family": {
+        "name": "RADEON 8500 Family",
+        "names": [
+            "RADEON 8500 Family",
+            "Radeon 8500"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Aug 14, 2001",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 275,
+        "memoryClock": 275,
+        "shaderUnits": 4,
+        "renderUnits": 8,
+        "textureUnits": 2,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 7
+    },
+    "RADEON 9000": {
+        "name": "RADEON 9000",
+        "names": [
+            "RADEON 9000",
+            "Radeon 9000 LE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Jul 1, 2002",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 250,
+        "memoryClock": 200,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 1,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 5
     },
     "RADEON 9000 Family": {
         "name": "RADEON 9000 Family",
@@ -22047,7 +27195,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "RADEON 9100 Family": {
         "name": "RADEON 9100 Family",
@@ -22116,7 +27264,7 @@ const database = {
         "textureUnits": 1,
         "type": "Desktop",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "RADEON 9200 LE Family": {
         "name": "RADEON 9200 LE Family",
@@ -22139,7 +27287,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "RADEON 9200 PRO Family": {
         "name": "RADEON 9200 PRO Family",
@@ -22162,7 +27310,7 @@ const database = {
         "textureUnits": 1,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "RADEON 9200 SE": {
         "name": "RADEON 9200 SE",
@@ -22185,7 +27333,7 @@ const database = {
         "textureUnits": 1,
         "type": "Desktop",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "RADEON 9250": {
         "name": "RADEON 9250",
@@ -22208,7 +27356,7 @@ const database = {
         "textureUnits": 1,
         "type": "Desktop",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "RADEON 9500": {
         "name": "RADEON 9500",
@@ -22254,19 +27402,18 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
-        "performance": 41
+        "performance": 42
     },
     "RADEON 9550": {
         "name": "RADEON 9550",
         "names": [
             "RADEON 9550",
-            "Radeon 9550",
-            "ATI Mobility Radeon 9550"
+            "Radeon 9550"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
-        "directX": "9",
+        "directX": null,
         "vendor": "ATI",
         "released": "Oct 1, 2003",
         "memory": 64,
@@ -22278,8 +27425,7 @@ const database = {
         "textureUnits": 2,
         "type": "Desktop",
         "tdp": null,
-        "clockSpeed": "210",
-        "performance": 34
+        "performance": 35
     },
     "Radeon 9550 / X1050": {
         "name": "Radeon 9550 / X1050",
@@ -22306,25 +27452,47 @@ const database = {
     "RADEON 9600 Family": {
         "name": "RADEON 9600 Family",
         "names": [
-            "RADEON 9600 Family",
-            "Radeon 9600"
+            "RADEON 9600 Family"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 25
+    },
+    "RADEON 9600 PRO": {
+        "name": "RADEON 9600 PRO",
+        "names": [
+            "RADEON 9600 PRO",
+            "Mobility Radeon 9600 PRO"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 64,
+        "released": "Jun 1, 2004",
+        "memory": 128,
         "memoryType": "DDR",
-        "clock": 324,
-        "memoryClock": 189,
+        "clock": 333,
+        "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
-        "type": "Unknown",
+        "type": "Desktop",
         "tdp": null,
-        "performance": 25
+        "performance": 43
     },
     "RADEON 9600 PRO Family": {
         "name": "RADEON 9600 PRO Family",
@@ -22346,7 +27514,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 26
+        "performance": 27
     },
     "RADEON 9600 TX Family": {
         "name": "RADEON 9600 TX Family",
@@ -22437,7 +27605,30 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
-        "performance": 53
+        "performance": 54
+    },
+    "RADEON 9800": {
+        "name": "RADEON 9800",
+        "names": [
+            "RADEON 9800",
+            "Radeon 9800"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Mar 1, 2003",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 325,
+        "memoryClock": 290,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 4,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 58
     },
     "RADEON 9800 PRO": {
         "name": "RADEON 9800 PRO",
@@ -22483,7 +27674,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
-        "performance": 23
+        "performance": 24
     },
     "RADEON 9800 XT": {
         "name": "RADEON 9800 XT",
@@ -22506,12 +27697,12 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
-        "performance": 53
+        "performance": 57
     },
-    "Radeon E": {
-        "name": "Radeon E",
+    "RADEON A9800XT": {
+        "name": "RADEON A9800XT",
         "names": [
-            "Radeon E"
+            "RADEON A9800XT"
         ],
         "codeName": null,
         "architecture": null,
@@ -22528,7 +27719,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 307
+        "performance": 23
+    },
+    "RADEON E2400": {
+        "name": "RADEON E2400",
+        "names": [
+            "RADEON E2400"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 52
     },
     "RADEON E4690": {
         "name": "RADEON E4690",
@@ -22551,6 +27764,50 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 405
+    },
+    "Radeon E6460": {
+        "name": "Radeon E6460",
+        "names": [
+            "Radeon E6460"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 7, 2011",
+        "memory": 512,
+        "memoryType": "GDDR5",
+        "clock": 600,
+        "memoryClock": 800,
+        "shaderUnits": 160,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 324
+    },
+    "Radeon E6465": {
+        "name": "Radeon E6465",
+        "names": [
+            "Radeon E6465"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Sep 29, 2015",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 600,
+        "memoryClock": 800,
+        "shaderUnits": 160,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 164
     },
     "Radeon E6760": {
         "name": "Radeon E6760",
@@ -22595,7 +27852,29 @@ const database = {
         "textureUnits": 40,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1577
+        "performance": 1
+    },
+    "Radeon E8870PCIe": {
+        "name": "Radeon E8870PCIe",
+        "names": [
+            "Radeon E8870PCIe"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "Radeon HD 2350": {
         "name": "Radeon HD 2350",
@@ -22618,7 +27897,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": 20,
-        "performance": 76
+        "performance": 77
     },
     "Radeon HD 2400": {
         "name": "Radeon HD 2400",
@@ -22640,7 +27919,7 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
-        "performance": 120
+        "performance": 121
     },
     "Radeon HD 2400 PCI": {
         "name": "Radeon HD 2400 PCI",
@@ -22819,7 +28098,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 200,
-        "performance": 627
+        "performance": 628
     },
     "Radeon HD 2900 XT": {
         "name": "Radeon HD 2900 XT",
@@ -22841,7 +28120,29 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 215,
-        "performance": 657
+        "performance": 660
+    },
+    "Radeon HD 3000": {
+        "name": "Radeon HD 3000",
+        "names": [
+            "Radeon HD 3000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 96
     },
     "Radeon HD 3200": {
         "name": "Radeon HD 3200",
@@ -22889,7 +28190,7 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
-        "performance": 126
+        "performance": 127
     },
     "Radeon HD 3450": {
         "name": "Radeon HD 3450",
@@ -22911,7 +28212,7 @@ const database = {
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": 25,
-        "performance": 118
+        "performance": 71
     },
     "Radeon HD 3470": {
         "name": "Radeon HD 3470",
@@ -22927,13 +28228,13 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 800,
-        "memoryClock": 950,
+        "memoryClock": 800,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 30,
-        "performance": 145
+        "performance": 106
     },
     "Radeon HD 3650 AGP": {
         "name": "Radeon HD 3650 AGP",
@@ -22977,7 +28278,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 241
+        "performance": 164
     },
     "Radeon HD 3850": {
         "name": "Radeon HD 3850",
@@ -23001,7 +28302,7 @@ const database = {
         "type": "Desktop",
         "tdp": 75,
         "clockSpeed": "580",
-        "performance": 530
+        "performance": 468
     },
     "Radeon HD 3850 AGP": {
         "name": "Radeon HD 3850 AGP",
@@ -23023,7 +28324,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 75,
-        "performance": 454
+        "performance": 432
     },
     "Radeon HD 3850 X2": {
         "name": "Radeon HD 3850 X2",
@@ -23045,7 +28346,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 349,
-        "performance": 792
+        "performance": 822
     },
     "Radeon HD 3870": {
         "name": "Radeon HD 3870",
@@ -23067,7 +28368,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 106,
-        "performance": 717
+        "performance": 575
     },
     "Radeon HD 3870 X2": {
         "name": "Radeon HD 3870 X2",
@@ -23089,7 +28390,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 165,
-        "performance": 874
+        "performance": 709
     },
     "Radeon HD 4200": {
         "name": "Radeon HD 4200",
@@ -23107,14 +28408,14 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 500,
-        "memoryClock": 1333,
+        "memoryClock": 500,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 111
+        "performance": 112
     },
     "Radeon HD 4250": {
         "name": "Radeon HD 4250",
@@ -23132,14 +28433,14 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 498,
-        "memoryClock": 1333,
+        "memoryClock": 560,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 122
+        "performance": 123
     },
     "Radeon HD 4270": {
         "name": "Radeon HD 4270",
@@ -23152,7 +28453,7 @@ const database = {
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Tue May 04 2010",
+        "released": "Sat May 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -23163,7 +28464,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "590",
-        "performance": 111
+        "performance": 110
     },
     "Radeon HD 4290": {
         "name": "Radeon HD 4290",
@@ -23180,7 +28481,7 @@ const database = {
         "memory": 512,
         "memoryType": null,
         "clock": 498,
-        "memoryClock": 1333,
+        "memoryClock": 700,
         "shaderUnits": 40,
         "renderUnits": 4,
         "textureUnits": 4,
@@ -23208,7 +28509,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 155
+        "performance": 156
     },
     "Radeon HD 4330": {
         "name": "Radeon HD 4330",
@@ -23230,7 +28531,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 159
+        "performance": 110
     },
     "Radeon HD 4350": {
         "name": "Radeon HD 4350",
@@ -23254,7 +28555,7 @@ const database = {
         "type": "Desktop",
         "tdp": 20,
         "clockSpeed": "600",
-        "performance": 167
+        "performance": 103
     },
     "Radeon HD 4550": {
         "name": "Radeon HD 4550",
@@ -23298,7 +28599,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 48,
-        "performance": 335
+        "performance": 212
     },
     "Radeon HD 4650 AGP": {
         "name": "Radeon HD 4650 AGP",
@@ -23320,7 +28621,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 207
+        "performance": 208
     },
     "Radeon HD 4670": {
         "name": "Radeon HD 4670",
@@ -23342,7 +28643,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 59,
-        "performance": 545
+        "performance": 390
     },
     "Radeon HD 4770": {
         "name": "Radeon HD 4770",
@@ -23364,7 +28665,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 80,
-        "performance": 1036
+        "performance": 936
     },
     "Radeon HD 4810": {
         "name": "Radeon HD 4810",
@@ -23386,7 +28687,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 781
+        "performance": 769
     },
     "Radeon HD 4830": {
         "name": "Radeon HD 4830",
@@ -23408,7 +28709,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 949
+        "performance": 871
     },
     "Radeon HD 4850": {
         "name": "Radeon HD 4850",
@@ -23432,7 +28733,7 @@ const database = {
         "type": "Desktop",
         "tdp": 110,
         "clockSpeed": "625",
-        "performance": 1023
+        "performance": 944
     },
     "Radeon HD 4850 X2": {
         "name": "Radeon HD 4850 X2",
@@ -23454,7 +28755,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 1137
+        "performance": 1
     },
     "Radeon HD 4870": {
         "name": "Radeon HD 4870",
@@ -23478,7 +28779,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "550",
-        "performance": 1381
+        "performance": 1
     },
     "Radeon HD 4870 X2": {
         "name": "Radeon HD 4870 X2",
@@ -23500,7 +28801,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 286,
-        "performance": 1310
+        "performance": 1
     },
     "Radeon HD 4890": {
         "name": "Radeon HD 4890",
@@ -23522,7 +28823,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 190,
-        "performance": 1541
+        "performance": 1
     },
     "Radeon HD 5450": {
         "name": "Radeon HD 5450",
@@ -23544,7 +28845,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 19.1,
-        "performance": 231
+        "performance": 154
     },
     "Radeon HD 5470": {
         "name": "Radeon HD 5470",
@@ -23588,7 +28889,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 39,
-        "performance": 548
+        "performance": 359
     },
     "Radeon HD 5570": {
         "name": "Radeon HD 5570",
@@ -23612,7 +28913,7 @@ const database = {
         "type": "Desktop",
         "tdp": 39,
         "clockSpeed": "650",
-        "performance": 714
+        "performance": 452
     },
     "Radeon HD 5600/5700": {
         "name": "Radeon HD 5600/5700",
@@ -23634,7 +28935,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 960
+        "performance": 959
     },
     "Radeon HD 5670": {
         "name": "Radeon HD 5670",
@@ -23658,7 +28959,7 @@ const database = {
         "type": "Desktop",
         "tdp": 64,
         "clockSpeed": "775",
-        "performance": 1084
+        "performance": 791
     },
     "Radeon HD 5750": {
         "name": "Radeon HD 5750",
@@ -23682,7 +28983,7 @@ const database = {
         "type": "Desktop",
         "tdp": 86,
         "clockSpeed": "550",
-        "performance": 1447
+        "performance": 1
     },
     "Radeon HD 5770": {
         "name": "Radeon HD 5770",
@@ -23706,7 +29007,7 @@ const database = {
         "type": "Desktop",
         "tdp": 108,
         "clockSpeed": "850",
-        "performance": 1709
+        "performance": 1
     },
     "Radeon HD 5830": {
         "name": "Radeon HD 5830",
@@ -23730,7 +29031,7 @@ const database = {
         "type": "Desktop",
         "tdp": 175,
         "clockSpeed": "500",
-        "performance": 2053
+        "performance": 1
     },
     "Radeon HD 5850": {
         "name": "Radeon HD 5850",
@@ -23754,7 +29055,7 @@ const database = {
         "type": "Desktop",
         "tdp": 151,
         "clockSpeed": "725",
-        "performance": 2280
+        "performance": 2
     },
     "Radeon HD 5870": {
         "name": "Radeon HD 5870",
@@ -23778,7 +29079,7 @@ const database = {
         "type": "Desktop",
         "tdp": 228,
         "clockSpeed": "700",
-        "performance": 2620
+        "performance": 2
     },
     "Radeon HD 5970": {
         "name": "Radeon HD 5970",
@@ -23800,7 +29101,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 294,
-        "performance": 2596
+        "performance": 2
     },
     "Radeon HD 6230": {
         "name": "Radeon HD 6230",
@@ -23822,7 +29123,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 211
+        "performance": 221
     },
     "Radeon HD 6250": {
         "name": "Radeon HD 6250",
@@ -23846,7 +29147,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "280",
-        "performance": 119
+        "performance": 98
     },
     "Radeon HD 6290": {
         "name": "Radeon HD 6290",
@@ -23870,7 +29171,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "280",
-        "performance": 138
+        "performance": 117
     },
     "Radeon HD 6290M": {
         "name": "Radeon HD 6290M",
@@ -23914,7 +29215,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 255
+        "performance": 148
     },
     "Radeon HD 6310": {
         "name": "Radeon HD 6310",
@@ -23939,7 +29240,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "500",
-        "performance": 170
+        "performance": 122
     },
     "Radeon HD 6320": {
         "name": "Radeon HD 6320",
@@ -23964,7 +29265,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "500",
-        "performance": 202
+        "performance": 149
     },
     "Radeon HD 6320 Graphic": {
         "name": "Radeon HD 6320 Graphic",
@@ -24031,7 +29332,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 19.1,
-        "performance": 211
+        "performance": 142
     },
     "Radeon HD 6370D": {
         "name": "Radeon HD 6370D",
@@ -24054,7 +29355,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 307
+        "performance": 311
     },
     "Radeon HD 6370M": {
         "name": "Radeon HD 6370M",
@@ -24078,7 +29379,7 @@ const database = {
         "type": "Mobile",
         "tdp": 11,
         "clockSpeed": "750",
-        "performance": 275
+        "performance": 276
     },
     "Radeon HD 6380G": {
         "name": "Radeon HD 6380G",
@@ -24103,7 +29404,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "400",
-        "performance": 299
+        "performance": 231
     },
     "Radeon HD 6410D": {
         "name": "Radeon HD 6410D",
@@ -24126,7 +29427,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 388
+        "performance": 220
     },
     "Radeon HD 6430M": {
         "name": "Radeon HD 6430M",
@@ -24150,7 +29451,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "480",
-        "performance": 192
+        "performance": 193
     },
     "Radeon HD 6450": {
         "name": "Radeon HD 6450",
@@ -24174,7 +29475,29 @@ const database = {
         "type": "Desktop",
         "tdp": 18,
         "clockSpeed": "750",
-        "performance": 277
+        "performance": 194
+    },
+    "Radeon HD 6450 + 8470D Dual": {
+        "name": "Radeon HD 6450 + 8470D Dual",
+        "names": [
+            "Radeon HD 6450 + 8470D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 763
     },
     "Radeon HD 6450A": {
         "name": "Radeon HD 6450A",
@@ -24220,7 +29543,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "700 / 750",
-        "performance": 312
+        "performance": 228
     },
     "Radeon HD 6480G": {
         "name": "Radeon HD 6480G",
@@ -24245,7 +29568,29 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "593 / 700",
-        "performance": 405
+        "performance": 275
+    },
+    "Radeon HD 6480M": {
+        "name": "Radeon HD 6480M",
+        "names": [
+            "Radeon HD 6480M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 353
     },
     "Radeon HD 6490M": {
         "name": "Radeon HD 6490M",
@@ -24269,7 +29614,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "700 / 750 / 800",
-        "performance": 380
+        "performance": 378
     },
     "Radeon HD 6520G": {
         "name": "Radeon HD 6520G",
@@ -24294,7 +29639,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "400 / 700",
-        "performance": 486
+        "performance": 300
     },
     "Radeon HD 6530D": {
         "name": "Radeon HD 6530D",
@@ -24317,7 +29662,7 @@ const database = {
         "textureUnits": 16,
         "type": "Desktop",
         "tdp": 100,
-        "performance": 513
+        "performance": 311
     },
     "Radeon HD 6550A": {
         "name": "Radeon HD 6550A",
@@ -24339,7 +29684,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 707
+        "performance": 708
     },
     "Radeon HD 6550D": {
         "name": "Radeon HD 6550D",
@@ -24364,7 +29709,7 @@ const database = {
         "type": "Desktop",
         "tdp": 100,
         "clockSpeed": "600",
-        "performance": 644
+        "performance": 412
     },
     "Radeon HD 6570": {
         "name": "Radeon HD 6570",
@@ -24386,7 +29731,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 44,
-        "performance": 760
+        "performance": 499
     },
     "Radeon HD 6610M": {
         "name": "Radeon HD 6610M",
@@ -24433,7 +29778,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "400 / 600",
-        "performance": 556
+        "performance": 431
     },
     "Radeon HD 6630M": {
         "name": "Radeon HD 6630M",
@@ -24457,7 +29802,29 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "485",
-        "performance": 684
+        "performance": 685
+    },
+    "Radeon HD 6650A": {
+        "name": "Radeon HD 6650A",
+        "names": [
+            "Radeon HD 6650A"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 19, 2011",
+        "memory": 1024,
+        "memoryType": "DDR3",
+        "clock": 600,
+        "memoryClock": 900,
+        "shaderUnits": 480,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 836
     },
     "Radeon HD 6650M": {
         "name": "Radeon HD 6650M",
@@ -24481,7 +29848,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 718
+        "performance": 735
     },
     "Radeon HD 6670": {
         "name": "Radeon HD 6670",
@@ -24503,7 +29870,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 66,
-        "performance": 1059
+        "performance": 701
     },
     "Radeon HD 6670 + 6670 Dual": {
         "name": "Radeon HD 6670 + 6670 Dual",
@@ -24525,7 +29892,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 646
+        "performance": 647
+    },
+    "Radeon HD 6670 + 7660D Dual": {
+        "name": "Radeon HD 6670 + 7660D Dual",
+        "names": [
+            "Radeon HD 6670 + 7660D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 6670/7670": {
+        "name": "Radeon HD 6670/7670",
+        "names": [
+            "Radeon HD 6670/7670"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 946
     },
     "Radeon HD 6700M": {
         "name": "Radeon HD 6700M",
@@ -24547,7 +29958,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1014
+        "performance": 1
     },
     "Radeon HD 6750": {
         "name": "Radeon HD 6750",
@@ -24569,30 +29980,29 @@ const database = {
         "textureUnits": 36,
         "type": "Desktop",
         "tdp": 86,
-        "performance": 1318
+        "performance": 1
     },
     "Radeon HD 6750M": {
         "name": "Radeon HD 6750M",
         "names": [
             "Radeon HD 6750M",
-            "AMD Radeon HD 6750M"
+            "Radeon HD 6750M Mac Edition"
         ],
         "codeName": null,
-        "architecture": "Terascale 2",
+        "architecture": null,
         "openGL": null,
-        "directX": "11",
+        "directX": null,
         "vendor": "AMD",
-        "released": "Jan 4, 2011",
-        "memory": 1024,
-        "memoryType": "GDDR3",
-        "clock": 600,
-        "memoryClock": 800,
+        "released": "Apr 18, 2011",
+        "memory": 512,
+        "memoryType": "GDDR5",
+        "clock": 598,
+        "memoryClock": 794,
         "shaderUnits": 480,
         "renderUnits": 8,
         "textureUnits": 24,
         "type": "Mobile",
         "tdp": null,
-        "clockSpeed": "600",
         "performance": 937
     },
     "Radeon HD 6770": {
@@ -24615,7 +30025,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 108,
-        "performance": 1682
+        "performance": 1
     },
     "Radeon HD 6770M": {
         "name": "Radeon HD 6770M",
@@ -24663,7 +30073,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "840",
-        "performance": 2046
+        "performance": 1
     },
     "Radeon HD 6800M": {
         "name": "Radeon HD 6800M",
@@ -24685,7 +30095,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 987
+        "performance": 755
     },
     "Radeon HD 6850": {
         "name": "Radeon HD 6850",
@@ -24707,7 +30117,29 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 127,
-        "performance": 2288
+        "performance": 2
+    },
+    "Radeon HD 6850 X2": {
+        "name": "Radeon HD 6850 X2",
+        "names": [
+            "Radeon HD 6850 X2"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Sep 19, 2011",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 800,
+        "memoryClock": 1050,
+        "shaderUnits": 960,
+        "renderUnits": 32,
+        "textureUnits": 48,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "Radeon HD 6870": {
         "name": "Radeon HD 6870",
@@ -24731,7 +30163,7 @@ const database = {
         "type": "Desktop",
         "tdp": 151,
         "clockSpeed": "900",
-        "performance": 2611
+        "performance": 2
     },
     "Radeon HD 6900M": {
         "name": "Radeon HD 6900M",
@@ -24753,7 +30185,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1958
+        "performance": 1
     },
     "Radeon HD 6950": {
         "name": "Radeon HD 6950",
@@ -24775,7 +30207,7 @@ const database = {
         "textureUnits": 88,
         "type": "Desktop",
         "tdp": 200,
-        "performance": 3215
+        "performance": 2
     },
     "Radeon HD 6970": {
         "name": "Radeon HD 6970",
@@ -24799,7 +30231,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "880",
-        "performance": 3521
+        "performance": 2
     },
     "Radeon HD 6970M": {
         "name": "Radeon HD 6970M",
@@ -24823,7 +30255,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "680",
-        "performance": 2225
+        "performance": 2
     },
     "Radeon HD 6990": {
         "name": "Radeon HD 6990",
@@ -24845,7 +30277,7 @@ const database = {
         "textureUnits": 96,
         "type": "Desktop",
         "tdp": 375,
-        "performance": 2858
+        "performance": 2
     },
     "Radeon HD 7290": {
         "name": "Radeon HD 7290",
@@ -24870,7 +30302,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "280",
-        "performance": 139
+        "performance": 115
     },
     "Radeon HD 7290M": {
         "name": "Radeon HD 7290M",
@@ -24917,7 +30349,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 171
+        "performance": 131
+    },
+    "Radeon HD 7310 - Carte graphique": {
+        "name": "Radeon HD 7310 - Carte graphique",
+        "names": [
+            "Radeon HD 7310 - Carte graphique"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 174
     },
     "Radeon HD 7310G": {
         "name": "Radeon HD 7310G",
@@ -24939,7 +30393,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 180
+        "performance": 181
     },
     "Radeon HD 7310M": {
         "name": "Radeon HD 7310M",
@@ -24986,7 +30440,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "523",
-        "performance": 208
+        "performance": 157
     },
     "Radeon HD 7340G": {
         "name": "Radeon HD 7340G",
@@ -25053,7 +30507,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 19.1,
-        "performance": 279
+        "performance": 216
     },
     "Radeon HD 7400G": {
         "name": "Radeon HD 7400G",
@@ -25078,7 +30532,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "327",
-        "performance": 323
+        "performance": 300
     },
     "Radeon HD 7420G": {
         "name": "Radeon HD 7420G",
@@ -25103,7 +30557,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "480",
-        "performance": 430
+        "performance": 333
     },
     "Radeon HD 7450": {
         "name": "Radeon HD 7450",
@@ -25126,7 +30580,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 18,
-        "performance": 309
+        "performance": 230
     },
     "Radeon HD 7450A": {
         "name": "Radeon HD 7450A",
@@ -25172,7 +30626,7 @@ const database = {
         "type": "Mobile",
         "tdp": 7,
         "clockSpeed": "400 / 700",
-        "performance": 329
+        "performance": 330
     },
     "Radeon HD 7470": {
         "name": "Radeon HD 7470",
@@ -25195,7 +30649,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 27,
-        "performance": 362
+        "performance": 486
     },
     "Radeon HD 7470M": {
         "name": "Radeon HD 7470M",
@@ -25219,7 +30673,7 @@ const database = {
         "type": "Mobile",
         "tdp": 7,
         "clockSpeed": "750 / 800",
-        "performance": 407
+        "performance": 408
     },
     "Radeon HD 7480D": {
         "name": "Radeon HD 7480D",
@@ -25244,7 +30698,7 @@ const database = {
         "type": "Desktop",
         "tdp": 65,
         "clockSpeed": "614",
-        "performance": 428
+        "performance": 297
     },
     "Radeon HD 7500G": {
         "name": "Radeon HD 7500G",
@@ -25269,7 +30723,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "655 / 600",
-        "performance": 412
+        "performance": 303
     },
     "Radeon HD 7500G + 7500M/7600M Dual": {
         "name": "Radeon HD 7500G + 7500M/7600M Dual",
@@ -25291,7 +30745,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 616
+        "performance": 617
     },
     "Radeon HD 7500G + 7550M Dual": {
         "name": "Radeon HD 7500G + 7550M Dual",
@@ -25335,7 +30789,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 355
+        "performance": 356
     },
     "Radeon HD 7520G": {
         "name": "Radeon HD 7520G",
@@ -25360,7 +30814,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "655 / 600",
-        "performance": 449
+        "performance": 314
     },
     "Radeon HD 7520G + 7400M Dual": {
         "name": "Radeon HD 7520G + 7400M Dual",
@@ -25382,7 +30836,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 486
+        "performance": 487
+    },
+    "Radeon HD 7520G + 7470M Dual": {
+        "name": "Radeon HD 7520G + 7470M Dual",
+        "names": [
+            "Radeon HD 7520G + 7470M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 543
+    },
+    "Radeon HD 7520G + 7500/7600 Dual": {
+        "name": "Radeon HD 7520G + 7500/7600 Dual",
+        "names": [
+            "Radeon HD 7520G + 7500/7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 582
     },
     "Radeon HD 7520G + 7600M Dual": {
         "name": "Radeon HD 7520G + 7600M Dual",
@@ -25470,7 +30968,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 522
+        "performance": 523
     },
     "Radeon HD 7520G + 7700M Dual": {
         "name": "Radeon HD 7520G + 7700M Dual",
@@ -25492,7 +30990,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1060
+        "performance": 1
     },
     "Radeon HD 7520G + 8600/8700M Dual": {
         "name": "Radeon HD 7520G + 8600/8700M Dual",
@@ -25516,6 +31014,28 @@ const database = {
         "tdp": null,
         "performance": 311
     },
+    "Radeon HD 7520G + 8750M Dual": {
+        "name": "Radeon HD 7520G + 8750M Dual",
+        "names": [
+            "Radeon HD 7520G + 8750M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 377
+    },
     "Radeon HD 7520G + HD 7400M Dual": {
         "name": "Radeon HD 7520G + HD 7400M Dual",
         "names": [
@@ -25536,7 +31056,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 544
+        "performance": 545
+    },
+    "Radeon HD 7520G + HD 7500/7600 Dual": {
+        "name": "Radeon HD 7520G + HD 7500/7600 Dual",
+        "names": [
+            "Radeon HD 7520G + HD 7500/7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 832
     },
     "Radeon HD 7520G + HD 7600M Dual": {
         "name": "Radeon HD 7520G + HD 7600M Dual",
@@ -25558,7 +31100,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 599
+        "performance": 447
     },
     "Radeon HD 7520G + HD 7670M Dual": {
         "name": "Radeon HD 7520G + HD 7670M Dual",
@@ -25580,7 +31122,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 548
+        "performance": 495
+    },
+    "Radeon HD 7520G + HD 7700M Dual": {
+        "name": "Radeon HD 7520G + HD 7700M Dual",
+        "names": [
+            "Radeon HD 7520G + HD 7700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 575
     },
     "Radeon HD 7520G + HD 8600/8700M Dual": {
         "name": "Radeon HD 7520G + HD 8600/8700M Dual",
@@ -25602,7 +31166,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 623
+        "performance": 624
     },
     "Radeon HD 7520G + HD 8750M Dual": {
         "name": "Radeon HD 7520G + HD 8750M Dual",
@@ -25626,6 +31190,50 @@ const database = {
         "tdp": null,
         "performance": 651
     },
+    "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760": {
+        "name": "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760",
+        "names": [
+            "Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 575
+    },
+    "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D": {
+        "name": "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D",
+        "names": [
+            "Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 365
+    },
     "Radeon HD 7540D": {
         "name": "Radeon HD 7540D",
         "names": [
@@ -25647,7 +31255,7 @@ const database = {
         "textureUnits": 12,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 509
+        "performance": 348
     },
     "Radeon HD 7540D + 6570 Dual": {
         "name": "Radeon HD 7540D + 6570 Dual",
@@ -25669,7 +31277,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 719
+        "performance": 720
+    },
+    "Radeon HD 7540D + 7500 Dual": {
+        "name": "Radeon HD 7540D + 7500 Dual",
+        "names": [
+            "Radeon HD 7540D + 7500 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 822
+    },
+    "Radeon HD 7540D + HD 6450 Dual": {
+        "name": "Radeon HD 7540D + HD 6450 Dual",
+        "names": [
+            "Radeon HD 7540D + HD 6450 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 643
     },
     "Radeon HD 7550M": {
         "name": "Radeon HD 7550M",
@@ -25693,7 +31345,7 @@ const database = {
         "type": "Mobile",
         "tdp": 13,
         "clockSpeed": "450",
-        "performance": 473
+        "performance": 465
     },
     "Radeon HD 7550M/7650M": {
         "name": "Radeon HD 7550M/7650M",
@@ -25709,13 +31361,13 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 450550,
-        "memoryClock": 900800,
+        "memoryClock": 450550,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Mobile",
         "tdp": 13,
-        "performance": 732
+        "performance": 729
     },
     "Radeon HD 7560D": {
         "name": "Radeon HD 7560D",
@@ -25740,7 +31392,29 @@ const database = {
         "type": "Desktop",
         "tdp": 100,
         "clockSpeed": "760",
-        "performance": 661
+        "performance": 483
+    },
+    "Radeon HD 7560D + 6450 Dual": {
+        "name": "Radeon HD 7560D + 6450 Dual",
+        "names": [
+            "Radeon HD 7560D + 6450 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 569
     },
     "Radeon HD 7560D + 6570 Dual": {
         "name": "Radeon HD 7560D + 6570 Dual",
@@ -25784,7 +31458,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1130
+        "performance": 1
     },
     "Radeon HD 7560D + 7560D Dual": {
         "name": "Radeon HD 7560D + 7560D Dual",
@@ -25806,7 +31480,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 982
+        "performance": 983
+    },
+    "Radeon HD 7560D + 7570 Dual": {
+        "name": "Radeon HD 7560D + 7570 Dual",
+        "names": [
+            "Radeon HD 7560D + 7570 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 985
     },
     "Radeon HD 7560D + 7670 Dual": {
         "name": "Radeon HD 7560D + 7670 Dual",
@@ -25828,7 +31524,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1426
+        "performance": 1
+    },
+    "Radeon HD 7560D + 7700 Dual": {
+        "name": "Radeon HD 7560D + 7700 Dual",
+        "names": [
+            "Radeon HD 7560D + 7700 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 7560D + HD 6570 Dual": {
+        "name": "Radeon HD 7560D + HD 6570 Dual",
+        "names": [
+            "Radeon HD 7560D + HD 6570 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 7560D + HD 6670 Dual": {
+        "name": "Radeon HD 7560D + HD 6670 Dual",
+        "names": [
+            "Radeon HD 7560D + HD 6670 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 7560D + HD 7000 Dual": {
         "name": "Radeon HD 7560D + HD 7000 Dual",
@@ -25852,6 +31614,50 @@ const database = {
         "tdp": null,
         "performance": 534
     },
+    "Radeon HD 7560D + HD 7600 Dual": {
+        "name": "Radeon HD 7560D + HD 7600 Dual",
+        "names": [
+            "Radeon HD 7560D + HD 7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 7560D + HD 7670 Dual": {
+        "name": "Radeon HD 7560D + HD 7670 Dual",
+        "names": [
+            "Radeon HD 7560D + HD 7670 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
     "Radeon HD 7560D + HD 7700 Dual": {
         "name": "Radeon HD 7560D + HD 7700 Dual",
         "names": [
@@ -25872,7 +31678,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1346
+        "performance": 1
+    },
+    "Radeon HD 7560D + HD 8570 Dual": {
+        "name": "Radeon HD 7560D + HD 8570 Dual",
+        "names": [
+            "Radeon HD 7560D + HD 8570 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 936
     },
     "Radeon HD 7560D + R5 235 Dual": {
         "name": "Radeon HD 7560D + R5 235 Dual",
@@ -25916,7 +31744,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 44,
-        "performance": 982
+        "performance": 648
     },
     "Radeon HD 7570M": {
         "name": "Radeon HD 7570M",
@@ -25940,7 +31768,7 @@ const database = {
         "type": "Mobile",
         "tdp": 13,
         "clockSpeed": "450",
-        "performance": 610
+        "performance": 469
     },
     "Radeon HD 7570M/HD 7670M": {
         "name": "Radeon HD 7570M/HD 7670M",
@@ -25956,7 +31784,7 @@ const database = {
         "memory": 1024,
         "memoryType": null,
         "clock": 600,
-        "memoryClock": 900,
+        "memoryClock": 600,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
@@ -25984,7 +31812,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 350
+        "performance": 351
     },
     "Radeon HD 7600G": {
         "name": "Radeon HD 7600G",
@@ -26009,7 +31837,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "320",
-        "performance": 479
+        "performance": 354
+    },
+    "Radeon HD 7600G + 6400M Dual": {
+        "name": "Radeon HD 7600G + 6400M Dual",
+        "names": [
+            "Radeon HD 7600G + 6400M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 377
     },
     "Radeon HD 7600G + 7450M Dual": {
         "name": "Radeon HD 7600G + 7450M Dual",
@@ -26031,7 +31881,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 389
+        "performance": 390
     },
     "Radeon HD 7600G + 7500M/7600M Dual": {
         "name": "Radeon HD 7600G + 7500M/7600M Dual",
@@ -26053,7 +31903,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 405
+        "performance": 406
     },
     "Radeon HD 7600G + 7550M Dual": {
         "name": "Radeon HD 7600G + 7550M Dual",
@@ -26097,7 +31947,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 469
+        "performance": 470
+    },
+    "Radeon HD 7600G + HD 7400M Dual": {
+        "name": "Radeon HD 7600G + HD 7400M Dual",
+        "names": [
+            "Radeon HD 7600G + HD 7400M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 329
     },
     "Radeon HD 7600G + HD 7500M/7600M Dual": {
         "name": "Radeon HD 7600G + HD 7500M/7600M Dual",
@@ -26163,7 +32035,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 543
+        "performance": 544
     },
     "Radeon HD 7600G + HD Dual": {
         "name": "Radeon HD 7600G + HD Dual",
@@ -26185,7 +32057,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 442
+        "performance": 435
+    },
+    "Radeon HD 7600G N HD 7600G + HD ON HD Dual": {
+        "name": "Radeon HD 7600G N HD 7600G + HD ON HD Dual",
+        "names": [
+            "Radeon HD 7600G N HD 7600G + HD ON HD Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 526
     },
     "Radeon HD 7600M + 7600M Dual": {
         "name": "Radeon HD 7600M + 7600M Dual",
@@ -26256,7 +32150,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "360",
-        "performance": 484
+        "performance": 346
     },
     "Radeon HD 7620G + 8600M Dual": {
         "name": "Radeon HD 7620G + 8600M Dual",
@@ -26278,7 +32172,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 503
+        "performance": 509
     },
     "Radeon HD 7620G + 8670M Dual": {
         "name": "Radeon HD 7620G + 8670M Dual",
@@ -26322,7 +32216,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 442
+        "performance": 443
     },
     "Radeon HD 7620G + HD 8670M Dual": {
         "name": "Radeon HD 7620G + HD 8670M Dual",
@@ -26345,6 +32239,28 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 507
+    },
+    "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D": {
+        "name": "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D",
+        "names": [
+            "Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 452
     },
     "Radeon HD 7640G": {
         "name": "Radeon HD 7640G",
@@ -26369,7 +32285,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "655 / 600",
-        "performance": 614
+        "performance": 455
     },
     "Radeon HD 7640G + 6400M Dual": {
         "name": "Radeon HD 7640G + 6400M Dual",
@@ -26391,7 +32307,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 526
+        "performance": 527
     },
     "Radeon HD 7640G + 7400M Dual": {
         "name": "Radeon HD 7640G + 7400M Dual",
@@ -26415,6 +32331,28 @@ const database = {
         "tdp": null,
         "performance": 637
     },
+    "Radeon HD 7640G + 7450M Dual": {
+        "name": "Radeon HD 7640G + 7450M Dual",
+        "names": [
+            "Radeon HD 7640G + 7450M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 754
+    },
     "Radeon HD 7640G + 7470M Dual": {
         "name": "Radeon HD 7640G + 7470M Dual",
         "names": [
@@ -26435,7 +32373,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 598
+        "performance": 595
     },
     "Radeon HD 7640G + 7500/7600 Dual": {
         "name": "Radeon HD 7640G + 7500/7600 Dual",
@@ -26459,6 +32397,28 @@ const database = {
         "tdp": null,
         "performance": 627
     },
+    "Radeon HD 7640G + 7500M/7600M Dual": {
+        "name": "Radeon HD 7640G + 7500M/7600M Dual",
+        "names": [
+            "Radeon HD 7640G + 7500M/7600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 776
+    },
     "Radeon HD 7640G + 7600M Dual": {
         "name": "Radeon HD 7640G + 7600M Dual",
         "names": [
@@ -26479,7 +32439,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 705
+        "performance": 706
     },
     "Radeon HD 7640G + 7610M Dual": {
         "name": "Radeon HD 7640G + 7610M Dual",
@@ -26503,6 +32463,28 @@ const database = {
         "tdp": null,
         "performance": 510
     },
+    "Radeon HD 7640G + 7650M Dual": {
+        "name": "Radeon HD 7640G + 7650M Dual",
+        "names": [
+            "Radeon HD 7640G + 7650M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 747
+    },
     "Radeon HD 7640G + 7670M Dual": {
         "name": "Radeon HD 7640G + 7670M Dual",
         "names": [
@@ -26523,7 +32505,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 644
+        "performance": 645
+    },
+    "Radeon HD 7640G + 7690M Dual": {
+        "name": "Radeon HD 7640G + 7690M Dual",
+        "names": [
+            "Radeon HD 7640G + 7690M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 946
     },
     "Radeon HD 7640G + 7700M Dual": {
         "name": "Radeon HD 7640G + 7700M Dual",
@@ -26545,7 +32549,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 690
+        "performance": 691
     },
     "Radeon HD 7640G + 8500M Dual": {
         "name": "Radeon HD 7640G + 8500M Dual",
@@ -26567,7 +32571,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 585
+        "performance": 586
     },
     "Radeon HD 7640G + 8570M Dual": {
         "name": "Radeon HD 7640G + 8570M Dual",
@@ -26611,7 +32615,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 688
+        "performance": 689
+    },
+    "Radeon HD 7640G + 8600M Dual": {
+        "name": "Radeon HD 7640G + 8600M Dual",
+        "names": [
+            "Radeon HD 7640G + 8600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 250
     },
     "Radeon HD 7640G + 8670M Dual": {
         "name": "Radeon HD 7640G + 8670M Dual",
@@ -26655,7 +32681,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 654
+        "performance": 655
     },
     "Radeon HD 7640G + HD 7400M Dual": {
         "name": "Radeon HD 7640G + HD 7400M Dual",
@@ -26677,7 +32703,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 615
+        "performance": 621
+    },
+    "Radeon HD 7640G + HD 7500/7600 Dual": {
+        "name": "Radeon HD 7640G + HD 7500/7600 Dual",
+        "names": [
+            "Radeon HD 7640G + HD 7500/7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 424
     },
     "Radeon HD 7640G + HD 7600M Dual": {
         "name": "Radeon HD 7640G + HD 7600M Dual",
@@ -26699,7 +32747,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 702
+        "performance": 704
+    },
+    "Radeon HD 7640G + HD 7600M N HD 7600M Dual": {
+        "name": "Radeon HD 7640G + HD 7600M N HD 7600M Dual",
+        "names": [
+            "Radeon HD 7640G + HD 7600M N HD 7600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 407
     },
     "Radeon HD 7640G + HD 7670M Dual": {
         "name": "Radeon HD 7640G + HD 7670M Dual",
@@ -26721,7 +32791,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 659
+        "performance": 519
     },
     "Radeon HD 7640G + HD 7700M Dual": {
         "name": "Radeon HD 7640G + HD 7700M Dual",
@@ -26744,6 +32814,28 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 589
+    },
+    "Radeon HD 7640G + HD 7700M N HD 7700M Dual": {
+        "name": "Radeon HD 7640G + HD 7700M N HD 7700M Dual",
+        "names": [
+            "Radeon HD 7640G + HD 7700M N HD 7700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 631
     },
     "Radeon HD 7640G + HD 8500M Dual": {
         "name": "Radeon HD 7640G + HD 8500M Dual",
@@ -26787,7 +32879,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 665
+        "performance": 666
     },
     "Radeon HD 7640G + HD 8570M Dual": {
         "name": "Radeon HD 7640G + HD 8570M Dual",
@@ -26809,7 +32901,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 696
+        "performance": 475
     },
     "Radeon HD 7640G + HD 8600/8700M Dual": {
         "name": "Radeon HD 7640G + HD 8600/8700M Dual",
@@ -26831,7 +32923,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 586
+        "performance": 587
+    },
+    "Radeon HD 7640G + HD 8670M Dual": {
+        "name": "Radeon HD 7640G + HD 8670M Dual",
+        "names": [
+            "Radeon HD 7640G + HD 8670M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 677
     },
     "Radeon HD 7640G + HD 8750M Dual": {
         "name": "Radeon HD 7640G + HD 8750M Dual",
@@ -26853,7 +32967,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 992
+        "performance": 997
     },
     "Radeon HD 7640G + R5 M200 Dual": {
         "name": "Radeon HD 7640G + R5 M200 Dual",
@@ -26875,7 +32989,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 546
+        "performance": 559
     },
     "Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D": {
         "name": "Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D",
@@ -26919,7 +33033,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 679
+        "performance": 680
+    },
+    "Radeon HD 7640G N HD 7640G + HD 8570M Dual": {
+        "name": "Radeon HD 7640G N HD 7640G + HD 8570M Dual",
+        "names": [
+            "Radeon HD 7640G N HD 7640G + HD 8570M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 423
     },
     "Radeon HD 7650A": {
         "name": "Radeon HD 7650A",
@@ -26941,7 +33077,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 793
+        "performance": 553
     },
     "Radeon HD 7650M": {
         "name": "Radeon HD 7650M",
@@ -26965,7 +33101,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "450",
-        "performance": 723
+        "performance": 508
     },
     "Radeon HD 7660D": {
         "name": "Radeon HD 7660D",
@@ -26990,7 +33126,7 @@ const database = {
         "type": "Desktop",
         "tdp": 100,
         "clockSpeed": "633",
-        "performance": 781
+        "performance": 515
     },
     "Radeon HD 7660D + 6570 Dual": {
         "name": "Radeon HD 7660D + 6570 Dual",
@@ -27012,7 +33148,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1100
+        "performance": 1
     },
     "Radeon HD 7660D + 6670 Dual": {
         "name": "Radeon HD 7660D + 6670 Dual",
@@ -27034,7 +33170,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1238
+        "performance": 1
     },
     "Radeon HD 7660D + 7470 Dual": {
         "name": "Radeon HD 7660D + 7470 Dual",
@@ -27056,7 +33192,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 465
+        "performance": 466
+    },
+    "Radeon HD 7660D + 7500 Dual": {
+        "name": "Radeon HD 7660D + 7500 Dual",
+        "names": [
+            "Radeon HD 7660D + 7500 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 7660D + 7540D Dual": {
+        "name": "Radeon HD 7660D + 7540D Dual",
+        "names": [
+            "Radeon HD 7660D + 7540D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 7660D + 7670 Dual": {
         "name": "Radeon HD 7660D + 7670 Dual",
@@ -27078,7 +33258,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1061
+        "performance": 1
     },
     "Radeon HD 7660D + HD 6670 Dual": {
         "name": "Radeon HD 7660D + HD 6670 Dual",
@@ -27100,7 +33280,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1484
+        "performance": 1
     },
     "Radeon HD 7660D + HD 7000 Dual": {
         "name": "Radeon HD 7660D + HD 7000 Dual",
@@ -27122,7 +33302,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 633
+        "performance": 634
+    },
+    "Radeon HD 7660D + HD 7400 Dual": {
+        "name": "Radeon HD 7660D + HD 7400 Dual",
+        "names": [
+            "Radeon HD 7660D + HD 7400 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 340
     },
     "Radeon HD 7660D + HD 7700 Dual": {
         "name": "Radeon HD 7660D + HD 7700 Dual",
@@ -27144,7 +33346,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1958
+        "performance": 1
+    },
+    "Radeon HD 7660D + R5 235 Dual": {
+        "name": "Radeon HD 7660D + R5 235 Dual",
+        "names": [
+            "Radeon HD 7660D + R5 235 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 524
     },
     "Radeon HD 7660D + R7 240 Dual": {
         "name": "Radeon HD 7660D + R7 240 Dual",
@@ -27166,7 +33390,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 941
+        "performance": 942
     },
     "Radeon HD 7660G": {
         "name": "Radeon HD 7660G",
@@ -27191,7 +33415,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "685 / 600",
-        "performance": 799
+        "performance": 477
     },
     "Radeon HD 7660G + 7400M Dual": {
         "name": "Radeon HD 7660G + 7400M Dual",
@@ -27235,7 +33459,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 630
+        "performance": 631
     },
     "Radeon HD 7660G + 7600M Dual": {
         "name": "Radeon HD 7660G + 7600M Dual",
@@ -27257,7 +33481,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 831
+        "performance": 832
     },
     "Radeon HD 7660G + 7610M Dual": {
         "name": "Radeon HD 7660G + 7610M Dual",
@@ -27279,7 +33503,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 745
+        "performance": 746
     },
     "Radeon HD 7660G + 7670M Dual": {
         "name": "Radeon HD 7660G + 7670M Dual",
@@ -27367,7 +33591,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 445
+        "performance": 446
     },
     "Radeon HD 7660G + 8670M Dual": {
         "name": "Radeon HD 7660G + 8670M Dual",
@@ -27389,7 +33613,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 587
+        "performance": 588
+    },
+    "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual": {
+        "name": "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual",
+        "names": [
+            "Radeon HD 7660G + HD 7500/7600 7500/7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 7660G + HD 7500/7600 Dual": {
+        "name": "Radeon HD 7660G + HD 7500/7600 Dual",
+        "names": [
+            "Radeon HD 7660G + HD 7500/7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 760
     },
     "Radeon HD 7660G + HD 7500M/7600M Dual": {
         "name": "Radeon HD 7660G + HD 7500M/7600M Dual",
@@ -27433,7 +33701,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 778
+        "performance": 769
+    },
+    "Radeon HD 7660G + HD 7600M N HD 7600M Dual": {
+        "name": "Radeon HD 7660G + HD 7600M N HD 7600M Dual",
+        "names": [
+            "Radeon HD 7660G + HD 7600M N HD 7600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 460
     },
     "Radeon HD 7660G + HD 7670M Dual": {
         "name": "Radeon HD 7660G + HD 7670M Dual",
@@ -27455,7 +33745,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 706
+        "performance": 707
     },
     "Radeon HD 7660G + HD 7700M Dual": {
         "name": "Radeon HD 7660G + HD 7700M Dual",
@@ -27477,7 +33767,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 751
+        "performance": 752
     },
     "Radeon HD 7660G + HD 7730M Dual": {
         "name": "Radeon HD 7660G + HD 7730M Dual",
@@ -27499,7 +33789,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 881
+        "performance": 882
+    },
+    "Radeon HD 7660G + HD 8500M Dual": {
+        "name": "Radeon HD 7660G + HD 8500M Dual",
+        "names": [
+            "Radeon HD 7660G + HD 8500M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 758
+    },
+    "Radeon HD 7660G + HD 8600/8700M Dual": {
+        "name": "Radeon HD 7660G + HD 8600/8700M Dual",
+        "names": [
+            "Radeon HD 7660G + HD 8600/8700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 747
+    },
+    "Radeon HD 7660G + HD 8600M Dual": {
+        "name": "Radeon HD 7660G + HD 8600M Dual",
+        "names": [
+            "Radeon HD 7660G + HD 8600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 364
     },
     "Radeon HD 7660G + HD 8670M Dual": {
         "name": "Radeon HD 7660G + HD 8670M Dual",
@@ -27543,7 +33899,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 722
+        "performance": 723
     },
     "Radeon HD 7660G N HD 7660G + HD 7670M Dual": {
         "name": "Radeon HD 7660G N HD 7660G + HD 7670M Dual",
@@ -27565,7 +33921,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 704
+        "performance": 705
     },
     "Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D": {
         "name": "Radeon HD 7660G N HD 7660G + HD 7700M N HD 7700M D",
@@ -27587,7 +33943,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 966
+        "performance": 967
     },
     "Radeon HD 7670": {
         "name": "Radeon HD 7670",
@@ -27610,7 +33966,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 66,
-        "performance": 1115
+        "performance": 873
     },
     "Radeon HD 7670A": {
         "name": "Radeon HD 7670A",
@@ -27632,7 +33988,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1050
+        "performance": 1
     },
     "Radeon HD 7670M": {
         "name": "Radeon HD 7670M",
@@ -27656,7 +34012,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "600",
-        "performance": 813
+        "performance": 424
     },
     "Radeon HD 7670M + 7670M Dual": {
         "name": "Radeon HD 7670M + 7670M Dual",
@@ -27702,7 +34058,7 @@ const database = {
         "type": "Mobile",
         "tdp": 20,
         "clockSpeed": "600",
-        "performance": 998
+        "performance": 1
     },
     "Radeon HD 7690M XT": {
         "name": "Radeon HD 7690M XT",
@@ -27726,7 +34082,29 @@ const database = {
         "type": "Mobile",
         "tdp": 25,
         "clockSpeed": "725",
-        "performance": 1009
+        "performance": 1
+    },
+    "Radeon HD 7700-serie": {
+        "name": "Radeon HD 7700-serie",
+        "names": [
+            "Radeon HD 7700-serie"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 7730": {
         "name": "Radeon HD 7730",
@@ -27748,7 +34126,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 47,
-        "performance": 1426
+        "performance": 1
     },
     "Radeon HD 7730M": {
         "name": "Radeon HD 7730M",
@@ -27772,7 +34150,7 @@ const database = {
         "type": "Mobile",
         "tdp": 25,
         "clockSpeed": "575",
-        "performance": 989
+        "performance": 685
     },
     "Radeon HD 7750": {
         "name": "Radeon HD 7750",
@@ -27794,7 +34172,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 55,
-        "performance": 1705
+        "performance": 1
     },
     "Radeon HD 7750M": {
         "name": "Radeon HD 7750M",
@@ -27818,7 +34196,7 @@ const database = {
         "type": "Mobile",
         "tdp": 28,
         "clockSpeed": "575",
-        "performance": 1191
+        "performance": 1
     },
     "Radeon HD 7770": {
         "name": "Radeon HD 7770",
@@ -27843,7 +34221,7 @@ const database = {
         "type": "Desktop",
         "tdp": 80,
         "clockSpeed": "1000",
-        "performance": 2219
+        "performance": 2
     },
     "Radeon HD 7790": {
         "name": "Radeon HD 7790",
@@ -27865,7 +34243,29 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 85,
-        "performance": 3079
+        "performance": 3
+    },
+    "Radeon HD 7800-serie": {
+        "name": "Radeon HD 7800-serie",
+        "names": [
+            "Radeon HD 7800-serie"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
     },
     "Radeon HD 7850": {
         "name": "Radeon HD 7850",
@@ -27887,7 +34287,7 @@ const database = {
         "textureUnits": 64,
         "type": "Desktop",
         "tdp": 130,
-        "performance": 3843
+        "performance": 3
     },
     "Radeon HD 7850M": {
         "name": "Radeon HD 7850M",
@@ -27911,7 +34311,7 @@ const database = {
         "type": "Mobile",
         "tdp": 40,
         "clockSpeed": "675",
-        "performance": 1372
+        "performance": 1
     },
     "Radeon HD 7870": {
         "name": "Radeon HD 7870",
@@ -27936,7 +34336,7 @@ const database = {
         "type": "Desktop",
         "tdp": 175,
         "clockSpeed": "1000",
-        "performance": 4375
+        "performance": 4
     },
     "Radeon HD 7870 XT": {
         "name": "Radeon HD 7870 XT",
@@ -27952,13 +34352,13 @@ const database = {
         "memory": 2048,
         "memoryType": null,
         "clock": 925,
-        "memoryClock": 1500,
+        "memoryClock": 925,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 185,
-        "performance": 4467
+        "performance": 4
     },
     "Radeon HD 7870M": {
         "name": "Radeon HD 7870M",
@@ -27982,7 +34382,7 @@ const database = {
         "type": "Mobile",
         "tdp": 45,
         "clockSpeed": "800",
-        "performance": 1507
+        "performance": 1
     },
     "Radeon HD 7950 / R9 280": {
         "name": "Radeon HD 7950 / R9 280",
@@ -28005,7 +34405,7 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 200,
-        "performance": 4764
+        "performance": 4
     },
     "Radeon HD 7970 / R9 280X": {
         "name": "Radeon HD 7970 / R9 280X",
@@ -28028,7 +34428,7 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 5247
+        "performance": 5
     },
     "Radeon HD 7970M": {
         "name": "Radeon HD 7970M",
@@ -28052,7 +34452,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "850",
-        "performance": 3808
+        "performance": 3
     },
     "Radeon HD 7990": {
         "name": "Radeon HD 7990",
@@ -28074,7 +34474,7 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 375,
-        "performance": 5544
+        "performance": 5
     },
     "Radeon HD 8180": {
         "name": "Radeon HD 8180",
@@ -28099,7 +34499,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "225",
-        "performance": 195
+        "performance": 152
     },
     "Radeon HD 8210": {
         "name": "Radeon HD 8210",
@@ -28124,7 +34524,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 251
+        "performance": 207
+    },
+    "Radeon HD 8210E": {
+        "name": "Radeon HD 8210E",
+        "names": [
+            "Radeon HD 8210E"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 23, 2013",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 128,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 194
     },
     "Radeon HD 8240": {
         "name": "Radeon HD 8240",
@@ -28149,7 +34571,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 278
+        "performance": 250
     },
     "Radeon HD 8250": {
         "name": "Radeon HD 8250",
@@ -28174,7 +34596,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 257
+        "performance": 203
     },
     "Radeon HD 8280": {
         "name": "Radeon HD 8280",
@@ -28221,7 +34643,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 321
+        "performance": 283
     },
     "Radeon HD 8280G": {
         "name": "Radeon HD 8280G",
@@ -28243,7 +34665,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 269
+        "performance": 270
+    },
+    "Radeon HD 8310E": {
+        "name": "Radeon HD 8310E",
+        "names": [
+            "Radeon HD 8310E"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 23, 2013",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 128,
+        "renderUnits": 4,
+        "textureUnits": 8,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 341
     },
     "Radeon HD 8330": {
         "name": "Radeon HD 8330",
@@ -28268,7 +34712,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 335
+        "performance": 247
     },
     "Radeon HD 8330E": {
         "name": "Radeon HD 8330E",
@@ -28290,7 +34734,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 323
+        "performance": 241
     },
     "Radeon HD 8350": {
         "name": "Radeon HD 8350",
@@ -28313,7 +34757,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 4.4,
-        "performance": 265
+        "performance": 209
     },
     "Radeon HD 8350G": {
         "name": "Radeon HD 8350G",
@@ -28338,7 +34782,7 @@ const database = {
         "type": "Mobile",
         "tdp": 35,
         "clockSpeed": "514",
-        "performance": 432
+        "performance": 443
     },
     "Radeon HD 8370D": {
         "name": "Radeon HD 8370D",
@@ -28361,7 +34805,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 433
+        "performance": 283
     },
     "Radeon HD 8400": {
         "name": "Radeon HD 8400",
@@ -28386,7 +34830,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 357
+        "performance": 256
     },
     "Radeon HD 8400E": {
         "name": "Radeon HD 8400E",
@@ -28418,7 +34862,7 @@ const database = {
             "AMD Radeon HD 8410G"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "TeraScale 3",
         "openGL": "4.2",
         "directX": "11",
         "vendor": "AMD",
@@ -28458,7 +34902,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "720 / 650",
-        "performance": 413
+        "performance": 385
+    },
+    "Radeon HD 8450G + 8600/8700M Dual": {
+        "name": "Radeon HD 8450G + 8600/8700M Dual",
+        "names": [
+            "Radeon HD 8450G + 8600/8700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 8450G + 8600M Dual": {
         "name": "Radeon HD 8450G + 8600M Dual",
@@ -28502,7 +34968,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 474
+        "performance": 475
     },
     "Radeon HD 8450G + 8750M Dual": {
         "name": "Radeon HD 8450G + 8750M Dual",
@@ -28568,7 +35034,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 574
+        "performance": 575
     },
     "Radeon HD 8450G + HD 8750M Dual": {
         "name": "Radeon HD 8450G + HD 8750M Dual",
@@ -28590,7 +35056,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 483
+        "performance": 504
+    },
+    "Radeon HD 8450G + R5 M230 Dual": {
+        "name": "Radeon HD 8450G + R5 M230 Dual",
+        "names": [
+            "Radeon HD 8450G + R5 M230 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 578
     },
     "Radeon HD 8470": {
         "name": "Radeon HD 8470",
@@ -28613,7 +35101,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 35,
-        "performance": 343
+        "performance": 341
     },
     "Radeon HD 8470D": {
         "name": "Radeon HD 8470D",
@@ -28638,7 +35126,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "800",
-        "performance": 520
+        "performance": 364
     },
     "Radeon HD 8470D + 6450 Dual": {
         "name": "Radeon HD 8470D + 6450 Dual",
@@ -28662,6 +35150,72 @@ const database = {
         "tdp": null,
         "performance": 717
     },
+    "Radeon HD 8470D + 6570 Dual": {
+        "name": "Radeon HD 8470D + 6570 Dual",
+        "names": [
+            "Radeon HD 8470D + 6570 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 838
+    },
+    "Radeon HD 8470D + HD 6450 Dual": {
+        "name": "Radeon HD 8470D + HD 6450 Dual",
+        "names": [
+            "Radeon HD 8470D + HD 6450 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 863
+    },
+    "Radeon HD 8470D + HD 6670 Dual": {
+        "name": "Radeon HD 8470D + HD 6670 Dual",
+        "names": [
+            "Radeon HD 8470D + HD 6670 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
     "Radeon HD 8470D + HD 7500 Dual": {
         "name": "Radeon HD 8470D + HD 7500 Dual",
         "names": [
@@ -28682,7 +35236,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1545
+        "performance": 1
     },
     "Radeon HD 8490": {
         "name": "Radeon HD 8490",
@@ -28705,7 +35259,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 35,
-        "performance": 380
+        "performance": 273
     },
     "Radeon HD 8500M": {
         "name": "Radeon HD 8500M",
@@ -28727,7 +35281,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 564
+        "performance": 404
     },
     "Radeon HD 8500M/8700M": {
         "name": "Radeon HD 8500M/8700M",
@@ -28749,7 +35303,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 859
+        "performance": 853
     },
     "Radeon HD 8510G": {
         "name": "Radeon HD 8510G",
@@ -28759,7 +35313,7 @@ const database = {
             "AMD Radeon HD 8510G"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "TeraScale 3",
         "openGL": "4.2",
         "directX": "11",
         "vendor": "AMD",
@@ -28774,7 +35328,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 505
+        "performance": 378
     },
     "Radeon HD 8510G + 8500M Dual": {
         "name": "Radeon HD 8510G + 8500M Dual",
@@ -28797,6 +35351,28 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 596
+    },
+    "Radeon HD 8510G + HD 8500M Dual": {
+        "name": "Radeon HD 8510G + HD 8500M Dual",
+        "names": [
+            "Radeon HD 8510G + HD 8500M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 630
     },
     "Radeon HD 8550D": {
         "name": "Radeon HD 8550D",
@@ -28844,12 +35420,12 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "720 / 825",
-        "performance": 718
+        "performance": 431
     },
-    "Radeon HD 8550G + 8500M Dual": {
-        "name": "Radeon HD 8550G + 8500M Dual",
+    "Radeon HD 8550G + 7600M Dual": {
+        "name": "Radeon HD 8550G + 7600M Dual",
         "names": [
-            "Radeon HD 8550G + 8500M Dual",
+            "Radeon HD 8550G + 7600M Dual",
             "AMD Radeon HD 8550G + HD 8670M Dual Graphics"
         ],
         "codeName": null,
@@ -28857,7 +35433,7 @@ const database = {
         "openGL": "4.1",
         "directX": "11",
         "vendor": null,
-        "released": "Sun Aug 04 2013",
+        "released": "Thu Aug 15 2013",
         "memory": null,
         "memoryType": "DDR3",
         "clock": null,
@@ -28868,7 +35444,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "720 / 975",
-        "performance": 602
+        "performance": 901
+    },
+    "Radeon HD 8550G + 8500M Dual": {
+        "name": "Radeon HD 8550G + 8500M Dual",
+        "names": [
+            "Radeon HD 8550G + 8500M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 603
     },
     "Radeon HD 8550G + 8570M Dual": {
         "name": "Radeon HD 8550G + 8570M Dual",
@@ -28890,7 +35488,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 532
+        "performance": 533
     },
     "Radeon HD 8550G + 8600/8700M Dual": {
         "name": "Radeon HD 8550G + 8600/8700M Dual",
@@ -28912,7 +35510,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 802
+        "performance": 803
     },
     "Radeon HD 8550G + 8600M Dual": {
         "name": "Radeon HD 8550G + 8600M Dual",
@@ -28934,7 +35532,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 617
+        "performance": 618
     },
     "Radeon HD 8550G + 8670M Dual": {
         "name": "Radeon HD 8550G + 8670M Dual",
@@ -29000,7 +35598,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 795
+        "performance": 796
     },
     "Radeon HD 8550G + HD 7600M Dual": {
         "name": "Radeon HD 8550G + HD 7600M Dual",
@@ -29022,7 +35620,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 854
+        "performance": 855
+    },
+    "Radeon HD 8550G + HD 8500M Dual": {
+        "name": "Radeon HD 8550G + HD 8500M Dual",
+        "names": [
+            "Radeon HD 8550G + HD 8500M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 559
     },
     "Radeon HD 8550G + HD 8570M Dual": {
         "name": "Radeon HD 8550G + HD 8570M Dual",
@@ -29066,7 +35686,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 813
+        "performance": 655
     },
     "Radeon HD 8550G + HD 8600M Dual": {
         "name": "Radeon HD 8550G + HD 8600M Dual",
@@ -29088,7 +35708,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 593
+        "performance": 594
     },
     "Radeon HD 8550G + HD 8670M Dual": {
         "name": "Radeon HD 8550G + HD 8670M Dual",
@@ -29176,7 +35796,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 667
+        "performance": 488
+    },
+    "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D": {
+        "name": "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D",
+        "names": [
+            "Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 612
     },
     "Radeon HD 8570": {
         "name": "Radeon HD 8570",
@@ -29199,7 +35841,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 66,
-        "performance": 982
+        "performance": 1
     },
     "Radeon HD 8570 + 8670D Dual": {
         "name": "Radeon HD 8570 + 8670D Dual",
@@ -29222,6 +35864,28 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 620
+    },
+    "Radeon HD 8570 + HD 7660D Dual": {
+        "name": "Radeon HD 8570 + HD 7660D Dual",
+        "names": [
+            "Radeon HD 8570 + HD 7660D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 949
     },
     "Radeon HD 8570D": {
         "name": "Radeon HD 8570D",
@@ -29246,7 +35910,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "844",
-        "performance": 680
+        "performance": 445
     },
     "Radeon HD 8570D + 6570 Dual": {
         "name": "Radeon HD 8570D + 6570 Dual",
@@ -29268,7 +35932,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1239
+        "performance": 1
+    },
+    "Radeon HD 8570D + 6670 Dual": {
+        "name": "Radeon HD 8570D + 6670 Dual",
+        "names": [
+            "Radeon HD 8570D + 6670 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 8570D + HD 6570 Dual": {
         "name": "Radeon HD 8570D + HD 6570 Dual",
@@ -29312,7 +35998,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1260
+        "performance": 1
     },
     "Radeon HD 8570D + HD 7000 Dual": {
         "name": "Radeon HD 8570D + HD 7000 Dual",
@@ -29356,7 +36042,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1834
+        "performance": 1
+    },
+    "Radeon HD 8570D + HD 8470 Dual": {
+        "name": "Radeon HD 8570D + HD 8470 Dual",
+        "names": [
+            "Radeon HD 8570D + HD 8470 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 338
     },
     "Radeon HD 8570D + HD 8570 Dual": {
         "name": "Radeon HD 8570D + HD 8570 Dual",
@@ -29378,7 +36086,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1032
+        "performance": 1
+    },
+    "Radeon HD 8570D + HD8490 Dual": {
+        "name": "Radeon HD 8570D + HD8490 Dual",
+        "names": [
+            "Radeon HD 8570D + HD8490 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 374
+    },
+    "Radeon HD 8570D + R5 235 Dual": {
+        "name": "Radeon HD 8570D + R5 235 Dual",
+        "names": [
+            "Radeon HD 8570D + R5 235 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 471
     },
     "Radeon HD 8570D + R7 200 Dual": {
         "name": "Radeon HD 8570D + R7 200 Dual",
@@ -29422,7 +36174,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 963
+        "performance": 964
     },
     "Radeon HD 8570M": {
         "name": "Radeon HD 8570M",
@@ -29446,7 +36198,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "720 / 650",
-        "performance": 534
+        "performance": 485
     },
     "Radeon HD 8600/8700M": {
         "name": "Radeon HD 8600/8700M",
@@ -29468,7 +36220,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1034
+        "performance": 1
     },
     "Radeon HD 8610G": {
         "name": "Radeon HD 8610G",
@@ -29493,7 +36245,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 549
+        "performance": 442
     },
     "Radeon HD 8610G + 8500M Dual": {
         "name": "Radeon HD 8610G + 8500M Dual",
@@ -29537,7 +36289,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 588
+        "performance": 589
     },
     "Radeon HD 8610G + 8670M Dual": {
         "name": "Radeon HD 8610G + 8670M Dual",
@@ -29559,7 +36311,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 599
+        "performance": 600
     },
     "Radeon HD 8610G + HD 8500M Dual": {
         "name": "Radeon HD 8610G + HD 8500M Dual",
@@ -29581,7 +36333,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 645
+        "performance": 646
     },
     "Radeon HD 8610G + HD 8600M Dual": {
         "name": "Radeon HD 8610G + HD 8600M Dual",
@@ -29603,7 +36355,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 583
+        "performance": 481
     },
     "Radeon HD 8610G + HD 8670M Dual": {
         "name": "Radeon HD 8610G + HD 8670M Dual",
@@ -29625,7 +36377,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 577
+        "performance": 578
     },
     "Radeon HD 8610G + R5 M200 Dual": {
         "name": "Radeon HD 8610G + R5 M200 Dual",
@@ -29670,7 +36422,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 548
+        "performance": 526
     },
     "Radeon HD 8650G": {
         "name": "Radeon HD 8650G",
@@ -29695,7 +36447,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "720 / 775",
-        "performance": 924
+        "performance": 515
     },
     "Radeon HD 8650G + 7600M Dual": {
         "name": "Radeon HD 8650G + 7600M Dual",
@@ -29717,7 +36469,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 741
+        "performance": 742
     },
     "Radeon HD 8650G + 7670M Dual": {
         "name": "Radeon HD 8650G + 7670M Dual",
@@ -29739,7 +36491,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 883
+        "performance": 884
+    },
+    "Radeon HD 8650G + 7700M Dual": {
+        "name": "Radeon HD 8650G + 7700M Dual",
+        "names": [
+            "Radeon HD 8650G + 7700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 8650G + 8500M Dual": {
         "name": "Radeon HD 8650G + 8500M Dual",
@@ -29761,7 +36535,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 626
+        "performance": 627
     },
     "Radeon HD 8650G + 8570M Dual": {
         "name": "Radeon HD 8650G + 8570M Dual",
@@ -29805,7 +36579,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 831
+        "performance": 832
     },
     "Radeon HD 8650G + 8600M Dual": {
         "name": "Radeon HD 8650G + 8600M Dual",
@@ -29849,7 +36623,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 638
+        "performance": 635
     },
     "Radeon HD 8650G + 8750M Dual": {
         "name": "Radeon HD 8650G + 8750M Dual",
@@ -29871,7 +36645,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 786
+        "performance": 787
     },
     "Radeon HD 8650G + HD 7600M Dual": {
         "name": "Radeon HD 8650G + HD 7600M Dual",
@@ -29893,7 +36667,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 819
+        "performance": 820
     },
     "Radeon HD 8650G + HD 7670M Dual": {
         "name": "Radeon HD 8650G + HD 7670M Dual",
@@ -29959,7 +36733,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 765
+        "performance": 764
     },
     "Radeon HD 8650G + HD 8600M Dual": {
         "name": "Radeon HD 8650G + HD 8600M Dual",
@@ -29981,7 +36755,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 601
+        "performance": 606
+    },
+    "Radeon HD 8650G + HD 8600M N HD 8600M Dual": {
+        "name": "Radeon HD 8650G + HD 8600M N HD 8600M Dual",
+        "names": [
+            "Radeon HD 8650G + HD 8600M N HD 8600M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 758
     },
     "Radeon HD 8650G + HD 8670M Dual": {
         "name": "Radeon HD 8650G + HD 8670M Dual",
@@ -30003,7 +36799,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 589
+        "performance": 585
     },
     "Radeon HD 8650G + HD 8750M Dual": {
         "name": "Radeon HD 8650G + HD 8750M Dual",
@@ -30025,7 +36821,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 778
+        "performance": 779
+    },
+    "Radeon HD 8650G + HD 8790M Dual": {
+        "name": "Radeon HD 8650G + HD 8790M Dual",
+        "names": [
+            "Radeon HD 8650G + HD 8790M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 800
     },
     "Radeon HD 8650G + R5 M200 Dual": {
         "name": "Radeon HD 8650G + R5 M200 Dual",
@@ -30047,7 +36865,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 722
+        "performance": 723
     },
     "Radeon HD 8650G + R5 M230 Dual": {
         "name": "Radeon HD 8650G + R5 M230 Dual",
@@ -30093,6 +36911,28 @@ const database = {
         "tdp": null,
         "performance": 773
     },
+    "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual": {
+        "name": "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual",
+        "names": [
+            "Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 796
+    },
     "Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D": {
         "name": "Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D",
         "names": [
@@ -30113,7 +36953,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 679
+        "performance": 680
     },
     "Radeon HD 8670D": {
         "name": "Radeon HD 8670D",
@@ -30138,7 +36978,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "844",
-        "performance": 782
+        "performance": 574
     },
     "Radeon HD 8670D + 6670 Dual": {
         "name": "Radeon HD 8670D + 6670 Dual",
@@ -30160,7 +37000,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1361
+        "performance": 1
+    },
+    "Radeon HD 8670D + 7000 Dual": {
+        "name": "Radeon HD 8670D + 7000 Dual",
+        "names": [
+            "Radeon HD 8670D + 7000 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 812
     },
     "Radeon HD 8670D + 7700 Dual": {
         "name": "Radeon HD 8670D + 7700 Dual",
@@ -30182,7 +37044,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1788
+        "performance": 1
+    },
+    "Radeon HD 8670D + 8570 Dual": {
+        "name": "Radeon HD 8670D + 8570 Dual",
+        "names": [
+            "Radeon HD 8670D + 8570 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 974
     },
     "Radeon HD 8670D + HD 6670 Dual": {
         "name": "Radeon HD 8670D + HD 6670 Dual",
@@ -30204,7 +37088,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1221
+        "performance": 1
     },
     "Radeon HD 8670D + HD 7000 Dual": {
         "name": "Radeon HD 8670D + HD 7000 Dual",
@@ -30226,7 +37110,51 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 718
+        "performance": 719
+    },
+    "Radeon HD 8670D + HD 7600 Dual": {
+        "name": "Radeon HD 8670D + HD 7600 Dual",
+        "names": [
+            "Radeon HD 8670D + HD 7600 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD 8670D + HD 7700 Dual": {
+        "name": "Radeon HD 8670D + HD 7700 Dual",
+        "names": [
+            "Radeon HD 8670D + HD 7700 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon HD 8670D + R5 235 Dual": {
         "name": "Radeon HD 8670D + R5 235 Dual",
@@ -30248,7 +37176,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 836
+        "performance": 837
+    },
+    "Radeon HD 8670D + R5 330 Dual": {
+        "name": "Radeon HD 8670D + R5 330 Dual",
+        "names": [
+            "Radeon HD 8670D + R5 330 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 746
     },
     "Radeon HD 8670D + R7 200 Dual": {
         "name": "Radeon HD 8670D + R7 200 Dual",
@@ -30270,7 +37220,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 949
+        "performance": 950
     },
     "Radeon HD 8670D + R7 240 Dual": {
         "name": "Radeon HD 8670D + R7 240 Dual",
@@ -30292,7 +37242,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1020
+        "performance": 1
+    },
+    "Radeon HD 8670D N HD 8670D + HD 8670D Dual": {
+        "name": "Radeon HD 8670D N HD 8670D + HD 8670D Dual",
+        "names": [
+            "Radeon HD 8670D N HD 8670D + HD 8670D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 489
     },
     "Radeon HD 8670M": {
         "name": "Radeon HD 8670M",
@@ -30338,7 +37310,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 919
+        "performance": 476
     },
     "Radeon HD 8690M": {
         "name": "Radeon HD 8690M",
@@ -30386,7 +37358,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 1025
+        "performance": 728
     },
     "Radeon HD 8750M": {
         "name": "Radeon HD 8750M",
@@ -30410,7 +37382,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "620",
-        "performance": 1054
+        "performance": 863
     },
     "Radeon HD 8790M": {
         "name": "Radeon HD 8790M",
@@ -30434,7 +37406,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 1318
+        "performance": 1
     },
     "Radeon HD 8790M / R9 M290X": {
         "name": "Radeon HD 8790M / R9 M290X",
@@ -30456,7 +37428,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1236
+        "performance": 1
     },
     "Radeon HD 8850M": {
         "name": "Radeon HD 8850M",
@@ -30502,7 +37474,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1139
+        "performance": 1
     },
     "Radeon HD 8870M": {
         "name": "Radeon HD 8870M",
@@ -30526,7 +37498,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "725",
-        "performance": 1638
+        "performance": 1
     },
     "Radeon HD 8870M / R9 M270X / M370X": {
         "name": "Radeon HD 8870M / R9 M270X / M370X",
@@ -30548,7 +37520,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1799
+        "performance": 1
     },
     "Radeon HD 8950": {
         "name": "Radeon HD 8950",
@@ -30571,7 +37543,7 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 225,
-        "performance": 3049
+        "performance": 2
     },
     "Radeon HD 8970M": {
         "name": "Radeon HD 8970M",
@@ -30595,7 +37567,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "850",
-        "performance": 3876
+        "performance": 3
     },
     "Radeon HD 8990": {
         "name": "Radeon HD 8990",
@@ -30618,7 +37590,73 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 375,
-        "performance": 4999
+        "performance": 5
+    },
+    "Radeon HD HD7850M": {
+        "name": "Radeon HD HD7850M",
+        "names": [
+            "Radeon HD HD7850M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon HD4650": {
+        "name": "Radeon HD4650",
+        "names": [
+            "Radeon HD4650"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 240
+    },
+    "Radeon HD4670": {
+        "name": "Radeon HD4670",
+        "names": [
+            "Radeon HD4670"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 366
     },
     "RADEON HD6370D": {
         "name": "RADEON HD6370D",
@@ -30662,7 +37700,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 422
+        "performance": 423
     },
     "RADEON HD6530D": {
         "name": "RADEON HD6530D",
@@ -30684,7 +37722,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 531
+        "performance": 532
+    },
+    "RADEON HD7450": {
+        "name": "RADEON HD7450",
+        "names": [
+            "RADEON HD7450"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 199
     },
     "Radeon HD7570": {
         "name": "Radeon HD7570",
@@ -30706,7 +37766,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1028
+        "performance": 1
     },
     "Radeon HD8490": {
         "name": "Radeon HD8490",
@@ -30728,7 +37788,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 366
+        "performance": 269
     },
     "Radeon HD8530M": {
         "name": "Radeon HD8530M",
@@ -30750,7 +37810,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 498
+        "performance": 490
     },
     "Radeon HD8970M": {
         "name": "Radeon HD8970M",
@@ -30772,7 +37832,52 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3368
+        "performance": 3
+    },
+    "Radeon HDG 4670": {
+        "name": "Radeon HDG 4670",
+        "names": [
+            "Radeon HDG 4670"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 170
+    },
+    "RADEON IGP 320": {
+        "name": "RADEON IGP 320",
+        "names": [
+            "RADEON IGP 320",
+            "Radeon IGP 320"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Oct 5, 2002",
+        "memory": null,
+        "memoryType": null,
+        "clock": 160,
+        "memoryClock": null,
+        "shaderUnits": 1,
+        "renderUnits": 1,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
     },
     "Radeon IGP 320M": {
         "name": "Radeon IGP 320M",
@@ -30796,31 +37901,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "160",
-        "performance": 3
+        "performance": 4
     },
     "Radeon IGP 340M": {
         "name": "Radeon IGP 340M",
         "names": [
-            "Radeon IGP 340M",
-            "ATI Radeon IGP 340M"
+            "Radeon IGP 340M"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
-        "directX": "7",
-        "vendor": "ATI",
-        "released": "Oct 5, 2002",
+        "directX": null,
+        "vendor": null,
+        "released": null,
         "memory": null,
         "memoryType": null,
-        "clock": 183,
+        "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
-        "renderUnits": 2,
-        "textureUnits": 1,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "clockSpeed": "180",
-        "performance": 2
+        "performance": 3
     },
     "RADEON IGP 345M": {
         "name": "RADEON IGP 345M",
@@ -30841,6 +37944,28 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 2,
         "textureUnits": 1,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "RADEON IGP 34xM": {
+        "name": "RADEON IGP 34xM",
+        "names": [
+            "RADEON IGP 34xM"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
         "performance": 2
@@ -30868,6 +37993,74 @@ const database = {
         "tdp": null,
         "performance": 6
     },
+    "Radeon Infoshock 3000": {
+        "name": "Radeon Infoshock 3000",
+        "names": [
+            "Radeon Infoshock 3000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 107
+    },
+    "Radeon Instinct MI25 MxGPU": {
+        "name": "Radeon Instinct MI25 MxGPU",
+        "names": [
+            "Radeon Instinct MI25 MxGPU",
+            "Radeon Instinct MI25"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jun 27, 2017",
+        "memory": 16384,
+        "memoryType": "HBM2",
+        "clock": 1400,
+        "memoryClock": 852,
+        "shaderUnits": 4096,
+        "renderUnits": 64,
+        "textureUnits": 256,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
+    },
+    "Radeon M535DX": {
+        "name": "Radeon M535DX",
+        "names": [
+            "Radeon M535DX",
+            "Radeon R8 M535DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 18, 2017",
+        "memory": null,
+        "memoryType": null,
+        "clock": 780,
+        "memoryClock": null,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 750
+    },
     "Radeon Pro 450": {
         "name": "Radeon Pro 450",
         "names": [
@@ -30890,7 +38083,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "800",
-        "performance": 2722
+        "performance": 2
     },
     "Radeon Pro 455": {
         "name": "Radeon Pro 455",
@@ -30914,7 +38107,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "855",
-        "performance": 3112
+        "performance": 3
     },
     "Radeon Pro 460": {
         "name": "Radeon Pro 460",
@@ -30938,7 +38131,99 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "900",
-        "performance": 3452
+        "performance": 3
+    },
+    "Radeon Pro 465": {
+        "name": "Radeon Pro 465",
+        "names": [
+            "Radeon Pro 465"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "Radeon Pro 5300M": {
+        "name": "Radeon Pro 5300M",
+        "names": [
+            "Radeon Pro 5300M",
+            "AMD Radeon Pro 5300M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Wed Nov 27 2019",
+        "memory": 4096,
+        "memoryType": "GDDR6",
+        "clock": 1000,
+        "memoryClock": 1000,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": 85,
+        "clockSpeed": null,
+        "performance": 5
+    },
+    "Radeon Pro 5500 XT": {
+        "name": "Radeon Pro 5500 XT",
+        "names": [
+            "Radeon Pro 5500 XT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
+    },
+    "Radeon Pro 5500M": {
+        "name": "Radeon Pro 5500M",
+        "names": [
+            "Radeon Pro 5500M",
+            "AMD Radeon Pro 5500M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Wed Nov 27 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1000,
+        "memoryClock": 1000,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": 85,
+        "clockSpeed": null,
+        "performance": 6
     },
     "Radeon Pro 555": {
         "name": "Radeon Pro 555",
@@ -30962,7 +38247,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "855",
-        "performance": 3140
+        "performance": 3
     },
     "Radeon Pro 560": {
         "name": "Radeon Pro 560",
@@ -30986,7 +38271,31 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "907",
-        "performance": 3475
+        "performance": 3
+    },
+    "Radeon Pro 5600M": {
+        "name": "Radeon Pro 5600M",
+        "names": [
+            "Radeon Pro 5600M",
+            "AMD Radeon Pro 5600M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Jun 29 2020",
+        "memory": 8192,
+        "memoryType": "HBM2",
+        "clock": 1000,
+        "memoryClock": 1000,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 50,
+        "clockSpeed": null,
+        "performance": 9
     },
     "Radeon Pro 560X": {
         "name": "Radeon Pro 560X",
@@ -31010,7 +38319,73 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "907",
-        "performance": 3687
+        "performance": 3
+    },
+    "Radeon Pro 570": {
+        "name": "Radeon Pro 570",
+        "names": [
+            "Radeon Pro 570"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jun 5, 2017",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1000,
+        "memoryClock": 1700,
+        "shaderUnits": 1792,
+        "renderUnits": 32,
+        "textureUnits": 112,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
+    },
+    "Radeon Pro 5700": {
+        "name": "Radeon Pro 5700",
+        "names": [
+            "Radeon Pro 5700"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1243,
+        "memoryClock": 1243,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 130,
+        "performance": 11
+    },
+    "Radeon Pro 5700 XT": {
+        "name": "Radeon Pro 5700 XT",
+        "names": [
+            "Radeon Pro 5700 XT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 16384,
+        "memoryType": null,
+        "clock": 1243,
+        "memoryClock": 1243,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 130,
+        "performance": 9
     },
     "Radeon Pro 580": {
         "name": "Radeon Pro 580",
@@ -31032,7 +38407,29 @@ const database = {
         "textureUnits": 144,
         "type": "Unknown",
         "tdp": null,
-        "performance": 7753
+        "performance": 7
+    },
+    "Radeon Pro 580X": {
+        "name": "Radeon Pro 580X",
+        "names": [
+            "Radeon Pro 580X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1100,
+        "memoryClock": 1100,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 150,
+        "performance": 7
     },
     "Radeon Pro Duo": {
         "name": "Radeon Pro Duo",
@@ -31054,7 +38451,7 @@ const database = {
         "textureUnits": 256,
         "type": "Desktop",
         "tdp": 350,
-        "performance": 9446
+        "performance": 9
     },
     "Radeon Pro SSG": {
         "name": "Radeon Pro SSG",
@@ -31076,7 +38473,53 @@ const database = {
         "textureUnits": 256,
         "type": "Unknown",
         "tdp": null,
-        "performance": 11013
+        "performance": 10
+    },
+    "Radeon Pro V340 MxGPU": {
+        "name": "Radeon Pro V340 MxGPU",
+        "names": [
+            "Radeon Pro V340 MxGPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Aug 26, 2018",
+        "memory": 16384,
+        "memoryType": "HBM2",
+        "clock": 852,
+        "memoryClock": 1000,
+        "shaderUnits": 3584,
+        "renderUnits": 64,
+        "textureUnits": 224,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Pro Vega 16": {
+        "name": "Radeon Pro Vega 16",
+        "names": [
+            "Radeon Pro Vega 16",
+            "AMD Radeon Pro Vega 16"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Nov 14, 2018",
+        "memory": 4096,
+        "memoryType": "HBM2",
+        "clock": 300,
+        "memoryClock": 1200,
+        "shaderUnits": 1024,
+        "renderUnits": 32,
+        "textureUnits": 64,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 4
     },
     "Radeon Pro Vega 20": {
         "name": "Radeon Pro Vega 20",
@@ -31100,7 +38543,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 6147
+        "performance": 5
+    },
+    "Radeon Pro Vega 48": {
+        "name": "Radeon Pro Vega 48",
+        "names": [
+            "Radeon Pro Vega 48"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 11
     },
     "Radeon Pro Vega 56": {
         "name": "Radeon Pro Vega 56",
@@ -31121,10 +38586,10 @@ const database = {
         "shaderUnits": 3584,
         "renderUnits": 64,
         "textureUnits": 224,
-        "type": "Unknown",
+        "type": "Desktop",
         "tdp": null,
         "clockSpeed": "1247",
-        "performance": 11917
+        "performance": 12
     },
     "Radeon Pro Vega 64": {
         "name": "Radeon Pro Vega 64",
@@ -31146,7 +38611,95 @@ const database = {
         "textureUnits": 256,
         "type": "Unknown",
         "tdp": null,
-        "performance": 11455
+        "performance": 11
+    },
+    "Radeon Pro Vega II": {
+        "name": "Radeon Pro Vega II",
+        "names": [
+            "Radeon Pro Vega II"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 14
+    },
+    "Radeon Pro W5500": {
+        "name": "Radeon Pro W5500",
+        "names": [
+            "Radeon Pro W5500"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1187,
+        "memoryClock": 1187,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 125,
+        "performance": 9
+    },
+    "Radeon Pro W5500M": {
+        "name": "Radeon Pro W5500M",
+        "names": [
+            "Radeon Pro W5500M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 4096,
+        "memoryType": null,
+        "clock": 1000,
+        "memoryClock": 1000,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 85,
+        "performance": 2
+    },
+    "Radeon Pro W5700": {
+        "name": "Radeon Pro W5700",
+        "names": [
+            "Radeon Pro W5700"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1243,
+        "memoryClock": 1243,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 205,
+        "performance": 15
     },
     "Radeon Pro WX 2100": {
         "name": "Radeon Pro WX 2100",
@@ -31166,15 +38719,15 @@ const database = {
         "shaderUnits": 512,
         "renderUnits": 16,
         "textureUnits": 32,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 2240
+        "type": "Mobile",
+        "tdp": 35,
+        "performance": 1
     },
     "Radeon Pro WX 3100": {
         "name": "Radeon Pro WX 3100",
         "names": [
             "Radeon Pro WX 3100",
-            "AMD Radeon Pro WX 3100 Mobile"
+            "AMD Radeon Pro WX 3100"
         ],
         "codeName": null,
         "architecture": "Polaris",
@@ -31189,10 +38742,34 @@ const database = {
         "shaderUnits": 512,
         "renderUnits": 16,
         "textureUnits": 32,
-        "type": "Unknown",
-        "tdp": null,
+        "type": "Workstation",
+        "tdp": 50,
         "clockSpeed": null,
-        "performance": 3366
+        "performance": 2
+    },
+    "Radeon Pro WX 3200": {
+        "name": "Radeon Pro WX 3200",
+        "names": [
+            "Radeon Pro WX 3200",
+            "AMD Radeon Pro WX 3200"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": null,
+        "released": "Thu Oct 10 2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1295,
+        "memoryClock": 1295,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 65,
+        "clockSpeed": "1082",
+        "performance": 2
     },
     "Radeon Pro WX 4100": {
         "name": "Radeon Pro WX 4100",
@@ -31212,9 +38789,9 @@ const database = {
         "shaderUnits": 1024,
         "renderUnits": 16,
         "textureUnits": 64,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 3949
+        "type": "Desktop",
+        "tdp": 50,
+        "performance": 3
     },
     "Radeon Pro WX 4130": {
         "name": "Radeon Pro WX 4130",
@@ -31236,10 +38813,10 @@ const database = {
         "shaderUnits": 640,
         "renderUnits": 16,
         "textureUnits": 40,
-        "type": "Unknown",
-        "tdp": null,
+        "type": "Mobile",
+        "tdp": 50,
         "clockSpeed": null,
-        "performance": 2865
+        "performance": 2
     },
     "Radeon Pro WX 4150": {
         "name": "Radeon Pro WX 4150",
@@ -31264,7 +38841,30 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": null,
-        "performance": 3208
+        "performance": 1
+    },
+    "Radeon Pro WX 4170": {
+        "name": "Radeon Pro WX 4170",
+        "names": [
+            "Radeon Pro WX 4170",
+            "Radeon Pro WX 4170 Mobile"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Mar 1, 2017",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1002,
+        "memoryClock": 1750,
+        "shaderUnits": 1024,
+        "renderUnits": 16,
+        "textureUnits": 64,
+        "type": "Mobile",
+        "tdp": 50,
+        "performance": 1
     },
     "Radeon Pro WX 5100": {
         "name": "Radeon Pro WX 5100",
@@ -31286,7 +38886,7 @@ const database = {
         "textureUnits": 112,
         "type": "Workstation",
         "tdp": 75,
-        "performance": 5611
+        "performance": 5
     },
     "Radeon Pro WX 7100": {
         "name": "Radeon Pro WX 7100",
@@ -31310,12 +38910,33 @@ const database = {
         "type": "Workstation",
         "tdp": 130,
         "clockSpeed": null,
-        "performance": 7918
+        "performance": 7
     },
-    "Radeon PRO WX 8200": {
-        "name": "Radeon PRO WX 8200",
+    "Radeon Pro WX 7130": {
+        "name": "Radeon Pro WX 7130",
         "names": [
-            "Radeon PRO WX 8200",
+            "Radeon Pro WX 7130"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1188,
+        "memoryClock": 1188,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 130,
+        "performance": 2
+    },
+    "Radeon Pro WX 8200": {
+        "name": "Radeon Pro WX 8200",
+        "names": [
             "Radeon Pro WX 8200"
         ],
         "codeName": null,
@@ -31331,9 +38952,9 @@ const database = {
         "shaderUnits": 3584,
         "renderUnits": 64,
         "textureUnits": 224,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 10785
+        "type": "Desktop",
+        "tdp": 230,
+        "performance": 14
     },
     "Radeon Pro WX 9100": {
         "name": "Radeon Pro WX 9100",
@@ -31353,14 +38974,38 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 10460
+        "type": "Desktop",
+        "tdp": 230,
+        "performance": 12
     },
-    "Radeon Pro WX4100": {
-        "name": "Radeon Pro WX4100",
+    "Radeon Pro WX Vega M GL": {
+        "name": "Radeon Pro WX Vega M GL",
         "names": [
-            "Radeon Pro WX4100"
+            "Radeon Pro WX Vega M GL",
+            "AMD Radeon Pro WX Vega M GL"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": "AMD",
+        "released": "Feb 1, 2018",
+        "memory": 4096,
+        "memoryType": "HBM2",
+        "clock": 931,
+        "memoryClock": 700,
+        "shaderUnits": 1280,
+        "renderUnits": 32,
+        "textureUnits": 80,
+        "type": "Mobile",
+        "tdp": 65,
+        "clockSpeed": "931",
+        "performance": 6
+    },
+    "Radeon R1E": {
+        "name": "Radeon R1E",
+        "names": [
+            "Radeon R1E"
         ],
         "codeName": null,
         "architecture": null,
@@ -31377,7 +39022,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3953
+        "performance": 301
     },
     "Radeon R2": {
         "name": "Radeon R2",
@@ -31402,7 +39047,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 302
+        "performance": 241
     },
     "Radeon R2E": {
         "name": "Radeon R2E",
@@ -31424,7 +39069,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 257
+        "performance": 225
     },
     "Radeon R3": {
         "name": "Radeon R3",
@@ -31449,7 +39094,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 372
+        "performance": 301
     },
     "Radeon R3E": {
         "name": "Radeon R3E",
@@ -31471,7 +39116,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 256
+        "performance": 248
     },
     "Radeon R4": {
         "name": "Radeon R4",
@@ -31496,7 +39141,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "800",
-        "performance": 396
+        "performance": 340
+    },
+    "Radeon R4E": {
+        "name": "Radeon R4E",
+        "names": [
+            "Radeon R4E"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 487
     },
     "Radeon R5 220": {
         "name": "Radeon R5 220",
@@ -31519,7 +39186,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 19,
-        "performance": 233
+        "performance": 136
     },
     "Radeon R5 230": {
         "name": "Radeon R5 230",
@@ -31541,7 +39208,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 235
+        "performance": 242
     },
     "Radeon R5 235": {
         "name": "Radeon R5 235",
@@ -31564,7 +39231,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 35,
-        "performance": 372
+        "performance": 318
     },
     "Radeon R5 235 + HD 7560D Dual": {
         "name": "Radeon R5 235 + HD 7560D Dual",
@@ -31586,7 +39253,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 743
+        "performance": 744
+    },
+    "Radeon R5 235 + HD 8570D Dual": {
+        "name": "Radeon R5 235 + HD 8570D Dual",
+        "names": [
+            "Radeon R5 235 + HD 8570D Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 738
     },
     "Radeon R5 235X": {
         "name": "Radeon R5 235X",
@@ -31609,7 +39298,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 18,
-        "performance": 367
+        "performance": 368
     },
     "Radeon R5 240": {
         "name": "Radeon R5 240",
@@ -31632,7 +39321,7 @@ const database = {
         "textureUnits": 24,
         "type": "Desktop",
         "tdp": 50,
-        "performance": 658
+        "performance": 516
     },
     "Radeon R5 310": {
         "name": "Radeon R5 310",
@@ -31655,7 +39344,7 @@ const database = {
         "textureUnits": 8,
         "type": "Unknown",
         "tdp": null,
-        "performance": 337
+        "performance": 332
     },
     "Radeon R5 330": {
         "name": "Radeon R5 330",
@@ -31678,7 +39367,7 @@ const database = {
         "textureUnits": 20,
         "type": "Desktop",
         "tdp": 30,
-        "performance": 636
+        "performance": 617
     },
     "Radeon R5 340": {
         "name": "Radeon R5 340",
@@ -31701,7 +39390,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1041
+        "performance": 1
     },
     "Radeon R5 420": {
         "name": "Radeon R5 420",
@@ -31723,7 +39412,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 757
+        "performance": 575
     },
     "Radeon R5 430": {
         "name": "Radeon R5 430",
@@ -31746,7 +39435,52 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1031
+        "performance": 982
+    },
+    "Radeon R5 435": {
+        "name": "Radeon R5 435",
+        "names": [
+            "Radeon R5 435",
+            "Radeon R5 435 OEM"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jun 30, 2016",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 1030,
+        "memoryClock": 1000,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 841
+    },
+    "Radeon R5 A10-9600P 4C+6G": {
+        "name": "Radeon R5 A10-9600P 4C+6G",
+        "names": [
+            "Radeon R5 A10-9600P 4C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 619
     },
     "Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C": {
         "name": "Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C",
@@ -31768,7 +39502,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 810
+        "performance": 897
+    },
+    "Radeon R5 A10-9620P 4C+6G": {
+        "name": "Radeon R5 A10-9620P 4C+6G",
+        "names": [
+            "Radeon R5 A10-9620P 4C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 732
     },
     "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C": {
         "name": "Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C",
@@ -31790,12 +39546,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 772
+        "performance": 477
     },
-    "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C": {
-        "name": "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C",
+    "Radeon R5 A10-9630P 4C+6G": {
+        "name": "Radeon R5 A10-9630P 4C+6G",
         "names": [
-            "Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C"
+            "Radeon R5 A10-9630P 4C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -31812,12 +39568,34 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1463
+        "performance": 977
     },
-    "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G": {
-        "name": "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G",
+    "Radeon R5 A240": {
+        "name": "Radeon R5 A240",
         "names": [
-            "Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G"
+            "Radeon R5 A240"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "2014",
+        "memory": 1024,
+        "memoryType": "DDR3",
+        "clock": 650,
+        "memoryClock": 900,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 576
+    },
+    "Radeon R5 A6-7480": {
+        "name": "Radeon R5 A6-7480",
+        "names": [
+            "Radeon R5 A6-7480"
         ],
         "codeName": null,
         "architecture": null,
@@ -31834,7 +39612,95 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 992
+        "performance": 860
+    },
+    "Radeon R5 A6-8500P": {
+        "name": "Radeon R5 A6-8500P",
+        "names": [
+            "Radeon R5 A6-8500P"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 776
+    },
+    "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G": {
+        "name": "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G",
+        "names": [
+            "Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 605
+    },
+    "Radeon R5 A6-9500 2C+6G": {
+        "name": "Radeon R5 A6-9500 2C+6G",
+        "names": [
+            "Radeon R5 A6-9500 2C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 853
+    },
+    "Radeon R5 A6-9500E 2C+4G": {
+        "name": "Radeon R5 A6-9500E 2C+4G",
+        "names": [
+            "Radeon R5 A6-9500E 2C+4G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R5 M230": {
         "name": "Radeon R5 M230",
@@ -31858,7 +39724,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "855",
-        "performance": 571
+        "performance": 384
     },
     "Radeon R5 M240": {
         "name": "Radeon R5 M240",
@@ -31882,7 +39748,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1030",
-        "performance": 556
+        "performance": 432
     },
     "Radeon R5 M255": {
         "name": "Radeon R5 M255",
@@ -31906,7 +39772,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "940",
-        "performance": 754
+        "performance": 589
     },
     "Radeon R5 M315": {
         "name": "Radeon R5 M315",
@@ -31930,7 +39796,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "970",
-        "performance": 609
+        "performance": 495
     },
     "Radeon R5 M320": {
         "name": "Radeon R5 M320",
@@ -31954,7 +39820,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "855",
-        "performance": 598
+        "performance": 428
     },
     "Radeon R5 M330": {
         "name": "Radeon R5 M330",
@@ -31978,7 +39844,7 @@ const database = {
         "type": "Mobile",
         "tdp": 18,
         "clockSpeed": "1030",
-        "performance": 600
+        "performance": 596
     },
     "Radeon R5 M335": {
         "name": "Radeon R5 M335",
@@ -32002,7 +39868,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1070",
-        "performance": 554
+        "performance": 549
     },
     "Radeon R5 M420": {
         "name": "Radeon R5 M420",
@@ -32026,7 +39892,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "780",
-        "performance": 545
+        "performance": 470
     },
     "Radeon R5 M430": {
         "name": "Radeon R5 M430",
@@ -32050,7 +39916,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "955",
-        "performance": 655
+        "performance": 649
+    },
+    "Radeon R5 M435": {
+        "name": "Radeon R5 M435",
+        "names": [
+            "Radeon R5 M435"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "May 15, 2016",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 780,
+        "memoryClock": 1125,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 896
     },
     "Radeon R5 Opteron X3216": {
         "name": "Radeon R5 Opteron X3216",
@@ -32072,12 +39960,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 438
+        "performance": 436
     },
-    "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G": {
-        "name": "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G",
+    "Radeon R5 PRO A10-8730B 4C+6G": {
+        "name": "Radeon R5 PRO A10-8730B 4C+6G",
         "names": [
-            "Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G"
+            "Radeon R5 PRO A10-8730B 4C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32094,12 +39982,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 819
+        "performance": 695
     },
-    "Radeon R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G": {
-        "name": "Radeon R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G",
+    "Radeon R5 PRO A6-8500B 2C+4G": {
+        "name": "Radeon R5 PRO A6-8500B 2C+4G",
         "names": [
-            "Radeon R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G"
+            "Radeon R5 PRO A6-8500B 2C+4G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32116,12 +40004,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 689
+        "performance": 508
     },
-    "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G": {
-        "name": "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G",
+    "Radeon R5 PRO A6-8530B 2C+4G": {
+        "name": "Radeon R5 PRO A6-8530B 2C+4G",
         "names": [
-            "Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G"
+            "Radeon R5 PRO A6-8530B 2C+4G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32138,12 +40026,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1014
+        "performance": 690
     },
-    "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G": {
-        "name": "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G",
+    "Radeon R5 PRO A6-8570 2C+6G": {
+        "name": "Radeon R5 PRO A6-8570 2C+6G",
         "names": [
-            "Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G"
+            "Radeon R5 PRO A6-8570 2C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32160,12 +40048,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 839
+        "performance": 847
     },
-    "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G": {
-        "name": "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G",
+    "Radeon R5 PRO A6-8570E 2C+4G": {
+        "name": "Radeon R5 PRO A6-8570E 2C+4G",
         "names": [
-            "Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G"
+            "Radeon R5 PRO A6-8570E 2C+4G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32182,12 +40070,34 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1167
+        "performance": 638
     },
-    "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G": {
-        "name": "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G",
+    "Radeon R5 PRO A6-9500 2C+6G": {
+        "name": "Radeon R5 PRO A6-9500 2C+6G",
         "names": [
-            "Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G"
+            "Radeon R5 PRO A6-9500 2C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon R5 PRO A6-9500B 2C+4G": {
+        "name": "Radeon R5 PRO A6-9500B 2C+4G",
+        "names": [
+            "Radeon R5 PRO A6-9500B 2C+4G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32206,10 +40116,10 @@ const database = {
         "tdp": null,
         "performance": 693
     },
-    "Radeon R5 PRO A6-9500E R5, 6 COMPUTE CORES 2C+4G": {
-        "name": "Radeon R5 PRO A6-9500E R5, 6 COMPUTE CORES 2C+4G",
+    "Radeon R5 PRO A6-9500E 2C+4G": {
+        "name": "Radeon R5 PRO A6-9500E 2C+4G",
         "names": [
-            "Radeon R5 PRO A6-9500E R5, 6 COMPUTE CORES 2C+4G"
+            "Radeon R5 PRO A6-9500E 2C+4G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32226,12 +40136,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 906
+        "performance": 771
     },
-    "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G": {
-        "name": "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G",
+    "Radeon R5 PRO A8-9600B 4C+6G": {
+        "name": "Radeon R5 PRO A8-9600B 4C+6G",
         "names": [
-            "Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G"
+            "Radeon R5 PRO A8-9600B 4C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32248,7 +40158,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 849
+        "performance": 659
     },
     "Radeon R5E": {
         "name": "Radeon R5E",
@@ -32288,14 +40198,14 @@ const database = {
         "memory": 0,
         "memoryType": null,
         "clock": 533,
-        "memoryClock": 800,
+        "memoryClock": 533,
         "shaderUnits": 384,
         "renderUnits": 8,
         "textureUnits": 24,
         "type": "Desktop, Mobile",
         "tdp": 15,
         "clockSpeed": null,
-        "performance": 642
+        "performance": 572
     },
     "Radeon R6 + R7 M265DX Dual": {
         "name": "Radeon R6 + R7 M265DX Dual",
@@ -32318,7 +40228,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 570
+        "performance": 571
     },
     "Radeon R6 A10-8700P": {
         "name": "Radeon R6 A10-8700P",
@@ -32340,7 +40250,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 686
+        "performance": 539
+    },
+    "Radeon R6 A10-9600P 4C+6G": {
+        "name": "Radeon R6 A10-9600P 4C+6G",
+        "names": [
+            "Radeon R6 A10-9600P 4C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 970
     },
     "Radeon R6 A8-8600P": {
         "name": "Radeon R6 A8-8600P",
@@ -32362,7 +40294,75 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 501
+        "performance": 560
+    },
+    "Radeon R6 M255DX": {
+        "name": "Radeon R6 M255DX",
+        "names": [
+            "Radeon R6 M255DX",
+            "AMD Radeon R6 M255DX"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": null,
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "Jan 7, 2014",
+        "memory": null,
+        "memoryType": "DDR3",
+        "clock": 780,
+        "memoryClock": null,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "855 / 514",
+        "performance": 570
+    },
+    "Radeon R6 Opteron X3418": {
+        "name": "Radeon R6 Opteron X3418",
+        "names": [
+            "Radeon R6 Opteron X3418"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 955
+    },
+    "Radeon R6 PRO A10-8700B 4C+6G": {
+        "name": "Radeon R6 PRO A10-8700B 4C+6G",
+        "names": [
+            "Radeon R6 PRO A10-8700B 4C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 538
     },
     "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G": {
         "name": "Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G",
@@ -32384,12 +40384,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 579
+        "performance": 718
     },
-    "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G": {
-        "name": "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G",
+    "Radeon R6 PRO A8-8600B 4C+6G": {
+        "name": "Radeon R6 PRO A8-8600B 4C+6G",
         "names": [
-            "Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G"
+            "Radeon R6 PRO A8-8600B 4C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -32406,7 +40406,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 604
+        "performance": 532
     },
     "Radeon R7 + HD 7700 Dual": {
         "name": "Radeon R7 + HD 7700 Dual",
@@ -32428,7 +40428,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1962
+        "performance": 1
     },
     "Radeon R7 + R5 330 Dual": {
         "name": "Radeon R7 + R5 330 Dual",
@@ -32450,7 +40450,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1028
+        "performance": 1
+    },
+    "Radeon R7 + R5 340 Dual": {
+        "name": "Radeon R7 + R5 340 Dual",
+        "names": [
+            "Radeon R7 + R5 340 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R7 + R5 435 Dual A10-9700 RADEON": {
         "name": "Radeon R7 + R5 435 Dual A10-9700 RADEON",
@@ -32472,7 +40494,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 885
+        "performance": 886
+    },
+    "Radeon R7 + R5 Dual": {
+        "name": "Radeon R7 + R5 Dual",
+        "names": [
+            "Radeon R7 + R5 Dual"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 898
     },
     "Radeon R7 + R7 200 Dual": {
         "name": "Radeon R7 + R7 200 Dual",
@@ -32494,7 +40538,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1289
+        "performance": 1
     },
     "Radeon R7 + R7 240 Dual": {
         "name": "Radeon R7 + R7 240 Dual",
@@ -32517,7 +40561,30 @@ const database = {
         "textureUnits": 20,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1045
+        "performance": 1
+    },
+    "Radeon R7 + R7 250 Dual": {
+        "name": "Radeon R7 + R7 250 Dual",
+        "names": [
+            "Radeon R7 + R7 250 Dual",
+            "Radeon R7 250"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Oct 8, 2013",
+        "memory": 1024,
+        "memoryType": "DDR3",
+        "clock": 700,
+        "memoryClock": 900,
+        "shaderUnits": 512,
+        "renderUnits": 16,
+        "textureUnits": 32,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R7 + R7 350 Dual": {
         "name": "Radeon R7 + R7 350 Dual",
@@ -32540,7 +40607,29 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1982
+        "performance": 1
+    },
+    "Radeon R7 +8G": {
+        "name": "Radeon R7 +8G",
+        "names": [
+            "Radeon R7 +8G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R7 240": {
         "name": "Radeon R7 240",
@@ -32563,7 +40652,7 @@ const database = {
         "textureUnits": 20,
         "type": "Desktop",
         "tdp": 30,
-        "performance": 980
+        "performance": 835
     },
     "Radeon R7 240 + HD 8570D Dual": {
         "name": "Radeon R7 240 + HD 8570D Dual",
@@ -32585,7 +40674,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 917
+        "performance": 918
     },
     "Radeon R7 240 + HD 8670D Dual": {
         "name": "Radeon R7 240 + HD 8670D Dual",
@@ -32613,6 +40702,7 @@ const database = {
         "name": "Radeon R7 250",
         "names": [
             "Radeon R7 250",
+            "Radeon R7 250 OEM",
             "AMD Radeon R7 250"
         ],
         "codeName": null,
@@ -32621,17 +40711,17 @@ const database = {
         "directX": "12 (FL 11_1)",
         "vendor": "AMD",
         "released": "Oct 8, 2013",
-        "memory": 1024,
-        "memoryType": "DDR3",
-        "clock": 700,
-        "memoryClock": 900,
-        "shaderUnits": 512,
-        "renderUnits": 16,
-        "textureUnits": 32,
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 1000,
+        "memoryClock": 1150,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
         "type": "Desktop",
         "tdp": 75,
         "clockSpeed": "1050",
-        "performance": 1407
+        "performance": 1
     },
     "Radeon R7 250X": {
         "name": "Radeon R7 250X",
@@ -32653,7 +40743,7 @@ const database = {
         "textureUnits": 40,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 2268
+        "performance": 2
     },
     "Radeon R7 260": {
         "name": "Radeon R7 260",
@@ -32675,7 +40765,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 2891
+        "performance": 2
     },
     "Radeon R7 260X": {
         "name": "Radeon R7 260X",
@@ -32697,7 +40787,7 @@ const database = {
         "textureUnits": 56,
         "type": "Desktop",
         "tdp": 115,
-        "performance": 3168
+        "performance": 3
     },
     "Radeon R7 340": {
         "name": "Radeon R7 340",
@@ -32720,7 +40810,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1041
+        "performance": 931
     },
     "Radeon R7 360": {
         "name": "Radeon R7 360",
@@ -32742,7 +40832,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 100,
-        "performance": 3308
+        "performance": 3
     },
     "Radeon R7 370": {
         "name": "Radeon R7 370",
@@ -32766,7 +40856,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "975",
-        "performance": 4641
+        "performance": 4
     },
     "Radeon R7 430": {
         "name": "Radeon R7 430",
@@ -32789,7 +40879,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1417
+        "performance": 1
     },
     "Radeon R7 450": {
         "name": "Radeon R7 450",
@@ -32812,7 +40902,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": 65,
-        "performance": 2191
+        "performance": 1
     },
     "Radeon R7 7850A10-7850K": {
         "name": "Radeon R7 7850A10-7850K",
@@ -32856,7 +40946,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 790
+        "performance": 816
     },
     "Radeon R7 A10 PRO-7800B": {
         "name": "Radeon R7 A10 PRO-7800B",
@@ -32878,7 +40968,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 692
+        "performance": 756
     },
     "Radeon R7 A10 PRO-7850B": {
         "name": "Radeon R7 A10 PRO-7850B",
@@ -32900,7 +40990,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 962
+        "performance": 958
     },
     "Radeon R7 A10-7700K": {
         "name": "Radeon R7 A10-7700K",
@@ -32922,7 +41012,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 897
+        "performance": 640
     },
     "Radeon R7 A10-7800": {
         "name": "Radeon R7 A10-7800",
@@ -32944,7 +41034,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 885
+        "performance": 768
     },
     "Radeon R7 A10-7850K": {
         "name": "Radeon R7 A10-7850K",
@@ -32960,13 +41050,13 @@ const database = {
         "memory": 16384,
         "memoryType": null,
         "clock": 720,
-        "memoryClock": 1583,
+        "memoryClock": 720,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 95,
-        "performance": 1017
+        "performance": 942
     },
     "Radeon R7 A10-7860K": {
         "name": "Radeon R7 A10-7860K",
@@ -32988,7 +41078,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 987
+        "performance": 835
     },
     "Radeon R7 A10-7870K": {
         "name": "Radeon R7 A10-7870K",
@@ -33010,7 +41100,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1127
+        "performance": 966
     },
     "Radeon R7 A10-7890K": {
         "name": "Radeon R7 A10-7890K",
@@ -33032,7 +41122,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1158
+        "performance": 801
     },
     "Radeon R7 A10-8750": {
         "name": "Radeon R7 A10-8750",
@@ -33054,7 +41144,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 988
+        "performance": 886
     },
     "Radeon R7 A10-8850": {
         "name": "Radeon R7 A10-8850",
@@ -33076,7 +41166,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1107
+        "performance": 1
     },
     "Radeon R7 A10-9700 RADEON": {
         "name": "Radeon R7 A10-9700 RADEON",
@@ -33099,7 +41189,7 @@ const database = {
         "textureUnits": 4,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1222
+        "performance": 1
     },
     "Radeon R7 A10-9700E RADEON": {
         "name": "Radeon R7 A10-9700E RADEON",
@@ -33121,7 +41211,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1105
+        "performance": 1
     },
     "Radeon R7 A12-9700P RADEON": {
         "name": "Radeon R7 A12-9700P RADEON",
@@ -33143,7 +41233,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 744
+        "performance": 758
     },
     "Radeon R7 A12-9720P RADEON": {
         "name": "Radeon R7 A12-9720P RADEON",
@@ -33165,7 +41255,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 937
+        "performance": 789
     },
     "Radeon R7 A12-9730P RADEON": {
         "name": "Radeon R7 A12-9730P RADEON",
@@ -33187,30 +41277,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 910
+        "performance": 1
     },
     "Radeon R7 A12-9800 RADEON": {
         "name": "Radeon R7 A12-9800 RADEON",
         "names": [
-            "Radeon R7 A12-9800 RADEON",
-            "Radeon 9800"
+            "Radeon R7 A12-9800 RADEON"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
-        "vendor": "ATI",
-        "released": "Mar 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 325,
-        "memoryClock": 290,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1249
+        "performance": 911
     },
     "Radeon R7 A12-9800E RADEON": {
         "name": "Radeon R7 A12-9800E RADEON",
@@ -33232,7 +41321,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1185
+        "performance": 1
     },
     "Radeon R7 A265": {
         "name": "Radeon R7 A265",
@@ -33254,7 +41343,51 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 987
+        "performance": 955
+    },
+    "Radeon R7 A360": {
+        "name": "Radeon R7 A360",
+        "names": [
+            "Radeon R7 A360"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "May 5, 2015",
+        "memory": 2048,
+        "memoryType": "DDR3",
+        "clock": 1100,
+        "memoryClock": 900,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 720
+    },
+    "Radeon R7 A365": {
+        "name": "Radeon R7 A365",
+        "names": [
+            "Radeon R7 A365"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 781
     },
     "Radeon R7 A370": {
         "name": "Radeon R7 A370",
@@ -33276,7 +41409,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1281
+        "performance": 1
     },
     "Radeon R7 A8 PRO-7600B": {
         "name": "Radeon R7 A8 PRO-7600B",
@@ -33298,7 +41431,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 728
+        "performance": 664
     },
     "Radeon R7 A8-7500": {
         "name": "Radeon R7 A8-7500",
@@ -33320,12 +41453,12 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1027
+        "performance": 1
     },
-    "Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6": {
-        "name": "Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6",
+    "Radeon R7 A8-7500 4C+6G": {
+        "name": "Radeon R7 A8-7500 4C+6G",
         "names": [
-            "Radeon R7 A8-7500 Radeon R7, 10 Compute Cores 4C+6"
+            "Radeon R7 A8-7500 4C+6G"
         ],
         "codeName": null,
         "architecture": null,
@@ -33364,7 +41497,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 927
+        "performance": 731
     },
     "Radeon R7 A8-7650K": {
         "name": "Radeon R7 A8-7650K",
@@ -33386,7 +41519,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 868
+        "performance": 581
     },
     "Radeon R7 A8-7670K": {
         "name": "Radeon R7 A8-7670K",
@@ -33408,7 +41541,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 850
+        "performance": 877
+    },
+    "Radeon R7 A8-7680": {
+        "name": "Radeon R7 A8-7680",
+        "names": [
+            "Radeon R7 A8-7680"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 765
     },
     "Radeon R7 A8-8650": {
         "name": "Radeon R7 A8-8650",
@@ -33430,7 +41585,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 910
+        "performance": 913
     },
     "Radeon R7 A8-9600 RADEON": {
         "name": "Radeon R7 A8-9600 RADEON",
@@ -33452,7 +41607,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1088
+        "performance": 754
     },
     "Radeon R7 FX-8800P": {
         "name": "Radeon R7 FX-8800P",
@@ -33474,7 +41629,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 843
+        "performance": 822
     },
     "Radeon R7 FX-9800P RADEON": {
         "name": "Radeon R7 FX-9800P RADEON",
@@ -33496,7 +41651,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 842
+        "performance": 693
     },
     "Radeon R7 FX-9830P RADEON": {
         "name": "Radeon R7 FX-9830P RADEON",
@@ -33518,7 +41673,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1803
+        "performance": 1
+    },
+    "Radeon R7 G": {
+        "name": "Radeon R7 G",
+        "names": [
+            "Radeon R7 G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 870
     },
     "Radeon R7 M260": {
         "name": "Radeon R7 M260",
@@ -33542,7 +41719,29 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "715",
-        "performance": 687
+        "performance": 438
+    },
+    "Radeon R7 M260DX": {
+        "name": "Radeon R7 M260DX",
+        "names": [
+            "Radeon R7 M260DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jan 7, 2014",
+        "memory": null,
+        "memoryType": null,
+        "clock": 780,
+        "memoryClock": null,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 811
     },
     "Radeon R7 M260X": {
         "name": "Radeon R7 M260X",
@@ -33566,7 +41765,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "715",
-        "performance": 1115
+        "performance": 1
     },
     "Radeon R7 M265": {
         "name": "Radeon R7 M265",
@@ -33590,7 +41789,29 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "825",
-        "performance": 826
+        "performance": 813
+    },
+    "Radeon R7 M265DX": {
+        "name": "Radeon R7 M265DX",
+        "names": [
+            "Radeon R7 M265DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 540
     },
     "Radeon R7 M270": {
         "name": "Radeon R7 M270",
@@ -33614,7 +41835,29 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "825",
-        "performance": 745
+        "performance": 755
+    },
+    "Radeon R7 M270DX": {
+        "name": "Radeon R7 M270DX",
+        "names": [
+            "Radeon R7 M270DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Jan 7, 2014",
+        "memory": null,
+        "memoryType": null,
+        "clock": 780,
+        "memoryClock": null,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 962
     },
     "Radeon R7 M340": {
         "name": "Radeon R7 M340",
@@ -33638,7 +41881,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1021",
-        "performance": 758
+        "performance": 636
     },
     "Radeon R7 M350": {
         "name": "Radeon R7 M350",
@@ -33660,7 +41903,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1235
+        "performance": 1
     },
     "Radeon R7 M360": {
         "name": "Radeon R7 M360",
@@ -33684,7 +41927,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1125",
-        "performance": 711
+        "performance": 539
     },
     "Radeon R7 M365X": {
         "name": "Radeon R7 M365X",
@@ -33706,7 +41949,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "performance": 904
+        "performance": 902
     },
     "Radeon R7 M370": {
         "name": "Radeon R7 M370",
@@ -33730,7 +41973,31 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "875",
-        "performance": 1410
+        "performance": 1
+    },
+    "Radeon R7 M380": {
+        "name": "Radeon R7 M380",
+        "names": [
+            "Radeon R7 M380",
+            "AMD Radeon R7 M380"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.3",
+        "directX": "12 (FL 11_1)",
+        "vendor": "AMD",
+        "released": "May 5, 2015",
+        "memory": 4096,
+        "memoryType": "DDR3",
+        "clock": 900,
+        "memoryClock": 1000,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "915",
+        "performance": 1
     },
     "Radeon R7 M440": {
         "name": "Radeon R7 M440",
@@ -33754,7 +42021,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1021",
-        "performance": 964
+        "performance": 883
     },
     "Radeon R7 M445": {
         "name": "Radeon R7 M445",
@@ -33778,7 +42045,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "920",
-        "performance": 1067
+        "performance": 922
     },
     "Radeon R7 M460": {
         "name": "Radeon R7 M460",
@@ -33802,7 +42069,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "984",
-        "performance": 1119
+        "performance": 1
     },
     "Radeon R7 M465": {
         "name": "Radeon R7 M465",
@@ -33826,7 +42093,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "825",
-        "performance": 1306
+        "performance": 1
     },
     "Radeon R7 M465X": {
         "name": "Radeon R7 M465X",
@@ -33848,7 +42115,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2057
+        "performance": 1
     },
     "Radeon R7 Opteron X3421": {
         "name": "Radeon R7 Opteron X3421",
@@ -33870,7 +42137,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 961
+        "performance": 1
     },
     "Radeon R7 PRO A10-8750B": {
         "name": "Radeon R7 PRO A10-8750B",
@@ -33892,7 +42159,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 933
+        "performance": 713
     },
     "Radeon R7 PRO A10-8770": {
         "name": "Radeon R7 PRO A10-8770",
@@ -33914,7 +42181,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1319
+        "performance": 842
     },
     "Radeon R7 PRO A10-8770E": {
         "name": "Radeon R7 PRO A10-8770E",
@@ -33936,7 +42203,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1147
+        "performance": 796
     },
     "Radeon R7 PRO A10-8850B": {
         "name": "Radeon R7 PRO A10-8850B",
@@ -33980,7 +42247,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1367
+        "performance": 962
     },
     "Radeon R7 PRO A10-9700B": {
         "name": "Radeon R7 PRO A10-9700B",
@@ -34002,7 +42269,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1082
+        "performance": 758
     },
     "Radeon R7 PRO A10-9700E": {
         "name": "Radeon R7 PRO A10-9700E",
@@ -34024,7 +42291,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1142
+        "performance": 761
     },
     "Radeon R7 PRO A12-8800B": {
         "name": "Radeon R7 PRO A12-8800B",
@@ -34046,7 +42313,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 786
+        "performance": 720
     },
     "Radeon R7 PRO A12-8830B": {
         "name": "Radeon R7 PRO A12-8830B",
@@ -34068,7 +42335,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 945
+        "performance": 883
     },
     "Radeon R7 PRO A12-8870": {
         "name": "Radeon R7 PRO A12-8870",
@@ -34090,7 +42357,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1375
+        "performance": 1
     },
     "Radeon R7 PRO A12-8870E": {
         "name": "Radeon R7 PRO A12-8870E",
@@ -34112,7 +42379,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1160
+        "performance": 1
     },
     "Radeon R7 PRO A12-9800": {
         "name": "Radeon R7 PRO A12-9800",
@@ -34134,7 +42401,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1346
+        "performance": 1
     },
     "Radeon R7 PRO A12-9800B": {
         "name": "Radeon R7 PRO A12-9800B",
@@ -34156,7 +42423,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 808
+        "performance": 859
     },
     "Radeon R7 PRO A12-9800E": {
         "name": "Radeon R7 PRO A12-9800E",
@@ -34178,7 +42445,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1014
+        "performance": 925
+    },
+    "Radeon R7 PRO A6-9500 2C+6G": {
+        "name": "Radeon R7 PRO A6-9500 2C+6G",
+        "names": [
+            "Radeon R7 PRO A6-9500 2C+6G"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 781
     },
     "Radeon R7 PRO A8-8650B": {
         "name": "Radeon R7 PRO A8-8650B",
@@ -34200,7 +42489,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 839
+        "performance": 625
+    },
+    "Radeon R7 PRO A8-8670E": {
+        "name": "Radeon R7 PRO A8-8670E",
+        "names": [
+            "Radeon R7 PRO A8-8670E"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R7 PRO A8-9600": {
         "name": "Radeon R7 PRO A8-9600",
@@ -34222,7 +42533,99 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1049
+        "performance": 1
+    },
+    "Radeon R7E": {
+        "name": "Radeon R7E",
+        "names": [
+            "Radeon R7E"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 690
+    },
+    "Radeon R8 M365DX": {
+        "name": "Radeon R8 M365DX",
+        "names": [
+            "Radeon R8 M365DX",
+            "AMD Radeon R8 M365DX"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.3",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "Jun 3, 2015",
+        "memory": null,
+        "memoryType": "DDR3",
+        "clock": 900,
+        "memoryClock": null,
+        "shaderUnits": 384,
+        "renderUnits": 8,
+        "textureUnits": 24,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "720 / 1125",
+        "performance": 741
+    },
+    "Radeon R8 M445DX": {
+        "name": "Radeon R8 M445DX",
+        "names": [
+            "Radeon R8 M445DX",
+            "AMD Radeon R8 M445DX"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.4",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "May 15, 2016",
+        "memory": null,
+        "memoryType": "DDR4/DDR3",
+        "clock": 780,
+        "memoryClock": null,
+        "shaderUnits": 320,
+        "renderUnits": 8,
+        "textureUnits": 20,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "720 / 1020",
+        "performance": 794
+    },
+    "Radeon R8 M535DX": {
+        "name": "Radeon R8 M535DX",
+        "names": [
+            "Radeon R8 M535DX"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 748
     },
     "Radeon R9 255": {
         "name": "Radeon R9 255",
@@ -34245,7 +42648,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop",
         "tdp": null,
-        "performance": 1805
+        "performance": 1
     },
     "Radeon R9 260": {
         "name": "Radeon R9 260",
@@ -34268,12 +42671,11 @@ const database = {
         "textureUnits": 56,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3018
+        "performance": 3
     },
-    "Radeon R9 270 / R7 370": {
-        "name": "Radeon R9 270 / R7 370",
+    "Radeon R9 270": {
+        "name": "Radeon R9 270",
         "names": [
-            "Radeon R9 270 / R7 370",
             "Radeon R9 270"
         ],
         "codeName": null,
@@ -34289,9 +42691,31 @@ const database = {
         "shaderUnits": 1280,
         "renderUnits": 32,
         "textureUnits": 80,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
+    },
+    "Radeon R9 270 / R7 370": {
+        "name": "Radeon R9 270 / R7 370",
+        "names": [
+            "Radeon R9 270 / R7 370"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 2048,
+        "memoryType": null,
+        "clock": 900975,
+        "memoryClock": 900975,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 4260
+        "performance": 4
     },
     "Radeon R9 270X": {
         "name": "Radeon R9 270X",
@@ -34315,7 +42739,7 @@ const database = {
         "type": "Desktop",
         "tdp": 180,
         "clockSpeed": "1050",
-        "performance": 4690
+        "performance": 4
     },
     "Radeon R9 280": {
         "name": "Radeon R9 280",
@@ -34337,7 +42761,7 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 5377
+        "performance": 5
     },
     "Radeon R9 280X": {
         "name": "Radeon R9 280X",
@@ -34361,7 +42785,7 @@ const database = {
         "type": "Desktop",
         "tdp": 250,
         "clockSpeed": "1000",
-        "performance": 5842
+        "performance": 6
     },
     "Radeon R9 285 / 380": {
         "name": "Radeon R9 285 / 380",
@@ -34384,12 +42808,11 @@ const database = {
         "textureUnits": 112,
         "type": "Desktop",
         "tdp": 190,
-        "performance": 5554
+        "performance": 5
     },
-    "Radeon R9 290 / 390": {
-        "name": "Radeon R9 290 / 390",
+    "Radeon R9 290": {
+        "name": "Radeon R9 290",
         "names": [
-            "Radeon R9 290 / 390",
             "Radeon R9 290"
         ],
         "codeName": null,
@@ -34405,20 +42828,42 @@ const database = {
         "shaderUnits": 2560,
         "renderUnits": 64,
         "textureUnits": 160,
-        "type": "Desktop",
-        "tdp": 275,
-        "performance": 7138
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
     },
-    "Radeon R9 290X / 390X": {
-        "name": "Radeon R9 290X / 390X",
+    "Radeon R9 290 / 390": {
+        "name": "Radeon R9 290 / 390",
         "names": [
-            "Radeon R9 290X / 390X",
-            "Radeon R9 290X"
+            "Radeon R9 290 / 390"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 4096,
+        "memoryType": null,
+        "clock": 947,
+        "memoryClock": 947,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 275,
+        "performance": 8
+    },
+    "Radeon R9 290X": {
+        "name": "Radeon R9 290X",
+        "names": [
+            "Radeon R9 290X",
+            "AMD Radeon R9 290X"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.3",
+        "directX": "12 (FL 12_0)",
         "vendor": "AMD",
         "released": "Oct 24, 2013",
         "memory": 4096,
@@ -34428,9 +42873,32 @@ const database = {
         "shaderUnits": 2816,
         "renderUnits": 64,
         "textureUnits": 176,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": "1000",
+        "performance": 8
+    },
+    "Radeon R9 290X / 390X": {
+        "name": "Radeon R9 290X / 390X",
+        "names": [
+            "Radeon R9 290X / 390X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 4096,
+        "memoryType": null,
+        "clock": 1000,
+        "memoryClock": 1000,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Desktop",
         "tdp": 290,
-        "performance": 7430
+        "performance": 8
     },
     "Radeon R9 295X2": {
         "name": "Radeon R9 295X2",
@@ -34452,7 +42920,7 @@ const database = {
         "textureUnits": 176,
         "type": "Desktop",
         "tdp": 500,
-        "performance": 7747
+        "performance": 8
     },
     "Radeon R9 350": {
         "name": "Radeon R9 350",
@@ -34468,13 +42936,13 @@ const database = {
         "memory": 2048,
         "memoryType": null,
         "clock": 925,
-        "memoryClock": 1125,
+        "memoryClock": 925,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 60,
-        "performance": 2238
+        "performance": 2
     },
     "Radeon R9 360": {
         "name": "Radeon R9 360",
@@ -34497,7 +42965,7 @@ const database = {
         "textureUnits": 48,
         "type": "Desktop",
         "tdp": 85,
-        "performance": 3031
+        "performance": 3
     },
     "Radeon R9 370": {
         "name": "Radeon R9 370",
@@ -34519,7 +42987,7 @@ const database = {
         "textureUnits": 80,
         "type": "Desktop",
         "tdp": 150,
-        "performance": 4722
+        "performance": 4
     },
     "Radeon R9 380": {
         "name": "Radeon R9 380",
@@ -34543,7 +43011,7 @@ const database = {
         "type": "Desktop",
         "tdp": 190,
         "clockSpeed": "970",
-        "performance": 6136
+        "performance": 6
     },
     "Radeon R9 380X": {
         "name": "Radeon R9 380X",
@@ -34565,7 +43033,7 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 190,
-        "performance": 6206
+        "performance": 6
     },
     "Radeon R9 390": {
         "name": "Radeon R9 390",
@@ -34587,7 +43055,7 @@ const database = {
         "textureUnits": 160,
         "type": "Desktop",
         "tdp": 275,
-        "performance": 8084
+        "performance": 8
     },
     "Radeon R9 390X": {
         "name": "Radeon R9 390X",
@@ -34611,7 +43079,29 @@ const database = {
         "type": "Desktop",
         "tdp": 275,
         "clockSpeed": "1050",
-        "performance": 8527
+        "performance": 9
+    },
+    "Radeon R9 A375": {
+        "name": "Radeon R9 A375",
+        "names": [
+            "Radeon R9 A375"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "2015",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 900,
+        "memoryClock": 1125,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon R9 Fury": {
         "name": "Radeon R9 Fury",
@@ -34636,7 +43126,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1000",
-        "performance": 9179
+        "performance": 9
     },
     "Radeon R9 Fury + Fury X": {
         "name": "Radeon R9 Fury + Fury X",
@@ -34659,7 +43149,29 @@ const database = {
         "textureUnits": 256,
         "type": "Desktop",
         "tdp": 275,
-        "performance": 8453
+        "performance": 9
+    },
+    "Radeon R9 Fury X": {
+        "name": "Radeon R9 Fury X",
+        "names": [
+            "Radeon R9 Fury X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
     },
     "Radeon R9 M265X": {
         "name": "Radeon R9 M265X",
@@ -34683,7 +43195,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "625",
-        "performance": 1269
+        "performance": 933
     },
     "Radeon R9 M270X": {
         "name": "Radeon R9 M270X",
@@ -34705,7 +43217,7 @@ const database = {
         "textureUnits": 48,
         "type": "Mobile",
         "tdp": null,
-        "performance": 1417
+        "performance": 1
     },
     "Radeon R9 M275": {
         "name": "Radeon R9 M275",
@@ -34729,7 +43241,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "925",
-        "performance": 1114
+        "performance": 1
     },
     "Radeon R9 M275X / M375": {
         "name": "Radeon R9 M275X / M375",
@@ -34752,7 +43264,31 @@ const database = {
         "textureUnits": 40,
         "type": "Mobile",
         "tdp": 50,
-        "performance": 1498
+        "performance": 1
+    },
+    "Radeon R9 M280X": {
+        "name": "Radeon R9 M280X",
+        "names": [
+            "Radeon R9 M280X",
+            "AMD Radeon R9 M280X"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.4",
+        "directX": "12 (FL 12_0)",
+        "vendor": "AMD",
+        "released": "Feb 5, 2015",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 900,
+        "memoryClock": 1375,
+        "shaderUnits": 896,
+        "renderUnits": 16,
+        "textureUnits": 56,
+        "type": "Mobile",
+        "tdp": 75,
+        "clockSpeed": "900",
+        "performance": 1
     },
     "Radeon R9 M290X": {
         "name": "Radeon R9 M290X",
@@ -34776,7 +43312,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": "850",
-        "performance": 4003
+        "performance": 3
     },
     "Radeon R9 M295X": {
         "name": "Radeon R9 M295X",
@@ -34800,7 +43336,7 @@ const database = {
         "type": "Mobile",
         "tdp": 125,
         "clockSpeed": null,
-        "performance": 5150
+        "performance": 5
     },
     "Radeon R9 M360": {
         "name": "Radeon R9 M360",
@@ -34822,7 +43358,31 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2035
+        "performance": 1
+    },
+    "Radeon R9 M365X": {
+        "name": "Radeon R9 M365X",
+        "names": [
+            "Radeon R9 M365X",
+            "AMD Radeon R9 M365X"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.4",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "May 5, 2015",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 900,
+        "memoryClock": 1125,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Mobile",
+        "tdp": 50,
+        "clockSpeed": "900",
+        "performance": 1
     },
     "Radeon R9 M370X": {
         "name": "Radeon R9 M370X",
@@ -34847,7 +43407,7 @@ const database = {
         "type": "Mobile",
         "tdp": 50,
         "clockSpeed": "800",
-        "performance": 1929
+        "performance": 1
     },
     "Radeon R9 M375": {
         "name": "Radeon R9 M375",
@@ -34871,7 +43431,7 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1015",
-        "performance": 1239
+        "performance": 979
     },
     "Radeon R9 M375X": {
         "name": "Radeon R9 M375X",
@@ -34893,7 +43453,7 @@ const database = {
         "textureUnits": 40,
         "type": "Mobile",
         "tdp": null,
-        "performance": 2067
+        "performance": 1
     },
     "Radeon R9 M380": {
         "name": "Radeon R9 M380",
@@ -34917,7 +43477,55 @@ const database = {
         "type": "Mobile",
         "tdp": null,
         "clockSpeed": "1000",
-        "performance": 3101
+        "performance": 3
+    },
+    "Radeon R9 M385": {
+        "name": "Radeon R9 M385",
+        "names": [
+            "Radeon R9 M385",
+            "AMD Radeon R9 M385"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.3",
+        "directX": "11.1",
+        "vendor": "AMD",
+        "released": "May 5, 2015",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 900,
+        "memoryClock": 1200,
+        "shaderUnits": 896,
+        "renderUnits": 16,
+        "textureUnits": 56,
+        "type": "Mobile",
+        "tdp": 70,
+        "clockSpeed": null,
+        "performance": 2
+    },
+    "Radeon R9 M385X": {
+        "name": "Radeon R9 M385X",
+        "names": [
+            "Radeon R9 M385X",
+            "AMD Radeon R9 M385X"
+        ],
+        "codeName": null,
+        "architecture": "GCN",
+        "openGL": "4.3",
+        "directX": "12 FL11_1",
+        "vendor": "AMD",
+        "released": "May 5, 2015",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1000,
+        "memoryClock": 1200,
+        "shaderUnits": 896,
+        "renderUnits": 16,
+        "textureUnits": 56,
+        "type": "Mobile",
+        "tdp": 75,
+        "clockSpeed": "1100",
+        "performance": 1
     },
     "Radeon R9 M390X": {
         "name": "Radeon R9 M390X",
@@ -34941,7 +43549,7 @@ const database = {
         "type": "Mobile",
         "tdp": 100,
         "clockSpeed": null,
-        "performance": 4356
+        "performance": 4
     },
     "Radeon R9 M395": {
         "name": "Radeon R9 M395",
@@ -34966,7 +43574,7 @@ const database = {
         "type": "Mobile",
         "tdp": 125,
         "clockSpeed": "834",
-        "performance": 5022
+        "performance": 4
     },
     "Radeon R9 M395X": {
         "name": "Radeon R9 M395X",
@@ -34990,7 +43598,7 @@ const database = {
         "type": "Mobile",
         "tdp": 125,
         "clockSpeed": null,
-        "performance": 5757
+        "performance": 4
     },
     "Radeon R9 M470": {
         "name": "Radeon R9 M470",
@@ -35014,7 +43622,7 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "1000",
-        "performance": 2435
+        "performance": 2
     },
     "Radeon R9 M470X": {
         "name": "Radeon R9 M470X",
@@ -35038,7 +43646,31 @@ const database = {
         "type": "Mobile",
         "tdp": 75,
         "clockSpeed": "1100",
-        "performance": 3563
+        "performance": 3
+    },
+    "Radeon R9 M485X": {
+        "name": "Radeon R9 M485X",
+        "names": [
+            "Radeon R9 M485X",
+            "AMD Radeon R9 M485X"
+        ],
+        "codeName": null,
+        "architecture": "GCN 3",
+        "openGL": null,
+        "directX": "12 (FL 12_0)",
+        "vendor": "AMD",
+        "released": "May 15, 2016",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 723,
+        "memoryClock": 1250,
+        "shaderUnits": 2048,
+        "renderUnits": 32,
+        "textureUnits": 128,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 4
     },
     "Radeon RX 460": {
         "name": "Radeon RX 460",
@@ -35062,7 +43694,7 @@ const database = {
         "type": "Desktop",
         "tdp": 75,
         "clockSpeed": "1090",
-        "performance": 4329
+        "performance": 4
     },
     "Radeon RX 470": {
         "name": "Radeon RX 470",
@@ -35086,7 +43718,7 @@ const database = {
         "type": "Desktop",
         "tdp": 120,
         "clockSpeed": "926",
-        "performance": 7584
+        "performance": 7
     },
     "Radeon RX 480": {
         "name": "Radeon RX 480",
@@ -35110,7 +43742,7 @@ const database = {
         "type": "Desktop",
         "tdp": 150,
         "clockSpeed": "1120",
-        "performance": 8119
+        "performance": 8
     },
     "Radeon RX 540": {
         "name": "Radeon RX 540",
@@ -35126,13 +43758,13 @@ const database = {
         "memory": 4096,
         "memoryType": null,
         "clock": 1219,
-        "memoryClock": 1500,
+        "memoryClock": 1219,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": null,
-        "performance": 2407
+        "performance": 1
     },
     "Radeon RX 550": {
         "name": "Radeon RX 550",
@@ -35156,7 +43788,97 @@ const database = {
         "type": "Desktop",
         "tdp": 50,
         "clockSpeed": "1287",
-        "performance": 3441
+        "performance": 2
+    },
+    "Radeon RX 5500": {
+        "name": "Radeon RX 5500",
+        "names": [
+            "Radeon RX 5500"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 4096,
+        "memoryType": null,
+        "clock": 1670,
+        "memoryClock": 1670,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 150,
+        "performance": 8
+    },
+    "Radeon RX 5500 XT": {
+        "name": "Radeon RX 5500 XT",
+        "names": [
+            "Radeon RX 5500 XT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1607,
+        "memoryClock": 1607,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 130,
+        "performance": 8
+    },
+    "Radeon RX 5500M": {
+        "name": "Radeon RX 5500M",
+        "names": [
+            "Radeon RX 5500M",
+            "AMD Radeon RX 5500M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Sun Oct 13 2019",
+        "memory": 4096,
+        "memoryType": "GDDR6",
+        "clock": 1375,
+        "memoryClock": 1375,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Mobile",
+        "tdp": 85,
+        "clockSpeed": "1327",
+        "performance": 4
+    },
+    "Radeon RX 550X": {
+        "name": "Radeon RX 550X",
+        "names": [
+            "Radeon RX 550X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 11, 2018",
+        "memory": 2048,
+        "memoryType": "GDDR5",
+        "clock": 1100,
+        "memoryClock": 1750,
+        "shaderUnits": 512,
+        "renderUnits": 16,
+        "textureUnits": 32,
+        "type": "Desktop",
+        "tdp": 50,
+        "performance": 1
     },
     "Radeon RX 560": {
         "name": "Radeon RX 560",
@@ -35180,17 +43902,111 @@ const database = {
         "type": "Desktop",
         "tdp": 80,
         "clockSpeed": "1090",
-        "performance": 4389
+        "performance": 3
+    },
+    "Radeon RX 5600": {
+        "name": "Radeon RX 5600",
+        "names": [
+            "Radeon RX 5600",
+            "AMD Radeon RX 5600 XT (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Tue Feb 04 2020",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 1130,
+        "memoryClock": 1130,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 150,
+        "clockSpeed": "1235",
+        "performance": 10
+    },
+    "Radeon RX 5600 XT": {
+        "name": "Radeon RX 5600 XT",
+        "names": [
+            "Radeon RX 5600 XT"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 6144,
+        "memoryType": null,
+        "clock": 1130,
+        "memoryClock": 1130,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 150,
+        "performance": 13
+    },
+    "Radeon RX 5600M": {
+        "name": "Radeon RX 5600M",
+        "names": [
+            "Radeon RX 5600M",
+            "AMD Radeon RX 5600M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Tue Jan 21 2020",
+        "memory": 6144,
+        "memoryType": "GDDR6",
+        "clock": 1035,
+        "memoryClock": 1035,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 150,
+        "clockSpeed": null,
+        "performance": 6
+    },
+    "Radeon RX 560X": {
+        "name": "Radeon RX 560X",
+        "names": [
+            "Radeon RX 560X",
+            "AMD Radeon RX 560X (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "Apr 11, 2018",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1175,
+        "memoryClock": 1750,
+        "shaderUnits": 1024,
+        "renderUnits": 16,
+        "textureUnits": 64,
+        "type": "Desktop",
+        "tdp": 75,
+        "clockSpeed": "1172",
+        "performance": 3
     },
     "Radeon RX 570": {
         "name": "Radeon RX 570",
         "names": [
             "Radeon RX 570",
-            "AMD Radeon RX 570 (Laptop)"
+            "AMD Radeon RX 570 (Desktop)"
         ],
         "codeName": null,
         "architecture": "Polaris",
-        "openGL": "Vulkan",
+        "openGL": "4.6",
         "directX": "12",
         "vendor": "AMD",
         "released": "Apr 18, 2017",
@@ -35203,8 +44019,102 @@ const database = {
         "textureUnits": 128,
         "type": "Desktop",
         "tdp": 150,
+        "clockSpeed": "1168",
+        "performance": 6
+    },
+    "Radeon RX 5700": {
+        "name": "Radeon RX 5700",
+        "names": [
+            "Radeon RX 5700",
+            "AMD Radeon RX 5700 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Tue Jun 25 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1465,
+        "memoryClock": 1465,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 180,
+        "clockSpeed": "1465",
+        "performance": 14
+    },
+    "Radeon RX 5700 XT": {
+        "name": "Radeon RX 5700 XT",
+        "names": [
+            "Radeon RX 5700 XT",
+            "AMD Radeon RX 5700 XT (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Tue Jun 25 2019",
+        "memory": 8192,
+        "memoryType": "GDDR6",
+        "clock": 1605,
+        "memoryClock": 1605,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 225,
+        "clockSpeed": "1605",
+        "performance": 16
+    },
+    "Radeon RX 5700 XT 50th Anniversary": {
+        "name": "Radeon RX 5700 XT 50th Anniversary",
+        "names": [
+            "Radeon RX 5700 XT 50th Anniversary"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": 8192,
+        "memoryType": null,
+        "clock": 1680,
+        "memoryClock": 1680,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop",
+        "tdp": 235,
+        "performance": 16
+    },
+    "Radeon RX 570X": {
+        "name": "Radeon RX 570X",
+        "names": [
+            "Radeon RX 570X",
+            "AMD Radeon RX 570X (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": "AMD",
+        "released": "Apr 11, 2018",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 1168,
+        "memoryClock": 1750,
+        "shaderUnits": 2048,
+        "renderUnits": 32,
+        "textureUnits": 128,
+        "type": "Desktop",
+        "tdp": 120,
         "clockSpeed": null,
-        "performance": 6802
+        "performance": 1
     },
     "Radeon RX 580": {
         "name": "Radeon RX 580",
@@ -35228,7 +44138,7 @@ const database = {
         "type": "Desktop",
         "tdp": 185,
         "clockSpeed": "1257",
-        "performance": 8440
+        "performance": 8
     },
     "Radeon RX 580 2048SP": {
         "name": "Radeon RX 580 2048SP",
@@ -35250,7 +44160,7 @@ const database = {
         "textureUnits": 128,
         "type": "Unknown",
         "tdp": null,
-        "performance": 8488
+        "performance": 7
     },
     "Radeon RX 580X": {
         "name": "Radeon RX 580X",
@@ -35271,10 +44181,10 @@ const database = {
         "shaderUnits": 2304,
         "renderUnits": 32,
         "textureUnits": 144,
-        "type": "Unknown",
-        "tdp": null,
+        "type": "Desktop",
+        "tdp": 185,
         "clockSpeed": null,
-        "performance": 7798
+        "performance": 7
     },
     "Radeon RX 590": {
         "name": "Radeon RX 590",
@@ -35298,7 +44208,56 @@ const database = {
         "type": "Desktop",
         "tdp": 175,
         "clockSpeed": "1469",
-        "performance": 9366
+        "performance": 9
+    },
+    "Radeon RX 640": {
+        "name": "Radeon RX 640",
+        "names": [
+            "Radeon RX 640",
+            "AMD Radeon RX 640"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Aug 26 2019",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 1082,
+        "memoryClock": 1082,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Desktop, Mobile",
+        "tdp": 50,
+        "clockSpeed": "1218",
+        "performance": 1
+    },
+    "Radeon RX Vega 10": {
+        "name": "Radeon RX Vega 10",
+        "names": [
+            "Radeon RX Vega 10",
+            "Radeon RX Vega 10 Mobile",
+            "AMD Radeon RX Vega 10"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": "AMD",
+        "released": "Jan 8, 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 640,
+        "renderUnits": 8,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1
     },
     "Radeon RX Vega 11": {
         "name": "Radeon RX Vega 11",
@@ -35322,17 +44281,41 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2268
+        "performance": 2
     },
-    "Radeon RX Vega 56": {
-        "name": "Radeon RX Vega 56",
+    "Radeon RX Vega 11 PRD": {
+        "name": "Radeon RX Vega 11 PRD",
         "names": [
-            "Radeon RX Vega 56"
+            "Radeon RX Vega 11 PRD",
+            "Radeon RX Vega 11 Efficient"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
+        "vendor": "AMD",
+        "released": "Apr 23, 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": 300,
+        "memoryClock": null,
+        "shaderUnits": 704,
+        "renderUnits": 8,
+        "textureUnits": 44,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon RX Vega 56": {
+        "name": "Radeon RX Vega 56",
+        "names": [
+            "Radeon RX Vega 56",
+            "AMD Radeon RX Vega 56"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": "4.6",
+        "directX": "12_1",
         "vendor": "AMD",
         "released": "Aug 14, 2017",
         "memory": 8192,
@@ -35342,9 +44325,10 @@ const database = {
         "shaderUnits": 3584,
         "renderUnits": 64,
         "textureUnits": 224,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 11672
+        "type": "Desktop",
+        "tdp": 210,
+        "clockSpeed": "1138",
+        "performance": 13
     },
     "Radeon RX Vega 64": {
         "name": "Radeon RX Vega 64",
@@ -35354,7 +44338,7 @@ const database = {
         ],
         "codeName": null,
         "architecture": "Vega",
-        "openGL": null,
+        "openGL": "4.6",
         "directX": "12_1",
         "vendor": "AMD",
         "released": "Aug 7, 2017",
@@ -35368,19 +44352,18 @@ const database = {
         "type": "Desktop",
         "tdp": 295,
         "clockSpeed": "1630",
-        "performance": 11840
+        "performance": 14
     },
     "Radeon RX Vega 8": {
         "name": "Radeon RX Vega 8",
         "names": [
             "Radeon RX Vega 8",
-            "Radeon Vega 8",
-            "AMD Radeon RX Vega 8"
+            "Radeon Vega 8"
         ],
         "codeName": null,
-        "architecture": "Vega",
+        "architecture": null,
         "openGL": null,
-        "directX": "12_1",
+        "directX": null,
         "vendor": "AMD",
         "released": "Feb 13, 2018",
         "memory": null,
@@ -35392,8 +44375,7 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "clockSpeed": null,
-        "performance": 1759
+        "performance": 1
     },
     "Radeon RX Vega M GH": {
         "name": "Radeon RX Vega M GH",
@@ -35417,18 +44399,17 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "1063",
-        "performance": 6978
+        "performance": 6
     },
     "Radeon RX Vega M GL": {
         "name": "Radeon RX Vega M GL",
         "names": [
-            "Radeon RX Vega M GL",
-            "AMD Radeon Pro WX Vega M GL"
+            "Radeon RX Vega M GL"
         ],
         "codeName": null,
-        "architecture": "Vega",
+        "architecture": null,
         "openGL": null,
-        "directX": "12_1",
+        "directX": null,
         "vendor": "AMD",
         "released": "Feb 1, 2018",
         "memory": 4096,
@@ -35440,8 +44421,425 @@ const database = {
         "textureUnits": 80,
         "type": "Unknown",
         "tdp": null,
-        "clockSpeed": "931",
-        "performance": 5141
+        "performance": 3
+    },
+    "Radeon RX Vega11": {
+        "name": "Radeon RX Vega11",
+        "names": [
+            "Radeon RX Vega11"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon RX5600": {
+        "name": "Radeon RX5600",
+        "names": [
+            "Radeon RX5600"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 11
+    },
+    "Radeon RX590 GME": {
+        "name": "Radeon RX590 GME",
+        "names": [
+            "Radeon RX590 GME"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 8
+    },
+    "Radeon Ryzen 3 4300U with": {
+        "name": "Radeon Ryzen 3 4300U with",
+        "names": [
+            "Radeon Ryzen 3 4300U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Ryzen 3 PRO 4350G with": {
+        "name": "Radeon Ryzen 3 PRO 4350G with",
+        "names": [
+            "Radeon Ryzen 3 PRO 4350G with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 5 4500U with": {
+        "name": "Radeon Ryzen 5 4500U with",
+        "names": [
+            "Radeon Ryzen 5 4500U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Ryzen 5 4600H with": {
+        "name": "Radeon Ryzen 5 4600H with",
+        "names": [
+            "Radeon Ryzen 5 4600H with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Ryzen 5 4600U with": {
+        "name": "Radeon Ryzen 5 4600U with",
+        "names": [
+            "Radeon Ryzen 5 4600U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 5 PRO 4650G with": {
+        "name": "Radeon Ryzen 5 PRO 4650G with",
+        "names": [
+            "Radeon Ryzen 5 PRO 4650G with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 5 PRO 4650GE with": {
+        "name": "Radeon Ryzen 5 PRO 4650GE with",
+        "names": [
+            "Radeon Ryzen 5 PRO 4650GE with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 5 PRO 4650U with": {
+        "name": "Radeon Ryzen 5 PRO 4650U with",
+        "names": [
+            "Radeon Ryzen 5 PRO 4650U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Ryzen 7 4700GE with": {
+        "name": "Radeon Ryzen 7 4700GE with",
+        "names": [
+            "Radeon Ryzen 7 4700GE with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 7 4700U with": {
+        "name": "Radeon Ryzen 7 4700U with",
+        "names": [
+            "Radeon Ryzen 7 4700U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Ryzen 7 4800H with": {
+        "name": "Radeon Ryzen 7 4800H with",
+        "names": [
+            "Radeon Ryzen 7 4800H with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 7 4800U with": {
+        "name": "Radeon Ryzen 7 4800U with",
+        "names": [
+            "Radeon Ryzen 7 4800U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 7 PRO 4750G with": {
+        "name": "Radeon Ryzen 7 PRO 4750G with",
+        "names": [
+            "Radeon Ryzen 7 PRO 4750G with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 7 PRO 4750GE with": {
+        "name": "Radeon Ryzen 7 PRO 4750GE with",
+        "names": [
+            "Radeon Ryzen 7 PRO 4750GE with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Ryzen 7 PRO 4750U with": {
+        "name": "Radeon Ryzen 7 PRO 4750U with",
+        "names": [
+            "Radeon Ryzen 7 PRO 4750U with"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Sky 500": {
+        "name": "Radeon Sky 500",
+        "names": [
+            "Radeon Sky 500"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "AMD",
+        "released": "Mar 27, 2013",
+        "memory": 4096,
+        "memoryType": "GDDR5",
+        "clock": 950,
+        "memoryClock": 1200,
+        "shaderUnits": 1280,
+        "renderUnits": 32,
+        "textureUnits": 80,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 4
     },
     "Radeon TM R9 A360": {
         "name": "Radeon TM R9 A360",
@@ -35463,30 +44861,120 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2148
+        "performance": 2
+    },
+    "Radeon VE": {
+        "name": "Radeon VE",
+        "names": [
+            "Radeon VE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Feb 19, 2001",
+        "memory": 32,
+        "memoryType": "DDR",
+        "clock": 183,
+        "memoryClock": 183,
+        "shaderUnits": 1,
+        "renderUnits": 3,
+        "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Radeon Vega 10": {
+        "name": "Radeon Vega 10",
+        "names": [
+            "Radeon Vega 10"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Radeon Vega 10 Mobile": {
         "name": "Radeon Vega 10 Mobile",
         "names": [
-            "Radeon Vega 10 Mobile",
-            "Radeon RX Vega 10 Mobile"
+            "Radeon Vega 10 Mobile"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Radeon Vega 11": {
+        "name": "Radeon Vega 11",
+        "names": [
+            "Radeon Vega 11",
+            "Radeon Vega 11 Embedded"
         ],
         "codeName": null,
         "architecture": null,
         "openGL": null,
         "directX": null,
         "vendor": "AMD",
-        "released": "Jan 8, 2018",
+        "released": "Feb 13, 2018",
         "memory": null,
         "memoryType": null,
         "clock": 300,
         "memoryClock": null,
-        "shaderUnits": 640,
+        "shaderUnits": 704,
         "renderUnits": 8,
-        "textureUnits": 40,
+        "textureUnits": 44,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1632
+        "performance": 1
+    },
+    "Radeon Vega 2": {
+        "name": "Radeon Vega 2",
+        "names": [
+            "Radeon Vega 2",
+            "AMD Radeon RX Vega 2"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sun Jan 21 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 425
     },
     "Radeon Vega 3": {
         "name": "Radeon Vega 3",
@@ -35511,7 +44999,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1115
+        "performance": 905
     },
     "Radeon Vega 3 Mobile": {
         "name": "Radeon Vega 3 Mobile",
@@ -35533,19 +45021,18 @@ const database = {
         "textureUnits": 12,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1103
+        "performance": 1
     },
     "Radeon Vega 6": {
         "name": "Radeon Vega 6",
         "names": [
             "Radeon Vega 6",
-            "Radeon Vega 6 Mobile",
-            "AMD Radeon RX Vega 6"
+            "Radeon Vega 6 Mobile"
         ],
         "codeName": null,
-        "architecture": "Vega",
+        "architecture": null,
         "openGL": null,
-        "directX": "12_1",
+        "directX": null,
         "vendor": "AMD",
         "released": "Feb 1, 2018",
         "memory": null,
@@ -35557,8 +45044,7 @@ const database = {
         "textureUnits": 24,
         "type": "Unknown",
         "tdp": null,
-        "clockSpeed": null,
-        "performance": 1647
+        "performance": 1
     },
     "Radeon Vega 8": {
         "name": "Radeon Vega 8",
@@ -35581,7 +45067,7 @@ const database = {
         "textureUnits": 32,
         "type": "Desktop, Mobile",
         "tdp": null,
-        "performance": 1765
+        "performance": 1
     },
     "Radeon Vega 8 Mobile": {
         "name": "Radeon Vega 8 Mobile",
@@ -35603,7 +45089,31 @@ const database = {
         "textureUnits": 32,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1637
+        "performance": 1
+    },
+    "Radeon Vega 9": {
+        "name": "Radeon Vega 9",
+        "names": [
+            "Radeon Vega 9",
+            "AMD Radeon RX Vega 9"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Nov 09 2017",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1
     },
     "Radeon Vega Frontier Edition": {
         "name": "Radeon Vega Frontier Edition",
@@ -35625,7 +45135,7 @@ const database = {
         "textureUnits": 256,
         "type": "Desktop",
         "tdp": 350,
-        "performance": 10944
+        "performance": 14
     },
     "Radeon VII": {
         "name": "Radeon VII",
@@ -35645,9 +45155,9 @@ const database = {
         "shaderUnits": 3840,
         "renderUnits": 64,
         "textureUnits": 240,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 13316
+        "type": "Desktop",
+        "tdp": 300,
+        "performance": 16
     },
     "Radeon X1050": {
         "name": "Radeon X1050",
@@ -35682,7 +45192,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Sun Feb 04 2007",
+        "released": "Thu Feb 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -35693,7 +45203,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 32
+        "performance": 33
     },
     "Radeon X1250": {
         "name": "Radeon X1250",
@@ -35706,7 +45216,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Sun Feb 04 2007",
+        "released": "Thu Feb 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -35730,7 +45240,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Sun Feb 04 2007",
+        "released": "Thu Feb 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -35807,7 +45317,7 @@ const database = {
         "textureUnits": 2,
         "type": "Desktop",
         "tdp": 27,
-        "performance": 65
+        "performance": 67
     },
     "Radeon X1550 64-bit": {
         "name": "Radeon X1550 64-bit",
@@ -35829,7 +45339,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 46
+        "performance": 48
     },
     "Radeon X1600": {
         "name": "Radeon X1600",
@@ -35918,7 +45428,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": 42,
-        "performance": 115
+        "performance": 116
     },
     "Radeon X1650 GTO": {
         "name": "Radeon X1650 GTO",
@@ -35940,7 +45450,7 @@ const database = {
         "textureUnits": 5,
         "type": "Unknown",
         "tdp": null,
-        "performance": 74
+        "performance": 75
     },
     "Radeon X1650 Pro": {
         "name": "Radeon X1650 Pro",
@@ -35963,7 +45473,7 @@ const database = {
         "textureUnits": 5,
         "type": "Desktop",
         "tdp": 44,
-        "performance": 84
+        "performance": 85
     },
     "Radeon X1650 SE": {
         "name": "Radeon X1650 SE",
@@ -36008,7 +45518,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 116
+        "performance": 117
     },
     "Radeon X1800 GTO": {
         "name": "Radeon X1800 GTO",
@@ -36030,7 +45540,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 48,
-        "performance": 140
+        "performance": 141
     },
     "Radeon X1900 CrossFire Edition": {
         "name": "Radeon X1900 CrossFire Edition",
@@ -36074,7 +45584,7 @@ const database = {
         "textureUnits": 8,
         "type": "Desktop",
         "tdp": 75,
-        "performance": 145
+        "performance": 146
     },
     "Radeon X1950 CrossFire Edition": {
         "name": "Radeon X1950 CrossFire Edition",
@@ -36186,7 +45696,7 @@ const database = {
         "textureUnits": 2,
         "type": "Desktop",
         "tdp": null,
-        "performance": 50
+        "performance": 51
     },
     "RADEON X550XT": {
         "name": "RADEON X550XT",
@@ -36230,7 +45740,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 70
+        "performance": 71
     },
     "RADEON X600 256MB HyperMemory": {
         "name": "RADEON X600 256MB HyperMemory",
@@ -36253,7 +45763,7 @@ const database = {
         "textureUnits": 2,
         "type": "Desktop",
         "tdp": null,
-        "performance": 58
+        "performance": 57
     },
     "RADEON X600XT": {
         "name": "RADEON X600XT",
@@ -36275,7 +45785,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 91
+        "performance": 92
     },
     "RADEON X700": {
         "name": "RADEON X700",
@@ -36321,7 +45831,7 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 75
+        "performance": 76
     },
     "RADEON X700 SE": {
         "name": "RADEON X700 SE",
@@ -36390,7 +45900,7 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 76
+        "performance": 77
     },
     "RADEON X800 PRO": {
         "name": "RADEON X800 PRO",
@@ -36413,7 +45923,7 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 64
+        "performance": 65
     },
     "RADEON X800 PRO/GTO": {
         "name": "RADEON X800 PRO/GTO",
@@ -36437,6 +45947,29 @@ const database = {
         "type": "Desktop",
         "tdp": null,
         "performance": 73
+    },
+    "RADEON X800 SE": {
+        "name": "RADEON X800 SE",
+        "names": [
+            "RADEON X800 SE",
+            "Radeon X800 SE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Oct 4, 2004",
+        "memory": 128,
+        "memoryType": "DDR",
+        "clock": 425,
+        "memoryClock": 700,
+        "shaderUnits": 8,
+        "renderUnits": 8,
+        "textureUnits": 6,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 130
     },
     "RADEON X800 XL": {
         "name": "RADEON X800 XL",
@@ -36482,7 +46015,30 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 97
+        "performance": 98
+    },
+    "RADEON X800 XT Platinum Edition": {
+        "name": "RADEON X800 XT Platinum Edition",
+        "names": [
+            "RADEON X800 XT Platinum Edition",
+            "Radeon X800 XT Platinum"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Mar 1, 2004",
+        "memory": 256,
+        "memoryType": "GDDR3",
+        "clock": 520,
+        "memoryClock": 560,
+        "shaderUnits": 16,
+        "renderUnits": 16,
+        "textureUnits": 6,
+        "type": "Desktop",
+        "tdp": null,
+        "performance": 81
     },
     "RADEON X800GT": {
         "name": "RADEON X800GT",
@@ -36504,7 +46060,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 79
+        "performance": 80
     },
     "RADEON X850 PRO": {
         "name": "RADEON X850 PRO",
@@ -36527,7 +46083,7 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 72
+        "performance": 73
     },
     "RADEON X850 XT": {
         "name": "RADEON X850 XT",
@@ -36573,7 +46129,7 @@ const database = {
         "textureUnits": 6,
         "type": "Desktop",
         "tdp": null,
-        "performance": 81
+        "performance": 82
     },
     "Radeon Xpress 1100": {
         "name": "Radeon Xpress 1100",
@@ -36623,7 +46179,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 29
+        "performance": 30
     },
     "Radeon Xpress 1200": {
         "name": "Radeon Xpress 1200",
@@ -36646,7 +46202,7 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 35
+        "performance": 36
     },
     "Radeon Xpress 1250": {
         "name": "Radeon Xpress 1250",
@@ -36671,7 +46227,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 42
+        "performance": 43
     },
     "Radeon Xpress 1270": {
         "name": "Radeon Xpress 1270",
@@ -36694,7 +46250,51 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 26
+        "performance": 27
+    },
+    "Radeon Xpress 1300": {
+        "name": "Radeon Xpress 1300",
+        "names": [
+            "Radeon Xpress 1300"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 52
+    },
+    "Radeon Xpress 1300M": {
+        "name": "Radeon Xpress 1300M",
+        "names": [
+            "Radeon Xpress 1300M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 40
     },
     "RADEON XPRESS 200": {
         "name": "RADEON XPRESS 200",
@@ -36717,7 +46317,29 @@ const database = {
         "textureUnits": 2,
         "type": "Unknown",
         "tdp": null,
-        "performance": 29
+        "performance": 30
+    },
+    "RADEON XPRESS 200 CROSSFIRE": {
+        "name": "RADEON XPRESS 200 CROSSFIRE",
+        "names": [
+            "RADEON XPRESS 200 CROSSFIRE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 18
     },
     "RADEON XPRESS 200M": {
         "name": "RADEON XPRESS 200M",
@@ -36742,7 +46364,51 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 22
+        "performance": 23
+    },
+    "Radeon. HD 7730M": {
+        "name": "Radeon. HD 7730M",
+        "names": [
+            "Radeon. HD 7730M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 928
+    },
+    "RadeonT 540X": {
+        "name": "RadeonT 540X",
+        "names": [
+            "RadeonT 540X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "RadeonT R5 430": {
         "name": "RadeonT R5 430",
@@ -36764,7 +46430,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1123
+        "performance": 1
     },
     "RadeonT R7 450": {
         "name": "RadeonT R7 450",
@@ -36786,12 +46452,78 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2185
+        "performance": 2
     },
-    "RAGE 128 PRO AGP 4X TMDS": {
-        "name": "RAGE 128 PRO AGP 4X TMDS",
+    "RadeonT RX 5500M": {
+        "name": "RadeonT RX 5500M",
         "names": [
-            "RAGE 128 PRO AGP 4X TMDS",
+            "RadeonT RX 5500M"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "RadeonT RX 560X": {
+        "name": "RadeonT RX 560X",
+        "names": [
+            "RadeonT RX 560X"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "RadeonT Vega 3": {
+        "name": "RadeonT Vega 3",
+        "names": [
+            "RadeonT Vega 3"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 775
+    },
+    "Rage 128 Pro": {
+        "name": "Rage 128 Pro",
+        "names": [
+            "Rage 128 Pro",
             "Rage 128 PRO"
         ],
         "codeName": null,
@@ -36807,6 +46539,28 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 2,
         "textureUnits": 0,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "RAGE 128 PRO AGP 4X TMDS": {
+        "name": "RAGE 128 PRO AGP 4X TMDS",
+        "names": [
+            "RAGE 128 PRO AGP 4X TMDS"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
         "performance": 1
@@ -36853,7 +46607,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 31
+        "performance": 32
     },
     "RGH Drivers v3": {
         "name": "RGH Drivers v3",
@@ -36898,7 +46652,7 @@ const database = {
         "textureUnits": 0,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "RIVA TNT2/TNT2 Pro": {
         "name": "RIVA TNT2/TNT2 Pro",
@@ -36942,7 +46696,139 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 118
+        "performance": 119
+    },
+    "Ryzen 3 4300G with Radeon Graphics": {
+        "name": "Ryzen 3 4300G with Radeon Graphics",
+        "names": [
+            "Ryzen 3 4300G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 3 4300U with Radeon Graphics": {
+        "name": "Ryzen 3 4300U with Radeon Graphics",
+        "names": [
+            "Ryzen 3 4300U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Ryzen 3 PRO 4300U with Radeon Graphics": {
+        "name": "Ryzen 3 PRO 4300U with Radeon Graphics",
+        "names": [
+            "Ryzen 3 PRO 4300U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Ryzen 3 Pro 4350G with Radeon Graphics": {
+        "name": "Ryzen 3 Pro 4350G with Radeon Graphics",
+        "names": [
+            "Ryzen 3 Pro 4350G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 3 PRO 4350GE with Radeon Graphics": {
+        "name": "Ryzen 3 PRO 4350GE with Radeon Graphics",
+        "names": [
+            "Ryzen 3 PRO 4350GE with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 3 PRO 4450U with Radeon Graphics": {
+        "name": "Ryzen 3 PRO 4450U with Radeon Graphics",
+        "names": [
+            "Ryzen 3 PRO 4450U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Ryzen 5 2500U with Radeon Vega": {
         "name": "Ryzen 5 2500U with Radeon Vega",
@@ -36964,7 +46850,183 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1503
+        "performance": 1
+    },
+    "Ryzen 5 4500U with Radeon Graphics": {
+        "name": "Ryzen 5 4500U with Radeon Graphics",
+        "names": [
+            "Ryzen 5 4500U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Ryzen 5 4600G with Radeon Graphics": {
+        "name": "Ryzen 5 4600G with Radeon Graphics",
+        "names": [
+            "Ryzen 5 4600G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 5 4600H with Radeon Graphics": {
+        "name": "Ryzen 5 4600H with Radeon Graphics",
+        "names": [
+            "Ryzen 5 4600H with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 5 4600U with Radeon Graphics": {
+        "name": "Ryzen 5 4600U with Radeon Graphics",
+        "names": [
+            "Ryzen 5 4600U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Ryzen 5 PRO 4400G with Radeon Graphics": {
+        "name": "Ryzen 5 PRO 4400G with Radeon Graphics",
+        "names": [
+            "Ryzen 5 PRO 4400G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 5 PRO 4500U with Radeon Graphics": {
+        "name": "Ryzen 5 PRO 4500U with Radeon Graphics",
+        "names": [
+            "Ryzen 5 PRO 4500U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 5 Pro 4650G with Radeon Graphics": {
+        "name": "Ryzen 5 Pro 4650G with Radeon Graphics",
+        "names": [
+            "Ryzen 5 Pro 4650G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 5 PRO 4650U with Radeon Graphics": {
+        "name": "Ryzen 5 PRO 4650U with Radeon Graphics",
+        "names": [
+            "Ryzen 5 PRO 4650U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Ryzen 7 2700U with Radeon Vega": {
         "name": "Ryzen 7 2700U with Radeon Vega",
@@ -36986,7 +47048,205 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1617
+        "performance": 1
+    },
+    "Ryzen 7 4700U with Radeon Graphics": {
+        "name": "Ryzen 7 4700U with Radeon Graphics",
+        "names": [
+            "Ryzen 7 4700U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 4800H with Radeon Graphics": {
+        "name": "Ryzen 7 4800H with Radeon Graphics",
+        "names": [
+            "Ryzen 7 4800H with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 4800HS with Radeon Graphics": {
+        "name": "Ryzen 7 4800HS with Radeon Graphics",
+        "names": [
+            "Ryzen 7 4800HS with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
+    },
+    "Ryzen 7 4800U with Radeon Graphics": {
+        "name": "Ryzen 7 4800U with Radeon Graphics",
+        "names": [
+            "Ryzen 7 4800U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 Extreme Edition": {
+        "name": "Ryzen 7 Extreme Edition",
+        "names": [
+            "Ryzen 7 Extreme Edition"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 PRO 4700G with Radeon Graphics": {
+        "name": "Ryzen 7 PRO 4700G with Radeon Graphics",
+        "names": [
+            "Ryzen 7 PRO 4700G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 Pro 4750G with Radeon Graphics": {
+        "name": "Ryzen 7 Pro 4750G with Radeon Graphics",
+        "names": [
+            "Ryzen 7 Pro 4750G with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 7 PRO 4750U with Radeon Graphics": {
+        "name": "Ryzen 7 PRO 4750U with Radeon Graphics",
+        "names": [
+            "Ryzen 7 PRO 4750U with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "Ryzen 9 4900H with Radeon Graphics": {
+        "name": "Ryzen 9 4900H with Radeon Graphics",
+        "names": [
+            "Ryzen 9 4900H with Radeon Graphics"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
     },
     "S3 Chrome 430 ULP": {
         "name": "S3 Chrome 430 ULP",
@@ -37008,7 +47268,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 39
+        "performance": 40
     },
     "S3 Chrome S25 DDR2": {
         "name": "S3 Chrome S25 DDR2",
@@ -37032,6 +47292,28 @@ const database = {
         "tdp": null,
         "performance": 18
     },
+    "S3 Inc. Savage4": {
+        "name": "S3 Inc. Savage4",
+        "names": [
+            "S3 Inc. Savage4"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
     "S3 ProSavageDDR": {
         "name": "S3 ProSavageDDR",
         "names": [
@@ -37053,6 +47335,51 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 1
+    },
+    "S3 SuperSavage/IXC 1014": {
+        "name": "S3 SuperSavage/IXC 1014",
+        "names": [
+            "S3 SuperSavage/IXC 1014"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "SAPPHIRE RADEON 9000 ATLANTIS PRO": {
+        "name": "SAPPHIRE RADEON 9000 ATLANTIS PRO",
+        "names": [
+            "SAPPHIRE RADEON 9000 ATLANTIS PRO",
+            "Radeon 9000 PRO"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "ATI",
+        "released": "Jul 1, 2002",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 275,
+        "memoryClock": 275,
+        "shaderUnits": 4,
+        "renderUnits": 4,
+        "textureUnits": 1,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
     },
     "SAPPHIRE RADEON 9600 ATLANTIS": {
         "name": "SAPPHIRE RADEON 9600 ATLANTIS",
@@ -37118,12 +47445,34 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 112
+        "performance": 113
     },
-    "Sherry 1.3 for GMA 3150": {
-        "name": "Sherry 1.3 for GMA 3150",
+    "Seria Mobility Radeon HD 3400": {
+        "name": "Seria Mobility Radeon HD 3400",
         "names": [
-            "Sherry 1.3 for GMA 3150"
+            "Seria Mobility Radeon HD 3400"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 125
+    },
+    "Seria Radeon HD 7700": {
+        "name": "Seria Radeon HD 7700",
+        "names": [
+            "Seria Radeon HD 7700"
         ],
         "codeName": null,
         "architecture": null,
@@ -37141,292 +47490,6 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "performance": 1
-    },
-    "Sherry 1.3.2 beta for 945 chipsets": {
-        "name": "Sherry 1.3.2 beta for 945 chipsets",
-        "names": [
-            "Sherry 1.3.2 beta for 945 chipsets"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 3
-    },
-    "SiS 630/730": {
-        "name": "SiS 630/730",
-        "names": [
-            "SiS 630/730"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 1
-    },
-    "SiS 650_651_M650_M652_740": {
-        "name": "SiS 650_651_M650_M652_740",
-        "names": [
-            "SiS 650_651_M650_M652_740"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 3
-    },
-    "SiS 651": {
-        "name": "SiS 651",
-        "names": [
-            "SiS 651"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 2
-    },
-    "SiS 661FX": {
-        "name": "SiS 661FX",
-        "names": [
-            "SiS 661FX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 3
-    },
-    "SiS 661FX/GX Mirage": {
-        "name": "SiS 661FX/GX Mirage",
-        "names": [
-            "SiS 661FX/GX Mirage"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4
-    },
-    "SiS 661FX_760_741_M661FX_M760_M741": {
-        "name": "SiS 661FX_760_741_M661FX_M760_M741",
-        "names": [
-            "SiS 661FX_760_741_M661FX_M760_M741"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4
-    },
-    "SiS 741": {
-        "name": "SiS 741",
-        "names": [
-            "SiS 741"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4
-    },
-    "SiS 760": {
-        "name": "SiS 760",
-        "names": [
-            "SiS 760"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 5
-    },
-    "SiS M661MX": {
-        "name": "SiS M661MX",
-        "names": [
-            "SiS M661MX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4
-    },
-    "SiS M760GX": {
-        "name": "SiS M760GX",
-        "names": [
-            "SiS M760GX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 3
-    },
-    "SiS Mirage": {
-        "name": "SiS Mirage",
-        "names": [
-            "SiS Mirage"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 4
-    },
-    "SiS Mirage 3": {
-        "name": "SiS Mirage 3",
-        "names": [
-            "SiS Mirage 3"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 2
     },
     "SUMO 9640": {
         "name": "SUMO 9640",
@@ -37450,6 +47513,28 @@ const database = {
         "tdp": null,
         "performance": 650
     },
+    "SUMO 9644": {
+        "name": "SUMO 9644",
+        "names": [
+            "SUMO 9644"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 466
+    },
     "SUMO 964A": {
         "name": "SUMO 964A",
         "names": [
@@ -37470,7 +47555,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 497
+        "performance": 498
+    },
+    "TENSOR 1.0 Driver Intel HD 630": {
+        "name": "TENSOR 1.0 Driver Intel HD 630",
+        "names": [
+            "TENSOR 1.0 Driver Intel HD 630"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
     },
     "Tesla C2050": {
         "name": "Tesla C2050",
@@ -37492,7 +47599,7 @@ const database = {
         "textureUnits": 56,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3515
+        "performance": 3
     },
     "Tesla C2050 / C2070": {
         "name": "Tesla C2050 / C2070",
@@ -37508,13 +47615,13 @@ const database = {
         "memory": 6144,
         "memoryType": null,
         "clock": null,
-        "memoryClock": 1500,
+        "memoryClock": 1,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Workstation",
         "tdp": 238,
-        "performance": 3428
+        "performance": 3
     },
     "Tesla C2070": {
         "name": "Tesla C2070",
@@ -37536,7 +47643,7 @@ const database = {
         "textureUnits": 56,
         "type": "Workstation",
         "tdp": 247,
-        "performance": 3178
+        "performance": 3
     },
     "Tesla C2075": {
         "name": "Tesla C2075",
@@ -37558,7 +47665,73 @@ const database = {
         "textureUnits": 56,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3364
+        "performance": 3
+    },
+    "Tesla M10": {
+        "name": "Tesla M10",
+        "names": [
+            "Tesla M10"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "May 18, 2016",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 1033,
+        "memoryClock": 1300,
+        "shaderUnits": 640,
+        "renderUnits": 16,
+        "textureUnits": 40,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
+    },
+    "Tesla M2070-Q": {
+        "name": "Tesla M2070-Q",
+        "names": [
+            "Tesla M2070-Q"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Jul 25, 2011",
+        "memory": 6144,
+        "memoryType": "GDDR5",
+        "clock": 574,
+        "memoryClock": 783,
+        "shaderUnits": 448,
+        "renderUnits": 48,
+        "textureUnits": 56,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 1
+    },
+    "Tesla M6": {
+        "name": "Tesla M6",
+        "names": [
+            "Tesla M6"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Aug 30, 2015",
+        "memory": 8192,
+        "memoryType": "GDDR5",
+        "clock": 930,
+        "memoryClock": 1253,
+        "shaderUnits": 1536,
+        "renderUnits": 64,
+        "textureUnits": 96,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 7
     },
     "Tesla M60": {
         "name": "Tesla M60",
@@ -37580,7 +47753,74 @@ const database = {
         "textureUnits": 128,
         "type": "Unknown",
         "tdp": null,
-        "performance": 7628
+        "performance": 7
+    },
+    "Tesla P100-PCIE-16GB": {
+        "name": "Tesla P100-PCIE-16GB",
+        "names": [
+            "Tesla P100-PCIE-16GB"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 7
+    },
+    "Tesla T10": {
+        "name": "Tesla T10",
+        "names": [
+            "Tesla T10",
+            "Tesla T10 Processor"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Apr 9, 2009",
+        "memory": 4096,
+        "memoryType": "GDDR3",
+        "clock": 610,
+        "memoryClock": 800,
+        "shaderUnits": 240,
+        "renderUnits": 32,
+        "textureUnits": 80,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 13
+    },
+    "Tesla T4": {
+        "name": "Tesla T4",
+        "names": [
+            "Tesla T4"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Sep 13, 2018",
+        "memory": 16384,
+        "memoryType": "GDDR6",
+        "clock": 585,
+        "memoryClock": 1250,
+        "shaderUnits": 2560,
+        "renderUnits": 64,
+        "textureUnits": 160,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 10
     },
     "TITAN RTX": {
         "name": "TITAN RTX",
@@ -37604,7 +47844,7 @@ const database = {
         "type": "Workstation",
         "tdp": 280,
         "clockSpeed": "1350",
-        "performance": 18857
+        "performance": 19
     },
     "TITAN V": {
         "name": "TITAN V",
@@ -37626,7 +47866,7 @@ const database = {
         "textureUnits": 320,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 14986
+        "performance": 19
     },
     "TITAN V CEO Edition": {
         "name": "TITAN V CEO Edition",
@@ -37648,7 +47888,7 @@ const database = {
         "textureUnits": 320,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 16987
+        "performance": 16
     },
     "TITAN Xp COLLECTORS EDITION": {
         "name": "TITAN Xp COLLECTORS EDITION",
@@ -37664,13 +47904,13 @@ const database = {
         "memory": 12288,
         "memoryType": null,
         "clock": 1405,
-        "memoryClock": 1426,
+        "memoryClock": 1405,
         "shaderUnits": null,
         "renderUnits": null,
         "textureUnits": null,
         "type": "Desktop",
         "tdp": 250,
-        "performance": 14876
+        "performance": 17
     },
     "TRINITY DEVASTATOR MOBILE": {
         "name": "TRINITY DEVASTATOR MOBILE",
@@ -37714,7 +47954,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 673
+        "performance": 498
+    },
+    "V9560XT V62.11": {
+        "name": "V9560XT V62.11",
+        "names": [
+            "V9560XT V62.11"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 6
     },
     "Vanta/Vanta LT": {
         "name": "Vanta/Vanta LT",
@@ -37750,7 +48012,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Sun Mar 04 2007",
+        "released": "Thu Mar 15 2007",
         "memory": null,
         "memoryType": "onboard",
         "clock": null,
@@ -37783,7 +48045,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "VIA Chrome9 HC IGP Family WDDM": {
         "name": "VIA Chrome9 HC IGP Family WDDM",
@@ -37805,7 +48067,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 3
+        "performance": 4
     },
     "VIA Chrome9 HC IGP Prerelease WDDM 1.1": {
         "name": "VIA Chrome9 HC IGP Prerelease WDDM 1.1",
@@ -37849,7 +48111,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
     },
     "VIA Chrome9 HC IGP WDDM 1.1": {
         "name": "VIA Chrome9 HC IGP WDDM 1.1",
@@ -37871,7 +48133,29 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 2
+        "performance": 3
+    },
+    "VIA Chrome9 HC3 IGP": {
+        "name": "VIA Chrome9 HC3 IGP",
+        "names": [
+            "VIA Chrome9 HC3 IGP"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 3
     },
     "VIA Chrome9 HCM IGP": {
         "name": "VIA Chrome9 HCM IGP",
@@ -37893,7 +48177,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 1
+        "performance": 2
     },
     "VIA Chrome9 HD IGP": {
         "name": "VIA Chrome9 HD IGP",
@@ -37917,6 +48201,28 @@ const database = {
         "tdp": null,
         "performance": 10
     },
+    "VIA/S3G C-645/640 GPU": {
+        "name": "VIA/S3G C-645/640 GPU",
+        "names": [
+            "VIA/S3G C-645/640 GPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 163
+    },
     "VIA/S3G Chrome 645/640 GPU": {
         "name": "VIA/S3G Chrome 645/640 GPU",
         "names": [
@@ -37937,7 +48243,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 109
+        "performance": 110
     },
     "VIA/S3G DeltaChrome IGP": {
         "name": "VIA/S3G DeltaChrome IGP",
@@ -38016,7 +48322,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Sun Jul 04 2004",
+        "released": "Thu Jul 15 2004",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -38027,7 +48333,7 @@ const database = {
         "type": "Unknown",
         "tdp": null,
         "clockSpeed": null,
-        "performance": 4
+        "performance": 5
     },
     "VIA/S3G UniChromeII": {
         "name": "VIA/S3G UniChromeII",
@@ -38049,12 +48355,78 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
+        "performance": 6
+    },
+    "VisionTek Radeon 4550": {
+        "name": "VisionTek Radeon 4550",
+        "names": [
+            "VisionTek Radeon 4550"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 280
+    },
+    "VisionTek Radeon 7000": {
+        "name": "VisionTek Radeon 7000",
+        "names": [
+            "VisionTek Radeon 7000"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 2
+    },
+    "WinFast A250 LE": {
+        "name": "WinFast A250 LE",
+        "names": [
+            "WinFast A250 LE"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
         "performance": 5
     },
-    "VirtualBox Adapter for Windows 8+": {
-        "name": "VirtualBox Adapter for Windows 8+",
+    "WinFast GT 610": {
+        "name": "WinFast GT 610",
         "names": [
-            "VirtualBox Adapter for Windows 8+"
+            "WinFast GT 610"
         ],
         "codeName": null,
         "architecture": null,
@@ -38071,29 +48443,7 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 384
-    },
-    "Wine Display Adapter": {
-        "name": "Wine Display Adapter",
-        "names": [
-            "Wine Display Adapter"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": null,
-        "released": null,
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": "Unknown",
-        "tdp": null,
-        "performance": 261
+        "performance": 212
     },
     "Xabre": {
         "name": "Xabre",
@@ -38137,7 +48487,73 @@ const database = {
         "textureUnits": null,
         "type": "Unknown",
         "tdp": null,
-        "performance": 107
+        "performance": 110
+    },
+    "XGI Volari Family v1.13.23.D_V": {
+        "name": "XGI Volari Family v1.13.23.D_V",
+        "names": [
+            "XGI Volari Family v1.13.23.D_V"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 5
+    },
+    "ZX Chrome 645/640 GPU": {
+        "name": "ZX Chrome 645/640 GPU",
+        "names": [
+            "ZX Chrome 645/640 GPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 147
+    },
+    "zxcvIntel HD 620": {
+        "name": "zxcvIntel HD 620",
+        "names": [
+            "zxcvIntel HD 620"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": null,
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": "Unknown",
+        "tdp": null,
+        "performance": 944
     },
     "Graphics Solution": {
         "name": "Graphics Solution",
@@ -39063,28 +49479,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon DDR": {
-        "name": "Radeon DDR",
-        "names": [
-            "Radeon DDR"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Apr 1, 2000",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon DDR MAXX": {
         "name": "Radeon DDR MAXX",
         "names": [
@@ -39239,28 +49633,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon VE": {
-        "name": "Radeon VE",
-        "names": [
-            "Radeon VE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Feb 19, 2001",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 183,
-        "memoryClock": 183,
-        "shaderUnits": 1,
-        "renderUnits": 3,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon VE PCI": {
         "name": "Radeon VE PCI",
         "names": [
@@ -39349,28 +49721,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon 7200": {
-        "name": "Radeon 7200",
-        "names": [
-            "Radeon 7200"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Apr 1, 2000",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 166,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 6,
-        "textureUnits": 1,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon 7200 64 MB": {
         "name": "Radeon 7200 64 MB",
         "names": [
@@ -39437,28 +49787,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon 8500": {
-        "name": "Radeon 8500",
-        "names": [
-            "Radeon 8500"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Aug 14, 2001",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 275,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon 8500 LE": {
         "name": "Radeon 8500 LE",
         "names": [
@@ -39521,50 +49849,6 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 8,
         "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon 9000 LE": {
-        "name": "Radeon 9000 LE",
-        "names": [
-            "Radeon 9000 LE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon 9000 PRO": {
-        "name": "Radeon 9000 PRO",
-        "names": [
-            "Radeon 9000 PRO"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Jul 1, 2002",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 275,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
         "type": null,
         "tdp": null,
         "performance": null
@@ -40141,28 +50425,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon 9800 XXL": {
-        "name": "Radeon 9800 XXL",
-        "names": [
-            "Radeon 9800 XXL"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Oct 1, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 390,
-        "memoryClock": 338,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon X1050 AGP": {
         "name": "Radeon X1050 AGP",
         "names": [
@@ -40177,28 +50439,6 @@ const database = {
         "memory": 128,
         "memoryType": "DDR",
         "clock": 250,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon X300": {
-        "name": "Radeon X300",
-        "names": [
-            "Radeon X300"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Sep 1, 2004",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 375,
         "memoryClock": 200,
         "shaderUnits": 4,
         "renderUnits": 4,
@@ -40510,50 +50750,6 @@ const database = {
         "memoryClock": 490,
         "shaderUnits": 12,
         "renderUnits": 12,
-        "textureUnits": 6,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon X800 SE": {
-        "name": "Radeon X800 SE",
-        "names": [
-            "Radeon X800 SE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Oct 4, 2004",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 425,
-        "memoryClock": 700,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon X800 XT Platinum": {
-        "name": "Radeon X800 XT Platinum",
-        "names": [
-            "Radeon X800 XT Platinum"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Mar 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 520,
-        "memoryClock": 560,
-        "shaderUnits": 16,
-        "renderUnits": 16,
         "textureUnits": 6,
         "type": null,
         "tdp": null,
@@ -42695,28 +52891,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon HD 6850 X2": {
-        "name": "Radeon HD 6850 X2",
-        "names": [
-            "Radeon HD 6850 X2"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Sep 19, 2011",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 800,
-        "memoryClock": 1050,
-        "shaderUnits": 960,
-        "renderUnits": 32,
-        "textureUnits": 48,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon HD 6870 1600SP Edition": {
         "name": "Radeon HD 6870 1600SP Edition",
         "names": [
@@ -43333,28 +53507,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R7 250 OEM": {
-        "name": "Radeon R7 250 OEM",
-        "names": [
-            "Radeon R7 250 OEM"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Oct 8, 2013",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 1000,
-        "memoryClock": 1150,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon R7 250E": {
         "name": "Radeon R7 250E",
         "names": [
@@ -43736,7 +53888,7 @@ const database = {
             "AMD Radeon R9 Nano"
         ],
         "codeName": null,
-        "architecture": "GCN 1.2 / GCN 3",
+        "architecture": "GCN 1.2",
         "openGL": "4.3",
         "directX": "12 (FL 12_0)",
         "vendor": "AMD",
@@ -43751,29 +53903,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1000",
-        "performance": 11913.743842364533
-    },
-    "Radeon R5 435 OEM": {
-        "name": "Radeon R5 435 OEM",
-        "names": [
-            "Radeon R5 435 OEM"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jun 30, 2016",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 1030,
-        "memoryClock": 1000,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
+        "performance": 9.524590163934427
     },
     "Radeon R7 435 OEM": {
         "name": "Radeon R7 435 OEM",
@@ -43863,28 +53993,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon 550X 640SP": {
-        "name": "Radeon 550X 640SP",
-        "names": [
-            "Radeon 550X 640SP"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 11, 2018",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1019,
-        "memoryClock": 1500,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon RX 550 640SP": {
         "name": "Radeon RX 550 640SP",
         "names": [
@@ -43905,30 +54013,6 @@ const database = {
         "textureUnits": 40,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Radeon RX 550X": {
-        "name": "Radeon RX 550X",
-        "names": [
-            "Radeon RX 550X",
-            "AMD Radeon RX 550X (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Polaris",
-        "openGL": "Vulkan",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "Apr 11, 2018",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 1100,
-        "memoryClock": 1750,
-        "shaderUnits": 512,
-        "renderUnits": 16,
-        "textureUnits": 32,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
         "performance": null
     },
     "Radeon RX 550X 640SP": {
@@ -44019,30 +54103,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon RX 560X": {
-        "name": "Radeon RX 560X",
-        "names": [
-            "Radeon RX 560X",
-            "AMD Radeon RX 560X (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Polaris",
-        "openGL": "Vulkan",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "Apr 11, 2018",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1175,
-        "memoryClock": 1750,
-        "shaderUnits": 1024,
-        "renderUnits": 16,
-        "textureUnits": 64,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1172",
-        "performance": 3310.3625
-    },
     "Radeon RX 570G": {
         "name": "Radeon RX 570G",
         "names": [
@@ -44063,30 +54123,6 @@ const database = {
         "textureUnits": 128,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Radeon RX 570X": {
-        "name": "Radeon RX 570X",
-        "names": [
-            "Radeon RX 570X",
-            "AMD Radeon RX 570X (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Polaris",
-        "openGL": "Vulkan",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "Apr 11, 2018",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1168,
-        "memoryClock": 1750,
-        "shaderUnits": 2048,
-        "renderUnits": 32,
-        "textureUnits": 128,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
         "performance": null
     },
     "Radeon RX 580 OEM": {
@@ -44463,28 +54499,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce2 MX PCI": {
-        "name": "GeForce2 MX PCI",
-        "names": [
-            "GeForce2 MX PCI"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jun 28, 2000",
-        "memory": 32,
-        "memoryType": "SDR",
-        "clock": 175,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce2 MX 200": {
         "name": "GeForce2 MX 200",
         "names": [
@@ -44588,28 +54602,6 @@ const database = {
         "memoryType": "DDR",
         "clock": 200,
         "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce2 Ultra": {
-        "name": "GeForce2 Ultra",
-        "names": [
-            "GeForce2 Ultra"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 14, 2000",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 230,
         "shaderUnits": 4,
         "renderUnits": 8,
         "textureUnits": 0,
@@ -44749,28 +54741,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce4 MX 440-8x": {
-        "name": "GeForce4 MX 440-8x",
-        "names": [
-            "GeForce4 MX 440-8x"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Sep 25, 2002",
-        "memory": 32,
-        "memoryType": "DDR",
-        "clock": 275,
-        "memoryClock": 250,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce4 MX 440-SE": {
         "name": "GeForce4 MX 440-SE",
         "names": [
@@ -44810,50 +54780,6 @@ const database = {
         "memoryClock": 250,
         "shaderUnits": 4,
         "renderUnits": 8,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce4 Ti 4800": {
-        "name": "GeForce4 Ti 4800",
-        "names": [
-            "GeForce4 Ti 4800"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Mar 15, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 325,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce FX 5100": {
-        "name": "GeForce FX 5100",
-        "names": [
-            "GeForce FX 5100"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Mar 6, 2003",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 200,
-        "memoryClock": 166,
-        "shaderUnits": 4,
-        "renderUnits": 4,
         "textureUnits": 2,
         "type": null,
         "tdp": null,
@@ -45189,28 +55115,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce PCX 5900": {
-        "name": "GeForce PCX 5900",
-        "names": [
-            "GeForce PCX 5900"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Mar 17, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 350,
-        "memoryClock": 275,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 3,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce PCX 5950": {
         "name": "GeForce PCX 5950",
         "names": [
@@ -45431,28 +55335,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce 6800 XE": {
-        "name": "GeForce 6800 XE",
-        "names": [
-            "GeForce 6800 XE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Sep 30, 2005",
-        "memory": 256,
-        "memoryType": "DDR2",
-        "clock": 275,
-        "memoryClock": 266,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 3,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce 6200 SE TurboCache": {
         "name": "GeForce 6200 SE TurboCache",
         "names": [
@@ -45669,28 +55551,6 @@ const database = {
         "shaderUnits": 24,
         "renderUnits": 24,
         "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce 7200 GS": {
-        "name": "GeForce 7200 GS",
-        "names": [
-            "GeForce 7200 GS"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 18, 2006",
-        "memory": 128,
-        "memoryType": "DDR2",
-        "clock": 450,
-        "memoryClock": 334,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 2,
         "type": null,
         "tdp": null,
         "performance": null
@@ -46063,28 +55923,6 @@ const database = {
         "clock": 589,
         "memoryClock": 333,
         "shaderUnits": 16,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce 9300 SE": {
-        "name": "GeForce 9300 SE",
-        "names": [
-            "GeForce 9300 SE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jun 1, 2008",
-        "memory": 256,
-        "memoryType": "DDR2",
-        "clock": 540,
-        "memoryClock": 400,
-        "shaderUnits": 8,
         "renderUnits": 4,
         "textureUnits": 8,
         "type": null,
@@ -46615,50 +56453,6 @@ const database = {
         "shaderUnits": 240,
         "renderUnits": 32,
         "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GT 415 OEM": {
-        "name": "GeForce GT 415 OEM",
-        "names": [
-            "GeForce GT 415 OEM"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Sep 3, 2010",
-        "memory": 512,
-        "memoryType": "DDR3",
-        "clock": 625,
-        "memoryClock": 333,
-        "shaderUnits": 48,
-        "renderUnits": 8,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GT 430 OEM": {
-        "name": "GeForce GT 430 OEM",
-        "names": [
-            "GeForce GT 430 OEM"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Oct 11, 2010",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 700,
-        "memoryClock": 800,
-        "shaderUnits": 96,
-        "renderUnits": 4,
-        "textureUnits": 16,
         "type": null,
         "tdp": null,
         "performance": null
@@ -47631,28 +57425,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce GTX 760 OEM": {
-        "name": "GeForce GTX 760 OEM",
-        "names": [
-            "GeForce GTX 760 OEM"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jun 27, 2013",
-        "memory": 1536,
-        "memoryType": "GDDR5",
-        "clock": 823,
-        "memoryClock": 1400,
-        "shaderUnits": 1152,
-        "renderUnits": 24,
-        "textureUnits": 96,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce GTX 760 OEM Rebrand": {
         "name": "GeForce GTX 760 OEM Rebrand",
         "names": [
@@ -48159,50 +57931,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce GTX 1650": {
-        "name": "GeForce GTX 1650",
-        "names": [
-            "GeForce GTX 1650"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Apr 30, 2019",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1485,
-        "memoryClock": 2000,
-        "shaderUnits": 896,
-        "renderUnits": 32,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1660": {
-        "name": "GeForce GTX 1660",
-        "names": [
-            "GeForce GTX 1660"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Mar 15, 2019",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 1530,
-        "memoryClock": 2000,
-        "shaderUnits": 1280,
-        "renderUnits": 48,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce RTX 2050": {
         "name": "GeForce RTX 2050",
         "names": [
@@ -48401,50 +58129,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "FireGL V7100": {
-        "name": "FireGL V7100",
-        "names": [
-            "FireGL V7100"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Dec 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 507,
-        "memoryClock": 520,
-        "shaderUnits": 12,
-        "renderUnits": 12,
-        "textureUnits": 6,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "FireGL V8600": {
-        "name": "FireGL V8600",
-        "names": [
-            "FireGL V8600"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "May 14, 2007",
-        "memory": 1024,
-        "memoryType": "GDDR4",
-        "clock": 688,
-        "memoryClock": 868,
-        "shaderUnits": 320,
-        "renderUnits": 16,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "FireGL X1-128": {
         "name": "FireGL X1-128",
         "names": [
@@ -48577,28 +58261,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "FireMV 2200 PCI": {
-        "name": "FireMV 2200 PCI",
-        "names": [
-            "FireMV 2200 PCI"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "2006",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 240,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 1,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "FireMV 2250 PCIe x1": {
         "name": "FireMV 2250 PCIe x1",
         "names": [
@@ -48665,50 +58327,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "FirePro RG220": {
-        "name": "FirePro RG220",
-        "names": [
-            "FirePro RG220"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "May 1, 2008",
-        "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 800,
-        "shaderUnits": 80,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "FireStream 9170": {
-        "name": "FireStream 9170",
-        "names": [
-            "FireStream 9170"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Nov 8, 2007",
-        "memory": 2048,
-        "memoryType": "GDDR3",
-        "clock": 800,
-        "memoryClock": 800,
-        "shaderUnits": 320,
-        "renderUnits": 16,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "FireStream 9350": {
         "name": "FireStream 9350",
         "names": [
@@ -48727,28 +58345,6 @@ const database = {
         "shaderUnits": 1440,
         "renderUnits": 32,
         "textureUnits": 72,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "FireStream 9370": {
-        "name": "FireStream 9370",
-        "names": [
-            "FireStream 9370"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jun 23, 2010",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 825,
-        "memoryClock": 1150,
-        "shaderUnits": 1600,
-        "renderUnits": 32,
-        "textureUnits": 80,
         "type": null,
         "tdp": null,
         "performance": null
@@ -48797,28 +58393,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon Sky 500": {
-        "name": "Radeon Sky 500",
-        "names": [
-            "Radeon Sky 500"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Mar 27, 2013",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 950,
-        "memoryClock": 1200,
-        "shaderUnits": 1280,
-        "renderUnits": 32,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon Sky 700": {
         "name": "Radeon Sky 700",
         "names": [
@@ -48859,28 +58433,6 @@ const database = {
         "shaderUnits": 1792,
         "renderUnits": 32,
         "textureUnits": 112,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon Instinct MI25": {
-        "name": "Radeon Instinct MI25",
-        "names": [
-            "Radeon Instinct MI25"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jun 27, 2017",
-        "memory": 16384,
-        "memoryType": "HBM2",
-        "clock": 1400,
-        "memoryClock": 852,
-        "shaderUnits": 4096,
-        "renderUnits": 64,
-        "textureUnits": 256,
         "type": null,
         "tdp": null,
         "performance": null
@@ -48969,28 +58521,6 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "FirePro R5000": {
-        "name": "FirePro R5000",
-        "names": [
-            "FirePro R5000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Feb 25, 2013",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 825,
-        "memoryClock": 800,
-        "shaderUnits": 768,
-        "renderUnits": 32,
-        "textureUnits": 48,
         "type": null,
         "tdp": null,
         "performance": null
@@ -49193,28 +58723,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Quadro2 MXR": {
-        "name": "Quadro2 MXR",
-        "names": [
-            "Quadro2 MXR"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jul 25, 2000",
-        "memory": 32,
-        "memoryType": "SDR",
-        "clock": 200,
-        "memoryClock": 183,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Quadro2 MXR Low Profile": {
         "name": "Quadro2 MXR Low Profile",
         "names": [
@@ -49347,28 +58855,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Quadro4 900 XGL": {
-        "name": "Quadro4 900 XGL",
-        "names": [
-            "Quadro4 900 XGL"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Feb 19, 2002",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 300,
-        "memoryClock": 325,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Quadro VX 200": {
         "name": "Quadro VX 200",
         "names": [
@@ -49387,28 +58873,6 @@ const database = {
         "shaderUnits": 112,
         "renderUnits": 16,
         "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Quadro RTX 8000": {
-        "name": "Quadro RTX 8000",
-        "names": [
-            "Quadro RTX 8000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 13, 2018",
-        "memory": 49152,
-        "memoryType": "GDDR6",
-        "clock": 1395,
-        "memoryClock": 1750,
-        "shaderUnits": 4608,
-        "renderUnits": 96,
-        "textureUnits": 288,
         "type": null,
         "tdp": null,
         "performance": null
@@ -49919,28 +59383,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Tesla M10": {
-        "name": "Tesla M10",
-        "names": [
-            "Tesla M10"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "May 18, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1033,
-        "memoryClock": 1300,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Tesla M1060": {
         "name": "Tesla M1060",
         "names": [
@@ -49989,28 +59431,6 @@ const database = {
         "name": "Tesla M2070",
         "names": [
             "Tesla M2070"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jul 25, 2011",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 574,
-        "memoryClock": 783,
-        "shaderUnits": 448,
-        "renderUnits": 48,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Tesla M2070-Q": {
-        "name": "Tesla M2070-Q",
-        "names": [
-            "Tesla M2070-Q"
         ],
         "codeName": null,
         "architecture": null,
@@ -50113,28 +59533,6 @@ const database = {
         "shaderUnits": 3072,
         "renderUnits": 96,
         "textureUnits": 192,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Tesla M6": {
-        "name": "Tesla M6",
-        "names": [
-            "Tesla M6"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 30, 2015",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 930,
-        "memoryClock": 1253,
-        "shaderUnits": 1536,
-        "renderUnits": 64,
-        "textureUnits": 96,
         "type": null,
         "tdp": null,
         "performance": null
@@ -50377,50 +59775,6 @@ const database = {
         "shaderUnits": 128,
         "renderUnits": 24,
         "textureUnits": 32,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Tesla T10 Processor": {
-        "name": "Tesla T10 Processor",
-        "names": [
-            "Tesla T10 Processor"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Apr 9, 2009",
-        "memory": 4096,
-        "memoryType": "GDDR3",
-        "clock": 610,
-        "memoryClock": 800,
-        "shaderUnits": 240,
-        "renderUnits": 32,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Tesla T4": {
-        "name": "Tesla T4",
-        "names": [
-            "Tesla T4"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Sep 13, 2018",
-        "memory": 16384,
-        "memoryType": "GDDR6",
-        "clock": 585,
-        "memoryClock": 1250,
-        "shaderUnits": 2560,
-        "renderUnits": 64,
-        "textureUnits": 160,
         "type": null,
         "tdp": null,
         "performance": null
@@ -50755,28 +60109,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GRID M10-8Q": {
-        "name": "GRID M10-8Q",
-        "names": [
-            "GRID M10-8Q"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "May 18, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1033,
-        "memoryClock": 1300,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GRID M3-3020": {
         "name": "GRID M3-3020",
         "names": [
@@ -50817,28 +60149,6 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 16,
         "textureUnits": 32,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GRID M6-8Q": {
-        "name": "GRID M6-8Q",
-        "names": [
-            "GRID M6-8Q"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 30, 2015",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 722,
-        "memoryClock": 1253,
-        "shaderUnits": 1536,
-        "renderUnits": 64,
-        "textureUnits": 96,
         "type": null,
         "tdp": null,
         "performance": null
@@ -51195,7 +60505,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "230",
-        "performance": 655.8623853211009
+        "performance": 642.6697247706422
     },
     "Mobility Radeon-P": {
         "name": "Mobility Radeon-P",
@@ -51263,50 +60573,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Mobility Radeon 9550": {
-        "name": "Mobility Radeon 9550",
-        "names": [
-            "Mobility Radeon 9550"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 250,
-        "memoryClock": 243,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Mobility Radeon 9600 PRO": {
-        "name": "Mobility Radeon 9600 PRO",
-        "names": [
-            "Mobility Radeon 9600 PRO"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Jun 1, 2004",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 333,
-        "memoryClock": 200,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Mobility Radeon 9700 SE": {
         "name": "Mobility Radeon 9700 SE",
         "names": [
@@ -51325,28 +60591,6 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Mobility Radeon X700 XL": {
-        "name": "Mobility Radeon X700 XL",
-        "names": [
-            "Mobility Radeon X700 XL"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Mar 1, 2005",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 350,
-        "memoryClock": 330,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 6,
         "type": null,
         "tdp": null,
         "performance": null
@@ -51373,7 +60617,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 97.96428571428572
+        "performance": 98.96428571428572
     },
     "Mobility Radeon X800 XT": {
         "name": "Mobility Radeon X800 XT",
@@ -51507,7 +60751,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 223.23214285714283
+        "performance": 210.23214285714283
     },
     "Mobility Radeon HD 3850 X2": {
         "name": "Mobility Radeon HD 3850 X2",
@@ -51553,7 +60797,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 281.2755102040816
+        "performance": 259.7551020408163
     },
     "Mobility Radeon HD 4670 Mac Edition": {
         "name": "Mobility Radeon HD 4670 Mac Edition",
@@ -51687,7 +60931,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 343.11267605633805
+        "performance": 260.71830985915494
     },
     "Mobility Radeon HD 5670 Mac Edition": {
         "name": "Mobility Radeon HD 5670 Mac Edition",
@@ -51871,7 +61115,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 296.81315789473683
+        "performance": 247.7236842105263
     },
     "Radeon HD 6490M Mac Edition": {
         "name": "Radeon HD 6490M Mac Edition",
@@ -51917,7 +61161,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 647.5396825396825
+        "performance": 443.1666666666667
     },
     "Radeon HD 6550M": {
         "name": "Radeon HD 6550M",
@@ -51941,7 +61185,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 706.4761904761905
+        "performance": 451
     },
     "Radeon HD 6570M": {
         "name": "Radeon HD 6570M",
@@ -51965,7 +61209,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 528.0917431192661
+        "performance": 486.1559633027523
     },
     "Radeon HD 6570M Mac Edition": {
         "name": "Radeon HD 6570M Mac Edition",
@@ -52055,29 +61299,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "725",
-        "performance": 695.2564102564103
-    },
-    "Radeon HD 6750M Mac Edition": {
-        "name": "Radeon HD 6750M Mac Edition",
-        "names": [
-            "Radeon HD 6750M Mac Edition"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 18, 2011",
-        "memory": 512,
-        "memoryType": "GDDR5",
-        "clock": 598,
-        "memoryClock": 794,
-        "shaderUnits": 480,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
+        "performance": 461.7435897435897
     },
     "Radeon HD 6770M Mac Edition": {
         "name": "Radeon HD 6770M Mac Edition",
@@ -52147,7 +61369,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "575 / 675",
-        "performance": 746.5588235294117
+        "performance": 740.4117647058823
     },
     "Radeon HD 6870M": {
         "name": "Radeon HD 6870M",
@@ -52171,7 +61393,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "675",
-        "performance": 1515.5862068965516
+        "performance": 1
     },
     "Radeon HD 6950M": {
         "name": "Radeon HD 6950M",
@@ -52195,7 +61417,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "580",
-        "performance": 1048.1580756013745
+        "performance": 190.60137457044675
     },
     "Radeon HD 6970M Mac Edition": {
         "name": "Radeon HD 6970M Mac Edition",
@@ -52263,7 +61485,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "715",
-        "performance": 4115.7736883320285
+        "performance": 2.654857142857143
     },
     "Radeon HD 6990M Rebrand": {
         "name": "Radeon HD 6990M Rebrand",
@@ -52611,7 +61833,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "675",
-        "performance": 1422.00395256917
+        "performance": 672.2687747035574
     },
     "Radeon HD 7950M": {
         "name": "Radeon HD 7950M",
@@ -52681,7 +61903,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 209.9090909090909
+        "performance": 171.1818181818182
     },
     "Radeon HD 8590M": {
         "name": "Radeon HD 8590M",
@@ -52729,7 +61951,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "775",
-        "performance": 1154.157894736842
+        "performance": 364.5526315789474
     },
     "Radeon HD 8830M": {
         "name": "Radeon HD 8830M",
@@ -52795,28 +62017,6 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 8,
         "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon 540X Mobile": {
-        "name": "Radeon 540X Mobile",
-        "names": [
-            "Radeon 540X Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 11, 2018",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1124,
-        "memoryClock": 1500,
-        "shaderUnits": 512,
-        "renderUnits": 16,
-        "textureUnits": 32,
         "type": null,
         "tdp": null,
         "performance": null
@@ -53109,28 +62309,6 @@ const database = {
         "clockSpeed": null,
         "performance": null
     },
-    "GeForce2 Go": {
-        "name": "GeForce2 Go",
-        "names": [
-            "GeForce2 Go"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Nov 11, 2000",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 143,
-        "memoryClock": 166,
-        "shaderUnits": 2,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce2 Go 100": {
         "name": "GeForce2 Go 100",
         "names": [
@@ -53190,6 +62368,28 @@ const database = {
         "memoryType": "DDR",
         "clock": 200,
         "memoryClock": 200,
+        "shaderUnits": 2,
+        "renderUnits": 4,
+        "textureUnits": 0,
+        "type": null,
+        "tdp": null,
+        "performance": null
+    },
+    "GeForce4 460 Go": {
+        "name": "GeForce4 460 Go",
+        "names": [
+            "GeForce4 460 Go"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": "NVIDIA",
+        "released": "Oct 14, 2002",
+        "memory": 64,
+        "memoryType": "DDR",
+        "clock": 250,
+        "memoryClock": 250,
         "shaderUnits": 2,
         "renderUnits": 4,
         "textureUnits": 0,
@@ -53551,30 +62751,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce Go 7900 GTX": {
-        "name": "GeForce Go 7900 GTX",
-        "names": [
-            "GeForce Go 7900 GTX",
-            "NVIDIA GeForce Go 7900 GTX SLI"
-        ],
-        "codeName": null,
-        "architecture": "G7x",
-        "openGL": null,
-        "directX": "9c",
-        "vendor": "NVIDIA",
-        "released": "Apr 18, 2006",
-        "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 600,
-        "shaderUnits": 24,
-        "renderUnits": 24,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "500",
-        "performance": 464.1034482758621
-    },
     "GeForce Go 7900 SE": {
         "name": "GeForce Go 7900 SE",
         "names": [
@@ -53722,52 +62898,6 @@ const database = {
         "memoryType": "GDDR3",
         "clock": 500,
         "memoryClock": 792,
-        "shaderUnits": 32,
-        "renderUnits": 8,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTS 150M": {
-        "name": "GeForce GTS 150M",
-        "names": [
-            "GeForce GTS 150M",
-            "NVIDIA GeForce GTS 150M"
-        ],
-        "codeName": null,
-        "architecture": "G9x",
-        "openGL": null,
-        "directX": "10.0",
-        "vendor": "NVIDIA",
-        "released": "Mar 3, 2009",
-        "memory": 1024,
-        "memoryType": "GDDR3",
-        "clock": 400,
-        "memoryClock": 800,
-        "shaderUnits": 64,
-        "renderUnits": 16,
-        "textureUnits": 32,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "400",
-        "performance": null
-    },
-    "GeForce GT 240M LE": {
-        "name": "GeForce GT 240M LE",
-        "names": [
-            "GeForce GT 240M LE"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 15, 2010",
-        "memory": 512,
-        "memoryType": "DDR2",
-        "clock": 600,
-        "memoryClock": 400,
         "shaderUnits": 32,
         "renderUnits": 8,
         "textureUnits": 16,
@@ -54153,122 +63283,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce MX230": {
-        "name": "GeForce MX230",
-        "names": [
-            "GeForce MX230",
-            "NVIDIA GeForce MX230"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
-        "vendor": "NVIDIA",
-        "released": "Feb 21, 2019",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 1519,
-        "memoryClock": 1502,
-        "shaderUnits": 256,
-        "renderUnits": 8,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1518",
-        "performance": null
-    },
-    "GeForce MX250": {
-        "name": "GeForce MX250",
-        "names": [
-            "GeForce MX250",
-            "NVIDIA GeForce MX250"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12_1",
-        "vendor": "NVIDIA",
-        "released": "Unknown",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 937,
-        "memoryClock": 1502,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1518",
-        "performance": null
-    },
-    "GeForce GTX 1050 Mobile": {
-        "name": "GeForce GTX 1050 Mobile",
-        "names": [
-            "GeForce GTX 1050 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Feb 1, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1354,
-        "memoryClock": 1752,
-        "shaderUnits": 640,
-        "renderUnits": 32,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1050 Ti Mobile": {
-        "name": "GeForce GTX 1050 Ti Mobile",
-        "names": [
-            "GeForce GTX 1050 Ti Mobile",
-            "NVIDIA GeForce GTX 1050 Ti (Desktop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12_1",
-        "vendor": "NVIDIA",
-        "released": "Feb 1, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1493,
-        "memoryClock": 1752,
-        "shaderUnits": 768,
-        "renderUnits": 32,
-        "textureUnits": 48,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1290",
-        "performance": 10891.359447004608
-    },
-    "GeForce GTX 1070 Mobile": {
-        "name": "GeForce GTX 1070 Mobile",
-        "names": [
-            "GeForce GTX 1070 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 15, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1442,
-        "memoryClock": 2002,
-        "shaderUnits": 2048,
-        "renderUnits": 64,
-        "textureUnits": 128,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce GTX 1080 Mobile": {
         "name": "GeForce GTX 1080 Mobile",
         "names": [
@@ -54287,160 +63301,6 @@ const database = {
         "shaderUnits": 2560,
         "renderUnits": 64,
         "textureUnits": 160,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1650 Max-Q": {
-        "name": "GeForce GTX 1650 Max-Q",
-        "names": [
-            "GeForce GTX 1650 Max-Q"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "2019",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1020,
-        "memoryClock": 2000,
-        "shaderUnits": 896,
-        "renderUnits": 32,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1650 Mobile": {
-        "name": "GeForce GTX 1650 Mobile",
-        "names": [
-            "GeForce GTX 1650 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "2019",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1395,
-        "memoryClock": 2000,
-        "shaderUnits": 896,
-        "renderUnits": 32,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1660 Max-Q": {
-        "name": "GeForce GTX 1660 Max-Q",
-        "names": [
-            "GeForce GTX 1660 Max-Q"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Unknown",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 1140,
-        "memoryClock": 2000,
-        "shaderUnits": 1280,
-        "renderUnits": 48,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GTX 1660 Mobile": {
-        "name": "GeForce GTX 1660 Mobile",
-        "names": [
-            "GeForce GTX 1660 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Unknown",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 1455,
-        "memoryClock": 2000,
-        "shaderUnits": 1280,
-        "renderUnits": 48,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce RTX 2060 Mobile": {
-        "name": "GeForce RTX 2060 Mobile",
-        "names": [
-            "GeForce RTX 2060 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
-        "memory": 6144,
-        "memoryType": "GDDR6",
-        "clock": 960,
-        "memoryClock": 1750,
-        "shaderUnits": 1920,
-        "renderUnits": 48,
-        "textureUnits": 120,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce RTX 2070 Mobile": {
-        "name": "GeForce RTX 2070 Mobile",
-        "names": [
-            "GeForce RTX 2070 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
-        "memory": 8192,
-        "memoryType": "GDDR6",
-        "clock": 1215,
-        "memoryClock": 1750,
-        "shaderUnits": 2304,
-        "renderUnits": 64,
-        "textureUnits": 144,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce RTX 2080 Mobile": {
-        "name": "GeForce RTX 2080 Mobile",
-        "names": [
-            "GeForce RTX 2080 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 29, 2019",
-        "memory": 8192,
-        "memoryType": "GDDR6",
-        "clock": 1380,
-        "memoryClock": 1500,
-        "shaderUnits": 2944,
-        "renderUnits": 64,
-        "textureUnits": 184,
         "type": null,
         "tdp": null,
         "performance": null
@@ -54489,50 +63349,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "GeForce 720A": {
-        "name": "GeForce 720A",
-        "names": [
-            "GeForce 720A"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jul 1, 2014",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 938,
-        "memoryClock": 1000,
-        "shaderUnits": 96,
-        "renderUnits": 8,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "GeForce GT 740A": {
-        "name": "GeForce GT 740A",
-        "names": [
-            "GeForce GT 740A"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 26, 2013",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 980,
-        "memoryClock": 900,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 32,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "GeForce 805A": {
         "name": "GeForce 805A",
         "names": [
@@ -54553,52 +63369,6 @@ const database = {
         "textureUnits": 16,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "GeForce 945A": {
-        "name": "GeForce 945A",
-        "names": [
-            "GeForce 945A"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Mar 13, 2015",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 1072,
-        "memoryClock": 900,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Mobility FireGL 7800": {
-        "name": "Mobility FireGL 7800",
-        "names": [
-            "Mobility FireGL 7800",
-            "ATI Mobility FireGL 7800"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": "7",
-        "vendor": "ATI",
-        "released": "Sep 29, 2001",
-        "memory": 64,
-        "memoryType": "DDR",
-        "clock": 280,
-        "memoryClock": 200,
-        "shaderUnits": 2,
-        "renderUnits": 2,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "280",
         "performance": null
     },
     "Mobility FireGL 9000": {
@@ -54623,7 +63393,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "250",
-        "performance": 45.66267123287671
+        "performance": 43.97047970479705
     },
     "Mobility FireGL V3100": {
         "name": "Mobility FireGL V3100",
@@ -54691,7 +63461,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 376.0818505338078
+        "performance": 372.2809917355372
     },
     "FirePro M5725": {
         "name": "FirePro M5725",
@@ -54737,7 +63507,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 602.204081632653
+        "performance": 601.530612244898
     },
     "FirePro M7820": {
         "name": "FirePro M7820",
@@ -54761,7 +63531,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 1699.6451612903224
+        "performance": 529.4090909090909
     },
     "FirePro D300": {
         "name": "FirePro D300",
@@ -54873,7 +63643,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 251.86507936507937
+        "performance": 189.16666666666666
     },
     "FirePro M8900": {
         "name": "FirePro M8900",
@@ -54897,29 +63667,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "680",
-        "performance": 1972.8983050847457
-    },
-    "FirePro S10000": {
-        "name": "FirePro S10000",
-        "names": [
-            "FirePro S10000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Nov 12, 2012",
-        "memory": 3072,
-        "memoryType": "GDDR5",
-        "clock": 825,
-        "memoryClock": 1250,
-        "shaderUnits": 1792,
-        "renderUnits": 32,
-        "textureUnits": 112,
-        "type": null,
-        "tdp": null,
-        "performance": null
+        "performance": 1
     },
     "FirePro S10000 Passive": {
         "name": "FirePro S10000 Passive",
@@ -55005,28 +63753,6 @@ const database = {
         "shaderUnits": 2048,
         "renderUnits": 32,
         "textureUnits": 128,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "FirePro S7150": {
-        "name": "FirePro S7150",
-        "names": [
-            "FirePro S7150"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Feb 1, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 1050,
-        "memoryClock": 1250,
-        "shaderUnits": 1792,
-        "renderUnits": 32,
-        "textureUnits": 112,
         "type": null,
         "tdp": null,
         "performance": null
@@ -55363,28 +64089,6 @@ const database = {
         "clockSpeed": "855",
         "performance": null
     },
-    "Radeon Pro 570": {
-        "name": "Radeon Pro 570",
-        "names": [
-            "Radeon Pro 570"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jun 5, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1000,
-        "memoryClock": 1700,
-        "shaderUnits": 1792,
-        "renderUnits": 32,
-        "textureUnits": 112,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon Pro 575": {
         "name": "Radeon Pro 575",
         "names": [
@@ -55495,28 +64199,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon Pro V340 MxGPU": {
-        "name": "Radeon Pro V340 MxGPU",
-        "names": [
-            "Radeon Pro V340 MxGPU"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Aug 26, 2018",
-        "memory": 16384,
-        "memoryType": "HBM2",
-        "clock": 852,
-        "memoryClock": 1000,
-        "shaderUnits": 3584,
-        "renderUnits": 64,
-        "textureUnits": 224,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon Pro V5300X": {
         "name": "Radeon Pro V5300X",
         "names": [
@@ -55583,30 +64265,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon Pro Vega 16": {
-        "name": "Radeon Pro Vega 16",
-        "names": [
-            "Radeon Pro Vega 16",
-            "AMD Radeon Pro Vega 16"
-        ],
-        "codeName": null,
-        "architecture": "Vega",
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Nov 14, 2018",
-        "memory": 4096,
-        "memoryType": "HBM2",
-        "clock": 300,
-        "memoryClock": 1200,
-        "shaderUnits": 1024,
-        "renderUnits": 32,
-        "textureUnits": 64,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
-        "performance": null
-    },
     "Radeon Pro Vega 7nm": {
         "name": "Radeon Pro Vega 7nm",
         "names": [
@@ -55625,28 +64283,6 @@ const database = {
         "shaderUnits": 4096,
         "renderUnits": 64,
         "textureUnits": 256,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon Pro WX 4170 Mobile": {
-        "name": "Radeon Pro WX 4170 Mobile",
-        "names": [
-            "Radeon Pro WX 4170 Mobile"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Mar 1, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1002,
-        "memoryClock": 1750,
-        "shaderUnits": 1024,
-        "renderUnits": 16,
-        "textureUnits": 64,
         "type": null,
         "tdp": null,
         "performance": null
@@ -55739,28 +64375,6 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": null
-    },
-    "Quadro NVS 510M": {
-        "name": "Quadro NVS 510M",
-        "names": [
-            "Quadro NVS 510M"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Aug 21, 2006",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 450,
-        "memoryClock": 600,
-        "shaderUnits": 24,
-        "renderUnits": 24,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
         "performance": null
     },
     "NVS 1000": {
@@ -55917,28 +64531,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Quadro FX 2000": {
-        "name": "Quadro FX 2000",
-        "names": [
-            "Quadro FX 2000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jan 21, 2003",
-        "memory": 128,
-        "memoryType": "DDR2",
-        "clock": 400,
-        "memoryClock": 400,
-        "shaderUnits": 4,
-        "renderUnits": 8,
-        "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Quadro FX 3000G": {
         "name": "Quadro FX 3000G",
         "names": [
@@ -55979,28 +64571,6 @@ const database = {
         "shaderUnits": 4,
         "renderUnits": 4,
         "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Quadro FX 4000": {
-        "name": "Quadro FX 4000",
-        "names": [
-            "Quadro FX 4000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Apr 1, 2004",
-        "memory": 256,
-        "memoryType": "GDDR3",
-        "clock": 375,
-        "memoryClock": 500,
-        "shaderUnits": 12,
-        "renderUnits": 12,
-        "textureUnits": 5,
         "type": null,
         "tdp": null,
         "performance": null
@@ -56086,28 +64656,6 @@ const database = {
         "memoryType": "GDDR3",
         "clock": 430,
         "memoryClock": 525,
-        "shaderUnits": 24,
-        "renderUnits": 24,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Quadro FX 4500 X2": {
-        "name": "Quadro FX 4500 X2",
-        "names": [
-            "Quadro FX 4500 X2"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Apr 24, 2006",
-        "memory": 512,
-        "memoryType": "GDDR3",
-        "clock": 500,
-        "memoryClock": 605,
         "shaderUnits": 24,
         "renderUnits": 24,
         "textureUnits": 8,
@@ -56291,28 +64839,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Quadro": {
-        "name": "Quadro",
-        "names": [
-            "Quadro"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "1999",
-        "memory": 32,
-        "memoryType": "SDR",
-        "clock": 135,
-        "memoryClock": 166,
-        "shaderUnits": 4,
-        "renderUnits": 4,
-        "textureUnits": 0,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Quadro 4000 Mac Edition": {
         "name": "Quadro 4000 Mac Edition",
         "names": [
@@ -56397,28 +64923,6 @@ const database = {
         "shaderUnits": 448,
         "renderUnits": 48,
         "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Quadro 7000": {
-        "name": "Quadro 7000",
-        "names": [
-            "Quadro 7000"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "May 2, 2012",
-        "memory": 6144,
-        "memoryType": "GDDR5",
-        "clock": 651,
-        "memoryClock": 851,
-        "shaderUnits": 512,
-        "renderUnits": 48,
-        "textureUnits": 64,
         "type": null,
         "tdp": null,
         "performance": null
@@ -56509,30 +65013,6 @@ const database = {
         "textureUnits": 128,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Quadro K500M": {
-        "name": "Quadro K500M",
-        "names": [
-            "Quadro K500M",
-            "NVIDIA Quadro K500M"
-        ],
-        "codeName": null,
-        "architecture": "Kepler",
-        "openGL": "4.3",
-        "directX": "11",
-        "vendor": "NVIDIA",
-        "released": "Jun 1, 2012",
-        "memory": 1024,
-        "memoryType": "DDR3",
-        "clock": 850,
-        "memoryClock": 800,
-        "shaderUnits": 192,
-        "renderUnits": 8,
-        "textureUnits": 16,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "850",
         "performance": null
     },
     "Quadro K6000 SDI": {
@@ -56799,50 +65279,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon Vega 11 Embedded": {
-        "name": "Radeon Vega 11 Embedded",
-        "names": [
-            "Radeon Vega 11 Embedded"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Feb 13, 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 704,
-        "renderUnits": 8,
-        "textureUnits": 44,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon Pro WX Vega M GL": {
-        "name": "Radeon Pro WX Vega M GL",
-        "names": [
-            "Radeon Pro WX Vega M GL"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Feb 1, 2018",
-        "memory": 4096,
-        "memoryType": "HBM2",
-        "clock": 931,
-        "memoryClock": 700,
-        "shaderUnits": 1280,
-        "renderUnits": 32,
-        "textureUnits": 80,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon RX Vega 64 Limited Edition": {
         "name": "Radeon RX Vega 64 Limited Edition",
         "names": [
@@ -57048,13 +65484,13 @@ const database = {
             "Intel Extreme Graphics 2"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 2",
         "openGL": null,
         "directX": "8",
         "vendor": "Intel",
         "released": "2002",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared)",
+        "memoryType": null,
         "clock": 200,
         "memoryClock": null,
         "shaderUnits": 2,
@@ -57219,50 +65655,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon HD 8210E": {
-        "name": "Radeon HD 8210E",
-        "names": [
-            "Radeon HD 8210E"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 23, 2013",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 128,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon HD 8310E": {
-        "name": "Radeon HD 8310E",
-        "names": [
-            "Radeon HD 8310E"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 23, 2013",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 128,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon R2 Mobile Graphics": {
         "name": "Radeon R2 Mobile Graphics",
         "names": [
@@ -57391,28 +65783,6 @@ const database = {
         "shaderUnits": 192,
         "renderUnits": 8,
         "textureUnits": 12,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon RX Vega 11 Efficient": {
-        "name": "Radeon RX Vega 11 Efficient",
-        "names": [
-            "Radeon RX Vega 11 Efficient"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 23, 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": 300,
-        "memoryClock": null,
-        "shaderUnits": 704,
-        "renderUnits": 8,
-        "textureUnits": 44,
         "type": null,
         "tdp": null,
         "performance": null
@@ -57615,28 +65985,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R5 M435": {
-        "name": "Radeon R5 M435",
-        "names": [
-            "Radeon R5 M435"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "May 15, 2016",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 780,
-        "memoryClock": 1125,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon R5 M445": {
         "name": "Radeon R5 M445",
         "names": [
@@ -57680,30 +66028,6 @@ const database = {
         "type": null,
         "tdp": null,
         "performance": null
-    },
-    "Radeon R6 M255DX": {
-        "name": "Radeon R6 M255DX",
-        "names": [
-            "Radeon R6 M255DX",
-            "AMD Radeon R6 M255DX"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": null,
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "Jan 7, 2014",
-        "memory": null,
-        "memoryType": "DDR3",
-        "clock": 780,
-        "memoryClock": null,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "855 / 514",
-        "performance": 511
     },
     "Radeon R6 M335DX": {
         "name": "Radeon R6 M335DX",
@@ -57749,7 +66073,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 319.2987012987013
+        "performance": 193.93506493506493
     },
     "Radeon R6 M435DX": {
         "name": "Radeon R6 M435DX",
@@ -57771,74 +66095,6 @@ const database = {
         "textureUnits": 24,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Radeon R7 M260DX": {
-        "name": "Radeon R7 M260DX",
-        "names": [
-            "Radeon R7 M260DX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jan 7, 2014",
-        "memory": null,
-        "memoryType": null,
-        "clock": 780,
-        "memoryClock": null,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon R7 M270DX": {
-        "name": "Radeon R7 M270DX",
-        "names": [
-            "Radeon R7 M270DX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Jan 7, 2014",
-        "memory": null,
-        "memoryType": null,
-        "clock": 780,
-        "memoryClock": null,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon R7 M380": {
-        "name": "Radeon R7 M380",
-        "names": [
-            "Radeon R7 M380",
-            "AMD Radeon R7 M380"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.3",
-        "directX": "12 (FL 11_1)",
-        "vendor": "AMD",
-        "released": "May 5, 2015",
-        "memory": 4096,
-        "memoryType": "DDR3",
-        "clock": 900,
-        "memoryClock": 1000,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "915",
         "performance": null
     },
     "Radeon R8 M350DX": {
@@ -57863,30 +66119,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R8 M365DX": {
-        "name": "Radeon R8 M365DX",
-        "names": [
-            "Radeon R8 M365DX",
-            "AMD Radeon R8 M365DX"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.3",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "Jun 3, 2015",
-        "memory": null,
-        "memoryType": "DDR3",
-        "clock": 900,
-        "memoryClock": null,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "720 / 1125",
-        "performance": 903.5138888888889
-    },
     "Radeon R8 M435DX": {
         "name": "Radeon R8 M435DX",
         "names": [
@@ -57909,76 +66141,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R8 M445DX": {
-        "name": "Radeon R8 M445DX",
-        "names": [
-            "Radeon R8 M445DX",
-            "AMD Radeon R8 M445DX"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.4",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "May 15, 2016",
-        "memory": null,
-        "memoryType": "DDR4/DDR3",
-        "clock": 780,
-        "memoryClock": null,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "720 / 1020",
-        "performance": 866.2352941176471
-    },
-    "Radeon R8 M535DX": {
-        "name": "Radeon R8 M535DX",
-        "names": [
-            "Radeon R8 M535DX"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 18, 2017",
-        "memory": null,
-        "memoryType": null,
-        "clock": 780,
-        "memoryClock": null,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon R9 M280X": {
-        "name": "Radeon R9 M280X",
-        "names": [
-            "Radeon R9 M280X",
-            "AMD Radeon R9 M280X"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_0)",
-        "vendor": "AMD",
-        "released": "Feb 5, 2015",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 900,
-        "memoryClock": 1375,
-        "shaderUnits": 896,
-        "renderUnits": 16,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "900",
-        "performance": 1104.929203539823
-    },
     "Radeon R9 M295X Mac Edition": {
         "name": "Radeon R9 M295X Mac Edition",
         "names": [
@@ -57999,30 +66161,6 @@ const database = {
         "textureUnits": 128,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Radeon R9 M365X": {
-        "name": "Radeon R9 M365X",
-        "names": [
-            "Radeon R9 M365X",
-            "AMD Radeon R9 M365X"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.4",
-        "directX": "12",
-        "vendor": "AMD",
-        "released": "May 5, 2015",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 900,
-        "memoryClock": 1125,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "900",
         "performance": null
     },
     "Radeon R9 M380 Mac Edition": {
@@ -58047,54 +66185,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R9 M385": {
-        "name": "Radeon R9 M385",
-        "names": [
-            "Radeon R9 M385",
-            "AMD Radeon R9 M385"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.3",
-        "directX": "11.1",
-        "vendor": "AMD",
-        "released": "May 5, 2015",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 900,
-        "memoryClock": 1200,
-        "shaderUnits": 896,
-        "renderUnits": 16,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
-        "performance": null
-    },
-    "Radeon R9 M385X": {
-        "name": "Radeon R9 M385X",
-        "names": [
-            "Radeon R9 M385X",
-            "AMD Radeon R9 M385X"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.3",
-        "directX": "12 FL11_1",
-        "vendor": "AMD",
-        "released": "May 5, 2015",
-        "memory": 4096,
-        "memoryType": "GDDR5",
-        "clock": 1000,
-        "memoryClock": 1200,
-        "shaderUnits": 896,
-        "renderUnits": 16,
-        "textureUnits": 56,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1100",
-        "performance": 1487.1966759002771
-    },
     "Radeon R9 M395X Mac Edition": {
         "name": "Radeon R9 M395X Mac Edition",
         "names": [
@@ -58115,30 +66205,6 @@ const database = {
         "textureUnits": 128,
         "type": null,
         "tdp": null,
-        "performance": null
-    },
-    "Radeon R9 M485X": {
-        "name": "Radeon R9 M485X",
-        "names": [
-            "Radeon R9 M485X",
-            "AMD Radeon R9 M485X"
-        ],
-        "codeName": null,
-        "architecture": "GCN 3",
-        "openGL": null,
-        "directX": "12 (FL 12_0)",
-        "vendor": "AMD",
-        "released": "May 15, 2016",
-        "memory": 8192,
-        "memoryType": "GDDR5",
-        "clock": 723,
-        "memoryClock": 1250,
-        "shaderUnits": 2048,
-        "renderUnits": 32,
-        "textureUnits": 128,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
         "performance": null
     },
     "GeForce 8200M G mGPU Intel": {
@@ -58434,13 +66500,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 900"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 3",
         "openGL": null,
         "directX": "9c",
         "vendor": "Intel",
         "released": "Jun 1, 2004",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared)",
+        "memoryType": null,
         "clock": 333,
         "memoryClock": null,
         "shaderUnits": 4,
@@ -58458,13 +66524,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 950"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 3",
         "openGL": null,
         "directX": "9c",
         "vendor": "Intel",
         "released": "May 1, 2005",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared)",
+        "memoryType": null,
         "clock": 166,
         "memoryClock": null,
         "shaderUnits": 4,
@@ -58548,13 +66614,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) X3100"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 4",
         "openGL": null,
         "directX": "10",
         "vendor": "Intel",
         "released": "May 9, 2007",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared), max 384 MB",
+        "memoryType": null,
         "clock": 500,
         "memoryClock": null,
         "shaderUnits": 8,
@@ -58563,7 +66629,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 30.952380952380953
+        "performance": 31.952380952380953
     },
     "GMA X3500": {
         "name": "GMA X3500",
@@ -58677,7 +66743,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "640",
-        "performance": 26.602739726027398
+        "performance": 27.54794520547945
     },
     "GMA X4500M": {
         "name": "GMA X4500M",
@@ -58745,40 +66811,15 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "HD Graphics": {
-        "name": "HD Graphics",
-        "names": [
-            "HD Graphics",
-            "Intel HD Graphics (Broadwell)"
-        ],
-        "codeName": null,
-        "architecture": "Broadwell",
-        "openGL": "4.3",
-        "directX": "12 (FL 11_1)",
-        "vendor": "Intel",
-        "released": "Apr 29, 2013",
-        "memory": null,
-        "memoryType": null,
-        "clock": 200,
-        "memoryClock": null,
-        "shaderUnits": 80,
-        "renderUnits": 1,
-        "textureUnits": 10,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "100",
-        "performance": 180.06349206349205
-    },
     "HD Graphics 2000": {
         "name": "HD Graphics 2000",
         "names": [
-            "HD Graphics 2000",
-            "Intel HD Graphics 2000"
+            "HD Graphics 2000"
         ],
         "codeName": null,
-        "architecture": "Sandy Bridge",
+        "architecture": null,
         "openGL": null,
-        "directX": "10.1",
+        "directX": null,
         "vendor": "Intel",
         "released": "Jan 5, 2011",
         "memory": null,
@@ -58790,8 +66831,7 @@ const database = {
         "textureUnits": 6,
         "type": null,
         "tdp": null,
-        "clockSpeed": "850/1100",
-        "performance": 103.85714285714286
+        "performance": null
     },
     "HD Graphics 2500": {
         "name": "HD Graphics 2500",
@@ -58800,7 +66840,7 @@ const database = {
             "Intel HD Graphics 2500"
         ],
         "codeName": null,
-        "architecture": "Ivy Bridge",
+        "architecture": "Gen. 7 Ivy Bridge",
         "openGL": null,
         "directX": "11.0",
         "vendor": "Intel",
@@ -58815,7 +66855,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 301.0052631578947
+        "performance": 242.28947368421052
     },
     "HD Graphics 3000": {
         "name": "HD Graphics 3000",
@@ -58846,7 +66886,7 @@ const database = {
             "Intel HD Graphics 400 (Braswell)"
         ],
         "codeName": null,
-        "architecture": "Intel Gen8",
+        "architecture": "Gen. 8",
         "openGL": null,
         "directX": "11.2",
         "vendor": "Intel",
@@ -58861,7 +66901,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "320",
-        "performance": 121.64705882352942
+        "performance": 152.97014925373134
     },
     "HD Graphics 4000": {
         "name": "HD Graphics 4000",
@@ -58892,7 +66932,7 @@ const database = {
             "Intel HD Graphics 405 (Braswell)"
         ],
         "codeName": null,
-        "architecture": "Intel Gen8",
+        "architecture": "Gen. 8",
         "openGL": null,
         "directX": "11.2",
         "vendor": "Intel",
@@ -58907,7 +66947,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "320",
-        "performance": 307.1734693877551
+        "performance": 284.734693877551
     },
     "HD Graphics 4200": {
         "name": "HD Graphics 4200",
@@ -58916,7 +66956,7 @@ const database = {
             "Intel HD Graphics 4200"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": "4.0",
         "directX": "11.1",
         "vendor": "Intel",
@@ -58931,7 +66971,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 197.2
+        "performance": 144.81333333333333
     },
     "HD Graphics 4400": {
         "name": "HD Graphics 4400",
@@ -58980,17 +67020,16 @@ const database = {
     "HD Graphics 500": {
         "name": "HD Graphics 500",
         "names": [
-            "HD Graphics 500",
-            "Intel HD Graphics 500"
+            "HD Graphics 500"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Apollo Lake)",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
         "vendor": "Intel",
         "released": "Sep 1, 2015",
         "memory": null,
-        "memoryType": "(LP)DDR3(L) / LPDDR4",
+        "memoryType": null,
         "clock": 250,
         "memoryClock": null,
         "shaderUnits": 96,
@@ -58998,8 +67037,7 @@ const database = {
         "textureUnits": 12,
         "type": null,
         "tdp": null,
-        "clockSpeed": "300",
-        "performance": 444.20000000000005
+        "performance": null
     },
     "HD Graphics 5000": {
         "name": "HD Graphics 5000",
@@ -59026,17 +67064,16 @@ const database = {
     "HD Graphics 505": {
         "name": "HD Graphics 505",
         "names": [
-            "HD Graphics 505",
-            "Intel HD Graphics 505"
+            "HD Graphics 505"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Apollo Lake)",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
         "vendor": "Intel",
         "released": "Sep 1, 2015",
         "memory": null,
-        "memoryType": "(LP)DDR3(L) / LPDDR4",
+        "memoryType": null,
         "clock": 250,
         "memoryClock": null,
         "shaderUnits": 144,
@@ -59044,8 +67081,7 @@ const database = {
         "textureUnits": 18,
         "type": null,
         "tdp": null,
-        "clockSpeed": "300",
-        "performance": 214.39560439560438
+        "performance": null
     },
     "HD Graphics 510": {
         "name": "HD Graphics 510",
@@ -59798,17 +67834,16 @@ const database = {
     "UHD Graphics 617": {
         "name": "UHD Graphics 617",
         "names": [
-            "UHD Graphics 617",
-            "Intel UHD Graphics 617"
+            "UHD Graphics 617"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Amber Lake)",
-        "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
         "vendor": "Intel",
         "released": "Nov 7, 2018",
         "memory": null,
-        "memoryType": "DDR3L/LPDDR3",
+        "memoryType": null,
         "clock": 300,
         "memoryClock": null,
         "shaderUnits": 192,
@@ -59816,8 +67851,7 @@ const database = {
         "textureUnits": 24,
         "type": null,
         "tdp": null,
-        "clockSpeed": null,
-        "performance": 841.9444444444445
+        "performance": null
     },
     "ES1000": {
         "name": "ES1000",
@@ -59903,28 +67937,6 @@ const database = {
         "shaderUnits": 2,
         "renderUnits": 2,
         "textureUnits": 2,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon IGP 320": {
-        "name": "Radeon IGP 320",
-        "names": [
-            "Radeon IGP 320"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Oct 5, 2002",
-        "memory": null,
-        "memoryType": null,
-        "clock": 160,
-        "memoryClock": null,
-        "shaderUnits": 1,
-        "renderUnits": 1,
-        "textureUnits": 0,
         "type": null,
         "tdp": null,
         "performance": null
@@ -60281,28 +68293,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "All-In-Wonder 9800 PRO": {
-        "name": "All-In-Wonder 9800 PRO",
-        "names": [
-            "All-In-Wonder 9800 PRO"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "ATI",
-        "released": "Jun 16, 2003",
-        "memory": 128,
-        "memoryType": "DDR",
-        "clock": 378,
-        "memoryClock": 338,
-        "shaderUnits": 8,
-        "renderUnits": 8,
-        "textureUnits": 4,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "All-In-Wonder 9800 SE": {
         "name": "All-In-Wonder 9800 SE",
         "names": [
@@ -60589,28 +68579,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon HD 6650A": {
-        "name": "Radeon HD 6650A",
-        "names": [
-            "Radeon HD 6650A"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 19, 2011",
-        "memory": 1024,
-        "memoryType": "DDR3",
-        "clock": 600,
-        "memoryClock": 900,
-        "shaderUnits": 480,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon HD 6670A": {
         "name": "Radeon HD 6670A",
         "names": [
@@ -60787,28 +68755,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "Radeon R5 A240": {
-        "name": "Radeon R5 A240",
-        "names": [
-            "Radeon R5 A240"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "2014",
-        "memory": 1024,
-        "memoryType": "DDR3",
-        "clock": 650,
-        "memoryClock": 900,
-        "shaderUnits": 320,
-        "renderUnits": 8,
-        "textureUnits": 20,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "Radeon R5 A255": {
         "name": "Radeon R5 A255",
         "names": [
@@ -60915,94 +68861,6 @@ const database = {
         "shaderUnits": 384,
         "renderUnits": 8,
         "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon R7 A360": {
-        "name": "Radeon R7 A360",
-        "names": [
-            "Radeon R7 A360"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "May 5, 2015",
-        "memory": 2048,
-        "memoryType": "DDR3",
-        "clock": 1100,
-        "memoryClock": 900,
-        "shaderUnits": 384,
-        "renderUnits": 8,
-        "textureUnits": 24,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon R9 A375": {
-        "name": "Radeon R9 A375",
-        "names": [
-            "Radeon R9 A375"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "2015",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 900,
-        "memoryClock": 1125,
-        "shaderUnits": 640,
-        "renderUnits": 16,
-        "textureUnits": 40,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon E6460": {
-        "name": "Radeon E6460",
-        "names": [
-            "Radeon E6460"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Apr 7, 2011",
-        "memory": 512,
-        "memoryType": "GDDR5",
-        "clock": 600,
-        "memoryClock": 800,
-        "shaderUnits": 160,
-        "renderUnits": 4,
-        "textureUnits": 8,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "Radeon E6465": {
-        "name": "Radeon E6465",
-        "names": [
-            "Radeon E6465"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "AMD",
-        "released": "Sep 29, 2015",
-        "memory": 2048,
-        "memoryType": "GDDR5",
-        "clock": 600,
-        "memoryClock": 800,
-        "shaderUnits": 160,
-        "renderUnits": 4,
-        "textureUnits": 8,
         "type": null,
         "tdp": null,
         "performance": null
@@ -61278,7 +69136,7 @@ const database = {
             "NVIDIA GeForce ULP (Tegra 2)"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "VLIW Vec4",
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": "NVIDIA",
@@ -61302,7 +69160,7 @@ const database = {
             "NVIDIA GeForce ULP (Tegra 3)"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "VLIW Vec4",
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": "NVIDIA",
@@ -61317,7 +69175,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3082.1287499491186
+        "performance": 5.3971086917722655
     },
     "Tegra 4": {
         "name": "Tegra 4",
@@ -61326,7 +69184,7 @@ const database = {
             "NVIDIA GeForce Tegra 4"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "VLIW Vec4",
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": "NVIDIA",
@@ -61341,7 +69199,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1637.0528351040011
+        "performance": 175.4306175263252
     },
     "Tegra 4i": {
         "name": "Tegra 4i",
@@ -61387,7 +69245,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "950",
-        "performance": 502.02073613271125
+        "performance": 458.38102643856917
     },
     "Tegra X1": {
         "name": "Tegra X1",
@@ -61411,7 +69269,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1000",
-        "performance": 681.3801369863014
+        "performance": 596.9019607843137
     },
     "Tegra X2": {
         "name": "Tegra X2",
@@ -61897,28 +69755,6 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "P104-100": {
-        "name": "P104-100",
-        "names": [
-            "P104-100"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Dec 12, 2017",
-        "memory": 4096,
-        "memoryType": "GDDR5X",
-        "clock": 1607,
-        "memoryClock": 1251,
-        "shaderUnits": 1920,
-        "renderUnits": 64,
-        "textureUnits": 120,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
     "P104-101": {
         "name": "P104-101",
         "names": [
@@ -61937,28 +69773,6 @@ const database = {
         "shaderUnits": 2560,
         "renderUnits": 64,
         "textureUnits": 160,
-        "type": null,
-        "tdp": null,
-        "performance": null
-    },
-    "P106-090": {
-        "name": "P106-090",
-        "names": [
-            "P106-090"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": null,
-        "vendor": "NVIDIA",
-        "released": "Jul 31, 2017",
-        "memory": 3072,
-        "memoryType": "GDDR5",
-        "clock": 1354,
-        "memoryClock": 2002,
-        "shaderUnits": 768,
-        "renderUnits": 48,
-        "textureUnits": 48,
         "type": null,
         "tdp": null,
         "performance": null
@@ -62117,201 +69931,17 @@ const database = {
         "tdp": null,
         "performance": null
     },
-    "NVIDIA GeForce RTX 2080 (Laptop)": {
-        "name": "NVIDIA GeForce RTX 2080 (Laptop)",
+    "NVIDIA GeForce RTX 3080 Mobile": {
+        "name": "NVIDIA GeForce RTX 3080 Mobile",
         "names": [
-            "NVIDIA GeForce RTX 2080 (Laptop)"
+            "NVIDIA GeForce RTX 3080 Mobile"
         ],
         "codeName": null,
-        "architecture": "Turing",
+        "architecture": "Ampere",
         "openGL": "4.6",
         "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jan 09 2019",
-        "memory": null,
-        "memoryType": "GDDR6",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1380",
-        "performance": 14093.928639391055
-    },
-    "NVIDIA GeForce GTX 1080 SLI (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1080 SLI (Laptop)",
-        "names": [
-            "NVIDIA GeForce GTX 1080 SLI (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
-        "vendor": null,
-        "released": "Fri Aug 19 2016",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1556",
-        "performance": 1910.4925373134329
-    },
-    "NVIDIA GeForce GTX 1070 SLI (Desktop)": {
-        "name": "NVIDIA GeForce GTX 1070 SLI (Desktop)",
-        "names": [
-            "NVIDIA GeForce GTX 1070 SLI (Desktop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
-        "vendor": null,
-        "released": "Fri Aug 19 2016",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1506",
-        "performance": 6790.485061511423
-    },
-    "NVIDIA GeForce GTX 1070 SLI (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1070 SLI (Laptop)",
-        "names": [
-            "NVIDIA GeForce GTX 1070 SLI (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
-        "vendor": null,
-        "released": "Fri Aug 19 2016",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1443",
-        "performance": 12573.232249294155
-    },
-    "NVIDIA GeForce RTX 2070 (Laptop)": {
-        "name": "NVIDIA GeForce RTX 2070 (Laptop)",
-        "names": [
-            "NVIDIA GeForce RTX 2070 (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Turing",
-        "openGL": "4.6",
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Wed Jan 09 2019",
-        "memory": null,
-        "memoryType": "GDDR6",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1215",
-        "performance": 10696.716654545455
-    },
-    "NVIDIA GeForce GTX 1080 (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1080 (Laptop)",
-        "names": [
-            "NVIDIA GeForce GTX 1080 (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Fri Aug 19 2016",
-        "memory": null,
-        "memoryType": "GDDR5X",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1566",
-        "performance": 12360.272509578544
-    },
-    "NVIDIA GeForce RTX 2060 (Laptop)": {
-        "name": "NVIDIA GeForce RTX 2060 (Laptop)",
-        "names": [
-            "NVIDIA GeForce RTX 2060 (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Turing",
-        "openGL": "4.6",
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Wed Jan 09 2019",
-        "memory": null,
-        "memoryType": "GDDR6",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "960",
-        "performance": 11136.506036363637
-    },
-    "NVIDIA GeForce GTX 980 SLI (Laptop)": {
-        "name": "NVIDIA GeForce GTX 980 SLI (Laptop)",
-        "names": [
-            "NVIDIA GeForce GTX 980 SLI (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Maxwell",
-        "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
-        "vendor": null,
-        "released": "Fri Sep 25 2015",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1126",
-        "performance": 17865.429787234043
-    },
-    "NVIDIA GeForce RTX 2060 Max-Q": {
-        "name": "NVIDIA GeForce RTX 2060 Max-Q",
-        "names": [
-            "NVIDIA GeForce RTX 2060 Max-Q"
-        ],
-        "codeName": null,
-        "architecture": "Turing",
-        "openGL": "4.6",
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Wed Jan 09 2019",
+        "released": "Mon Jan 04 2021",
         "memory": null,
         "memoryType": "GDDR6",
         "clock": null,
@@ -62324,17 +69954,109 @@ const database = {
         "clockSpeed": null,
         "performance": null
     },
-    "NVIDIA GeForce GTX 1070 (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1070 (Laptop)",
+    "NVIDIA GeForce RTX 2080 Super (Desktop)": {
+        "name": "NVIDIA GeForce RTX 2080 Super (Desktop)",
         "names": [
-            "NVIDIA GeForce GTX 1070 (Laptop)"
+            "NVIDIA GeForce RTX 2080 Super (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jul 16 2019",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1650",
+        "performance": 7.231222385861561
+    },
+    "NVIDIA GeForce RTX 3070 Mobile": {
+        "name": "NVIDIA GeForce RTX 3070 Mobile",
+        "names": [
+            "NVIDIA GeForce RTX 3070 Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Ampere",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jan 04 2021",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "NVIDIA GeForce GTX 1080 SLI (Laptop)": {
+        "name": "NVIDIA GeForce GTX 1080 SLI (Laptop)",
+        "names": [
+            "NVIDIA GeForce GTX 1080 SLI (Laptop)"
         ],
         "codeName": null,
         "architecture": "Pascal",
         "openGL": "4.5",
         "directX": "12_1",
         "vendor": null,
-        "released": "Sun Sep 04 2016",
+        "released": "Tue Aug 30 2016",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1556",
+        "performance": 1.2985074626865671
+    },
+    "NVIDIA GeForce GTX 1070 SLI (Desktop)": {
+        "name": "NVIDIA GeForce GTX 1070 SLI (Desktop)",
+        "names": [
+            "NVIDIA GeForce GTX 1070 SLI (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Aug 30 2016",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1506",
+        "performance": 5.105326876513317
+    },
+    "NVIDIA GeForce GTX 1070 SLI (Laptop)": {
+        "name": "NVIDIA GeForce GTX 1070 SLI (Laptop)",
+        "names": [
+            "NVIDIA GeForce GTX 1070 SLI (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Aug 30 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62345,7 +70067,145 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1443",
-        "performance": 5477.511538461538
+        "performance": 3.1076040172166426
+    },
+    "NVIDIA GeForce RTX 2070 Super (Desktop)": {
+        "name": "NVIDIA GeForce RTX 2070 Super (Desktop)",
+        "names": [
+            "NVIDIA GeForce RTX 2070 Super (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jul 16 2019",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1605",
+        "performance": 12.401179941002951
+    },
+    "NVIDIA GeForce RTX 3060 Mobile": {
+        "name": "NVIDIA GeForce RTX 3060 Mobile",
+        "names": [
+            "NVIDIA GeForce RTX 3060 Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Ampere",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Mon Jan 04 2021",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "NVIDIA GeForce GTX 1080 (Desktop)": {
+        "name": "NVIDIA GeForce GTX 1080 (Desktop)",
+        "names": [
+            "NVIDIA GeForce GTX 1080 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Pascal",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Fri May 20 2016",
+        "memory": null,
+        "memoryType": "GDDR5X",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1607",
+        "performance": 10.461928934010153
+    },
+    "AMD Radeon RX 5700M": {
+        "name": "AMD Radeon RX 5700M",
+        "names": [
+            "AMD Radeon RX 5700M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Sun Mar 15 2020",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "NVIDIA GeForce GTX 980 SLI (Laptop)": {
+        "name": "NVIDIA GeForce GTX 980 SLI (Laptop)",
+        "names": [
+            "NVIDIA GeForce GTX 980 SLI (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Maxwell",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Oct 06 2015",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1126",
+        "performance": 1.3361344537815127
+    },
+    "NVIDIA GeForce GTX 1660 (Desktop)": {
+        "name": "NVIDIA GeForce GTX 1660 (Desktop)",
+        "names": [
+            "NVIDIA GeForce GTX 1660 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Mar 28 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1530",
+        "performance": 13.307926829268293
     },
     "NVIDIA Quadro P5000 Max-Q": {
         "name": "NVIDIA Quadro P5000 Max-Q",
@@ -62357,7 +70217,7 @@ const database = {
         "openGL": "4.5",
         "directX": "12_1",
         "vendor": null,
-        "released": "Sat Jan 14 2017",
+        "released": "Wed Jan 25 2017",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62378,9 +70238,9 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Oct 10 2014",
+        "released": "Tue Oct 21 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62391,7 +70251,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1038",
-        "performance": 4801.780487804878
+        "performance": 5.793002915451895
     },
     "NVIDIA GeForce GTX 980 (Laptop)": {
         "name": "NVIDIA GeForce GTX 980 (Laptop)",
@@ -62401,9 +70261,9 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Thu Sep 25 2014",
+        "released": "Mon Oct 06 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62414,7 +70274,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1126",
-        "performance": 5933.121951219512
+        "performance": 5
     },
     "NVIDIA GeForce GTX 970M SLI": {
         "name": "NVIDIA GeForce GTX 970M SLI",
@@ -62424,9 +70284,9 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": null,
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Oct 10 2014",
+        "released": "Tue Oct 21 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62437,30 +70297,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "924",
-        "performance": 6493.829268292683
-    },
-    "NVIDIA GeForce GTX 1060 (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1060 (Laptop)",
-        "names": [
-            "NVIDIA GeForce GTX 1060 (Laptop)"
-        ],
-        "codeName": null,
-        "architecture": "Pascal",
-        "openGL": "4.5",
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Sun Aug 21 2016",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1404",
-        "performance": 3037.582142857143
+        "performance": 6.682926829268293
     },
     "AMD Radeon RX 580 (Laptop)": {
         "name": "AMD Radeon RX 580 (Laptop)",
@@ -62472,7 +70309,7 @@ const database = {
         "openGL": null,
         "directX": "12",
         "vendor": null,
-        "released": "Fri Apr 21 2017",
+        "released": "Tue May 02 2017",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62483,7 +70320,53 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1077",
-        "performance": 4164.899914456801
+        "performance": 4.064718162839249
+    },
+    "AMD Radeon RX 5300M": {
+        "name": "AMD Radeon RX 5300M",
+        "names": [
+            "AMD Radeon RX 5300M"
+        ],
+        "codeName": null,
+        "architecture": "Navi / RDNA",
+        "openGL": "4.6",
+        "directX": "12",
+        "vendor": null,
+        "released": "Sun Oct 13 2019",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1036",
+        "performance": 9.106299212598426
+    },
+    "NVIDIA GeForce GTX 1650 (Desktop)": {
+        "name": "NVIDIA GeForce GTX 1650 (Desktop)",
+        "names": [
+            "NVIDIA GeForce GTX 1650 (Desktop)"
+        ],
+        "codeName": null,
+        "architecture": "Turing",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue May 07 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "1485",
+        "performance": 15.9903984637542
     },
     "NVIDIA Quadro P3000 Max-Q": {
         "name": "NVIDIA Quadro P3000 Max-Q",
@@ -62495,7 +70378,7 @@ const database = {
         "openGL": "4.5",
         "directX": "12_1",
         "vendor": null,
-        "released": "Mon Sep 04 2017",
+        "released": "Fri Sep 15 2017",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62518,7 +70401,7 @@ const database = {
         "openGL": null,
         "directX": "12",
         "vendor": null,
-        "released": "Thu Aug 04 2016",
+        "released": "Mon Aug 15 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62529,7 +70412,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3127.3575418994415
+        "performance": 3
+    },
+    "AMD Radeon RX 570 (Laptop)": {
+        "name": "AMD Radeon RX 570 (Laptop)",
+        "names": [
+            "AMD Radeon RX 570 (Laptop)"
+        ],
+        "codeName": null,
+        "architecture": "Polaris",
+        "openGL": "Vulkan",
+        "directX": "12",
+        "vendor": null,
+        "released": "Thu Jan 19 2017",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "926",
+        "performance": null
     },
     "AMD Radeon RX 470 (Laptop)": {
         "name": "AMD Radeon RX 470 (Laptop)",
@@ -62541,7 +70447,7 @@ const database = {
         "openGL": "Vulkan",
         "directX": "12",
         "vendor": null,
-        "released": "Sun Aug 07 2016",
+        "released": "Thu Aug 18 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62552,7 +70458,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "926",
-        "performance": 7826.645441389291
+        "performance": 7.757978723404255
     },
     "NVIDIA GeForce GTX 880M SLI": {
         "name": "NVIDIA GeForce GTX 880M SLI",
@@ -62564,7 +70470,7 @@ const database = {
         "openGL": "4.3",
         "directX": "12 (FL 11_0)",
         "vendor": null,
-        "released": "Sat Mar 15 2014",
+        "released": "Wed Mar 26 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62575,7 +70481,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "954",
-        "performance": 10390.508923431204
+        "performance": 10.689453125
     },
     "NVIDIA GeForce GTX 780M SLI": {
         "name": "NVIDIA GeForce GTX 780M SLI",
@@ -62587,7 +70493,7 @@ const database = {
         "openGL": "4.3",
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jun 02 2013",
+        "released": "Thu Jun 13 2013",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62598,30 +70504,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "823",
-        "performance": 3477.9824368825466
-    },
-    "AMD Radeon R9 290X": {
-        "name": "AMD Radeon R9 290X",
-        "names": [
-            "AMD Radeon R9 290X"
-        ],
-        "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.3",
-        "directX": "12 (FL 12_0)",
-        "vendor": null,
-        "released": "Sun Oct 27 2013",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "1000",
-        "performance": 4543.772230889235
+        "performance": 3.5773874862788144
     },
     "AMD Radeon RX 490M": {
         "name": "AMD Radeon RX 490M",
@@ -62633,7 +70516,7 @@ const database = {
         "openGL": null,
         "directX": "12",
         "vendor": null,
-        "released": "Thu Aug 04 2016",
+        "released": "Mon Aug 15 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62654,9 +70537,9 @@ const database = {
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": null,
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Thu Jan 08 2015",
+        "released": "Mon Jan 19 2015",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62667,7 +70550,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "924",
-        "performance": 1038.142857142857
+        "performance": 904.5
     },
     "AMD Radeon R9 M290X Crossfire": {
         "name": "AMD Radeon R9 M290X Crossfire",
@@ -62679,7 +70562,7 @@ const database = {
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Tue Mar 04 2014",
+        "released": "Sat Mar 15 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62690,7 +70573,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 5723.7
+        "performance": 4.85
     },
     "AMD Radeon HD 8970M Crossfire": {
         "name": "AMD Radeon HD 8970M Crossfire",
@@ -62702,7 +70585,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11.1",
         "vendor": null,
-        "released": "Fri May 04 2012",
+        "released": "Tue May 15 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62713,7 +70596,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 3670.4050632911394
+        "performance": 4.037974683544304
     },
     "NVIDIA GeForce GTX 680M SLI": {
         "name": "NVIDIA GeForce GTX 680M SLI",
@@ -62725,7 +70608,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Thu Jun 07 2012",
+        "released": "Mon Jun 18 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62736,7 +70619,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 5445.156035328753
+        "performance": 6.322865554465162
     },
     "AMD Radeon HD 7970M Crossfire": {
         "name": "AMD Radeon HD 7970M Crossfire",
@@ -62748,7 +70631,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11.1",
         "vendor": null,
-        "released": "Fri May 04 2012",
+        "released": "Tue May 15 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62759,7 +70642,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 3993.244343891403
+        "performance": 3.2126696832579187
     },
     "NVIDIA GeForce GTX 860M SLI": {
         "name": "NVIDIA GeForce GTX 860M SLI",
@@ -62771,7 +70654,7 @@ const database = {
         "openGL": "4.3",
         "directX": "12 (FL 11_0)",
         "vendor": null,
-        "released": "Sat Mar 15 2014",
+        "released": "Wed Mar 26 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62782,7 +70665,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1029",
-        "performance": 4344.858131487889
+        "performance": 4.370242214532872
     },
     "AMD Radeon HD 7970": {
         "name": "AMD Radeon HD 7970",
@@ -62794,7 +70677,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sun Dec 25 2011",
+        "released": "Thu Jan 05 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62805,30 +70688,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "925",
-        "performance": 3976.4725274725274
-    },
-    "NVIDIA GeForce GTX 770M SLI": {
-        "name": "NVIDIA GeForce GTX 770M SLI",
-        "names": [
-            "NVIDIA GeForce GTX 770M SLI"
-        ],
-        "codeName": null,
-        "architecture": "Kepler",
-        "openGL": "4.3",
-        "directX": "11",
-        "vendor": null,
-        "released": "Sun Jun 02 2013",
-        "memory": null,
-        "memoryType": "GDDR5",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "811",
-        "performance": 6788.525179856115
+        "performance": 3
     },
     "AMD Radeon RX Vega M GL / 870": {
         "name": "AMD Radeon RX Vega M GL / 870",
@@ -62840,7 +70700,7 @@ const database = {
         "openGL": null,
         "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jan 10 2018",
+        "released": "Sun Jan 21 2018",
         "memory": null,
         "memoryType": "HBM2",
         "clock": null,
@@ -62851,19 +70711,19 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "931",
-        "performance": 1973.5762711864406
+        "performance": 1
     },
-    "NVIDIA GeForce GTX 1050 (Laptop)": {
-        "name": "NVIDIA GeForce GTX 1050 (Laptop)",
+    "NVIDIA GeForce GTX 1050 (Desktop)": {
+        "name": "NVIDIA GeForce GTX 1050 (Desktop)",
         "names": [
-            "NVIDIA GeForce GTX 1050 (Laptop)"
+            "NVIDIA GeForce GTX 1050 (Desktop)"
         ],
         "codeName": null,
         "architecture": "Pascal",
         "openGL": "4.5",
         "directX": "12_1",
         "vendor": null,
-        "released": "Fri Jan 06 2017",
+        "released": "Tue Nov 08 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62874,7 +70734,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "1354",
-        "performance": 3059.1226765799256
+        "performance": 5.570217917675545
+    },
+    "Intel Xe DG1 LP (iDG1LP) Mobile": {
+        "name": "Intel Xe DG1 LP (iDG1LP) Mobile",
+        "names": [
+            "Intel Xe DG1 LP (iDG1LP) Mobile"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 12 Xe",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Sun Mar 15 2020",
+        "memory": null,
+        "memoryType": "GDDR6",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
     },
     "NVIDIA GeForce GTX 675M SLI": {
         "name": "NVIDIA GeForce GTX 675M SLI",
@@ -62886,7 +70769,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jan 09 2011",
+        "released": "Thu Jan 20 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62897,7 +70780,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "620",
-        "performance": 3505.980425055928
+        "performance": 5.125386040765905
     },
     "NVIDIA GeForce GTX 765M SLI": {
         "name": "NVIDIA GeForce GTX 765M SLI",
@@ -62909,7 +70792,7 @@ const database = {
         "openGL": "4.3",
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jun 02 2013",
+        "released": "Thu Jun 13 2013",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62920,7 +70803,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 2951.4795539033457
+        "performance": 3.6246056782334386
     },
     "AMD Radeon RX 460 (Laptop)": {
         "name": "AMD Radeon RX 460 (Laptop)",
@@ -62932,7 +70815,7 @@ const database = {
         "openGL": "Vulkan",
         "directX": "12",
         "vendor": null,
-        "released": "Thu Aug 11 2016",
+        "released": "Mon Aug 22 2016",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62943,7 +70826,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 484
+        "performance": 421.5
     },
     "AMD Radeon R9 M390": {
         "name": "AMD Radeon R9 M390",
@@ -62955,7 +70838,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 11_2)",
         "vendor": null,
-        "released": "Fri Jun 12 2015",
+        "released": "Tue Jun 23 2015",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62966,7 +70849,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3043.0706319702604
+        "performance": 4.6880733944954125
     },
     "NVIDIA GeForce GTX 670MX SLI": {
         "name": "NVIDIA GeForce GTX 670MX SLI",
@@ -62978,7 +70861,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Thu Oct 04 2012",
+        "released": "Mon Oct 15 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -62989,7 +70872,53 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 2924.4765291607396
+        "performance": 3
+    },
+    "Intel Iris Xe Graphics G7 80EUs": {
+        "name": "Intel Iris Xe Graphics G7 80EUs",
+        "names": [
+            "Intel Iris Xe Graphics G7 80EUs"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.6",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sat Aug 29 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "400",
+        "performance": null
+    },
+    "AMD Radeon RX 540X": {
+        "name": "AMD Radeon RX 540X",
+        "names": [
+            "AMD Radeon RX 540X"
+        ],
+        "codeName": null,
+        "architecture": "GCN 4.0",
+        "openGL": "4.6",
+        "directX": "12_0",
+        "vendor": null,
+        "released": "Wed Apr 04 2018",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
     },
     "NVIDIA GeForce GTX 580M SLI": {
         "name": "NVIDIA GeForce GTX 580M SLI",
@@ -63001,7 +70930,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jan 09 2011",
+        "released": "Thu Jan 20 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63012,7 +70941,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "620",
-        "performance": 3742.360103626943
+        "performance": 2.5492227979274613
     },
     "AMD Radeon HD 6990M Crossfire": {
         "name": "AMD Radeon HD 6990M Crossfire",
@@ -63024,7 +70953,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jul 15 2011",
+        "released": "Tue Jul 26 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63035,7 +70964,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "715",
-        "performance": 3632.5897435897436
+        "performance": 2.4102564102564106
     },
     "NVIDIA GeForce GT 755M SLI": {
         "name": "NVIDIA GeForce GT 755M SLI",
@@ -63047,7 +70976,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Mon Nov 04 2013",
+        "released": "Fri Nov 15 2013",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63058,7 +70987,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "980",
-        "performance": 1845.871921182266
+        "performance": 2
     },
     "NVIDIA GeForce GTX 485M SLI": {
         "name": "NVIDIA GeForce GTX 485M SLI",
@@ -63070,7 +70999,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jan 09 2011",
+        "released": "Thu Jan 20 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63081,7 +71010,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "575",
-        "performance": 3853.122332859175
+        "performance": 3
     },
     "AMD Radeon HD 6970M Crossfire": {
         "name": "AMD Radeon HD 6970M Crossfire",
@@ -63093,7 +71022,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jan 09 2011",
+        "released": "Thu Jan 20 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63104,7 +71033,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "680",
-        "performance": 3523.1428571428573
+        "performance": 2.142857142857143
     },
     "NVIDIA GeForce GT 750M SLI": {
         "name": "NVIDIA GeForce GT 750M SLI",
@@ -63116,7 +71045,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Thu Apr 04 2013",
+        "released": "Mon Apr 15 2013",
         "memory": null,
         "memoryType": "DDR3, GDDR5",
         "clock": null,
@@ -63127,7 +71056,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "967",
-        "performance": 1736.4533898305085
+        "performance": 1
     },
     "NVIDIA GeForce GTX 470M SLI": {
         "name": "NVIDIA GeForce GTX 470M SLI",
@@ -63139,7 +71068,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Thu Nov 04 2010",
+        "released": "Mon Nov 15 2010",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63150,7 +71079,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "535",
-        "performance": 2264
+        "performance": 1.988888888888889
     },
     "NVIDIA GeForce GTX 480M SLI": {
         "name": "NVIDIA GeForce GTX 480M SLI",
@@ -63162,7 +71091,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri May 28 2010",
+        "released": "Tue Jun 08 2010",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63173,7 +71102,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "425",
-        "performance": 1623.4117647058824
+        "performance": 2
     },
     "NVIDIA GeForce GTX 560M SLI": {
         "name": "NVIDIA GeForce GTX 560M SLI",
@@ -63185,7 +71114,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Jan 09 2011",
+        "released": "Thu Jan 20 2011",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63196,30 +71125,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "775",
-        "performance": 2896.9741581832423
-    },
-    "AMD Radeon RX Vega 10": {
-        "name": "AMD Radeon RX Vega 10",
-        "names": [
-            "AMD Radeon RX Vega 10"
-        ],
-        "codeName": null,
-        "architecture": "Vega",
-        "openGL": null,
-        "directX": "12_1",
-        "vendor": null,
-        "released": "Sun Oct 29 2017",
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
-        "performance": 1419.5454545454545
+        "performance": 1.2537142857142858
     },
     "NVIDIA GeForce GT 650M SLI": {
         "name": "NVIDIA GeForce GT 650M SLI",
@@ -63231,7 +71137,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sun Mar 25 2012",
+        "released": "Thu Apr 05 2012",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63242,7 +71148,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "790",
-        "performance": 1996.3728813559321
+        "performance": 1
     },
     "NVIDIA GeForce GTX 460M SLI": {
         "name": "NVIDIA GeForce GTX 460M SLI",
@@ -63254,7 +71160,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Mon Sep 06 2010",
+        "released": "Fri Sep 17 2010",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63265,7 +71171,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "675",
-        "performance": 2009.0939597315437
+        "performance": 1
     },
     "NVIDIA GeForce GTX 285M SLI": {
         "name": "NVIDIA GeForce GTX 285M SLI",
@@ -63277,7 +71183,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Thu Mar 05 2009",
+        "released": "Mon Mar 16 2009",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63288,19 +71194,19 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "576",
-        "performance": 1956.7966101694915
+        "performance": 1
     },
-    "NVIDIA Maxwell GPU Surface Book (940M, GDDR5)": {
-        "name": "NVIDIA Maxwell GPU Surface Book (940M, GDDR5)",
+    "NVIDIA Maxwell GPU Surface Book": {
+        "name": "NVIDIA Maxwell GPU Surface Book",
         "names": [
-            "NVIDIA Maxwell GPU Surface Book (940M, GDDR5)"
+            "NVIDIA Maxwell GPU Surface Book"
         ],
         "codeName": null,
         "architecture": "Maxwell",
         "openGL": "4.5",
         "directX": "12 (FL 11_0)",
         "vendor": null,
-        "released": "Sun Oct 04 2015",
+        "released": "Thu Oct 15 2015",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63311,7 +71217,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "954",
-        "performance": 1840.0829493087558
+        "performance": 1.5898617511520738
     },
     "AMD Radeon R9 M270": {
         "name": "AMD Radeon R9 M270",
@@ -63323,7 +71229,7 @@ const database = {
         "openGL": "4.2",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Fri Apr 04 2014",
+        "released": "Tue Apr 15 2014",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63336,19 +71242,19 @@ const database = {
         "clockSpeed": "725",
         "performance": null
     },
-    "AMD FirePro M6000": {
-        "name": "AMD FirePro M6000",
+    "AMD Radeon RX Vega 8 (Ryzen 4000)": {
+        "name": "AMD Radeon RX Vega 8 (Ryzen 4000)",
         "names": [
-            "AMD FirePro M6000"
+            "AMD Radeon RX Vega 8 (Ryzen 4000)"
         ],
         "codeName": null,
-        "architecture": "GCN",
-        "openGL": "4.1",
-        "directX": "11.1",
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
         "vendor": null,
-        "released": "Wed Jul 04 2012",
+        "released": "Tue Jan 21 2020",
         "memory": null,
-        "memoryType": "GDDR5",
+        "memoryType": null,
         "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
@@ -63356,8 +71262,8 @@ const database = {
         "textureUnits": null,
         "type": null,
         "tdp": null,
-        "clockSpeed": "750",
-        "performance": 1670.5327102803737
+        "clockSpeed": null,
+        "performance": 3
     },
     "NVIDIA GeForce GTX 280M SLI": {
         "name": "NVIDIA GeForce GTX 280M SLI",
@@ -63369,7 +71275,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Thu Mar 05 2009",
+        "released": "Mon Mar 16 2009",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63380,7 +71286,76 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "585",
-        "performance": 1928.9310344827586
+        "performance": 1.6232294617563738
+    },
+    "AMD Radeon RX Vega 7": {
+        "name": "AMD Radeon RX Vega 7",
+        "names": [
+            "AMD Radeon RX Vega 7"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jan 21 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1.70863309352518
+    },
+    "Intel Iris Plus Graphics G4 (Ice Lake 48 EU)": {
+        "name": "Intel Iris Plus Graphics G4 (Ice Lake 48 EU)",
+        "names": [
+            "Intel Iris Plus Graphics G4 (Ice Lake 48 EU)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jun 11 2019",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 494.11196911196913
+    },
+    "Apple A12Z Bionic GPU": {
+        "name": "Apple A12Z Bionic GPU",
+        "names": [
+            "Apple A12Z Bionic GPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Wed Apr 01 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 2.422809917355372
     },
     "Apple A12X Bionic GPU": {
         "name": "Apple A12X Bionic GPU",
@@ -63392,7 +71367,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Fri Nov 02 2018",
+        "released": "Tue Nov 13 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63403,7 +71378,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1635.5923453493547
+        "performance": 2
     },
     "AMD Radeon R7 M275DX": {
         "name": "AMD Radeon R7 M275DX",
@@ -63415,7 +71390,7 @@ const database = {
         "openGL": null,
         "directX": "12",
         "vendor": null,
-        "released": "Sat Jun 07 2014",
+        "released": "Wed Jun 18 2014",
         "memory": null,
         "memoryType": "DDR3",
         "clock": null,
@@ -63426,7 +71401,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 755.6565656565657
+        "performance": 497.3232323232323
     },
     "AMD Radeon R7 512 Cores (Kaveri Desktop)": {
         "name": "AMD Radeon R7 512 Cores (Kaveri Desktop)",
@@ -63438,7 +71413,7 @@ const database = {
         "openGL": "4.3",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Fri Jan 17 2014",
+        "released": "Tue Jan 28 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63449,7 +71424,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 759.2887323943662
+        "performance": 633.9577464788732
     },
     "AMD Radeon R7 384 Cores (Kaveri Desktop)": {
         "name": "AMD Radeon R7 384 Cores (Kaveri Desktop)",
@@ -63461,7 +71436,7 @@ const database = {
         "openGL": "4.3",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Fri Jan 17 2014",
+        "released": "Tue Jan 28 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63472,7 +71447,99 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 769.7640845070423
+        "performance": 606.3028169014085
+    },
+    "Apple A14 Bionic GPU": {
+        "name": "Apple A14 Bionic GPU",
+        "names": [
+            "Apple A14 Bionic GPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Tue Sep 29 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "AMD Radeon 625": {
+        "name": "AMD Radeon 625",
+        "names": [
+            "AMD Radeon 625"
+        ],
+        "codeName": null,
+        "architecture": "GCN 1.0",
+        "openGL": "4.5",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Aug 26 2019",
+        "memory": null,
+        "memoryType": "DDR3, GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "AMD Radeon RX Vega 6 (Ryzen 4000)": {
+        "name": "AMD Radeon RX Vega 6 (Ryzen 4000)",
+        "names": [
+            "AMD Radeon RX Vega 6 (Ryzen 4000)"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jan 21 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1.412280701754386
+    },
+    "Apple A13 Bionic GPU": {
+        "name": "Apple A13 Bionic GPU",
+        "names": [
+            "Apple A13 Bionic GPU"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Sun Sep 29 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 3.571826655135966
     },
     "Apple A12 Bionic GPU": {
         "name": "Apple A12 Bionic GPU",
@@ -63484,7 +71551,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Sep 15 2018",
+        "released": "Wed Sep 26 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63495,7 +71562,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1533.8646616541353
+        "performance": 1
+    },
+    "Qualcomm Adreno 650": {
+        "name": "Qualcomm Adreno 650",
+        "names": [
+            "Qualcomm Adreno 650"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": "ES 3.2",
+        "directX": "12",
+        "vendor": null,
+        "released": "Wed Dec 18 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "587",
+        "performance": 1
     },
     "Apple A11 Bionic GPU": {
         "name": "Apple A11 Bionic GPU",
@@ -63507,7 +71597,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Fri Sep 15 2017",
+        "released": "Tue Sep 26 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63518,7 +71608,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1163.6614173228347
+        "performance": 12.20536756126021
     },
     "Apple A10X Fusion GPU / PowerVR": {
         "name": "Apple A10X Fusion GPU / PowerVR",
@@ -63530,7 +71620,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Jun 10 2017",
+        "released": "Wed Jun 21 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63541,7 +71631,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1087.716535433071
+        "performance": 1
     },
     "NVIDIA GeForce GTX 260M SLI": {
         "name": "NVIDIA GeForce GTX 260M SLI",
@@ -63553,7 +71643,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Thu Mar 05 2009",
+        "released": "Mon Mar 16 2009",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63564,7 +71654,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "550",
-        "performance": 1080.1142857142856
+        "performance": 23.57142857142858
     },
     "NVIDIA GeForce 9800M GTX SLI": {
         "name": "NVIDIA GeForce 9800M GTX SLI",
@@ -63576,7 +71666,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Jul 18 2008",
+        "released": "Tue Jul 29 2008",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63587,7 +71677,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 978.925
+        "performance": 984.2
     },
     "AMD Radeon R7 (Bristol Ridge)": {
         "name": "AMD Radeon R7 (Bristol Ridge)",
@@ -63595,11 +71685,11 @@ const database = {
             "AMD Radeon R7 (Bristol Ridge)"
         ],
         "codeName": null,
-        "architecture": "GCN 1.2/2.0",
+        "architecture": "GCN 1.2",
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 04 2016",
+        "released": "Wed Jun 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63610,7 +71700,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 688.3006993006993
+        "performance": 655.6476190476191
     },
     "AMD Radeon R7 (Carrizo)": {
         "name": "AMD Radeon R7 (Carrizo)",
@@ -63622,7 +71712,7 @@ const database = {
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sun Jun 07 2015",
+        "released": "Thu Jun 18 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63633,7 +71723,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 807.2447552447552
+        "performance": 835.7534246575342
     },
     "AMD Radeon R7 (Kaveri)": {
         "name": "AMD Radeon R7 (Kaveri)",
@@ -63645,7 +71735,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 07 2014",
+        "released": "Wed Jun 18 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63656,7 +71746,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "553",
-        "performance": 716.6153846153846
+        "performance": 464.88461538461536
     },
     "Apple A9X / PowerVR Series 7XT": {
         "name": "Apple A9X / PowerVR Series 7XT",
@@ -63668,7 +71758,7 @@ const database = {
         "openGL": "4.3 OpenGL ES 3.x",
         "directX": "11_2",
         "vendor": null,
-        "released": "Sat Sep 12 2015",
+        "released": "Wed Sep 23 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63679,7 +71769,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 547.6362845333913
+        "performance": 514.0337176419404
     },
     "NVIDIA GeForce 9800M GT SLI": {
         "name": "NVIDIA GeForce 9800M GT SLI",
@@ -63691,7 +71781,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Jul 18 2008",
+        "released": "Tue Jul 29 2008",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63702,7 +71792,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 1516.85312899106
+        "performance": 1
     },
     "NVIDIA GeForce 9800M GTS SLI": {
         "name": "NVIDIA GeForce 9800M GTS SLI",
@@ -63714,7 +71804,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Jul 18 2008",
+        "released": "Tue Jul 29 2008",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63725,7 +71815,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 1419.6675900277007
+        "performance": 1
     },
     "NVIDIA GeForce 8800M GTX SLI": {
         "name": "NVIDIA GeForce 8800M GTX SLI",
@@ -63737,7 +71827,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Thu Nov 22 2007",
+        "released": "Mon Dec 03 2007",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -63748,7 +71838,122 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 1199.6725663716813
+        "performance": 692.12
+    },
+    "AMD Radeon 610": {
+        "name": "AMD Radeon 610",
+        "names": [
+            "AMD Radeon 610"
+        ],
+        "codeName": null,
+        "architecture": "GCN 1.0",
+        "openGL": "4.5",
+        "directX": "12",
+        "vendor": null,
+        "released": "Mon Aug 26 2019",
+        "memory": null,
+        "memoryType": "GDDR5",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "AMD Radeon RX Vega 6 (Ryzen 2000/3000)": {
+        "name": "AMD Radeon RX Vega 6 (Ryzen 2000/3000)",
+        "names": [
+            "AMD Radeon RX Vega 6 (Ryzen 2000/3000)"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Sun Jan 21 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 363.18181818181813
+    },
+    "AMD Radeon RX Vega 5": {
+        "name": "AMD Radeon RX Vega 5",
+        "names": [
+            "AMD Radeon RX Vega 5"
+        ],
+        "codeName": null,
+        "architecture": "Vega",
+        "openGL": null,
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jan 21 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1
+    },
+    "Intel UHD Graphics G1 (Ice Lake 32 EU)": {
+        "name": "Intel UHD Graphics G1 (Ice Lake 32 EU)",
+        "names": [
+            "Intel UHD Graphics G1 (Ice Lake 32 EU)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Tue Jun 11 2019",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "300",
+        "performance": 225.44444444444443
+    },
+    "Intel UHD Graphics G7 (Lakefield GT2 64 EU)": {
+        "name": "Intel UHD Graphics G7 (Lakefield GT2 64 EU)",
+        "names": [
+            "Intel UHD Graphics G7 (Lakefield GT2 64 EU)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Jun 11 2020",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "200",
+        "performance": 366.58620689655174
     },
     "AMD Radeon R5 (Bristol Ridge)": {
         "name": "AMD Radeon R5 (Bristol Ridge)",
@@ -63760,7 +71965,7 @@ const database = {
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 04 2016",
+        "released": "Wed Jun 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63771,7 +71976,53 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 464.58620689655174
+        "performance": 285.0189873417722
+    },
+    "Qualcomm Adreno 685": {
+        "name": "Qualcomm Adreno 685",
+        "names": [
+            "Qualcomm Adreno 685"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "12",
+        "vendor": null,
+        "released": "Thu Dec 20 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "Qualcomm Adreno 680": {
+        "name": "Qualcomm Adreno 680",
+        "names": [
+            "Qualcomm Adreno 680"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": "12",
+        "vendor": null,
+        "released": "Thu Dec 20 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 1.392638036809816
     },
     "AMD Radeon HD 6775G2": {
         "name": "AMD Radeon HD 6775G2",
@@ -63783,7 +72034,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63806,7 +72057,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 07 2014",
+        "released": "Wed Jun 18 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63817,7 +72068,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 606.4150943396227
+        "performance": 514.5283018867924
     },
     "AMD Radeon HD 8650M": {
         "name": "AMD Radeon HD 8650M",
@@ -63829,7 +72080,7 @@ const database = {
         "openGL": null,
         "directX": "11.1",
         "vendor": null,
-        "released": "Thu Jan 10 2013",
+        "released": "Mon Jan 21 2013",
         "memory": null,
         "memoryType": "GDDR5",
         "clock": null,
@@ -63840,7 +72091,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 545.6341463414634
+        "performance": 227.13333333333333
     },
     "AMD Radeon HD 6755G2": {
         "name": "AMD Radeon HD 6755G2",
@@ -63852,7 +72103,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63863,7 +72114,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 718.7027027027027
+        "performance": 686.8378378378378
     },
     "AMD Radeon HD 6760G2": {
         "name": "AMD Radeon HD 6760G2",
@@ -63875,7 +72126,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63898,7 +72149,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63909,7 +72160,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 473.2758620689655
+        "performance": 555.3607594936709
     },
     "AMD Radeon HD 8650G": {
         "name": "AMD Radeon HD 8650G",
@@ -63921,7 +72172,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Sat May 04 2013",
+        "released": "Wed May 15 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63932,7 +72183,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 611.8095238095239
+        "performance": 449.5238095238095
+    },
+    "Intel UHD Graphics G4 (Lakefield GT1 48 EU)": {
+        "name": "Intel UHD Graphics G4 (Lakefield GT1 48 EU)",
+        "names": [
+            "Intel UHD Graphics G4 (Lakefield GT1 48 EU)"
+        ],
+        "codeName": null,
+        "architecture": "Gen. 11 Ice Lake",
+        "openGL": "4.5",
+        "directX": "12_1",
+        "vendor": null,
+        "released": "Thu Jun 11 2020",
+        "memory": null,
+        "memoryType": "DDR4",
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "200",
+        "performance": null
     },
     "AMD Radeon R5 (Stoney Ridge)": {
         "name": "AMD Radeon R5 (Stoney Ridge)",
@@ -63944,7 +72218,7 @@ const database = {
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 04 2016",
+        "released": "Wed Jun 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63955,7 +72229,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 478.3333333333333
+        "performance": 129
     },
     "Apple A10 Fusion GPU / PowerVR": {
         "name": "Apple A10 Fusion GPU / PowerVR",
@@ -63967,7 +72241,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sun Sep 11 2016",
+        "released": "Thu Sep 22 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -63978,7 +72252,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 584.1864734299517
+        "performance": 659.3317531224359
     },
     "AMD Radeon HD 6720G2": {
         "name": "AMD Radeon HD 6720G2",
@@ -63990,7 +72264,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64001,7 +72275,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 345
+        "performance": 307.51612903225805
     },
     "AMD Radeon HD 8570M": {
         "name": "AMD Radeon HD 8570M",
@@ -64013,7 +72287,7 @@ const database = {
         "openGL": null,
         "directX": "11.1",
         "vendor": null,
-        "released": "Mon Nov 19 2012",
+        "released": "Fri Nov 30 2012",
         "memory": null,
         "memoryType": "DDR3",
         "clock": null,
@@ -64024,7 +72298,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 314.75
+        "performance": 234.75
     },
     "AMD Radeon HD 6690G2": {
         "name": "AMD Radeon HD 6690G2",
@@ -64036,7 +72310,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64049,6 +72323,52 @@ const database = {
         "clockSpeed": null,
         "performance": null
     },
+    "ARM Mali-G77 MP11": {
+        "name": "ARM Mali-G77 MP11",
+        "names": [
+            "ARM Mali-G77 MP11"
+        ],
+        "codeName": null,
+        "architecture": "Valhall",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Thu Apr 02 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 382.262142611092
+    },
+    "ARM Mali-G76 MP16": {
+        "name": "ARM Mali-G76 MP16",
+        "names": [
+            "ARM Mali-G76 MP16"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Fri Sep 14 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 647.7596899224807
+    },
     "Qualcomm Adreno 640": {
         "name": "Qualcomm Adreno 640",
         "names": [
@@ -64059,7 +72379,7 @@ const database = {
         "openGL": "ES 3.2",
         "directX": "12",
         "vendor": null,
-        "released": "Thu Feb 15 2018",
+        "released": "Mon Feb 26 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64070,30 +72390,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1467.8306878306878
-    },
-    "Qualcomm Adreno 630": {
-        "name": "Qualcomm Adreno 630",
-        "names": [
-            "Qualcomm Adreno 630"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": "ES 3.2",
-        "directX": "12",
-        "vendor": null,
-        "released": "Thu Feb 15 2018",
-        "memory": null,
-        "memoryType": null,
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": null,
-        "performance": 9.197860962566844
+        "performance": 575.696
     },
     "ARM Mali-G76 MP12": {
         "name": "ARM Mali-G76 MP12",
@@ -64105,7 +72402,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Mon Sep 03 2018",
+        "released": "Fri Sep 14 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64116,7 +72413,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 578.56236481615
+        "performance": 667.876923076923
     },
     "ARM Mali-G76 MP10": {
         "name": "ARM Mali-G76 MP10",
@@ -64128,7 +72425,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Mon Sep 03 2018",
+        "released": "Fri Sep 14 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64139,7 +72436,53 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "720",
-        "performance": 673.4101440200376
+        "performance": 461.7920382858386
+    },
+    "ARM Mali-G57 MP6": {
+        "name": "ARM Mali-G57 MP6",
+        "names": [
+            "ARM Mali-G57 MP6"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Fri Jul 17 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 607.3544494720966
+    },
+    "ARM Mali-G57 MP5": {
+        "name": "ARM Mali-G57 MP5",
+        "names": [
+            "ARM Mali-G57 MP5"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Sun Jul 05 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 369.13354439487694
     },
     "Qualcomm Adreno 540": {
         "name": "Qualcomm Adreno 540",
@@ -64151,7 +72494,7 @@ const database = {
         "openGL": "ES 3.2",
         "directX": "12",
         "vendor": null,
-        "released": "Sat Mar 25 2017",
+        "released": "Wed Apr 05 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64162,7 +72505,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "710",
-        "performance": 610.5
+        "performance": 496
     },
     "ARM Mali-G72 MP18": {
         "name": "ARM Mali-G72 MP18",
@@ -64174,7 +72517,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Thu Jan 04 2018",
+        "released": "Mon Jan 15 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64185,7 +72528,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 426.3354632587859
+        "performance": 428.73375931842384
     },
     "ARM Mali-G71 MP20": {
         "name": "ARM Mali-G71 MP20",
@@ -64197,7 +72540,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Apr 01 2017",
+        "released": "Wed Apr 12 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64208,7 +72551,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 400.3153347732181
+        "performance": 312.3099352051836
     },
     "ARM Mali-G72 MP12": {
         "name": "ARM Mali-G72 MP12",
@@ -64220,7 +72563,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Oct 21 2017",
+        "released": "Wed Nov 01 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64231,7 +72574,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 361.42417179956715
+        "performance": 323.04720446197797
     },
     "ARM Mali-G71 MP8": {
         "name": "ARM Mali-G71 MP8",
@@ -64243,7 +72586,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Mon Jun 06 2016",
+        "released": "Fri Jun 17 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64254,7 +72597,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 358.73231230231397
+        "performance": 282.252754727248
     },
     "AMD Radeon R5 (Carrizo)": {
         "name": "AMD Radeon R5 (Carrizo)",
@@ -64266,7 +72609,7 @@ const database = {
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sun Jun 07 2015",
+        "released": "Thu Jun 18 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64277,7 +72620,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 396.304347826087
+        "performance": 379.9130434782609
     },
     "AMD Radeon R5 (Kaveri)": {
         "name": "AMD Radeon R5 (Kaveri)",
@@ -64289,7 +72632,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 07 2014",
+        "released": "Wed Jun 18 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64300,7 +72643,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "514",
-        "performance": 315.84697508896795
+        "performance": 316.3125
     },
     "AMD Radeon HD 7660G": {
         "name": "AMD Radeon HD 7660G",
@@ -64312,7 +72655,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Fri May 18 2012",
+        "released": "Tue May 29 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64323,7 +72666,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "497",
-        "performance": 719.9230769230769
+        "performance": 647.6923076923077
     },
     "AMD Radeon HD 6680G2": {
         "name": "AMD Radeon HD 6680G2",
@@ -64335,7 +72678,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64346,7 +72689,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 346
+        "performance": 212.5
     },
     "AMD Radeon HD 8550G": {
         "name": "AMD Radeon HD 8550G",
@@ -64358,7 +72701,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Fri Mar 15 2013",
+        "released": "Tue Mar 26 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64369,7 +72712,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "515",
-        "performance": 719.3461538461538
+        "performance": 673.8846153846154
     },
     "AMD Radeon HD 7610M": {
         "name": "AMD Radeon HD 7610M",
@@ -64381,7 +72724,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Tue Jan 10 2012",
+        "released": "Sat Jan 21 2012",
         "memory": null,
         "memoryType": "DDR3",
         "clock": null,
@@ -64392,7 +72735,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 598.6349206349206
+        "performance": 436.6666666666667
     },
     "AMD Radeon HD 7640G": {
         "name": "AMD Radeon HD 7640G",
@@ -64404,7 +72747,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Fri May 18 2012",
+        "released": "Tue May 29 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64415,7 +72758,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "497",
-        "performance": 191.74285714285713
+        "performance": 190.8
+    },
+    "PowerVR GM9446": {
+        "name": "PowerVR GM9446",
+        "names": [
+            "PowerVR GM9446"
+        ],
+        "codeName": null,
+        "architecture": "PowerVR Rogue",
+        "openGL": "ES 3.2",
+        "directX": null,
+        "vendor": null,
+        "released": "Fri Oct 06 2017",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 338.0310658810927
     },
     "Qualcomm Adreno 530": {
         "name": "Qualcomm Adreno 530",
@@ -64427,7 +72793,7 @@ const database = {
         "openGL": "ES 3.1 AEP",
         "directX": "11.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64438,7 +72804,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "624",
-        "performance": 363.10063259530546
+        "performance": 343.6664399401442
     },
     "PowerVR GXA6850": {
         "name": "PowerVR GXA6850",
@@ -64450,7 +72816,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.0",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 12 2014",
+        "released": "Tue Sep 23 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64461,7 +72827,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450 (?)",
-        "performance": 365.44914266688863
+        "performance": 352.2393861892583
     },
     "Apple A9 / PowerVR GT7600": {
         "name": "Apple A9 / PowerVR GT7600",
@@ -64473,7 +72839,7 @@ const database = {
         "openGL": "4.3 OpenGL ES 3.x",
         "directX": "11_2",
         "vendor": null,
-        "released": "Sat Sep 12 2015",
+        "released": "Wed Sep 23 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64484,7 +72850,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 604.6079085278704
+        "performance": 591.7822772748927
     },
     "ARM Mali-T880 MP12": {
         "name": "ARM Mali-T880 MP12",
@@ -64496,7 +72862,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.2 (FL 11_2)",
         "vendor": null,
-        "released": "Sat Feb 27 2016",
+        "released": "Wed Mar 09 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64507,7 +72873,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 362.7224904278342
+        "performance": 342.7228948442389
+    },
+    "ARM Mali-G76 MP4": {
+        "name": "ARM Mali-G76 MP4",
+        "names": [
+            "ARM Mali-G76 MP4"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Fri Sep 14 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "800",
+        "performance": 314.6049766718507
     },
     "AMD Radeon HD 6645G2": {
         "name": "AMD Radeon HD 6645G2",
@@ -64519,7 +72908,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64542,7 +72931,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64565,7 +72954,7 @@ const database = {
         "openGL": null,
         "directX": "9c",
         "vendor": null,
-        "released": "Sun Oct 15 2006",
+        "released": "Thu Oct 26 2006",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -64576,7 +72965,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "575",
-        "performance": 569.1818181818181
+        "performance": 470.54545454545456
     },
     "NVIDIA GeForce 8700M GT SLI": {
         "name": "NVIDIA GeForce 8700M GT SLI",
@@ -64588,7 +72977,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 21 2007",
+        "released": "Tue Oct 02 2007",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -64599,7 +72988,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "625",
-        "performance": 719.9333333333333
+        "performance": 622.8222222222222
     },
     "ARM Mali-T760 MP8": {
         "name": "ARM Mali-T760 MP8",
@@ -64611,7 +73000,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Wed Mar 04 2015",
+        "released": "Sun Mar 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64622,7 +73011,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 261.4166666666667
+        "performance": 235.1352235550709
     },
     "ARM Mali-G71 MP2": {
         "name": "ARM Mali-G71 MP2",
@@ -64634,7 +73023,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Mon Jun 06 2016",
+        "released": "Fri Jun 17 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64645,7 +73034,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2088.6899906378476
+        "performance": 126.2684276280564
     },
     "AMD Radeon HD 6620G": {
         "name": "AMD Radeon HD 6620G",
@@ -64657,7 +73046,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sat Jun 18 2011",
+        "released": "Wed Jun 29 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64668,7 +73057,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 454.60693641618496
+        "performance": 419.39884393063585
     },
     "AMD Radeon R4 (Stoney Ridge)": {
         "name": "AMD Radeon R4 (Stoney Ridge)",
@@ -64680,7 +73069,7 @@ const database = {
         "openGL": "4.4",
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 04 2016",
+        "released": "Wed Jun 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64691,7 +73080,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 291.0578947368421
+        "performance": 382.9917355371901
     },
     "Qualcomm Adreno 430": {
         "name": "Qualcomm Adreno 430",
@@ -64703,7 +73092,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Thu Apr 10 2014",
+        "released": "Mon Apr 21 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64714,7 +73103,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 393.2850971922246
+        "performance": 303.170626349892
     },
     "AMD Radeon R5 (Beema/Carrizo-L)": {
         "name": "AMD Radeon R5 (Beema/Carrizo-L)",
@@ -64726,7 +73115,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Fri May 02 2014",
+        "released": "Tue May 13 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64737,7 +73126,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 291.23809523809524
+        "performance": 196
     },
     "AMD Radeon R4 (Kaveri)": {
         "name": "AMD Radeon R4 (Kaveri)",
@@ -64749,7 +73138,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Sat Jun 07 2014",
+        "released": "Wed Jun 18 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64760,7 +73149,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 170.89655172413794
+        "performance": 164.13793103448276
     },
     "Intel HD Graphics (Skylake)": {
         "name": "Intel HD Graphics (Skylake)",
@@ -64768,11 +73157,11 @@ const database = {
             "Intel HD Graphics (Skylake)"
         ],
         "codeName": null,
-        "architecture": "Intel Gen. 9 (Skylake)",
+        "architecture": "Gen. 9 Skylake",
         "openGL": "4.4",
-        "directX": "12 (FL 12_1)",
+        "directX": "12_1",
         "vendor": null,
-        "released": "Fri Sep 04 2015",
+        "released": "Tue Sep 15 2015",
         "memory": null,
         "memoryType": "DDR3L/LPDDR3",
         "clock": null,
@@ -64795,7 +73184,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64818,7 +73207,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64829,7 +73218,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 316.88
+        "performance": 265.8
     },
     "AMD Radeon HD 7500G": {
         "name": "AMD Radeon HD 7500G",
@@ -64841,7 +73230,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Fri May 18 2012",
+        "released": "Tue May 29 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64852,7 +73241,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "327",
-        "performance": 220.76923076923077
+        "performance": 158.46153846153845
     },
     "AMD Radeon HD 6515G2": {
         "name": "AMD Radeon HD 6515G2",
@@ -64864,7 +73253,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64887,7 +73276,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Fri Mar 15 2013",
+        "released": "Tue Mar 26 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64898,7 +73287,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 293.61578947368423
+        "performance": 251.8684210526316
     },
     "ARM Mali-G72 MP3": {
         "name": "ARM Mali-G72 MP3",
@@ -64910,7 +73299,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Oct 21 2017",
+        "released": "Wed Nov 01 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64921,7 +73310,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "850",
-        "performance": 1048.62649082102
+        "performance": 254.2901124397644
     },
     "ARM Mali-T880 MP4": {
         "name": "ARM Mali-T880 MP4",
@@ -64933,7 +73322,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.2 (FL 11_2)",
         "vendor": null,
-        "released": "Sun Nov 29 2015",
+        "released": "Thu Dec 10 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64944,7 +73333,76 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1236.3478243171735
+        "performance": 214.8603649830448
+    },
+    "ARM Mali-G52 MP6": {
+        "name": "ARM Mali-G52 MP6",
+        "names": [
+            "ARM Mali-G52 MP6"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Tue Mar 20 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 445.5629758538177
+    },
+    "ARM Mali-G52 MP2": {
+        "name": "ARM Mali-G52 MP2",
+        "names": [
+            "ARM Mali-G52 MP2"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Tue Mar 20 2018",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 298.9456541138676
+    },
+    "ARM Mali-G52 MP1": {
+        "name": "ARM Mali-G52 MP1",
+        "names": [
+            "ARM Mali-G52 MP1"
+        ],
+        "codeName": null,
+        "architecture": "Bifrost",
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Wed Aug 12 2020",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 155.17809655541674
     },
     "AMD Radeon HD 7520G": {
         "name": "AMD Radeon HD 7520G",
@@ -64956,7 +73414,7 @@ const database = {
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Mon Jun 04 2012",
+        "released": "Fri Jun 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -64967,7 +73425,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "497",
-        "performance": 296.4163701067616
+        "performance": 273.1875
     },
     "NVIDIA GeForce 8600M GT SLI": {
         "name": "NVIDIA GeForce 8600M GT SLI",
@@ -64979,7 +73437,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Oct 26 2007",
+        "released": "Tue Nov 06 2007",
         "memory": null,
         "memoryType": "GDDR3, GDDR2",
         "clock": null,
@@ -64990,7 +73448,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "475",
-        "performance": 719.4405594405595
+        "performance": 739.5952380952381
     },
     "AMD Radeon HD 6510G2": {
         "name": "AMD Radeon HD 6510G2",
@@ -65002,7 +73460,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Fri Jun 17 2011",
+        "released": "Tue Jun 28 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65013,7 +73471,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 321.02846975088966
+        "performance": 327.8125
     },
     "AMD Radeon HD 7450M": {
         "name": "AMD Radeon HD 7450M",
@@ -65025,7 +73483,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sat Feb 11 2012",
+        "released": "Wed Feb 22 2012",
         "memory": null,
         "memoryType": "DDR3, GDDR5",
         "clock": null,
@@ -65036,7 +73494,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 277.6334519572954
+        "performance": 231.5
     },
     "ARM Mali-T760 MP6": {
         "name": "ARM Mali-T760 MP6",
@@ -65048,7 +73506,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Fri Oct 04 2013",
+        "released": "Tue Oct 15 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65059,7 +73517,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 1010.0344771441363
+        "performance": 249.20814742102445
     },
     "ARM Mali-T880 MP2": {
         "name": "ARM Mali-T880 MP2",
@@ -65071,7 +73529,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.2 (FL 11_2)",
         "vendor": null,
-        "released": "Sun Nov 29 2015",
+        "released": "Thu Dec 10 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65082,7 +73540,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1763.0153050840559
+        "performance": 160.60936105657683
     },
     "Intel HD Graphics (Braswell)": {
         "name": "Intel HD Graphics (Braswell)",
@@ -65090,11 +73548,11 @@ const database = {
             "Intel HD Graphics (Braswell)"
         ],
         "codeName": null,
-        "architecture": "Intel Gen8",
+        "architecture": "Gen. 8",
         "openGL": null,
         "directX": "11.2",
         "vendor": null,
-        "released": "Sat Apr 04 2015",
+        "released": "Wed Apr 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65105,7 +73563,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "320",
-        "performance": 100.02702702702703
+        "performance": 101.02702702702703
     },
     "PowerVR GX6450": {
         "name": "PowerVR GX6450",
@@ -65117,7 +73575,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.0",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 12 2014",
+        "released": "Tue Sep 23 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65128,7 +73586,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450 (?)",
-        "performance": 580.1089673138763
+        "performance": 299.79493128681065
     },
     "Qualcomm Adreno 420": {
         "name": "Qualcomm Adreno 420",
@@ -65140,7 +73598,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Thu Jun 26 2014",
+        "released": "Mon Jul 07 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65151,7 +73609,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 953.1068913583262
+        "performance": 255.9064786721399
+    },
+    "Qualcomm Adreno 620": {
+        "name": "Qualcomm Adreno 620",
+        "names": [
+            "Qualcomm Adreno 620"
+        ],
+        "codeName": null,
+        "architecture": "Adreno 600",
+        "openGL": "ES 3.2, Vulkan 1.1",
+        "directX": "12",
+        "vendor": null,
+        "released": "Tue Apr 23 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 664.6461538461539
     },
     "Intel HD Graphics (Haswell)": {
         "name": "Intel HD Graphics (Haswell)",
@@ -65159,11 +73640,11 @@ const database = {
             "Intel HD Graphics (Haswell)"
         ],
         "codeName": null,
-        "architecture": "Haswell",
+        "architecture": "Gen. 7.5 Haswell",
         "openGL": null,
         "directX": "11.1",
         "vendor": null,
-        "released": "Thu Oct 04 2012",
+        "released": "Mon Oct 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65174,7 +73655,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 223.15686274509804
+        "performance": 145.98039215686273
     },
     "AMD Radeon HD 6520G": {
         "name": "AMD Radeon HD 6520G",
@@ -65186,7 +73667,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sat Jun 18 2011",
+        "released": "Wed Jun 29 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65197,7 +73678,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 329.2708333333333
+        "performance": 249.86458333333334
     },
     "AMD Radeon HD 8310G": {
         "name": "AMD Radeon HD 8310G",
@@ -65205,11 +73686,11 @@ const database = {
             "AMD Radeon HD 8310G"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "TeraScale 3",
         "openGL": "4.2",
         "directX": "11",
         "vendor": null,
-        "released": "Sun May 26 2013",
+        "released": "Thu Jun 06 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65232,7 +73713,7 @@ const database = {
         "openGL": null,
         "directX": "9c",
         "vendor": null,
-        "released": "Sat Mar 04 2006",
+        "released": "Wed Mar 15 2006",
         "memory": null,
         "memoryType": "GDDR3",
         "clock": null,
@@ -65255,7 +73736,7 @@ const database = {
         "openGL": null,
         "directX": "11",
         "vendor": null,
-        "released": "Sat Jun 18 2011",
+        "released": "Wed Jun 29 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65266,7 +73747,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "444",
-        "performance": 275.3
+        "performance": 237.8
     },
     "Qualcomm Adreno 418": {
         "name": "Qualcomm Adreno 418",
@@ -65278,7 +73759,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.1",
         "vendor": null,
-        "released": "Thu Jun 26 2014",
+        "released": "Mon Jul 07 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65289,7 +73770,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 654.4407945618107
+        "performance": 291.0487462073889
+    },
+    "Qualcomm Adreno 618": {
+        "name": "Qualcomm Adreno 618",
+        "names": [
+            "Qualcomm Adreno 618"
+        ],
+        "codeName": null,
+        "architecture": "Adreno 600",
+        "openGL": "ES 3.2, Vulkan",
+        "directX": "12.1",
+        "vendor": null,
+        "released": "Tue Apr 23 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 552.3099847726778
     },
     "Qualcomm Adreno 616": {
         "name": "Qualcomm Adreno 616",
@@ -65301,7 +73805,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65312,7 +73816,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 534.2459826946848
+        "performance": 274.43214851057706
     },
     "AMD Radeon R2 (Mullins/Beema/Carrizo-L)": {
         "name": "AMD Radeon R2 (Mullins/Beema/Carrizo-L)",
@@ -65324,7 +73828,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Fri May 02 2014",
+        "released": "Tue May 13 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65335,7 +73839,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 205.05882352941177
+        "performance": 114.82352941176471
     },
     "ARM Mali-G51 MP4": {
         "name": "ARM Mali-G51 MP4",
@@ -65347,7 +73851,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sun Jul 22 2018",
+        "released": "Thu Aug 02 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65358,7 +73862,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 979.5916066267757
+        "performance": 265.9676735677316
     },
     "AMD Radeon R6 (Mullins)": {
         "name": "AMD Radeon R6 (Mullins)",
@@ -65370,7 +73874,7 @@ const database = {
         "openGL": null,
         "directX": "12 (FL 12_0)",
         "vendor": null,
-        "released": "Fri May 02 2014",
+        "released": "Tue May 13 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65381,7 +73885,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "500",
-        "performance": 404
+        "performance": 282
     },
     "Intel HD Graphics (Cherry Trail)": {
         "name": "Intel HD Graphics (Cherry Trail)",
@@ -65389,11 +73893,11 @@ const database = {
             "Intel HD Graphics (Cherry Trail)"
         ],
         "codeName": null,
-        "architecture": "Intel Gen8",
+        "architecture": "Gen. 8",
         "openGL": "4.3",
         "directX": "12 (FL 11_1)",
         "vendor": null,
-        "released": "Thu Mar 05 2015",
+        "released": "Mon Mar 16 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65404,7 +73908,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 264.95454545454544
+        "performance": 220.8030303030303
     },
     "ATI Mobility Radeon X800XT": {
         "name": "ATI Mobility Radeon X800XT",
@@ -65416,7 +73920,7 @@ const database = {
         "openGL": null,
         "directX": "9b",
         "vendor": null,
-        "released": "Sat Jun 11 2005",
+        "released": "Wed Jun 22 2005",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65435,11 +73939,11 @@ const database = {
             "Intel HD Graphics (Ivy Bridge)"
         ],
         "codeName": null,
-        "architecture": "Ivy Bridge",
+        "architecture": "Gen. 7 Ivy Bridge",
         "openGL": null,
         "directX": "11.0",
         "vendor": null,
-        "released": "Thu Oct 04 2012",
+        "released": "Mon Oct 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65450,7 +73954,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 321.5612244897959
+        "performance": 298.61224489795916
     },
     "NVIDIA GeForce G 110M": {
         "name": "NVIDIA GeForce G 110M",
@@ -65462,7 +73966,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Sun Jan 11 2009",
+        "released": "Thu Jan 22 2009",
         "memory": null,
         "memoryType": "GDDR2, GDDR3",
         "clock": null,
@@ -65473,7 +73977,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 206.35
+        "performance": 154.8
     },
     "NVIDIA GeForce G 107M": {
         "name": "NVIDIA GeForce G 107M",
@@ -65485,7 +73989,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 04 2009",
+        "released": "Tue Sep 15 2009",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65508,7 +74012,7 @@ const database = {
         "openGL": null,
         "directX": "10.0",
         "vendor": null,
-        "released": "Sat Jan 12 2008",
+        "released": "Wed Jan 23 2008",
         "memory": null,
         "memoryType": "GDDR2, GDDR3",
         "clock": null,
@@ -65531,7 +74035,7 @@ const database = {
         "openGL": null,
         "directX": "10.0",
         "vendor": null,
-        "released": "Fri Mar 06 2009",
+        "released": "Tue Mar 17 2009",
         "memory": null,
         "memoryType": "DDR2, DDR3",
         "clock": null,
@@ -65542,7 +74046,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 92.625
+        "performance": 91.625
     },
     "NVIDIA GeForce G 205M": {
         "name": "NVIDIA GeForce G 205M",
@@ -65554,7 +74058,7 @@ const database = {
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Mon Jan 04 2010",
+        "released": "Fri Jan 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65573,11 +74077,11 @@ const database = {
             "Intel HD Graphics (Sandy Bridge)"
         ],
         "codeName": null,
-        "architecture": "Sandy Bridge",
+        "architecture": "Gen. 6 Sandy Bridge",
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Wed May 04 2011",
+        "released": "Sun May 15 2011",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65588,7 +74092,53 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "350",
-        "performance": 153.3
+        "performance": 115.85714285714286
+    },
+    "Qualcomm Adreno 612": {
+        "name": "Qualcomm Adreno 612",
+        "names": [
+            "Qualcomm Adreno 612"
+        ],
+        "codeName": null,
+        "architecture": "Adreno 600",
+        "openGL": "ES 3.2, Vulkan",
+        "directX": "12.1",
+        "vendor": null,
+        "released": "Tue Dec 29 2015",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 217.55498839907193
+    },
+    "Qualcomm Adreno 610": {
+        "name": "Qualcomm Adreno 610",
+        "names": [
+            "Qualcomm Adreno 610"
+        ],
+        "codeName": null,
+        "architecture": "Adreno 600",
+        "openGL": "ES 3.2, Vulkan",
+        "directX": "12.1",
+        "vendor": null,
+        "released": "Tue Apr 23 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 299.20232018561484
     },
     "Qualcomm Adreno 512": {
         "name": "Qualcomm Adreno 512",
@@ -65600,7 +74150,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65611,7 +74161,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 372.171875
+        "performance": 338.95447241564005
     },
     "Qualcomm Adreno 510": {
         "name": "Qualcomm Adreno 510",
@@ -65623,7 +74173,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65634,7 +74184,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 859.973826678064
+        "performance": 266.8648938068892
     },
     "Qualcomm Adreno 330": {
         "name": "Qualcomm Adreno 330",
@@ -65646,7 +74196,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9_3",
         "vendor": null,
-        "released": "Thu Jan 10 2013",
+        "released": "Mon Jan 21 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65657,7 +74207,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 1270.4578092563195
+        "performance": 218.56567910048187
     },
     "PowerVR G6430": {
         "name": "PowerVR G6430",
@@ -65669,7 +74219,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.0",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 13 2013",
+        "released": "Tue Sep 24 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65680,7 +74230,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1241.2373102128872
+        "performance": 222.00388184900947
     },
     "PowerVR GX6250": {
         "name": "PowerVR GX6250",
@@ -65692,7 +74242,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.x",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 12 2014",
+        "released": "Tue Sep 23 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65703,7 +74253,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1722.8516709406927
+        "performance": 165.33517758343743
     },
     "PowerVR G6400": {
         "name": "PowerVR G6400",
@@ -65715,7 +74265,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.1",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 13 2013",
+        "released": "Tue Sep 24 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65726,7 +74276,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 1511.9052794398992
+        "performance": 190.15598786364447
     },
     "Intel HD Graphics (Bay Trail)": {
         "name": "Intel HD Graphics (Bay Trail)",
@@ -65734,11 +74284,11 @@ const database = {
             "Intel HD Graphics (Bay Trail)"
         ],
         "codeName": null,
-        "architecture": "Ivy Bridge",
+        "architecture": "Gen. 7 Ivy Bridge",
         "openGL": "4.0, ES 3.0",
         "directX": "11",
         "vendor": null,
-        "released": "Sat Sep 14 2013",
+        "released": "Wed Sep 25 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65749,7 +74299,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "311",
-        "performance": 99.68181818181819
+        "performance": 75.79545454545455
     },
     "ARM Mali-T628 MP6": {
         "name": "ARM Mali-T628 MP6",
@@ -65761,7 +74311,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "11",
         "vendor": null,
-        "released": "Sat Sep 28 2013",
+        "released": "Wed Oct 09 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65772,7 +74322,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 1761.269060121301
+        "performance": 160.81483134035338
     },
     "ARM Mali-T760 MP4": {
         "name": "ARM Mali-T760 MP4",
@@ -65784,7 +74334,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.1",
         "vendor": null,
-        "released": "Fri Oct 04 2013",
+        "released": "Tue Oct 15 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65795,7 +74345,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 2294.8051044083527
+        "performance": 98.03681063715865
     },
     "VIA Chrome9HD": {
         "name": "VIA Chrome9HD",
@@ -65807,7 +74357,7 @@ const database = {
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Sun Mar 04 2007",
+        "released": "Thu Mar 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65818,7 +74368,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 92.7948717948718
+        "performance": 93.7948717948718
     },
     "ATI Radeon HD 4225": {
         "name": "ATI Radeon HD 4225",
@@ -65830,7 +74380,7 @@ const database = {
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Tue May 04 2010",
+        "released": "Sat May 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65853,7 +74403,7 @@ const database = {
         "openGL": null,
         "directX": "10.1",
         "vendor": null,
-        "released": "Wed Nov 04 2009",
+        "released": "Sun Nov 15 2009",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65876,7 +74426,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "9",
         "vendor": null,
-        "released": "Fri Oct 26 2012",
+        "released": "Tue Nov 06 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65887,7 +74437,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2016.80290633777
+        "performance": 130.74767981438515
     },
     "ARM Mali-T628 MP4": {
         "name": "ARM Mali-T628 MP4",
@@ -65899,7 +74449,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "11",
         "vendor": null,
-        "released": "Sun Sep 07 2014",
+        "released": "Thu Sep 18 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65910,7 +74460,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1971.633369967843
+        "performance": 136.06251115473853
     },
     "Qualcomm Adreno 509": {
         "name": "Qualcomm Adreno 509",
@@ -65922,7 +74472,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Thu May 11 2017",
+        "released": "Mon May 22 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65933,7 +74483,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 942.8622542434973
+        "performance": 257.31737462073886
     },
     "Qualcomm Adreno 508": {
         "name": "Qualcomm Adreno 508",
@@ -65945,7 +74495,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Thu May 11 2017",
+        "released": "Mon May 22 2017",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65956,7 +74506,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 1216.5570480726176
+        "performance": 224.8941638407996
     },
     "Qualcomm Adreno 506": {
         "name": "Qualcomm Adreno 506",
@@ -65968,7 +74518,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -65979,7 +74529,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 1825.4144584198314
+        "performance": 153.52748527574514
+    },
+    "PowerVR GE8322 / IMG8322": {
+        "name": "PowerVR GE8322 / IMG8322",
+        "names": [
+            "PowerVR GE8322 / IMG8322"
+        ],
+        "codeName": null,
+        "architecture": "Rogue",
+        "openGL": "ES 3.2",
+        "directX": null,
+        "vendor": null,
+        "released": "Wed Jul 17 2019",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": 100.57094413706943
     },
     "Qualcomm Adreno 505": {
         "name": "Qualcomm Adreno 505",
@@ -65991,7 +74564,7 @@ const database = {
         "openGL": "ES 3.2, Vulkan",
         "directX": "12.1",
         "vendor": null,
-        "released": "Fri Dec 18 2015",
+        "released": "Tue Dec 29 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66002,19 +74575,19 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 2236.014857328937
+        "performance": 109.83080492593254
     },
-    "ATI Mobility Radeon HD 3400": {
-        "name": "ATI Mobility Radeon HD 3400",
+    "Qualcomm Adreno 504": {
+        "name": "Qualcomm Adreno 504",
         "names": [
-            "ATI Mobility Radeon HD 3400"
+            "Qualcomm Adreno 504"
         ],
         "codeName": null,
-        "architecture": "RV6xx",
-        "openGL": null,
-        "directX": null,
+        "architecture": "Adreno 500",
+        "openGL": "ES 3.2, Vulkan",
+        "directX": "12.1",
         "vendor": null,
-        "released": "Wed Aug 04 2010",
+        "released": "Sat Jul 14 2018",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66024,8 +74597,8 @@ const database = {
         "textureUnits": null,
         "type": null,
         "tdp": null,
-        "clockSpeed": null,
-        "performance": null
+        "clockSpeed": "450",
+        "performance": 66.36699089773336
     },
     "ARM Mali-T860 MP2": {
         "name": "ARM Mali-T860 MP2",
@@ -66037,7 +74610,7 @@ const database = {
         "openGL": "ES 3.1 AEP",
         "directX": "11.1",
         "vendor": null,
-        "released": "Sun Jan 04 2015",
+        "released": "Thu Jan 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66048,7 +74621,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 2225.1299303944315
+        "performance": 105.44743887203283
     },
     "ARM Mali-T830 MP3": {
         "name": "ARM Mali-T830 MP3",
@@ -66060,7 +74633,7 @@ const database = {
         "openGL": "ES 3.2",
         "directX": "11 (FL 9_3)",
         "vendor": null,
-        "released": "Mon Apr 04 2016",
+        "released": "Fri Apr 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66071,7 +74644,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 1816.7996499369071
+        "performance": 154.28087631625914
     },
     "Intel Graphics Media Accelerator (GMA) 4700MHD": {
         "name": "Intel Graphics Media Accelerator (GMA) 4700MHD",
@@ -66079,13 +74652,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 4700MHD"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 4.5",
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Sat Oct 04 2008",
+        "released": "Wed Oct 15 2008",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared) bis 384 MB",
+        "memoryType": null,
         "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
@@ -66102,13 +74675,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 4500MHD"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 4.5",
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Sat Oct 04 2008",
+        "released": "Wed Oct 15 2008",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared) bis 384 MB",
+        "memoryType": null,
         "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
@@ -66117,7 +74690,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 46.61666666666667
+        "performance": 47.61666666666667
     },
     "Intel Graphics Media Accelerator (GMA) 4500M": {
         "name": "Intel Graphics Media Accelerator (GMA) 4500M",
@@ -66125,13 +74698,13 @@ const database = {
             "Intel Graphics Media Accelerator (GMA) 4500M"
         ],
         "codeName": null,
-        "architecture": null,
+        "architecture": "Gen. 4.5",
         "openGL": null,
         "directX": "10",
         "vendor": null,
-        "released": "Sat Oct 04 2008",
+        "released": "Wed Oct 15 2008",
         "memory": null,
-        "memoryType": "mit Hauptspeicher geteilt (shared) bis 384 MB",
+        "memoryType": null,
         "clock": null,
         "memoryClock": null,
         "shaderUnits": null,
@@ -66140,7 +74713,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 46.791666666666664
+        "performance": 47.791666666666664
     },
     "ARM Mali-T604 MP4": {
         "name": "ARM Mali-T604 MP4",
@@ -66152,7 +74725,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "11",
         "vendor": null,
-        "released": "Thu Nov 15 2012",
+        "released": "Mon Nov 26 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66163,7 +74736,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 251
+        "performance": 207
     },
     "PowerVR G6200": {
         "name": "PowerVR G6200",
@@ -66175,7 +74748,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.1",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 13 2013",
+        "released": "Tue Sep 24 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66186,7 +74759,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450 - 700",
-        "performance": 2102.2524931819107
+        "performance": 120.69333392825271
     },
     "Qualcomm Adreno 405": {
         "name": "Qualcomm Adreno 405",
@@ -66198,7 +74771,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11",
         "vendor": null,
-        "released": "Thu Feb 27 2014",
+        "released": "Mon Mar 10 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66209,7 +74782,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2416.693002808646
+        "performance": 83.6949848295556
     },
     "ARM Mali-T830 MP2": {
         "name": "ARM Mali-T830 MP2",
@@ -66221,7 +74794,7 @@ const database = {
         "openGL": "ES 3.2",
         "directX": "11 (FL 9_3)",
         "vendor": null,
-        "released": "Mon Apr 04 2016",
+        "released": "Fri Apr 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66232,7 +74805,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2069.0738388895675
+        "performance": 124.59726932000713
     },
     "ATI Mobility FireGL T2e": {
         "name": "ATI Mobility FireGL T2e",
@@ -66244,7 +74817,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Wed Aug 04 2004",
+        "released": "Sun Aug 15 2004",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66257,29 +74830,6 @@ const database = {
         "clockSpeed": "450",
         "performance": null
     },
-    "ATI Mobility Radeon 9600": {
-        "name": "ATI Mobility Radeon 9600",
-        "names": [
-            "ATI Mobility Radeon 9600"
-        ],
-        "codeName": null,
-        "architecture": null,
-        "openGL": null,
-        "directX": "9",
-        "vendor": null,
-        "released": "Fri Jun 04 2004",
-        "memory": null,
-        "memoryType": "DDR",
-        "clock": null,
-        "memoryClock": null,
-        "shaderUnits": null,
-        "renderUnits": null,
-        "textureUnits": null,
-        "type": null,
-        "tdp": null,
-        "clockSpeed": "300",
-        "performance": 41.03938356164383
-    },
     "PowerVR SGX543MP4": {
         "name": "PowerVR SGX543MP4",
         "names": [
@@ -66290,7 +74840,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "10.1",
         "vendor": null,
-        "released": "Thu Mar 19 2009",
+        "released": "Mon Mar 30 2009",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66313,7 +74863,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "11",
         "vendor": null,
-        "released": "Sat Aug 10 2013",
+        "released": "Wed Aug 21 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66324,7 +74874,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2210.6360972035654
+        "performance": 107.9404783151883
     },
     "Qualcomm Adreno 320": {
         "name": "Qualcomm Adreno 320",
@@ -66336,7 +74886,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9_3",
         "vendor": null,
-        "released": "Thu Mar 01 2012",
+        "released": "Mon Mar 12 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66347,7 +74897,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 2127.6312533072823
+        "performance": 117.70716580403355
     },
     "ARM Mali-T760 MP2": {
         "name": "ARM Mali-T760 MP2",
@@ -66359,7 +74909,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11.1",
         "vendor": null,
-        "released": "Fri Oct 04 2013",
+        "released": "Tue Oct 15 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66370,7 +74920,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 2488.871127935849
+        "performance": 75.20221310012494
     },
     "PowerVR GE8320": {
         "name": "PowerVR GE8320",
@@ -66382,7 +74932,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.0",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 12 2014",
+        "released": "Tue Sep 23 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66393,7 +74943,30 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 2256.6205478894453
+        "performance": 125.57667767267536
+    },
+    "PowerVR GE8300": {
+        "name": "PowerVR GE8300",
+        "names": [
+            "PowerVR GE8300"
+        ],
+        "codeName": null,
+        "architecture": "PowerVR Series8XE",
+        "openGL": "3.x, 4.x, OpenGL ES 3.0",
+        "directX": "10",
+        "vendor": null,
+        "released": "Tue Sep 23 2014",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": "660",
+        "performance": 75.55836159200427
     },
     "PowerVR GE8100": {
         "name": "PowerVR GE8100",
@@ -66405,7 +74978,7 @@ const database = {
         "openGL": "3.x, 4.x, OpenGL ES 3.0",
         "directX": "10",
         "vendor": null,
-        "released": "Fri Sep 12 2014",
+        "released": "Tue Sep 23 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66416,7 +74989,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "570",
-        "performance": 2951.3932104042005
+        "performance": 20.99230323041228
     },
     "ARM Mali-T720 MP4": {
         "name": "ARM Mali-T720 MP4",
@@ -66428,7 +75001,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "11 (FL 9_3)",
         "vendor": null,
-        "released": "Sat Nov 02 2013",
+        "released": "Wed Nov 13 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66439,7 +75012,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2639.164611063622
+        "performance": 57.51807067642334
     },
     "ARM Mali-450 MP4": {
         "name": "ARM Mali-450 MP4",
@@ -66451,7 +75024,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Sun Jun 24 2012",
+        "released": "Thu Jul 05 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66462,7 +75035,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "700",
-        "performance": 2755.2316929213985
+        "performance": 43.8611458147421
     },
     "ARM Mali-T830 MP1": {
         "name": "ARM Mali-T830 MP1",
@@ -66474,7 +75047,7 @@ const database = {
         "openGL": "ES 3.2",
         "directX": "11 (FL 9_3)",
         "vendor": null,
-        "released": "Mon Apr 04 2016",
+        "released": "Fri Apr 15 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66485,7 +75058,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2498.766516058127
+        "performance": 74.03788149205782
     },
     "NVIDIA GeForce 7190M": {
         "name": "NVIDIA GeForce 7190M",
@@ -66497,7 +75070,7 @@ const database = {
         "openGL": null,
         "directX": "9c",
         "vendor": null,
-        "released": "Sat Feb 04 2006",
+        "released": "Wed Feb 15 2006",
         "memory": null,
         "memoryType": "shared Memory",
         "clock": null,
@@ -66520,7 +75093,7 @@ const database = {
         "openGL": null,
         "directX": "9c",
         "vendor": null,
-        "released": "Sat Feb 04 2006",
+        "released": "Wed Feb 15 2006",
         "memory": null,
         "memoryType": "shared Memory",
         "clock": null,
@@ -66543,7 +75116,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "10.1",
         "vendor": null,
-        "released": "Thu Mar 19 2009",
+        "released": "Mon Mar 30 2009",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66554,7 +75127,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 251
+        "performance": 207
     },
     "NVIDIA GeForce 4 488 Go": {
         "name": "NVIDIA GeForce 4 488 Go",
@@ -66566,7 +75139,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Mon Mar 04 2002",
+        "released": "Fri Mar 15 2002",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -66577,7 +75150,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "275",
-        "performance": 69.01860465116279
+        "performance": 82.06976744186046
     },
     "NVIDIA GeForce 4 460 Go": {
         "name": "NVIDIA GeForce 4 460 Go",
@@ -66589,7 +75162,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Mon Mar 04 2002",
+        "released": "Fri Mar 15 2002",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -66600,7 +75173,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "250",
-        "performance": 89.79379844961241
+        "performance": 109.9767441860465
     },
     "NVIDIA GeForce 4 440 Go": {
         "name": "NVIDIA GeForce 4 440 Go",
@@ -66612,7 +75185,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Mon Mar 04 2002",
+        "released": "Fri Mar 15 2002",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -66635,7 +75208,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Mon Mar 04 2002",
+        "released": "Fri Mar 15 2002",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -66646,7 +75219,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "190",
-        "performance": 27.388535031847134
+        "performance": 27.939490445859875
     },
     "PowerVR SGX543MP2": {
         "name": "PowerVR SGX543MP2",
@@ -66658,7 +75231,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "10.1",
         "vendor": null,
-        "released": "Thu Mar 19 2009",
+        "released": "Mon Mar 30 2009",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66681,7 +75254,7 @@ const database = {
         "openGL": "3.2",
         "directX": "9_3/10.1",
         "vendor": null,
-        "released": "Mon Jan 04 2010",
+        "released": "Fri Jan 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66692,7 +75265,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "533",
-        "performance": 29.91780821917808
+        "performance": 30.561643835616437
     },
     "PowerVR SGX544MP2": {
         "name": "PowerVR SGX544MP2",
@@ -66704,7 +75277,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "9_3/10.1",
         "vendor": null,
-        "released": "Mon Jan 04 2010",
+        "released": "Fri Jan 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66715,7 +75288,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "300",
-        "performance": 2599.000976920259
+        "performance": 62.243887203283954
     },
     "ARM Mali-T720 MP2": {
         "name": "ARM Mali-T720 MP2",
@@ -66727,7 +75300,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "9.3",
         "vendor": null,
-        "released": "Wed Mar 04 2015",
+        "released": "Sun Mar 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66738,7 +75311,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "650",
-        "performance": 2829.505312003908
+        "performance": 36.01902998393718
     },
     "PowerVR SGX544": {
         "name": "PowerVR SGX544",
@@ -66750,7 +75323,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": "9_3/10.1",
         "vendor": null,
-        "released": "Mon Jan 04 2010",
+        "released": "Fri Jan 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66761,7 +75334,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "384",
-        "performance": 3111
+        "performance": 2
     },
     "Qualcomm Adreno 308": {
         "name": "Qualcomm Adreno 308",
@@ -66773,7 +75346,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9.3",
         "vendor": null,
-        "released": "Sun Feb 14 2016",
+        "released": "Thu Feb 25 2016",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66784,7 +75357,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2730.3185981194283
+        "performance": 46.71718275923612
     },
     "Qualcomm Adreno 306": {
         "name": "Qualcomm Adreno 306",
@@ -66796,7 +75369,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9.3",
         "vendor": null,
-        "released": "Tue Sep 04 2012",
+        "released": "Sat Sep 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66807,7 +75380,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 2919.9608010746124
+        "performance": 24.47844904515438
     },
     "Qualcomm Adreno 305": {
         "name": "Qualcomm Adreno 305",
@@ -66819,7 +75392,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9.0c",
         "vendor": null,
-        "released": "Tue Sep 04 2012",
+        "released": "Sat Sep 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66830,7 +75403,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "450",
-        "performance": 2876.6539259982906
+        "performance": 29.57411208281278
     },
     "Qualcomm Adreno 304": {
         "name": "Qualcomm Adreno 304",
@@ -66842,7 +75415,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9.0c",
         "vendor": null,
-        "released": "Sat Jul 04 2015",
+        "released": "Wed Jul 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66853,7 +75426,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 2894.931289941792
+        "performance": 27.423523112618238
     },
     "ARM Mali-T720": {
         "name": "ARM Mali-T720",
@@ -66865,7 +75438,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": "9.3",
         "vendor": null,
-        "released": "Wed Mar 04 2015",
+        "released": "Sun Mar 15 2015",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66876,7 +75449,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600",
-        "performance": 3020.5445109292955
+        "performance": 12.643360699625202
     },
     "Vivante GC7000UL": {
         "name": "Vivante GC7000UL",
@@ -66888,7 +75461,7 @@ const database = {
         "openGL": "ES 3.1",
         "directX": null,
         "vendor": null,
-        "released": "Sat Jan 04 2014",
+        "released": "Wed Jan 15 2014",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66899,7 +75472,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3065.131965644971
+        "performance": 7.397019453864002
     },
     "Qualcomm Adreno 302": {
         "name": "Qualcomm Adreno 302",
@@ -66911,7 +75484,7 @@ const database = {
         "openGL": "ES 3.0",
         "directX": "9.3",
         "vendor": null,
-        "released": "Sun Jun 23 2013",
+        "released": "Thu Jul 04 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66922,7 +75495,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 2948.599218463793
+        "performance": 21.10873639121899
     },
     "SIS Mirage 3+ 672MX": {
         "name": "SIS Mirage 3+ 672MX",
@@ -66934,7 +75507,7 @@ const database = {
         "openGL": null,
         "directX": "9",
         "vendor": null,
-        "released": "Thu Jan 04 2007",
+        "released": "Mon Jan 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66957,7 +75530,7 @@ const database = {
         "openGL": null,
         "directX": "8.1",
         "vendor": null,
-        "released": "Sun Jun 04 2006",
+        "released": "Thu Jun 15 2006",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66980,7 +75553,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Mar 01 2012",
+        "released": "Mon Mar 12 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -66991,7 +75564,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "400",
-        "performance": 2788.293930882892
+        "performance": 39.97090844190612
     },
     "Vivante GC4000": {
         "name": "Vivante GC4000",
@@ -67003,7 +75576,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Sat May 04 2013",
+        "released": "Wed May 15 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67014,7 +75587,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 251
+        "performance": 207
     },
     "ARM Mali-400 MP4": {
         "name": "ARM Mali-400 MP4",
@@ -67026,7 +75599,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Jun 05 2008",
+        "released": "Mon Jun 16 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67037,7 +75610,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3046.97101803232
+        "performance": 9.533910405140103
     },
     "Broadcom VideoCore-IV": {
         "name": "Broadcom VideoCore-IV",
@@ -67049,7 +75622,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Mon Jan 04 2010",
+        "released": "Fri Jan 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67060,7 +75633,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 251
+        "performance": 207
     },
     "Qualcomm Adreno 220": {
         "name": "Qualcomm Adreno 220",
@@ -67072,7 +75645,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Fri Jun 04 2010",
+        "released": "Tue Jun 15 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67095,7 +75668,7 @@ const database = {
         "openGL": "2.1 / ES 2.0",
         "directX": "9_3",
         "vendor": null,
-        "released": "Sun Sep 15 2013",
+        "released": "Thu Sep 26 2013",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67106,7 +75679,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "600 / 800",
-        "performance": 3090.510725770342
+        "performance": 4.410851329644833
     },
     "ARM Mali-400 MP2": {
         "name": "ARM Mali-400 MP2",
@@ -67118,7 +75691,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Jun 05 2008",
+        "released": "Mon Jun 16 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67129,7 +75702,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3081.0810029714658
+        "performance": 5.671069070140996
     },
     "ARM Mali-400 MP": {
         "name": "ARM Mali-400 MP",
@@ -67141,7 +75714,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Jun 05 2008",
+        "released": "Mon Jun 16 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67152,7 +75725,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3087.7167338299346
+        "performance": 4.739603783687311
     },
     "PowerVR SGX540": {
         "name": "PowerVR SGX540",
@@ -67164,7 +75737,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Fri Jan 04 2008",
+        "released": "Tue Jan 15 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67175,7 +75748,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 251
+        "performance": 207
     },
     "Qualcomm Adreno 205": {
         "name": "Qualcomm Adreno 205",
@@ -67187,7 +75760,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Sep 09 2010",
+        "released": "Mon Sep 20 2010",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67210,7 +75783,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Sat Sep 29 2012",
+        "released": "Wed Oct 10 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67221,7 +75794,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "245",
-        "performance": 3111
+        "performance": 2
     },
     "Vivante GC800": {
         "name": "Vivante GC800",
@@ -67233,7 +75806,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Wed Jan 04 2012",
+        "released": "Sun Jan 15 2012",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67256,7 +75829,7 @@ const database = {
         "openGL": "2.1, ES 2.0",
         "directX": "9.0c",
         "vendor": null,
-        "released": "Sun Nov 04 2007",
+        "released": "Thu Nov 15 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67279,7 +75852,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Wed Oct 04 2006",
+        "released": "Sun Oct 15 2006",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67290,7 +75863,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 3111
+        "performance": 2
     },
     "PowerVR SGX530": {
         "name": "PowerVR SGX530",
@@ -67302,7 +75875,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Sat Jun 04 2005",
+        "released": "Wed Jun 15 2005",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67325,7 +75898,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Sat Oct 04 2008",
+        "released": "Wed Oct 15 2008",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67348,7 +75921,7 @@ const database = {
         "openGL": "ES 2.0",
         "directX": null,
         "vendor": null,
-        "released": "Thu Feb 15 2007",
+        "released": "Mon Feb 26 2007",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67371,7 +75944,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Mon Feb 04 2002",
+        "released": "Fri Feb 15 2002",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -67394,7 +75967,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Sun Mar 04 2001",
+        "released": "Thu Mar 15 2001",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -67405,7 +75978,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "166",
-        "performance": 2.916030534351145
+        "performance": 3
     },
     "ATI Mobility Radeon M6": {
         "name": "ATI Mobility Radeon M6",
@@ -67417,7 +75990,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Tue Dec 04 2001",
+        "released": "Sat Dec 15 2001",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -67428,7 +76001,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "166",
-        "performance": 2.559796437659033
+        "performance": 3
     },
     "VIA S3G UniChrome Pro II": {
         "name": "VIA S3G UniChrome Pro II",
@@ -67440,7 +76013,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Wed Oct 04 2006",
+        "released": "Sun Oct 15 2006",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67451,7 +76024,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 2.990867579908676
+        "performance": 2.981735159817352
     },
     "VIA Castle Rock": {
         "name": "VIA Castle Rock",
@@ -67463,7 +76036,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sat Jan 04 2003",
+        "released": "Wed Jan 15 2003",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67486,7 +76059,7 @@ const database = {
         "openGL": null,
         "directX": "8.1",
         "vendor": null,
-        "released": "Fri Sep 26 2003",
+        "released": "Tue Oct 07 2003",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67497,7 +76070,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "200",
-        "performance": 2.923841059602649
+        "performance": 3.7715231788079473
     },
     "SIS Mirage M661FX ": {
         "name": "SIS Mirage M661FX ",
@@ -67509,7 +76082,7 @@ const database = {
         "openGL": null,
         "directX": "7",
         "vendor": null,
-        "released": "Fri Jul 04 2003",
+        "released": "Tue Jul 15 2003",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67520,7 +76093,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": "133",
-        "performance": 2.2152317880794703
+        "performance": 1.6456953642384105
     },
     "VIA S3 Graphics ProSavage8": {
         "name": "VIA S3 Graphics ProSavage8",
@@ -67532,7 +76105,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Thu Jan 04 2001",
+        "released": "Mon Jan 15 2001",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67555,7 +76128,7 @@ const database = {
         "openGL": null,
         "directX": "6",
         "vendor": null,
-        "released": "Fri Feb 04 2000",
+        "released": "Tue Feb 15 2000",
         "memory": null,
         "memoryType": "DDR",
         "clock": null,
@@ -67578,7 +76151,30 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Thu Jan 04 2007",
+        "released": "Mon Jan 15 2007",
+        "memory": null,
+        "memoryType": null,
+        "clock": null,
+        "memoryClock": null,
+        "shaderUnits": null,
+        "renderUnits": null,
+        "textureUnits": null,
+        "type": null,
+        "tdp": null,
+        "clockSpeed": null,
+        "performance": null
+    },
+    "NXP PXP": {
+        "name": "NXP PXP",
+        "names": [
+            "NXP PXP"
+        ],
+        "codeName": null,
+        "architecture": null,
+        "openGL": null,
+        "directX": null,
+        "vendor": null,
+        "released": "Thu Jan 15 1970",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67601,7 +76197,7 @@ const database = {
         "openGL": null,
         "directX": null,
         "vendor": null,
-        "released": "Sun Jan 04 1970",
+        "released": "Thu Jan 15 1970",
         "memory": null,
         "memoryType": null,
         "clock": null,
@@ -67612,7 +76208,7 @@ const database = {
         "type": null,
         "tdp": null,
         "clockSpeed": null,
-        "performance": 2256.6205478894453
+        "performance": 226.69002320185615
     }
 }
 export { database };

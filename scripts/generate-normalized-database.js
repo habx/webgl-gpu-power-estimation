@@ -219,8 +219,7 @@ function generatePerformanceScore(database) {
 				// if we can't generate a score then see if we're
 				// larger or smaller than all elements in the array
 				// and use a score from the extreme values
-				if (score === null) {
-
+				if (interpolationArray && interpolationArray.length && score === null) {
 					if (thisRank < interpolationArray[0][benchType]) {
 						score = interpolationArray[0].passmark;
 					} else {
