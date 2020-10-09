@@ -13,10 +13,10 @@
   },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
   "license": "MIT",
-  "main": "./umd/index.js",
+  "main": "./dist",
   "devDependencies": {
-    "@babel/core": "^7.3.4",
-    "@babel/preset-env": "^7.3.4",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
     "jsdom": "^13.1.0",
     "lodash": "^4.17.15",
     "mathjs": "^5.4.0",
