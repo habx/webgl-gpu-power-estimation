@@ -7,6 +7,10 @@
     "download-data": "node scripts/download-gpu-data.js && npm run regenerate-database",
     "log-matches": "node scripts/print-db-matches.js > data/db-matches.txt && node scripts/print-sample-matches.js > data/sample-matches.txt"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habx/webgl-gpu-power-estimation.git"
+  },
   "author": "Garrett Johnson <garrett.kjohnson@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -17,5 +21,6 @@
     "node-fetch": "^2.3.0",
     "rollup": "^1.0.1",
     "rollup-plugin-babel": "^4.3.2"
-  }
+  },
+  "publishConfig": "https://npm.pkg.github.com/"
 }
