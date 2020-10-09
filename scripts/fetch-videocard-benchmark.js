@@ -35,8 +35,8 @@ function fetchData() {
             for (let i = 0, l = data.length; i < l; i++) {
 
                 const name = data[i].name;
-                const g3dPerf = data[i].g3d;
-                const g2dPerf = data[i].g2d;
+                const g3dPerf = data[i].g3d.replace(/[^0-9]/i, '');
+                const g2dPerf = data[i].g2d.replace(/[^0-9]/i, '');
                 const tdp = data[i].tdp;
                 const testDate = data[i].date;
                 const type = data[i].cat;
