@@ -12,7 +12,7 @@ function createConfig(file) {
             name: 'GpuPowerEstimate',
             extend: true,
             format: 'umd',
-            file: path.join(__dirname, `./umd/${ file }`),
+            file: path.join(__dirname, `./dist/${ file }`),
             sourcemap: true,
         },
     };

@@ -1,3 +1,5 @@
+import stringSimilarity from 'string-similarity'
+
 function strToCompareArray(str) {
 
     return str.split(/\W+/g).map(c => c.trim().toLowerCase());
@@ -24,7 +26,7 @@ function compareStr(a, b) {
 
 }
 
-function findMatch(name, list) {
+function findMatch_old(name, list) {
 
     let matches = null;
     let score = -Infinity;
@@ -60,4 +62,44 @@ function findMatch(name, list) {
 
 }
 
-export { findMatch };
+function findMatch(name, database) {
+
+    let matches = null;
+    let score = -Infinity;
+
+    const versionMatches = /\w*\d\d\d+\w*/.exec(name);
+    let versionRegexp = null;
+    if (versionMatches) {
+        versionRegexp = new RegExp(`(^|\\W)${ versionMatches[0] }(\\W|$)`, 'i');
+    }
+
+    const strippedName = name.replace(/ANGLE( +)?/gi, '').replace(/Direct3d({0-9}+)?( +)?/gi, '').replace(/^\(/gi, '').replace(/\)$/gi, '')
+
+    for (let i = 0, l = database.length; i < l; i++) {
+        const gpu = database[i]
+        const names = gpu.names
+
+        names.forEach(gpuName => {
+            if (versionRegexp && !versionRegexp.test(gpuName)) return;
+            if (!versionRegexp && /\d\d\d+/.test(gpuName)) return;
+
+            const newScore = stringSimilarity.compareTwoStrings(gpuName, strippedName);
+
+            if (newScore > score) {    
+                score = newScore;
+                matches = [gpu];
+    
+            } else if (newScore === score) {
+    
+                matches.push(gpu);
+    
+            }
+        });
+
+    }
+
+    return { matches, score };
+
+}
+
+export { findMatch, findMatch_old };

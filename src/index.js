@@ -1,4 +1,6 @@
 import { findMatch } from './utils.js';
+import { database } from './database'
+import detectAppleDevice from './apple-device-detection'
 
 function extractValue(reg, str) {
     const matches = str.match(reg);
@@ -66,16 +68,15 @@ function getBasicInfo(glOrRenderer = null, vendor = null) {
 
 }
 
-function rendererToGpu(database, renderer) {
+function rendererToGpu(data, renderer) {
 
-    const gpuNames = Object.keys(database);
-    const { matches, score } = findMatch(renderer, gpuNames);
+    const { matches, score } = findMatch(renderer, data);
 
-    return score > 0.5 ? database[matches[0]] : null;
+    return score > 0.4 ? matches[0] : null;
 
 }
 
-function getDetailedInfo(database, glOrRenderer = null) {
+function getDetailedInfo(data = database, glOrRenderer = null) {
 
     glOrRenderer = glOrRenderer || document.createElement('canvas').getContext('webgl');
 
@@ -93,8 +94,31 @@ function getDetailedInfo(database, glOrRenderer = null) {
 
     }
 
-    return rendererToGpu(database, renderer);
+    if (renderer === 'Apple GPU') {
+        const appleDevices = detectAppleDevice()
+
+        if (appleDevices) {
+            const gpus = appleDevices.map(function(appleDevice) {
+                return rendererToGpu(data, appleDevice.gpu)
+            })
+
+            const result = { names: [], vendor: 'Apple', performance: 0 }
+            gpus.forEach(function(gpu, index) {
+                if (!gpu) {
+                    return
+                }
+
+                result.names.push(gpu.name)
+                result.performance = ((index * result.performance) + gpu.performance) / (index + 1)
+            })
+            return result
+        } else {
+            return null
+        }
+    }
+
+    return rendererToGpu(data, renderer);
 
 }
 
-export { getDetailedInfo, getBasicInfo };
+export { getDetailedInfo, getBasicInfo, database };
