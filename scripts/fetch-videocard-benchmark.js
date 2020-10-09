@@ -3,36 +3,48 @@ const { JSDOM } = require('jsdom');
 const math = require('mathjs');
 
 function fetchData() {
-
     // load the gpu power table from https://www.videocardbenchmark.net/ and
     // write the dta out into json blobs.
+    fetch("https://www.videocardbenchmark.net/GPU_mega_page.html");
     return fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
-        .then(res => res.text())
-        .then(txt => {
+        .then(res => {
+            const cookie = res.headers.get('set-cookie')
 
-            const dom = new JSDOM(txt);
-            const document = dom.window.document;
-
-            const table = document.querySelector('#cputable');
-            const rows = [ ...table.querySelectorAll('tbody tr') ];
-
+            return fetch(`https://www.videocardbenchmark.net/data?_=${Date.now()}`, {
+                "headers": {
+                    "x-requested-with": "XMLHttpRequest",
+                    cookie,
+                },
+                "referrer": "https://www.videocardbenchmark.net/GPU_mega_page.html",
+                "referrerPolicy": "strict-origin-when-cross-origin",
+                "body": null,
+                "method": "GET",
+                "mode": "cors"
+            })
+        })
+        .catch(reason => {
+            console.error('reject')
+            console.error(reason)
+        })
+        .then(res => {
+            return res.json()
+        })
+        .then(result => {
+            const data = result.data
             const originalData = {};
-            for (let i = 0, l = rows.length; i < l; i += 2) {
+            for (let i = 0, l = data.length; i < l; i++) {
 
-                const infoChildren = rows[i].children;
-                const extraChildren = rows[i + 1].children[0];
+                const name = data[i].name;
+                const g3dPerf = data[i].g3d;
+                const g2dPerf = data[i].g2d;
+                const tdp = data[i].tdp;
+                const testDate = data[i].date;
+                const type = data[i].cat;
 
-                const name = infoChildren[0].children[1].innerHTML;
-                const g3dPerf = infoChildren[2].innerHTML;
-                const g2dPerf = infoChildren[4].innerHTML;
-                const tdp = infoChildren[5].innerHTML;
-                const testDate = infoChildren[7].innerHTML;
-                const type = infoChildren[8].innerHTML;
-
-                const busInterface = extraChildren.children[0].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const memory = extraChildren.children[1].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const clock = extraChildren.children[2].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const memoryClock = extraChildren.children[3].childNodes[1].nodeValue.replace(/^:\s/, '');
+                const busInterface = data[i].bus.replace(/^:\s/, '');
+                const memory = data[i].memSize.replace(/^:\s/, '');
+                const clock = data[i].coreClk.replace(/^:\s/, '');
+                const memoryClock = data[i].memClk.replace(/^:\s/, '');
 
                 originalData[name] =
                     {

@@ -6,6 +6,7 @@ const path = require('path');
 
 (async() => {
 
+    try
     {
 
         console.log('Fetching videocardbenchmark.com data...');
@@ -15,9 +16,11 @@ const path = require('path');
         const jsonStr = JSON.stringify(data, null, 4);
         fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
+    } catch (err) {
+        console.error(err)
     }
 
-    {
+    try {
 
         console.log('Fetching techpowerup.com data...');
         const data = await TP.fetchData();
@@ -26,9 +29,11 @@ const path = require('path');
         const jsonStr = JSON.stringify(data, null, 4);
         fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
+    } catch (err) {
+        console.error(err)
     }
 
-	{
+	try {
 
         console.log('Fetching notebookcheck.com data...');
         const data = await NC.fetchData();
@@ -37,6 +42,7 @@ const path = require('path');
         const jsonStr = JSON.stringify(data, null, 4);
         fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
 
+    } catch (err) {
+        console.error(err)
     }
-
 })();

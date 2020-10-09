@@ -111,9 +111,9 @@ function normalizeData(database) {
 
             } catch (e) {
 
-                console.error(e);
-                console.error(`${ name }, ${ memory }`);
-                console.error('');
+                // console.error(e);
+                // console.error(`${ name }, ${ memory }`);
+                // console.error('');
 
             }
 
@@ -133,9 +133,9 @@ function normalizeData(database) {
 
         } catch (e) {
 
-            console.error(e);
-            console.error(`${ name }, ${ shadersTmusRops }`);
-            console.error('');
+            // console.error(e);
+            // console.error(`${ name }, ${ shadersTmusRops }`);
+            // console.error('');
 
         }
 
@@ -144,9 +144,9 @@ function normalizeData(database) {
         try {
             parsedClock = math.unit(clock).toNumber('MHz');
         } catch (e) {
-            console.error(e);
-            console.error(`${ name }, ${ clock }`);
-            console.error('');
+            // console.error(e);
+            // console.error(`${ name }, ${ clock }`);
+            // console.error('');
         }
 
         // parse memory clock speed
@@ -154,9 +154,9 @@ function normalizeData(database) {
         try {
             parsedMemoryClock = math.unit(memoryClock).toNumber('MHz');
         } catch (e) {
-            console.error(e);
-            console.error(`${ name }, ${ memoryClock }`);
-            console.error('');
+            // console.error(e);
+            // console.error(`${ name }, ${ memoryClock }`);
+            // console.error('');
         }
 
         result[name] = {
