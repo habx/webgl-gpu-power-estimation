@@ -102,14 +102,18 @@ function getDetailedInfo(data = database, glOrRenderer = null) {
                 return rendererToGpu(data, appleDevice.gpu)
             })
 
-            const result = { names: [], vendor: 'Apple', performance: 0 }
-            gpus.forEach(function(gpu, index) {
+            const result = { names: [], vendor: 'Apple', performance: Infinity }
+            gpus.forEach(function(gpu) {
                 if (!gpu) {
                     return
                 }
 
-                result.names.push(gpu.name)
-                result.performance = ((index * result.performance) + gpu.performance) / (index + 1)
+                if (gpu.name) {
+                    result.names.push(gpu.name)
+                } else if (gpu.names) {
+                    result.names.push(...gpu.names)
+                }
+                result.performance = Math.min(result.performance, gpu.performance)
             })
             return result
         } else {
