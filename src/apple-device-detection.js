@@ -32,6 +32,18 @@ function detectAppleDevice(gpu) {
 
   const pixelRatio = window.devicePixelRatio
 
+  let type
+
+  const userAgent = window.navigator.userAgent.toLowerCase()
+  // WIP
+  // const iosVersion = userAgent.match(/CPU OS ([0-9]*)/)[1]
+
+  if (userAgent.includes('ipad')) {
+    type = 'iPad' 
+  } else if (userAgent.includes('iphone') || userAgent.includes('ipod')) {
+    type = 'iPhone'
+  }
+
   const results = []
 
   if (!gpu) {
@@ -42,7 +54,8 @@ function detectAppleDevice(gpu) {
     if (
       device.width !== width || 
       device.height !== height || 
-      device.pixelRatio !== pixelRatio
+      device.pixelRatio !== pixelRatio ||
+      device.type && device.type !== type
     ) {
       return
     }

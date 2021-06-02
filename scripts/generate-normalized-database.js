@@ -1,7 +1,7 @@
 const VB = require('./fetch-videocard-benchmark.js');
 const TP = require('./fetch-techpowerup-specs.js');
 const NC = require('./fetch-notebookcheck-specs.js');
-const { findMatch_old } = require('../umd/utils.js');
+const { findMatch_old } = require('../dist/utils.js');
 const fs = require('fs');
 const path = require('path');
 const _ = require('lodash')
