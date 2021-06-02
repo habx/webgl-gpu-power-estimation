@@ -72,6 +72,7 @@ function rendererToGpu(data, renderer) {
 
     const { matches, score } = findMatch(renderer, data);
 
+    console.log(matches, score)
     return score > 0.4 ? matches[0] : null;
 
 }
@@ -95,9 +96,10 @@ function getDetailedInfo(data = database, glOrRenderer = null) {
     }
 
     if (renderer === 'Apple GPU') {
+
         const appleDevices = detectAppleDevice()
 
-        if (appleDevices) {
+        if (appleDevices && appleDevices.length) {
             const gpus = appleDevices.map(function(appleDevice) {
                 return rendererToGpu(data, appleDevice.gpu)
             })
